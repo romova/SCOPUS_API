@@ -1,0 +1,52 @@
+# Contains documents, for which we did not find references
+❌ Failed to retrieve references for DOI 10.1002/smll.202412161: 404
+❌ Failed to retrieve references for DOI 10.18420/sw2024_15: 404
+❌ Failed to retrieve references for DOI 10.26720/anthro.24.02.16.1: 404
+❌ Failed to retrieve references for DOI 10.7441/joc.2024.04.02: 404
+❌ Failed to retrieve references for DOI 10.23829/TSS.2024.31.2-2: 404
+❌ Failed to retrieve references for DOI 10.17892/app.2023.00016.327: 404
+❌ Failed to retrieve references for DOI 10.30420/566091222: 404
+❌ Failed to retrieve references for DOI 10.24423/EngTrans.3072.20230418: 404
+❌ Failed to retrieve references for DOI 10.22068/IJEEE.18.4.2557: 404
+❌ Failed to retrieve references for DOI 10.13135/1825-263X/6892: 404
+❌ Failed to retrieve references for DOI 10.3897/compcytogen.v16.i4.85059: 404
+❌ Failed to retrieve references for DOI 10.17344/acsi.2022.7250: 404
+❌ Failed to retrieve references for DOI 10.12905/0380.sydowia73-2021-0245: 404
+❌ Failed to retrieve references for DOI 10.25990/hyperboreus.7hbf-qv74: 404
+❌ Failed to retrieve references for DOI 10.15199/48.2021.04.4: 404
+❌ Failed to retrieve references for DOI 10.32422/mv-cjir.1671: 404
+❌ Failed to retrieve references for DOI 10.1784/cm.2019.134: 404
+❌ Failed to retrieve references for DOI 10.1784/cm.2019.128: 404
+❌ Failed to retrieve references for DOI 10.1784/cm.2019.137: 404
+❌ Failed to retrieve references for DOI 10.1784/cm.2019.131: 404
+❌ Failed to retrieve references for DOI 10.1784/cm.2019.125: 404
+⚠️ Error retrieving references for DOI 10.1201/9780429324710-105: HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
+❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/947: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/966: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/941: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/367.2019/a/1213-2489/MT/19/5/831: 404
+❌ Failed to retrieve references for DOI 10.21437/Interspeech.2019-8009: 404
+❌ Failed to retrieve references for DOI 10.21437/Interspeech.2019-8013: 404
+❌ Failed to retrieve references for DOI 10.21437/Interspeech.2019-8011: 404
+❌ Failed to retrieve references for DOI 10.5370/JEET.2018.13.6.2425: 404
+❌ Failed to retrieve references for DOI 10.1109/EIConRus.2018.83171942: 404
+❌ Failed to retrieve references for DOI 10.18653/v1/P17: 404
+❌ Failed to retrieve references for DOI 10.23829/TSS.2018.25.4-7: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/180.2018/a/1213-2489/MT/18/5/699: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/152.2018/a/1213-2489/MT/18/4/559: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/180.2018/a/1213-2489/MT/18/5/719: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/152.2018/a/1213-2489/MT/18/4/600: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/180.2018/a/1213-2489/MT/18/5/764: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/152.2018/a/1213-2489/MT/18/4/605: 404
+❌ Failed to retrieve references for DOI 10.21062/ujep/152.2018/a/1213-2489/MT/18/4/563: 404
+❌ Failed to retrieve references for DOI 10.1115/GT201875502: 404
+❌ Failed to retrieve references for DOI 10.1115/GT201875049: 404
+❌ Failed to retrieve references for DOI 10.1115/GT201875248: 404
+❌ Failed to retrieve references for DOI 10.1115/GT201876565: 404
+❌ Failed to retrieve references for DOI 10.1080/01411594.2017.1326600: 404
+❌ Failed to retrieve references for DOI 10.1515/danb-2017-0013: 404
+❌ Failed to retrieve references for DOI 10.4230/LIPIcs.ECOOP.2017.10: 404
+❌ Failed to retrieve references for DOI 10.4230/LIPIcs.ECOOP.2017.9: 404
+❌ API Request Failed: 400
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Exceeds the number of search results"}}}
+✅ 5000 articles saved to: all_articles_by_institution_cited_5025_.json
