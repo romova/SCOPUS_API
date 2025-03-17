@@ -1,0 +1,4812 @@
+[
+    {
+        "title": "Dynamic properties of induction motor fed from voltage convertor",
+        "authors": [
+            "Zeman K."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "5844289243",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "353-364",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Dynamic properties of traction drive with induction motor in transient regime consequent on interruption of energy supply",
+                "doi": "N/A",
+                "year": "2002"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Electric circuit theory based model of the pulsed induction accelerator",
+        "authors": [
+            "Dole\u017eel I."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "5844228804",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "337-352",
+        "institutions": [
+            "Academy of Sciences of the Czech Republic"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Switching phenomena in asynchronous machines by different stator and rotor resistance",
+        "authors": [
+            "Barto\u0161 V."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "5544297409",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "175-186",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Switching process of the double cage asynchronous machine",
+                "doi": "N/A",
+                "year": "2006"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Stationary temperature field in a non-magnetic thin plate heated by transversal harmonic electromagnetic field",
+        "authors": [
+            "\u0160ol\u00edn P."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "5544255533",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "109-128",
+        "institutions": [
+            "Johannes Kepler University Linz"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "On a fieldless method for the computation of induction-generated heat in 3D non-ferromagnetic metal bodies",
+                "doi": "10.1016/S0378-4754(02)00080-0",
+                "year": "2003"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Extraction of strontium using sodium dicarbollylcobaltate in the presence of 15-crown-5",
+        "authors": [
+            "Da\u0148kov\u00e1 M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "33749311988",
+        "textType": "Journal",
+        "publicationName": "ACH - Models in Chemistry",
+        "pageRange": "133-137",
+        "institutions": [],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Extraction of barium from water into nitrobenzene using cesium dicarbollylcobaltate in the presence of 18-crown-6",
+        "authors": [
+            "Da\u0148kov\u00e1 M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "33749296543",
+        "textType": "Journal",
+        "publicationName": "ACH - Models in Chemistry",
+        "pageRange": "539-546",
+        "institutions": [],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Stability of 18-crown-6-ammonium complex in nitrobenzene saturated with water",
+        "authors": [
+            "Makrlfic E."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "33749284629",
+        "textType": "Journal",
+        "publicationName": "ACH - Models in Chemistry",
+        "pageRange": "793-798",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Assembly and disassembly of pressed joints by means of induction heating",
+        "authors": [
+            "\u0160kopek M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0347616945",
+        "textType": "Journal",
+        "publicationName": "COMPEL - The International Journal for Computation and Mathematics in Electrical and Electronic Engineering",
+        "pageRange": "743-752",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Computer modeling of induction heating-based assembly and disassembly of shrink fits",
+                "doi": "N/A",
+                "year": "2004"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Experimental verification of frequency - Modal properties of WWER 440/213 and WWER 1000/320 primary coolant loops with installed viscous dampers",
+        "authors": [
+            "Pe\u010d\u00ednka L."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0242661375",
+        "textType": "Conference Proceeding",
+        "publicationName": "American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP",
+        "pageRange": "47-49",
+        "institutions": [
+            "Nuclear Research Institute Re\u009e plc"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Experiments for paper manufacture demonstration in chemistry teaching",
+        "authors": [
+            "Kraitr M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0042224896",
+        "textType": "Journal",
+        "publicationName": "Chemicke Listy",
+        "pageRange": "1024",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "A study on the synthesis and microstructure of WC-TiN superlattice coating",
+        "authors": [
+            "Yoon Joo S.",
+            "Myung Hyun S.",
+            "Han Jeon G.",
+            "Musil J."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1016/S0257-8972(00)00808-2",
+        "scopus_id": "0034532658",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "372-377",
+        "institutions": [
+            "Sungkyunkwan University"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 26,
+        "citedby_articles": [
+            {
+                "title": "Effect of peak power on microstructure, mechanical and tribological properties of W-Ti-C-N(O) ceramic films produced by hybrid sputtering",
+                "doi": "10.1016/j.triboint.2023.108983",
+                "year": "2023"
+            },
+            {
+                "title": "Effect of substrate bias voltage on structural and tribological properties of W-Ti-C-N thin films produced by combinational HiPIMS and DCMS co-sputtering",
+                "doi": "10.1016/j.wear.2023.204654",
+                "year": "2023"
+            },
+            {
+                "title": "Fracture behaviour of silver nanowire films during shear deformation",
+                "doi": "10.1088/1361-6528/ac7731",
+                "year": "2022"
+            },
+            {
+                "title": "N-rich Zr<inf>3</inf>N<inf>4</inf> nanolayers-dependent superhard effect and fracture behavior in TiAlN/Zr<inf>3</inf>N<inf>4</inf> nanomultilayer films",
+                "doi": "10.1016/j.ceramint.2020.04.246",
+                "year": "2020"
+            },
+            {
+                "title": "Friction and wear behaviors of Ti/Cu/N coatings on titanium alloy surface by DC magnetron sputtering",
+                "doi": "10.1007/s11595-017-1572-3",
+                "year": "2017"
+            },
+            {
+                "title": "The influence of microstructure on mechanical property of polytypic TiC/WC nanomultilayers",
+                "doi": "10.1016/j.vacuum.2015.03.027",
+                "year": "2015"
+            },
+            {
+                "title": "Physicochemical and mechanical properties of crystalline/amorphous CrN/Si<inf>3</inf>N<inf>4</inf> multilayers",
+                "doi": "10.1016/j.surfcoat.2013.09.061",
+                "year": "2013"
+            },
+            {
+                "title": "Realization of superhard nanocomposites with sufficient toughness: Superlattice nanocrystal-TiN/amorphous-(W,Ti)C<inf>0.83</inf> films",
+                "doi": "10.1016/j.tsf.2010.10.024",
+                "year": "2011"
+            },
+            {
+                "title": "Synthesis and characterization of Cu<inf>3</inf>N-WC nanocomposite films prepared by direct current magnetron sputtering",
+                "doi": "10.1016/j.tsf.2010.05.053",
+                "year": "2010"
+            },
+            {
+                "title": "Synthesis and evaluation of TiN-WC/TiN nanocomposite by the hybrid technique with arc ion plating and magnetron sputtering",
+                "doi": "10.1016/j.cap.2009.10.005",
+                "year": "2010"
+            },
+            {
+                "title": "Concepts for the design of advanced nanoscale PVD multilayer protective thin films",
+                "doi": "10.1016/j.jallcom.2008.08.133",
+                "year": "2009"
+            },
+            {
+                "title": "Effects of deposition temperature and time on the surface characteristics of TiN-coated high-speed steel by arc ion plating",
+                "doi": "10.1007/BF03026961",
+                "year": "2007"
+            },
+            {
+                "title": "Influence of Lnterlayer on the corrosion behavior of multilayered WC-Ti<inf>1-x</inf>Al<inf>x</inf>N coatings in deaerated 3.5% sodium chloride solution",
+                "doi": "10.4028/0-87849-431-6.359",
+                "year": "2007"
+            },
+            {
+                "title": "Hard multilayer coatings containing TiN and/or ZrN: A review and recent progress in their nanoscale characterization",
+                "doi": "10.1116/1.2194031",
+                "year": "2006"
+            },
+            {
+                "title": "Comparative evaluation of TiN/CrN, AlN/CrN, TiAlN/CrN multilayer films for the use of semi-solid processing of Cu alloys",
+                "doi": "10.4028/3-908451-26-4.124",
+                "year": "2006"
+            },
+            {
+                "title": "Comparative evaluation of TiN/CrN, ALN/CrN, TIALN/CrN multilayer films for the use of semi-solid processing of cu alloys",
+                "doi": "10.4028/www.scientific.net/SSP.116-117.124",
+                "year": "2006"
+            },
+            {
+                "title": "The synthesis of W-Ti-C films with a control of element composition by hybrid system",
+                "doi": "10.1016/j.surfcoat.2005.02.185",
+                "year": "2005"
+            },
+            {
+                "title": "Mechanical properties of TiN<inf>x</inf>/Cr<inf>1-x</inf>N thin films on plasma nitriding-assisted AISI H13 steel",
+                "doi": "10.1016/j.surfcoat.2004.08.142",
+                "year": "2005"
+            },
+            {
+                "title": "Construction of oxide-carbide artificial superlattices using C <inf>60</inf>-assisted pulsed-laser-deposition technique",
+                "doi": "10.1016/j.jcrysgro.2004.02.001",
+                "year": "2004"
+            },
+            {
+                "title": "Microstructure and mechanical properties of Cu doped TiN superhard nanocomposite coatings",
+                "doi": "10.1016/S0257-8972(02)00627-8",
+                "year": "2003"
+            },
+            {
+                "title": "Corrosion behavior of PVD-grown WC-(Ti<inf>1-x</inf>Al<inf>x</inf>)N films in a 3.5% NaCl solution",
+                "doi": "10.1016/S0257-8972(02)00519-4",
+                "year": "2003"
+            },
+            {
+                "title": "Duplex treatment for improvement of the die performance",
+                "doi": "10.4028/www.scientific.net/msf.426-432.2617",
+                "year": "2003"
+            },
+            {
+                "title": "Microstructure and mechanical properties of Ti-Ag-N and Ti-Cr-N superhard nanostructured coatings",
+                "doi": "10.1016/S0257-8972(03)00565-6",
+                "year": "2003"
+            },
+            {
+                "title": "Influence of Ti addition on the properties of W-Ti-C/N sputtered films",
+                "doi": "10.1016/S0257-8972(03)00328-1",
+                "year": "2003"
+            },
+            {
+                "title": "Industrial application of WC-Ti<inf>(1-x)</inf>A1<inf>x</inf>N nanocomposite films synthesized by cathodic arc ion plating process on a printed circuit board drill",
+                "doi": "10.1016/S0257-8972(01)01465-7",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "P. Rogl, J.C. Schuster, Phase diagrams of Ternary Boron Nitride and Silicon Nitride Systems, ASM international, Metals Park, OH, 1992.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Veprek",
+                "doi": "10.1116/1.581977",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Badzian",
+                "doi": "10.1063/1.100528",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Koehler",
+                "doi": "10.1103/PhysRevB.2.547",
+                "year": "1970"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zeng",
+                "doi": "10.1016/S0257-8972(98)00825-1",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Shinn",
+                "doi": "10.1557/JMR.1992.0901",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hehmerson",
+                "doi": "10.1063/1.114667",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mirkarimi",
+                "doi": "10.1063/1.104189",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hubbard",
+                "doi": "10.1063/1.352177",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mirkarimi",
+                "doi": "10.1557/JMR.1994.1456",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Markert",
+                "doi": "10.1063/1.339770",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Yoon",
+                "doi": "N/A",
+                "year": "2000"
+            },
+            {
+                "title": "T.F. Page, G.M. Pharr, J.C. Hay et al. Riester, Mater. Res. Soc. Symp. Proc. (1998) 522.",
+                "authors": "N/A",
+                "doi": "10.1557/PROC-522-53",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Smith",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tsui",
+                "doi": "10.1557/PROC-383-447",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/S0257-8972(99)00586-1",
+                "year": "2000"
+            }
+        ]
+    },
+    {
+        "title": "Extraction of barium with bis[undecahydro-7,8-dicarbaundecaborato(2-)]cobaltate(1-) in the presence of 18-crown-6",
+        "authors": [
+            "Da\u0148kov\u00e1 M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0034364822",
+        "textType": "Journal",
+        "publicationName": "Chemical Papers",
+        "pageRange": "226-230",
+        "institutions": [],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Optimal multivariable pid regulator",
+        "authors": [
+            "Mo\u0161na J."
+        ],
+        "year": "2000",
+        "coverDate": "2000-12-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0034354249",
+        "textType": "Journal",
+        "publicationName": "Kybernetika",
+        "pageRange": "243-253",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "The Fuzzy Logic in the Problems of Test Control of a Bypass Turbojet Engine Gas Generator",
+                "doi": "10.3390/math10030484",
+                "year": "2022"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Zinc-based reference materials for glow discharge optical emission spectrometry: Sputter factors and emission yields",
+        "authors": [
+            "Weiss Zden\u0115k",
+            "\u0160m\u00edd Petr"
+        ],
+        "year": "2000",
+        "coverDate": "2000-11-01",
+        "coverDisplayDate": "November 2000",
+        "doi": "10.1039/b004427j",
+        "scopus_id": "0343290205",
+        "textType": "Journal",
+        "publicationName": "Journal of analytical atomic spectrometry",
+        "pageRange": "1485-1492",
+        "institutions": [],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 20,
+        "citedby_articles": [
+            {
+                "title": "LA-ICP-MS analysis of metal layers on samples of cultural heritage",
+                "doi": "10.1007/s11696-019-00745-6",
+                "year": "2019"
+            },
+            {
+                "title": "Glow Discharge Optical Emission Spectroscopy (GD-OES)",
+                "doi": "10.1002/9783527636921.ch20",
+                "year": "2011"
+            },
+            {
+                "title": "Glow discharge excitation and matrix effects in the Zn-Al-Cu system in argon and neon",
+                "doi": "10.1016/j.sab.2007.06.005",
+                "year": "2007"
+            },
+            {
+                "title": "The use of zinc and iron emission lines in the depth profile analysis of zinc-coated steel",
+                "doi": "10.1016/j.apsusc.2006.08.047",
+                "year": "2007"
+            },
+            {
+                "title": "Explanation of matrix effects in the GD-OES spectrum of zinc by charge transfer reactions of Ar<sup>+</sup> ions with atoms originating from the cathode",
+                "doi": "10.1039/b603498e",
+                "year": "2006"
+            },
+            {
+                "title": "Emission yields and the standard model in glow discharge optical emission spectroscopy: Links to the underlying physics and analytical interpretation of the experimental data",
+                "doi": "10.1016/j.sab.2005.11.006",
+                "year": "2006"
+            },
+            {
+                "title": "Excitation of zinc in a Grimm-type glow discharge: Effects of hydrogen and other excitation-related matrix effects",
+                "doi": "10.1039/b504693a",
+                "year": "2005"
+            },
+            {
+                "title": "Characterisation of galvanneal coatings on strip steel",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Analysis of zinc galvanized coatings using glow discharge atomic emission spectrometry",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Radio Frequency Glow Discharge-Optical Emission Spectrometry for Direct Quantitative Analysis of Glass",
+                "doi": "10.1021/ac035113q",
+                "year": "2004"
+            },
+            {
+                "title": "Erosion rate measurements for GD-OES",
+                "doi": "10.1039/b306768h",
+                "year": "2003"
+            },
+            {
+                "title": "Glow discharge optical emission spectrometry: Moving towards reliable thin film analysis - A short review",
+                "doi": "10.1039/b301293j",
+                "year": "2003"
+            },
+            {
+                "title": "Multi-matrix analysis by glow discharge optical emission spectrometry on spectrometers with solid-state detectors",
+                "doi": "10.1039/b300838j",
+                "year": "2003"
+            },
+            {
+                "title": "Optimization of lamp control parameters in glow discharge optical emission spectroscopy for the analysis of copper-titanium-zinc alloy using the Simplex method",
+                "doi": "10.1039/b204308b",
+                "year": "2003"
+            },
+            {
+                "title": "Present possibilities of thin-layer analysis by GDOES",
+                "doi": "10.1002/sia.1575",
+                "year": "2003"
+            },
+            {
+                "title": "Influence of sampling to the homogeneity of Cu-Ti-Zn alloy samples for the analyses with glow discharge optical emission spectroscopy",
+                "doi": "10.1007/s00769-003-0584-1",
+                "year": "2003"
+            },
+            {
+                "title": "Estimated mass loss due to evaporation for zinc cathodes in analytical glow discharges",
+                "doi": "10.1039/b205342j",
+                "year": "2002"
+            },
+            {
+                "title": "Chapter 8 Devices for solid sample treatment prior to introduction into atomic spectrometers: electrothermal devices and glow-discharge sources",
+                "doi": "10.1016/S0167-9244(02)80010-5",
+                "year": "2002"
+            },
+            {
+                "title": "Propagation of uncertainty in multi-matrix analysis by GD-OES",
+                "doi": "10.1039/b106181j",
+                "year": "2001"
+            },
+            {
+                "title": "In-depth profile analysis by radiofrequency glow discharge optical emission spectrometry using pressure as variable parameter",
+                "doi": "10.1039/b010059p",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Bengtson",
+                "doi": "10.1002/(SICI)1096-9918(199908)27:8<743::AID-SIA568>3.0.CO;2-O",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Weiss",
+                "doi": "10.1039/ja9940900351",
+                "year": "1994"
+            },
+            {
+                "title": "Z. Weiss , in Glow Discharge Optical Emission Spectrometry, eds. R. Payling, D. Jones, and A. Bengtson, J. Wiley, New York, 1997, pp.\u00a0418\u2013427.",
+                "authors": "Weiss",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "P. Heb\u00e1k and I.Koz\u00e1k, Regrese\u2013V\u00edcerozm\u0115rn\u00e9 statistick\u00e9 metody I, SPN, Praha, 1988.",
+                "authors": "Heb\u00e1k",
+                "doi": "N/A",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bengtson",
+                "doi": "10.1016/0584-8547(85)80110-5",
+                "year": "1985"
+            }
+        ]
+    },
+    {
+        "title": "Microwave plasma nitriding of a low-alloy steel",
+        "authors": [
+            "Hovorka D.",
+            "Vl\u010dek J.",
+            "\u010cerstv\u00fd R.",
+            "Musil J.",
+            "B\u011blsk\u00fd P.",
+            "R\u016f\u017ei\u010dka M.",
+            "Han Jeon G."
+        ],
+        "year": "2000",
+        "coverDate": "2000-11-01",
+        "coverDisplayDate": "November 2000",
+        "doi": "10.1116/1.1308587",
+        "scopus_id": "0034318491",
+        "textType": "Journal",
+        "publicationName": "Journal of Vacuum Science and Technology A: Vacuum, Surfaces and Films",
+        "pageRange": "2715-2721",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 12,
+        "citedby_articles": [
+            {
+                "title": "Electron cyclotron resonance (ECR) plasmas: A topical review through representative results obtained over the last 60 years",
+                "doi": "10.1063/5.0249342",
+                "year": "2025"
+            },
+            {
+                "title": "Mechanisms of the Hydrogen Influence on the Diffusivity of Nitrogen During Plasma Nitriding Austenitic Stainless Steel",
+                "doi": "10.1007/s11661-018-5014-4",
+                "year": "2019"
+            },
+            {
+                "title": "Novel performances of in situ plasma nitriding-PVD duplex-treated nanocrystalline TiN coatings",
+                "doi": "10.1080/02670844.2017.1370881",
+                "year": "2018"
+            },
+            {
+                "title": "The Effect of Hydrogen on Plasma Nitriding of Austenitic Stainless Steel: Kinetic Modeling",
+                "doi": "10.1007/s11661-015-3183-y",
+                "year": "2015"
+            },
+            {
+                "title": "Dependence of composition of stable molecules in N<inf>2</inf>-H<inf>2</inf> plasmas on nitrogen gas flow rate ratio measured using a quartz sensor",
+                "doi": "10.7567/JJAP.53.11RC03",
+                "year": "2014"
+            },
+            {
+                "title": "A facile way to control the number of walls in carbon nanotubes through the synthesis of exposed-core/shell catalyst nanoparticles",
+                "doi": "10.1002/anie.200803311",
+                "year": "2008"
+            },
+            {
+                "title": "Optical emission spectroscopy of DC pulsed plasmas used for steel nitriding",
+                "doi": "10.1016/j.surfcoat.2008.08.036",
+                "year": "2008"
+            },
+            {
+                "title": "Nitridation of high speed steel by electron cyclotron resonance plasma",
+                "doi": "10.1088/0022-3727/39/10/022",
+                "year": "2006"
+            },
+            {
+                "title": "Spectroscopic optimization of abnormal glow conditions for plasma ion nitriding",
+                "doi": "10.1051/epjap:2005064",
+                "year": "2005"
+            },
+            {
+                "title": "Dependence of nitriding degree of Ti surface by non-LTE nitrogen plasma on various plasma parameters",
+                "doi": "10.1016/j.tsf.2003.12.016",
+                "year": "2004"
+            },
+            {
+                "title": "Effect of hydrogen and oxygen on stainless steel nitriding",
+                "doi": "10.1063/1.1483893",
+                "year": "2002"
+            },
+            {
+                "title": "Recent progress in plasma nitriding",
+                "doi": "10.1016/S0042-207X(00)00404-8",
+                "year": "2000"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(94)02339-5",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(82)90218-8",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.577309",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.578712",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1179/sur.1991.7.3.207",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(83)90301-2",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(90)90140-8",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1143/JJAP.36.4941",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/S0257-8972(97)00398-8",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.579625",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0963-0252/5/3/010",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.352144",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0963-0252/4/1/003",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1143/JJAP.33.4221",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1351/pac198860050747",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1051/rphysap:01989002403025100",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(93)90502-G",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/26/4/010",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0921-5093(91)90587-D",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/24/7/007",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0963-0252/1/2/007",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/29/3/037",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/S0257-8972(97)00320-4",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0042-207X(94)00146-4",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.1662398",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(81)90289-3",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(83)90248-1",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1179/sur.1987.3.3.226",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.343664",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.577182",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/22/5/009",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0042-207X(93)E0006-7",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.570534",
+                "year": "1980"
+            }
+        ]
+    },
+    {
+        "title": "A Characterization of (Locally) Uniformly Convex Spaces in Terms of Relative Openness of Quotient Maps on the Unit Ball",
+        "authors": [
+            "Reif J."
+        ],
+        "year": "2000",
+        "coverDate": "2000-10-20",
+        "coverDisplayDate": "20 October 2000",
+        "doi": "10.1006/jfan.2000.3638",
+        "scopus_id": "0042995427",
+        "textType": "Journal",
+        "publicationName": "Journal of Functional Analysis",
+        "pageRange": "1-15",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "A note on robinson-ursescu and lyusternik-graves theorem",
+                "doi": "10.1007/s10107-013-0662-z",
+                "year": "2013"
+            },
+            {
+                "title": "On reachable states of nonlinear dynamical systems",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "On moduli of convexity in Banach spaces",
+                "doi": "N/A",
+                "year": "2005"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Abramovich",
+                "doi": "10.1016/0022-1236(91)90021-V",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Beauzamy",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Browder",
+                "doi": "10.1016/0022-1236(74)90051-2",
+                "year": "1974"
+            },
+            {
+                "title": "N/A",
+                "authors": "Brown",
+                "doi": "10.1307/mmj/1029001259",
+                "year": "1974"
+            },
+            {
+                "title": "N/A",
+                "authors": "Clausing",
+                "doi": "10.1007/BF01168559",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "Clausing",
+                "doi": "10.1007/BF01237040",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "Clausing",
+                "doi": "10.1007/BF01420240",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dane\u0161",
+                "doi": "N/A",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Day",
+                "doi": "N/A",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Deville",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Diestel",
+                "doi": "N/A",
+                "year": "1975"
+            },
+            {
+                "title": "N/A",
+                "authors": "Downing",
+                "doi": "N/A",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "Eifler",
+                "doi": "10.2140/pjm.1976.66.89",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Eifler",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Goebel",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hanner",
+                "doi": "10.1007/BF02589410",
+                "year": "1956"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hustad",
+                "doi": "10.7146/math.scand.a-12386",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "O'Brien",
+                "doi": "10.1007/BF01360953",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Papadopoulou",
+                "doi": "10.1007/BF01391464",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Pr\u00fcss",
+                "doi": "10.32917/hmj/1206134097",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "Reif",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Reif",
+                "doi": "N/A",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "Reif",
+                "doi": "10.1016/0021-9045(85)90042-5",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sundaresan",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vesterstr\u00f8m",
+                "doi": "10.1112/jlms/s2-6.2.289",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Wegmann",
+                "doi": "10.1016/0021-9045(73)90012-9",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Wis\u0142a",
+                "doi": "10.1007/BF01200093",
+                "year": "1991"
+            }
+        ]
+    },
+    {
+        "title": "Neumann and periodic boundary-value problems for quasilinear ordinary differential equations with a nonlinearity in the derivative",
+        "authors": [
+            "Girg P."
+        ],
+        "year": "2000",
+        "coverDate": "2000-10-16",
+        "coverDisplayDate": "16 October 2000",
+        "doi": "N/A",
+        "scopus_id": "84957799822",
+        "textType": "Journal",
+        "publicationName": "Electronic Journal of Differential Equations",
+        "pageRange": null,
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 9,
+        "citedby_articles": [
+            {
+                "title": "Semilinear problems at resonance with nonlinearities depending only on the derivative",
+                "doi": "10.1002/mma.8758",
+                "year": "2023"
+            },
+            {
+                "title": "Boundary value problems for a class of first order quasilinear ordinary differential equations",
+                "doi": "10.4171/PM/1951",
+                "year": "2014"
+            },
+            {
+                "title": "Resonance problems for some non-autonomous ordinary differential equations",
+                "doi": "10.1007/978-3-642-32906-73",
+                "year": "2013"
+            },
+            {
+                "title": "Radial solutions of Neumann problems involving mean extrinsic curvature and periodic nonlinearities",
+                "doi": "10.1007/s00526-011-0476-x",
+                "year": "2013"
+            },
+            {
+                "title": "Studies on nbvps for functional differential equations with one-dimensional p\u0393laplacian",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "An existence result for Neumann type boundary value problems for second order nonlinear functional differential equation",
+                "doi": "10.5666/KMJ.2008.48.4.637",
+                "year": "2008"
+            },
+            {
+                "title": "Second-order periodic problem with \u03c6-Laplacian and impulses",
+                "doi": "10.1016/j.na.2004.09.017",
+                "year": "2005"
+            },
+            {
+                "title": "Neumann boundary value problems with singularities in a phase variable",
+                "doi": "10.1007/s00010-004-2767-1",
+                "year": "2005"
+            },
+            {
+                "title": "Semilinear elliptic problems with nonlinearities depending on the derivative",
+                "doi": "N/A",
+                "year": "2003"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "On the Range of Certain Pendulum-Type Equations",
+        "authors": [
+            "Girg Petr",
+            "Roca Francisco"
+        ],
+        "year": "2000",
+        "coverDate": "2000-09-15",
+        "coverDisplayDate": "15 September 2000",
+        "doi": "10.1006/jmaa.2000.6899",
+        "scopus_id": "0034664289",
+        "textType": "Journal",
+        "publicationName": "Journal of Mathematical Analysis and Applications",
+        "pageRange": "445-462",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "Interval Analysis: Application in the Optimal Control Problems",
+                "doi": "10.1002/9781394191000",
+                "year": "2023"
+            },
+            {
+                "title": "Homoclinic solutions for a class of nonlinear second-order differential equations with time-varying delays",
+                "doi": "10.11650/tjm.17.2013.3198",
+                "year": "2013"
+            },
+            {
+                "title": "Existence and uniqueness of homoclinic solution for a class of nonlinear second-order differential equations",
+                "doi": "10.1155/2012/615303",
+                "year": "2012"
+            },
+            {
+                "title": "Chapter 6 Global results for the forced pendulum equation",
+                "doi": "10.1016/S1874-5725(00)80008-5",
+                "year": "2000"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Alonso",
+                "doi": "10.57262/die/1367438224",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Amann",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ambrosetti",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ca\u00f1ada",
+                "doi": "10.1137/S0036141094261082",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Coddington",
+                "doi": "N/A",
+                "year": "1955"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dancer",
+                "doi": "10.1007/BF02413183",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kurzweill",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mawhin",
+                "doi": "10.1007/978-1-4757-2061-7",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mawhin",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ortega",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zeidler",
+                "doi": "N/A",
+                "year": "1986"
+            }
+        ]
+    },
+    {
+        "title": "Extraction of microamounts of barium in the system: Water - CsCl - 18-crown-6 -nitrobenzene - Cesium dicarbollylcobaltate",
+        "authors": [
+            "Da\u0148kov\u00e1 M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-09-01",
+        "coverDisplayDate": "September 2000",
+        "doi": "N/A",
+        "scopus_id": "0042910584",
+        "textType": "Journal",
+        "publicationName": "Croatica Chemica Acta",
+        "pageRange": "809-817",
+        "institutions": [],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Extraction of barium into nitrobenzene using hydrogen dicarbollylcobaltate in the presence of dibenzo-18-crown-6",
+                "doi": "10.1007/s10967-006-0077-x",
+                "year": "2006"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "A note on the nonuniqueness for some quasilinear eigenvalue problem",
+        "authors": [
+            "Dr\u00e1bek P."
+        ],
+        "year": "2000",
+        "coverDate": "2000-09-01",
+        "coverDisplayDate": "October 2000",
+        "doi": "10.1016/S0893-9659(00)00074-4",
+        "scopus_id": "0042204049",
+        "textType": "Journal",
+        "publicationName": "Applied Mathematics Letters",
+        "pageRange": "39-41",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "On a resonant Lane\u2013Emden Problem",
+                "doi": "10.1007/978-3-319-04214-5_15",
+                "year": "2014"
+            },
+            {
+                "title": "On the resonant Lane-Emden problem for the p-Laplacian",
+                "doi": "10.1142/S0219199713500338",
+                "year": "2014"
+            },
+            {
+                "title": "Existence and uniqueness for the p(x)-Laplacian-Dirichlet problems",
+                "doi": "10.1002/mana.200810203",
+                "year": "2011"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek",
+                "doi": "10.1016/S0893-9659(99)00032-4",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek",
+                "doi": "N/A",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lieberman",
+                "doi": "10.1016/0362-546X(88)90053-3",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tolksdorf",
+                "doi": "10.1016/0022-0396(84)90105-0",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Trudinger",
+                "doi": "10.1002/cpa.3160200406",
+                "year": "1967"
+            },
+            {
+                "title": "N/A",
+                "authors": "Huang",
+                "doi": "10.1016/S0362-546X(96)00057-0",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Anane",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Garc\u00eda",
+                "doi": "10.1080/03605309208820916",
+                "year": "1992"
+            }
+        ]
+    },
+    {
+        "title": "Shape optimization of elasto-plastic structures and continua",
+        "authors": [
+            "Rohan E.",
+            "Whiteman J.R."
+        ],
+        "year": "2000",
+        "coverDate": "2000-06-23",
+        "coverDisplayDate": "23 June 2000",
+        "doi": "10.1016/S0045-7825(99)00134-6",
+        "scopus_id": "0033686320",
+        "textType": "Journal",
+        "publicationName": "Computer Methods in Applied Mechanics and Engineering",
+        "pageRange": "261-288",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 24,
+        "citedby_articles": [
+            {
+                "title": "Optimal Elasto-Plastic Analysis of Reinforced Concrete Structures under Residual Plastic Deformation Limitations",
+                "doi": "10.12700/APH.20.1.2023.20.4",
+                "year": "2023"
+            },
+            {
+                "title": "Elastoplastic topology optimization of cyclically loaded structures via direct methods for shakedown",
+                "doi": "10.1007/s00158-021-02875-6",
+                "year": "2021"
+            },
+            {
+                "title": "Numerical analysis perspective in structural shape optimization: A review post 2000",
+                "doi": "10.1016/j.advengsoft.2021.102992",
+                "year": "2021"
+            },
+            {
+                "title": "Topology optimization of elasto\u2013plastic structures in contact",
+                "doi": "10.23967/wccm-eccomas.2020.346",
+                "year": "2021"
+            },
+            {
+                "title": "Maximum energy dissipation for elasto-plastic plates via isogeometric shape optimization",
+                "doi": "10.1007/s00366-019-00827-9",
+                "year": "2021"
+            },
+            {
+                "title": "Topology optimization of elasto-plastic contact problems",
+                "doi": "10.1063/5.0008122",
+                "year": "2020"
+            },
+            {
+                "title": "Homogenization and numerical modelling of poroelastic materials with self-contact in the microstructure",
+                "doi": "10.1016/j.compstruc.2019.06.003",
+                "year": "2020"
+            },
+            {
+                "title": "Non-parametric shape design optimization of elastic-plastic shear panel dampers under cyclic loading",
+                "doi": "10.1016/j.engstruct.2019.03.049",
+                "year": "2019"
+            },
+            {
+                "title": "Elasto-plastic shape optimization using the level set method",
+                "doi": "10.1137/17M1128940",
+                "year": "2018"
+            },
+            {
+                "title": "Analytical modeling of axi-symmetric sheet metal forming",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "On modeling flow of a large deforming porous medium with rate-dependent Coulomb friction conditions",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "On identification of the arterial model parameters from experiments applicable \"in vivo\"",
+                "doi": "10.1016/j.matcom.2009.02.006",
+                "year": "2010"
+            },
+            {
+                "title": "Optimal truss design with elastic and plastic collapse constraints",
+                "doi": "10.1063/1.2896797",
+                "year": "2008"
+            },
+            {
+                "title": "Analysis and design optimization of deep drawing process. Part II: Optimization",
+                "doi": "10.1016/j.jmatprotec.2006.11.008",
+                "year": "2007"
+            },
+            {
+                "title": "Shape design sensitivity analysis of nonlinear structural systems",
+                "doi": "10.1142/9789812779670_0007",
+                "year": "2007"
+            },
+            {
+                "title": "A study on optimal strength distribution of rigid-plastic body",
+                "doi": "10.2208/jsceja.62.520",
+                "year": "2006"
+            },
+            {
+                "title": "Modeling and estimation of the cardiac electromechanical activity",
+                "doi": "10.1016/j.compstruc.2006.05.003",
+                "year": "2006"
+            },
+            {
+                "title": "Cardiac function estimation from MRI using a heart model and data assimilation: Advances and difficulties",
+                "doi": "10.1016/j.media.2006.04.002",
+                "year": "2006"
+            },
+            {
+                "title": "Review of options for structural design sensitivity analysis. Part 1: Linear systems",
+                "doi": "10.1016/j.cma.2005.02.002",
+                "year": "2005"
+            },
+            {
+                "title": "Optimal truss design including plastic collapse constraints",
+                "doi": "10.1007/s00158-003-0326-3",
+                "year": "2004"
+            },
+            {
+                "title": "Topology and shape optimization of structures using FEM and BEM: A bibliography (1999-2001)",
+                "doi": "10.1016/S0168-874X(02)00071-9",
+                "year": "2003"
+            },
+            {
+                "title": "Sensitivity analysis and material identification for activated smooth muscle",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "Homogenisation of structured elastoviscoplastic solids at finite strains",
+                "doi": "10.1016/S0167-6636(01)00066-7",
+                "year": "2001"
+            },
+            {
+                "title": "Existence and uniqueness of solutions of the discretized contact elasto-plastic problem with isotropic hardening",
+                "doi": "10.1142/S0218202500000574",
+                "year": "2000"
+            }
+        ],
+        "references": [
+            {
+                "title": "F.H. Clarke, Optimization and Nonsmooth Analysis, Wiley, New York, 1983",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ko\u010dvara",
+                "doi": "10.1080/01630569408816597",
+                "year": "1994"
+            },
+            {
+                "title": "M. Ko\u010dvara, J.V. Outrata, On the solution of optimum design problems with variational inequalities, in: D.-Z. Du, L. Qi, R.S. Womersley, (Eds.), Recent Advances in Nonsmooth Optimization, Kluwer Academic Publishers, Dordrechi, 1995, pp. 171\u2013191",
+                "authors": "N/A",
+                "doi": "10.1142/9789812812827_0011",
+                "year": "N/A"
+            },
+            {
+                "title": "M. Ko\u010dvara, J.V. Outrata, Shape optimization of elasto-plastic bodies governed by variational inequalities, in: J.-P. Zolesio, (Ed.), Boundary Control and Variation, Lecture Notes in Pure and Applied Mathematics 163, Marcel Dekker, New York (Basel), 1994, pp. 261\u2013271",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hlav\u00e1\u010dek",
+                "doi": "10.21136/AM.1986.104226",
+                "year": "1986"
+            },
+            {
+                "title": "J. Haslinger, P. Neittaanm\u00e4ki, Finite Element Approximation for Optimal Shape Design: Theory and Applications, Wiley, Chichester, 1988",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "I. Hlav\u00e1\u010dek, J. Rosenberg, A.E. Beagles, J.R. Whiteman, Variational inequality formulation in strain space and finite element solution of an elasto-plastic problem with hardening, in: Computer Methods in Applied Mechanics and Engineering, vol. 94, North-Holland, Amsterdam, 1992, pp. 93\u2013112",
+                "authors": "N/A",
+                "doi": "10.1016/0045-7825(92)90158-G",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kuczma",
+                "doi": "10.1016/0020-7225(94)00109-W",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hlav\u00e1\u010dek",
+                "doi": "10.1142/S0218202597000037",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vidal",
+                "doi": "10.1016/0045-7825(93)90074-8",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bends\u0153",
+                "doi": "10.1007/BF01742459",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haslinger",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "J. Outrata, H. Schramm, J. Zowe, Bundle Trust Methods: Fortran Codes for Nondifferentiable Optimization, User's Guide, Anwendungsbezogene Optimierung und Steuerung, Report No. 269, Universit\u00e4t Bayreuth, 1991",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "De Luca",
+                "doi": "10.1007/BF02592192",
+                "year": "1996"
+            },
+            {
+                "title": "O.C. Zienkiewicz, R.L. Taylor, The Finite Element Method, 4 ed., vol. 2, Solids and Fluid Mechanics, Dynamics and Non-Linearity-McGraw-Hill, New York, 1994",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hlav\u00e1\u010dek",
+                "doi": "10.21136/AM.1987.104269",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Pi\u0161tora",
+                "doi": "10.21136/AM.1990.104419",
+                "year": "1990"
+            },
+            {
+                "title": "J. Ne\u010das, I. Hlav\u00e1\u010dek, Mathematical Theory of Elasto Plastic Bodies: An Introduction, Elsevier, Amsterdam, 1981",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "I. Hlav\u00e1\u010dek, J. Haslinger, J. Ne\u010das, J. Lov\u0131\u0301\u0161ek, Solution of Variational Inequalities in Mechanics, Ser. Appl. Math. Sci., vol. 66. Springer, Berlin, 1982",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Sokolowski, Shape sensitivity analysis of variational inequalities, in: Delfour, Sabidussi (Eds.), Shape Optimization and Free Boundaries, Kluwer Academic Publishers, Netherlands, 1992, pp. 287\u2013319",
+                "authors": "N/A",
+                "doi": "10.1007/978-94-011-2710-3_8",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ohskai",
+                "doi": "10.1002/nme.1620370503",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Muralithar",
+                "doi": "10.1002/(SICI)1097-0207(19960630)39:12<2031::AID-NME941>3.0.CO;2-J",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kikuchi",
+                "doi": "10.1016/0045-7825(86)90071-X",
+                "year": "1986"
+            },
+            {
+                "title": "E. Rohan, Contact shape optimization of elasto-plastic bodies, in: Proceedings of the University of West Bohemia, Pilsen, 1997",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Strong resonance for some quasilinear elliptic equations",
+        "authors": [
+            "Bouchala Ji\u0159\u0131\u0301",
+            "Dr\u00e1bek Pavel"
+        ],
+        "year": "2000",
+        "coverDate": "2000-05-01",
+        "coverDisplayDate": "1 May 2000",
+        "doi": "10.1006/jmaa.2000.6713",
+        "scopus_id": "0034179416",
+        "textType": "Journal",
+        "publicationName": "Journal of Mathematical Analysis and Applications",
+        "pageRange": "7-19",
+        "institutions": [
+            "VSB \u2013 Technical University of Ostrava"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 36,
+        "citedby_articles": [
+            {
+                "title": "Non-negative solutions and strong maximum principle for a resonant quasilinear problem",
+                "doi": "10.1007/s13163-023-00481-2",
+                "year": "2024"
+            },
+            {
+                "title": "RESONANCE FOR P-LAPLACIAN AND ASYMMETRIC NONLINEARITIES",
+                "doi": "10.11948/20230384",
+                "year": "2024"
+            },
+            {
+                "title": "A new approach to solving a quasilinear boundary value problem with p-Laplacian using optimization",
+                "doi": "10.21136/AM.2023.0194-22",
+                "year": "2023"
+            },
+            {
+                "title": "A mountain pass algorithm for quasilinear boundary value problem with p-Laplacian",
+                "doi": "10.1016/j.matcom.2021.03.006",
+                "year": "2021"
+            },
+            {
+                "title": "On global dynamics of reaction\u2013diffusion systems at resonance",
+                "doi": "10.1016/j.na.2020.111901",
+                "year": "2020"
+            },
+            {
+                "title": "Critical Point Theory Sandwich and Linking Systems",
+                "doi": "10.1007/978-3-030-45603-0",
+                "year": "2020"
+            },
+            {
+                "title": "Resonance problems for the weighted p-biharmonic operator",
+                "doi": "10.12988/ams.2015.48658",
+                "year": "2015"
+            },
+            {
+                "title": "Resonance problems for Kirchhoff type equations",
+                "doi": "10.3934/dcds.2013.33.2139",
+                "year": "2013"
+            },
+            {
+                "title": "A resonance problem for degenerate semilinear elliptic equations",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "A resonance problem for degenerate semilinear elliptic equations",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Existence and multiplicity of solutions for asymptotically linear noncooperative elliptic systems",
+                "doi": "10.1016/j.jmaa.2010.09.041",
+                "year": "2011"
+            },
+            {
+                "title": "Multiple solutions for semilinear elliptic equations near resonance at higher eigenvalues",
+                "doi": "10.1016/j.na.2010.09.031",
+                "year": "2011"
+            },
+            {
+                "title": "Existence of multiple solutions for a class of (p, q)-Laplace equations",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "Quasilinear elliptic problems under strong resonance conditions",
+                "doi": "10.1016/j.na.2010.06.018",
+                "year": "2010"
+            },
+            {
+                "title": "Some remarks on a class of nonuniformly elliptic equations of p-laplacian type",
+                "doi": "10.1007/s10440-008-9291-6",
+                "year": "2009"
+            },
+            {
+                "title": "Resonance problems for (p, q)-Laplacian systems",
+                "doi": "10.1016/j.na.2009.07.043",
+                "year": "2009"
+            },
+            {
+                "title": "Flows and critical points",
+                "doi": "10.1007/s00030-008-7031-2",
+                "year": "2008"
+            },
+            {
+                "title": "Resonance problems for the p-Laplacian systems",
+                "doi": "10.1016/j.jmaa.2008.04.001",
+                "year": "2008"
+            },
+            {
+                "title": "Strongly resonant quasilinear elliptic equations",
+                "doi": "10.1016/j.na.2006.11.053",
+                "year": "2008"
+            },
+            {
+                "title": "Hemivariational inequalities governed by the p-Laplacian - Neumann problem",
+                "doi": "N/A",
+                "year": "2007"
+            },
+            {
+                "title": "On multiple solutions for strongly resonant problems with the p-Laplacian",
+                "doi": "N/A",
+                "year": "2007"
+            },
+            {
+                "title": "A note on strong resonance problems for p-Laplacian",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "Resonance problems for the p-Laplacian with a nonlinear boundary condition",
+                "doi": "10.1016/j.na.2005.07.035",
+                "year": "2006"
+            },
+            {
+                "title": "Strong resonance problems for the one-dimensional p-Laplacian",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "Hemivariational inequalities governed by the p-Laplacian - Dirichlet problem",
+                "doi": "N/A",
+                "year": "2004"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Anane",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Arcoya",
+                "doi": "10.1016/S0362-546X(96)00022-3",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kufner",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lindqvist",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Luke\u0161",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "\u00d4tani",
+                "doi": "10.3792/pjaa.64.8",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rabinowitz",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tang",
+                "doi": "10.1006/jmaa.1997.5793",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tang",
+                "doi": "10.1006/jmaa.1997.5664",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Willem",
+                "doi": "N/A",
+                "year": "1996"
+            }
+        ]
+    },
+    {
+        "title": "New approach to understanding the reactive magnetron sputtering of hard carbon nitride films",
+        "authors": [
+            "Vl\u010dek Jaroslav",
+            "Rus\u0148\u00e1k Karel",
+            "H\u00e1jek V\u00e1clav",
+            "Martin\u016f Ludv\u00edk"
+        ],
+        "year": "2000",
+        "coverDate": "2000-04-01",
+        "coverDisplayDate": "April 2000",
+        "doi": "10.1016/S0925-9635(99)00350-7",
+        "scopus_id": "0034086543",
+        "textType": "Journal",
+        "publicationName": "Diamond and Related Materials",
+        "pageRange": "582-586",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 7,
+        "citedby_articles": [
+            {
+                "title": "High-performance UV-VIS light induces radical photopolymerization using novel 2-aminobenzothiazole-based photosensitizers",
+                "doi": "10.3390/ma14247814",
+                "year": "2021"
+            },
+            {
+                "title": "In situ analyses of surface-layer composition of CxNy thin films using methods based on penning ionization processes\u2014introductory investigations",
+                "doi": "10.3390/ma14247812",
+                "year": "2021"
+            },
+            {
+                "title": "The effect of the magnetron sputtering gun size on the characteristics of the plasma and CN<inf>x</inf> film deposition",
+                "doi": "10.1016/j.tsf.2011.04.089",
+                "year": "2011"
+            },
+            {
+                "title": "Characterization of CN<inf>x</inf> thin films synthesized by laser ablation technique",
+                "doi": "10.4028/www.scientific.net/msf.609.265",
+                "year": "2009"
+            },
+            {
+                "title": "Structural characterization of RF-sputtered a-C:N thin films by Raman, IR, and X-ray reflectometry spectroscopies",
+                "doi": "10.1080/00387010802007999",
+                "year": "2008"
+            },
+            {
+                "title": "Optical characterization of a-C:N thin films deposited by RF sputtering",
+                "doi": "10.1016/j.solmat.2005.10.008",
+                "year": "2006"
+            },
+            {
+                "title": "XPS study of amorphous carbon nitride (a-C:N) thin films deposited by reactive RF sputtering",
+                "doi": "10.1016/j.solmat.2005.10.007",
+                "year": "2006"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Liu",
+                "doi": "10.1126/science.245.4920.841",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Marton",
+                "doi": "10.1142/S0217979295001385",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vep\u0159ek",
+                "doi": "10.1116/1.579613",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kaltofen",
+                "doi": "10.1016/S0040-6090(96)09199-7",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sj\u00f6str\u00f6m",
+                "doi": "10.1116/1.579880",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "H\u00e1jek",
+                "doi": "10.1116/1.581662",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "H\u00e1jek",
+                "doi": "10.1016/S0043-1648(97)00176-2",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vl\u010dek",
+                "doi": "10.1063/1.371273",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fancey",
+                "doi": "10.1016/0042-207X(94)00146-4",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Durrant",
+                "doi": "10.1116/1.579677",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Chatei",
+                "doi": "10.1016/S0257-8972(97)00289-2",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lieberman",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "M. Kormunda, M.Sc. thesis, University of West Bohemia, Plze\u0148, Czech Republic, 1998.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Pitch synchronous residual excited speech reconstruction on the MFCC",
+        "authors": [
+            "Tychtl Z."
+        ],
+        "year": "2000",
+        "coverDate": "2000-03-31",
+        "coverDisplayDate": "31 March 2000",
+        "doi": "N/A",
+        "scopus_id": "84937053951",
+        "textType": "Conference Proceeding",
+        "publicationName": "European Signal Processing Conference",
+        "pageRange": null,
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Enhancing distributed speech recognition with back-end speech reconstruction",
+                "doi": "N/A",
+                "year": "2001"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Evaluation of process controller fault tolerance using simulation",
+        "authors": [
+            "Hlavi\u010dka Jan",
+            "Racek Stanislav",
+            "Herout Pavel"
+        ],
+        "year": "2000",
+        "coverDate": "2000-03-15",
+        "coverDisplayDate": "15 March 2000",
+        "doi": "10.1016/S0928-4869(00)00009-4",
+        "scopus_id": "0034653071",
+        "textType": "Journal",
+        "publicationName": "Simulation Practice and Theory",
+        "pageRange": "769-790",
+        "institutions": [
+            "Czech Technical University in Prague"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 10,
+        "citedby_articles": [
+            {
+                "title": "Designing fault-injection experiments for the reliability of embedded systems",
+                "doi": "10.1109/DASC.2012.6382447",
+                "year": "2012"
+            },
+            {
+                "title": "An approach of mission completion success probability prediction for circuits based on Saber simulation",
+                "doi": "10.1109/ICRMS.2011.5979282",
+                "year": "2011"
+            },
+            {
+                "title": "Exploring good cache architecture",
+                "doi": "N/A",
+                "year": "2009"
+            },
+            {
+                "title": "Fault injection for semi-parametric reliability models",
+                "doi": "10.1109/AERO.2005.1559344",
+                "year": "2005"
+            },
+            {
+                "title": "Simulation approach to embedded system programming and testing",
+                "doi": "10.1109/ECBS.2004.1316706",
+                "year": "2004"
+            },
+            {
+                "title": "Dependability evaluation of time triggered architecture using simulation",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "C-Sim version 5.0",
+                "doi": "10.1109/CSD.2003.1207717",
+                "year": "2003"
+            },
+            {
+                "title": "C-Sim - The C language enhancement for discrete-time simulation",
+                "doi": "10.1109/DSN.2002.1028956",
+                "year": "2002"
+            },
+            {
+                "title": "Model-based dependability evaluation method for TTP/C based systems",
+                "doi": "10.1007/3-540-36080-8_23",
+                "year": "2002"
+            },
+            {
+                "title": "Worst pattern analysis for Markov reliability models",
+                "doi": "N/A",
+                "year": "2002"
+            }
+        ],
+        "references": [
+            {
+                "title": "G. Allain-Morin, O. Pourret, Dependability assessment of a computerized nuclear protection system. In: Proceedings of the FTCS-28 International Symposium on Fault-Tolerant Computing, Munich, Germany, 1998, pp. 464\u2013468",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1998.689499",
+                "year": "N/A"
+            },
+            {
+                "title": "A.M. Amendola, et al., Experimental evaluation of computer-based railway control systems. In: Proceedings of the FTCS-29 International Symposium on Fault-Tolerant Computing, Seattle, USA, 1997",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Arlat, K. Kanoun, Modelling and dependability evaluation of safety systems in control and monitoring applications. In: Proceedings of the IFAC Safecomp \u201986, Sarlat, France, 1986, pp. 157\u2013164",
+                "authors": "N/A",
+                "doi": "10.1016/B978-0-08-034801-8.50030-1",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Arlat, Y. Crouzet, J.C. Laprie, Fault injection for dependability validation of fault-tolerant computing systems. In: Proceedings of the FTCS-19 International Symposium on Fault-Tolerant Computing, Chicago, USA, 1989, pp. 348\u2013355",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1989.105591",
+                "year": "N/A"
+            },
+            {
+                "title": "A. Avizienis, Architecture of fault-tolerant computing systems. In: Proceedings of the FTCS-5, 28 International Symposium on Fault-Tolerant Computing, Paris, France, 1975, pp. 3\u201316",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Avizienis",
+                "doi": "10.1109/TSE.1985.231893",
+                "year": "1985"
+            },
+            {
+                "title": "R. Gerlich et al., Formal methods for the validation of autonomous spacecraft fault tolerance. In: Proceedings of the FTCS-26 International Symposium on Fault-Tolerant Computing, Sendai, Japan, 1996",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "K.K. Goswami, K.I. Ravinshankar, Simulation of software behavior under hardware Faults. In: Proceedings of the FTCS-23 International Symposium on Fault-Tolerant Computing, Toulouse, France, 1993, pp. 218\u2013227",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1993.627325",
+                "year": "N/A"
+            },
+            {
+                "title": "G. Heiner, T. Thurner, Time-triggered architecture for safety-related distributed real-time systems in transportation systems. In: Proceedings of the FTCS-28 International Symposium on Fault-Tolerant Computing, Munich, Germany, 1998, pp. 402\u2013407",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1998.689491",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Hlavicka, S. Racek, P. Smrha, Functional validation of fault-tolerant asynchronous algorithms. In: Proceedings of the Euromicro, Prague, Czech Republic, 1996, pp. 143\u2013150",
+                "authors": "N/A",
+                "doi": "10.1109/EURMIC.1996.546376",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Hlavicka, S. Racek, P. Herout, Analysis and testing of process controller dependability. In: Proceedings of the of Ninth IEEE European Workshop on Dependable Computing, Gdansk, Poland, 1998, pp. 7\u201311",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "M. Kaaniche et al., A hierarchical approach for dependability analysis of a commercial cache-based RAID storage architecture. In: Proceedings of the FTCS-28 International Symposium on Fault-Tolerant Computing, Munich, Germany, 1998, pp. 6\u201315",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1998.689450",
+                "year": "N/A"
+            },
+            {
+                "title": "C. Labowitz, A. Ahuja, Experimental study of Internet stability and Wide-Area backbone failures. In: Proceedings of the FTCS-29 International Symposium on Fault-Tolerant Computing, Madison, USA, 1999",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Y. Masubuchi, et al., Fault recovery mechanism for multiprocessor servers. In: Proceedings of the FTCS-29 International Symposium on Fault-Tolerant Computing, Seattle, USA, 1997",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "D.K. Pradhan, Recovery in mobile environments: Design and trade-off analysis. In: Proceedings of the FTCS-26 International Symposium on Fault-Tolerant Computing, Sendai, Japan, 1996",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "D.K. Pradhan, Fault-tolerant computer system design. Prentice-Hall PTR, 1996, p. 550",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "S. Racek, P. Herout, J. Hlavika, Fault injection as a tool for FT process controller design. In: Proceedings of the 3rd Workshop Design and Diagnostics of Electronic Circuits and Systems Workshop, DDECS'98 Szczyrk, Poland, 1998, pp. 123\u2013128",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rial",
+                "doi": "10.1016/0165-6074(83)90162-X",
+                "year": "1983"
+            },
+            {
+                "title": "J.T. Sims, Redundancy management software services for seawolf ship control system. In: Proceedings of the FTCS-29 International Symposium on Fault-Tolerant Computing, Seattle, USA, 1997",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "A. Singhai, S.R. Radia, The SunSCALR framework for Internet servers. In: Proceedings of the FTCS-28 International Symposium on Fault-Tolerant Computing, Munich, Germany, 1998, pp. 108\u2013117",
+                "authors": "N/A",
+                "doi": "10.1109/FTCS.1998.689460",
+                "year": "N/A"
+            },
+            {
+                "title": "http://www.c-sim.zcu.cz",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Artic: A new Czech text-to-speech system using statistical approach to speech segment database construction",
+        "authors": [
+            "Matou\u0161ek J."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "85009074863",
+        "textType": "Conference Proceeding",
+        "publicationName": "6th International Conference on Spoken Language Processing, ICSLP 2000",
+        "pageRange": null,
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 17,
+        "citedby_articles": [
+            {
+                "title": "Using Auto-Encoder BiLSTM Neural Network for Czech Grapheme-to-Phoneme Conversion",
+                "doi": "10.1007/978-3-030-27947-9_8",
+                "year": "2019"
+            },
+            {
+                "title": "Phase-mismatch-free and data efficient approach to natural sounding harmonic concatenative speech synthesis",
+                "doi": "N/A",
+                "year": "2015"
+            },
+            {
+                "title": "Automatic transcription of numerals in inflectional languages",
+                "doi": "10.1007/11551874_42",
+                "year": "2005"
+            },
+            {
+                "title": "Decision support framework ExtraPlanT with remote access and telephony interface",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Recent improvements on ARTIC: Czech text-to-speech system",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "The design of Czech language formal listening tests for the evaluation of TTS systems",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Using the lemmatization technique for phonetic transcription in text-to-speech system",
+                "doi": "10.1007/978-3-540-30120-2_45",
+                "year": "2004"
+            },
+            {
+                "title": "Slovak text-to-speech synthesis in ARTIC system",
+                "doi": "10.1007/978-3-540-30120-2_20",
+                "year": "2004"
+            },
+            {
+                "title": "Realistic face animation for a Czech talking head",
+                "doi": "10.1007/978-3-540-30120-2_76",
+                "year": "2004"
+            },
+            {
+                "title": "Advanced prosody modelling",
+                "doi": "10.1007/978-3-540-30120-2_56",
+                "year": "2004"
+            },
+            {
+                "title": "The phase substitutions in Czech harmonic concatenative speech synthesi",
+                "doi": "10.1007/978-3-540-39398-6_48",
+                "year": "2003"
+            },
+            {
+                "title": "Experiments with automatic segmentation for Czech speech synthesis",
+                "doi": "10.1007/978-3-540-39398-6_41",
+                "year": "2003"
+            },
+            {
+                "title": "Automatic segmentation for czech concatenative speech synthesis using statistical approach with boundary-specific correction",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "Sentence boundary detection in Czech TTS system using neural networks",
+                "doi": "10.1109/ISSPA.2003.1224860",
+                "year": "2003"
+            },
+            {
+                "title": "Design of an audio-visual speech corpus for the Czech audio-visual speech synthesis",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "German and Czech speech synthesis using HMM-based speech segment database",
+                "doi": "10.1007/3-540-46154-x_24",
+                "year": "2002"
+            },
+            {
+                "title": "Design of speech corpus for text-To-speech synthesis",
+                "doi": "N/A",
+                "year": "2001"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Rejection and key-phrase spotting techniques using a mumble model in a Czech telephone dialog system",
+        "authors": [
+            "M\u00fcller L."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "85009070741",
+        "textType": "Conference Proceeding",
+        "publicationName": "6th International Conference on Spoken Language Processing, ICSLP 2000",
+        "pageRange": null,
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 5,
+        "citedby_articles": [
+            {
+                "title": "Detection of recognition errors based on classifiers trained on artificially created data",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "Keyword spotting for highly inflectional languages",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Statistically based approach to rejection of incorrectly recognized words",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "Rejection technique based on the mumble model",
+                "doi": "10.1007/3-540-46154-x_30",
+                "year": "2002"
+            },
+            {
+                "title": "Recognition of Chinese names in continuous speech for directory assistance applications",
+                "doi": "10.1109/ICASSP.2002.5743824",
+                "year": "2002"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Simplified processing of elliptic and anaphoric utterances in a train timetable information retrieval dialogue system",
+        "authors": [
+            "Matou\u0161ek Vacl\u00e1v"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_67",
+        "scopus_id": "84947581331",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "399-404",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Communication with www in Czech",
+                "doi": "N/A",
+                "year": "2004"
+            }
+        ],
+        "references": [
+            {
+                "title": "Aretoulaki, M.; Gallwitz, F.; Harbeck, S.; Ip\u0161i\u0107, I.; Ivaneck\u00fd, J.; Matou\u015bek, V.; Niemann, H.; N\u00f6th, E.; Pave\u0161i\u0107, N.: SQEL: A Multilingual and Multifunctional Dialogue System. In: Proceedings of the 5th International Conference on Spoken Language Processing (ICSLP\u201998), Sydney, Australia, 1998, paper No. 329.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Dialoganalyse VI: Referate der 6. Arbeitstagung in Prag 1996 (Hrsg. \u010dmejrkov\u00e1, S.; Hoffmanov\u00e1, J.; M\u00fcllerov\u00e1, O.; Sv\u011btl\u00e1, J.), Teil I. Niemeyer Verlag, T\u00fcbingen, 1998.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Gibbon, D.; Moore, R.; Winski, R.: Handbook of Standards and Resources for Spoken Language Systems. Mouton de Gruyter Verlag, Berlin, New York, 1997.",
+                "authors": "D. Gibbon",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "Kosta P.: Gliederungssignale in tschechischen umgangssprachlichenund literarischen Texten. In: Zeitschrift fur Slawistik 40 (1995), pp. 181\u2013201.",
+                "authors": "P. Kosta",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "Kruti\u0161ov\u00e1, J.; Matou\u0161ek, V.; Ocel\u00edkova, J.: Development of an One-Purpose Dialog Manager. In: Proc. of the Int. Workshop SPECOM\u201998, St. Petersburg, 1998, pp. 131\u2013134.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Matou\u0161ek, V.; Kruti\u0161ov\u00e1, J.; Mautner, P.; Ocel\u00edkov\u00e1, J.: A Dialog Module for the Information Retrieval System. In: Proc. of the AIII Int. Conference on Artificial Intelligence Applications in Industry, Ko\u0161ice, 1998, pp. 469\u2013478.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Matou\u0161ek, V.; Ocel\u00edkov\u00e1, J.: Managing Spoken Dialogues in Information Services. In: Proceedings of the IFIP TC.13 Int. Conference INTERACT\u201999, Edinburgh, 1999, pp. 141\u2013148.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Matou\u0161ek, V.; Schwarz, J.: Creation and Use of a Digitalized Corpus of Spoken Dialogues. Technical Report No. 1 to the Bilateral Cooperation Project No. CZE-00-034, University of West Bohemia, Plze\u0148, 2000.",
+                "authors": "V. Matou\u0161ek",
+                "doi": "N/A",
+                "year": "2000"
+            },
+            {
+                "title": "Ocel\u00edkov\u00e1, J.; Matou\u0161ek, V.: Processing of Anaphoric and Elliptic Sentences in a Spoken Dialogue System. In: Proceedings of the European Conference EuroSpeech\u201999, Budapest, 1999, pp. 1185\u20131188.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "\u0160t\u011btina, J.: Corpus Based Natural Language Ambiguity Resolution. Ph.D. Thesis, CTU Prague, 1997.",
+                "authors": "J. \u0160t\u011btina",
+                "doi": "N/A",
+                "year": "1997"
+            }
+        ]
+    },
+    {
+        "title": "Building a new Czech text-to-speech system using triphone-based speech units",
+        "authors": [
+            "Matou\u0161ek Jind\u0159ich"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_38",
+        "scopus_id": "84947562297",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "223-228",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 8,
+        "citedby_articles": [
+            {
+                "title": "T5G2P: Text-to-Text Transfer Transformer Based Grapheme-to-Phoneme Conversion",
+                "doi": "10.1109/TASLP.2024.3426332",
+                "year": "2024"
+            },
+            {
+                "title": "T5G2P: Using text-to-text transfer transformer for grapheme-to-phoneme conversion",
+                "doi": "10.21437/Interspeech.2021-546",
+                "year": "2021"
+            },
+            {
+                "title": "Unified language-independent DNN-based G2P converter",
+                "doi": "10.21437/Interspeech.2019-2335",
+                "year": "2019"
+            },
+            {
+                "title": "Using Auto-Encoder BiLSTM Neural Network for Czech Grapheme-to-Phoneme Conversion",
+                "doi": "10.1007/978-3-030-27947-9_8",
+                "year": "2019"
+            },
+            {
+                "title": "Introduction to ESOLA",
+                "doi": "10.1007/978-981-10-7016-7_1",
+                "year": "2018"
+            },
+            {
+                "title": "Algorithms for automatic selection of allophones to the acoustic units database",
+                "doi": "10.1007/978-3-319-59105-6_19",
+                "year": "2017"
+            },
+            {
+                "title": "Algorithm of allophone borders correction in automatic segmentation of acoustic units",
+                "doi": "10.1007/978-3-319-45378-1_41",
+                "year": "2016"
+            },
+            {
+                "title": "The algorithms of automation of the process of creating acoustic units databases in the polish speech synthesis",
+                "doi": "10.1007/978-3-319-26211-6_32",
+                "year": "2016"
+            }
+        ],
+        "references": [
+            {
+                "title": "Donovan R.E., Woodland P.C.: A Hidden Markov-Model-Based Trainable Speech Synthesizer. Computer Speech and Language, 13., 1999, pp. 223\u2013241.",
+                "authors": "R.E. Donovan",
+                "doi": "10.1006/csla.1999.0123",
+                "year": "1999"
+            },
+            {
+                "title": "Matou\u0161ek J.: Speech Synthesis Using HMM-Based Acoustic Unit Inventory. Proceedings of Eurospeech\u2019 99. Budapest, 1999, pp. 2323\u20132326.",
+                "authors": "N/A",
+                "doi": "10.21437/Eurospeech.1999-507",
+                "year": "N/A"
+            },
+            {
+                "title": "Matou\u0161ek J., Psutka J., and Tychlt Z.: Statistical Approach to the Automatic Synthesis of Czech Speech. In Proceedings of TSD\u2019 99, edited by Matou\u0161ek, V., Mautner P., Ocel\u00edkov\u00e1, J., Sojka P., Mari\u00e1nsk\u00e9 L\u00e1zn\u00eb, 1999, pp. 376\u2013379.",
+                "authors": "N/A",
+                "doi": "10.1007/3-540-48239-3_72",
+                "year": "N/A"
+            },
+            {
+                "title": "Young S.: Tree-Based State Tying for High Accuracy Acoustic Modelling. Proceedings of the ARPA Workshop on Human Language Technology. Plainsboro, New Jersey, 1994, pp. 307\u2013312.",
+                "authors": "N/A",
+                "doi": "10.3115/1075812.1075885",
+                "year": "N/A"
+            },
+            {
+                "title": "Moulines E., Verhelst W.: Time-Domain and Frequency-Domain Techniques for Prosodic Modification of Speech; In: Speech Coding and Synthesis, edited by Kleijn W.B., Paliwal K.K. Elsevier, 1995, pp. 519\u2013555.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Young S.et al.: The HTK Book. Entropic Inc., 1999.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Psutka J.: Communication With Computer by Speech (in Czech). Academia, Prague, 1995.",
+                "authors": "J. Psutka",
+                "doi": "N/A",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Morpheme based language models for speech recognition of Czech",
+        "authors": [
+            "Byrne William",
+            "Haji\u010d Jan",
+            "Ircing Pavel",
+            "Krbec Pavel",
+            "Psutka Josef"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_36",
+        "scopus_id": "84947550808",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "211-216",
+        "institutions": [
+            "Johns Hopkins University"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 19,
+        "citedby_articles": [
+            {
+                "title": "Subword Dictionary Learning and Segmentation for Expanding the Vocabulary of Automatic Speech Recognition in Tamil and Kannada",
+                "doi": "10.1145/3705312",
+                "year": "2025"
+            },
+            {
+                "title": "A usage of the syllable unit based on morphological statistics in Korean large vocabulary continuous speech recognition system",
+                "doi": "10.1007/s10772-019-09637-2",
+                "year": "2019"
+            },
+            {
+                "title": "Investigating the Use of Mixed-Units Based Modeling for Improving UyghurSpeech Recognition",
+                "doi": "10.21437/SLTU.2018-45",
+                "year": "2018"
+            },
+            {
+                "title": "Experiments towards a better LVCSR system for Tamil",
+                "doi": "N/A",
+                "year": "2013"
+            },
+            {
+                "title": "Morpheme level feature-based language models for German LVCSR",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "A morphological analyzer using hash tables in main memory (MAHT) and a lexical knowledge base",
+                "doi": "10.1007/978-3-642-28604-9_7",
+                "year": "2012"
+            },
+            {
+                "title": "Analysis of Morph-Mased language modeling and speech recognition in Slovak",
+                "doi": "10.15598/aeee.v10i4.717",
+                "year": "2012"
+            },
+            {
+                "title": "Hybrid language models using mixed types of sub-lexical units for open vocabulary German LVCSR",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "Morpheme based Factored Language Models for German LVCSR",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "Using morpheme and syllable based sub-words for polish LVCSR",
+                "doi": "10.1109/ICASSP.2011.5947399",
+                "year": "2011"
+            },
+            {
+                "title": "Challenges in speech processing of Slavic languages (case studies in speech recognition of Czech and Slovak)",
+                "doi": "10.1007/978-3-642-12397-9_19",
+                "year": "2010"
+            },
+            {
+                "title": "Importance of high-order N-gram models in morph-based speech recognition",
+                "doi": "10.1109/TASL.2008.2012323",
+                "year": "2009"
+            },
+            {
+                "title": "Large vocabulary continuous speech recognition of an inflected language using stems and endings",
+                "doi": "10.1016/j.specom.2007.02.010",
+                "year": "2007"
+            },
+            {
+                "title": "Unlimited vocabulary speech recognition with morph language models applied to Finnish",
+                "doi": "10.1016/j.csl.2005.07.002",
+                "year": "2006"
+            },
+            {
+                "title": "Multilingual Speech Processing",
+                "doi": "10.1016/B978-0-12-088501-5.X5000-8",
+                "year": "2006"
+            },
+            {
+                "title": "Multilingual Speech Processing",
+                "doi": "10.1016/B978-0-12-088501-5.X5000-8",
+                "year": "2006"
+            },
+            {
+                "title": "\"LentInfo\" information - Providing system for the festival lent programme",
+                "doi": "10.1023/A:1023414119770",
+                "year": "2003"
+            },
+            {
+                "title": "Combining lexical and morphological knowledge in language model for inflectional (Czech) language",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "Large vocabulary continuous speech recognizer for Slovenian language",
+                "doi": "10.1007/3-540-44805-5_32",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "W. Byrne et al.: Large Vocabulary Speech Recognition for Read and Broadcast Czech. In: Proceedings of TSD\u2019 99. 1999.",
+                "authors": "N/A",
+                "doi": "10.1007/3-540-48239-3_43",
+                "year": "N/A"
+            },
+            {
+                "title": "P. Geutner, M. Finke, P. Scheytt: Adaptive Vocabularies for Transcribing Multilingual Broadcast News. ICASSP. 1998.",
+                "authors": "N/A",
+                "doi": "10.1109/ICASSP.1998.675417",
+                "year": "N/A"
+            },
+            {
+                "title": "P. Clarkson, R. Rosenfeld: The CMU-Cambridge Statistical Language Modelling Toolkit.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "J. Haji\u010d: Computational Morphology of Czech. Karolinum Press, Charles University. Prague. In prep.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "http://www.lidovenoviny.cz",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "S. Young et al.: The HTK Book. Entropic Inc. 1999.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Speaker identification using kalman cepstral coefficients",
+        "authors": [
+            "\u0160venda Zden\u011bk",
+            "Radov\u0103 Vlasta"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_50",
+        "scopus_id": "84947549992",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "295-300",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": [
+            {
+                "title": "Mack G. A., Jain V. K.: A Compensated-Kalman Speech Parameter Estimator. IEEE Signal Processing Magazine (1985).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Mammone R. J., Zhang X., Ramachandran R. P.: Robust Speaker Recognition. IEEE Signal Processing Magazine (1996).",
+                "authors": "N/A",
+                "doi": "10.1109/79.536825",
+                "year": "N/A"
+            },
+            {
+                "title": "Psutka J.: Communication with Computer by Speech. Academia, Prague (1995) (in Czech).",
+                "authors": "J. Psutka",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "Radov\u00e1 V., \u0160venda Z.: An Approach to Speaker Recognition Based on Vector Quantization. First International Conference on Advanced Engineering Design, Prague (1999).",
+                "authors": "N/A",
+                "doi": "10.1007/3-540-48239-3_63",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "UWB-S01 corpus - A Czech read-speech corpus",
+        "authors": [
+            "Radov\u00e1 V."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "84942663667",
+        "textType": "Conference Proceeding",
+        "publicationName": "6th International Conference on Spoken Language Processing, ICSLP 2000",
+        "pageRange": null,
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 18,
+        "citedby_articles": [
+            {
+                "title": "Uzbek Speech Synthesis Using Deep Learning Algorithms",
+                "doi": "10.1007/978-3-031-27199-1_5",
+                "year": "2023"
+            },
+            {
+                "title": "Increasing the Accuracy of the ASR System by Prolonging Voiceless Phonemes in the Speech of Patients Using the Electrolarynx",
+                "doi": "10.1007/978-3-030-60276-5_54",
+                "year": "2020"
+            },
+            {
+                "title": "Recognition of the electrolaryngeal speech: Comparison between human and machine",
+                "doi": "10.1007/978-3-319-64206-2_57",
+                "year": "2017"
+            },
+            {
+                "title": "Anti-models: An alternative way to discriminative training",
+                "doi": "10.1007/978-3-319-10816-2_54",
+                "year": "2014"
+            },
+            {
+                "title": "Influence of different phoneme mappings on the recognition accuracy of electrolaryngeal speech",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Gender-dependent acoustic models fusion developed for automatic subtitling of parliament meetings broadcasted by the Czech TV",
+                "doi": "10.1007/978-3-642-15760-8_55",
+                "year": "2010"
+            },
+            {
+                "title": "Discriminative training of gender-dependent acoustic models",
+                "doi": "10.1007/978-3-642-04208-9_46",
+                "year": "2009"
+            },
+            {
+                "title": "An expert system in speaker verification task",
+                "doi": "N/A",
+                "year": "2008"
+            },
+            {
+                "title": "On building phonetically and prosodically rich speech corpus for text-to-speech synthesis",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "Independent components for acoustic modeling",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "Silence/speech detection method based on set of decision graphs",
+                "doi": "10.1007/11846406_68",
+                "year": "2006"
+            },
+            {
+                "title": "A structure of expert system for speaker verification",
+                "doi": "10.1007/11846406_62",
+                "year": "2006"
+            },
+            {
+                "title": "Introduction of improved UWB speaker verification system",
+                "doi": "10.1007/11551874_47",
+                "year": "2005"
+            },
+            {
+                "title": "Comparison of several speaker verification procedures based on GMM",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "On the background model construction for speaker verification using GMM",
+                "doi": "10.1007/978-3-540-30120-2_54",
+                "year": "2004"
+            },
+            {
+                "title": "On the amount of speech data necessary for successful speaker identification",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "Design of speech corpus for text-To-speech synthesis",
+                "doi": "N/A",
+                "year": "2001"
+            },
+            {
+                "title": "Two-pass recognition of Czech speech using adaptive vocabulary",
+                "doi": "10.1007/3-540-44805-5_36",
+                "year": "2001"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Recording and annotation of the Czech speech corpus",
+        "authors": [
+            "Radov\u00e1 Vlasta",
+            "Psutka Josef"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_54",
+        "scopus_id": "84864214306",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "319-323",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "Slovak unit-selection speech synthesis: Creating a New Slovak voice within a Czech TTS system ARTIC",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Speaker-clustered acoustic models evaluated on GPU for on-line subtitling of parliament meetings",
+                "doi": "10.1007/978-3-642-23538-2_36",
+                "year": "2011"
+            },
+            {
+                "title": "Recording and annotation of speech corpus for Czech unit selection speech synthesis",
+                "doi": "10.1007/978-3-540-74628-7_43",
+                "year": "2007"
+            },
+            {
+                "title": "On the amount of speech data necessary for successful speaker identification",
+                "doi": "N/A",
+                "year": "2003"
+            }
+        ],
+        "references": [
+            {
+                "title": "Barras C. et al.: Transcriber: a Free Tool for Segmenting, Labelling and Transcribing Speech. In: First International Conference on Language Resources and Evaluation (LREC), 1998.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Radov\u00e1, V.: Design of the Czech Speech Corpus for Speech Recognition Applications with a Large Vocabulary. In: Sojka, P., Mato\u0161ek, V., Pala, K., Kope\u010dek, I. (eds.): Text, Speech, Dialogue. Proc. of the First Workshop on Text, Speech, Dialogue. Brno, Czech Republic, 1998, pp. 299\u2013304.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Radova, V., Vop\u00e1lka, P.: Methods of Sentences Selection for Read-Speech Corpus Design. In: Matou\u0161ek, V. et al. (eds.): Text, Speech and Dialogue. Proc. of the Second Workshop on Text, Speech, Dialogue. Springer-Verlag, Berlin Heidelberg, 1999, pp. 165\u2013170.",
+                "authors": "V. Radova",
+                "doi": "10.1007/3-540-48239-3_30",
+                "year": "1999"
+            }
+        ]
+    },
+    {
+        "title": "Design of speech recognition engine",
+        "authors": [
+            "M\u016dller Ludek",
+            "Psutka Josef",
+            "\u0160m\u00eddl Lubo\u0161"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/3-540-45323-7_44",
+        "scopus_id": "44349181213",
+        "textType": "Book Series",
+        "publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "pageRange": "259-264",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 14,
+        "citedby_articles": [
+            {
+                "title": "WebTransc \u2014 a WWW interface for speech corpora production and processing",
+                "doi": "10.1007/978-3-319-23132-7_60",
+                "year": "2015"
+            },
+            {
+                "title": "On the impact of sentence length on recognition accuracy",
+                "doi": "10.1109/ICOSP.2014.7015055",
+                "year": "2014"
+            },
+            {
+                "title": "Inter-annotator agreement on spontaneous Czech language: Limits of automatic speech recognition accuracy",
+                "doi": "10.1007/978-3-319-10816-2_47",
+                "year": "2014"
+            },
+            {
+                "title": "On the impact of annotation errors on unit-selection speech synthesis",
+                "doi": "10.1007/978-3-642-32790-2_55",
+                "year": "2012"
+            },
+            {
+                "title": "Automatic switchboard operator",
+                "doi": "10.1007/978-3-642-23538-2_8",
+                "year": "2011"
+            },
+            {
+                "title": "Web text data mining for building large scale language modelling corpus",
+                "doi": "10.1007/978-3-642-23538-2_45",
+                "year": "2011"
+            },
+            {
+                "title": "Biomedical informatics research for individualized life-long shared healthcare",
+                "doi": "N/A",
+                "year": "2009"
+            },
+            {
+                "title": "Voice-controlled data entry in dental electronic health record",
+                "doi": "N/A",
+                "year": "2008"
+            },
+            {
+                "title": "An intelligent telephony interface of multiagent decision support systems",
+                "doi": "10.1109/TSMCC.2007.897335",
+                "year": "2007"
+            },
+            {
+                "title": "Detection of recognition errors based on classifiers trained on artificially created data",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "Statistically based approach to rejection of incorrectly recognized words",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "Design of speech corpus for text-To-speech synthesis",
+                "doi": "N/A",
+                "year": "2001"
+            },
+            {
+                "title": "The influence of a filter shape in telephone-based recognition module using PLP parameterization",
+                "doi": "10.1007/3-540-44805-5_29",
+                "year": "2001"
+            },
+            {
+                "title": "Comparison of MFCC and PLP parameterizations in the speaker independent continuous speech recognition task",
+                "doi": "N/A",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "M\u00fcller, L., Psutka J.: The Speaker Independent Recognition Module for the Czech Telephony Dialogue System, ICSPAT\u2019 99, Orlando, USA, (1999).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Jelinek, F.: Statistical Methods for Speech Recognition, MIT Press, Cambridge, (1997).",
+                "authors": "F. Jelinek",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "Radov\u00e1, V., Psutka J., \u0160m\u00fddl L., Vop\u00e1lka P., Jur\u010d\u00fd\u010dek F.: Czech Speech Corpus for Development of Speech Recognition Systems. In Proceedings of the Workshop on Developing language resources for minority languages, Athens 2000.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Recent progress in hard nanocomposite coatings",
+        "authors": [
+            "Musil J.",
+            "Regent F.",
+            "Soukup Z.",
+            "Vlcek J.",
+            "Han J.G."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1615/hightempmatproc.v4.i4.90",
+        "scopus_id": "27844557966",
+        "textType": "Journal",
+        "publicationName": "High Temperature Material Processes",
+        "pageRange": "553-562",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "XPS investigations of tribolayers formed on TiN and (Ti,Re)N coatings",
+                "doi": "10.1016/j.apsusc.2014.12.023",
+                "year": "2015"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Resonance problems for the one-dimensional p-laplacian",
+        "authors": [
+            "Dr\u00e1bek Pavel",
+            "Robinson Stephen B."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1090/s0002-9939-99-05485-4",
+        "scopus_id": "22844454612",
+        "textType": "Journal",
+        "publicationName": "Proceedings of the American Mathematical Society",
+        "pageRange": "755-765",
+        "institutions": [
+            "Wake Forest University",
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 10,
+        "citedby_articles": [
+            {
+                "title": "On global dynamics of reaction\u2013diffusion systems at resonance",
+                "doi": "10.1016/j.na.2020.111901",
+                "year": "2020"
+            },
+            {
+                "title": "Uniqueness of positive and compacton-type solutions for a resonant quasilinear problem",
+                "doi": "10.12775/TMNA.2016.090",
+                "year": "2017"
+            },
+            {
+                "title": "Positive and compacton-type solutions for a quasilinear two-point boundary value problem",
+                "doi": "10.1016/j.jmaa.2015.05.070",
+                "year": "2015"
+            },
+            {
+                "title": "Quasilinear boundary value problem with impulses: Variational approach to resonance problem",
+                "doi": "10.1186/1687-2770-2014-64",
+                "year": "2014"
+            },
+            {
+                "title": "Nonlinear resonance: A comparison between landesman-lazer and ahmad-lazer-paul conditions",
+                "doi": "10.1515/ans-2011-0209",
+                "year": "2011"
+            },
+            {
+                "title": "A note on strong resonance problems for p-Laplacian",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "Resonance problems for the p-Laplacian with a nonlinear boundary condition",
+                "doi": "10.1016/j.na.2005.07.035",
+                "year": "2006"
+            },
+            {
+                "title": "Existence of quasiperiodic solutions and boundedness problem for the one-dimensional p-Laplacian equations",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "The rotation number approach to eigenvalues of the one-dimensional p-laplacian with periodic potentials",
+                "doi": "10.1017/S0024610701002277",
+                "year": "2001"
+            },
+            {
+                "title": "Chapter 3 Half-linear differential equations",
+                "doi": "10.1016/S1874-5725(00)80005-X",
+                "year": "2000"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Existence and uniqueness of solutions of the discretized contact elasto-plastic problem with isotropic hardening",
+        "authors": [
+            "ROHAN EDUARD"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "November 2000",
+        "doi": "10.1142/S0218202500000574",
+        "scopus_id": "0345757440",
+        "textType": "Journal",
+        "publicationName": "Mathematical Models and Methods in Applied Sciences",
+        "pageRange": "1151-1179",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Homogenization and numerical modelling of poroelastic materials with self-contact in the microstructure",
+                "doi": "10.1016/j.compstruc.2019.06.003",
+                "year": "2020"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Scale axis, fractals and some thermal phenomena",
+        "authors": [
+            "Hole\u010dek M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1023/A:1010148800841",
+        "scopus_id": "0342955644",
+        "textType": "Journal",
+        "publicationName": "Journal of Thermal Analysis and Calorimetry",
+        "pageRange": "1093-1100",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 6,
+        "citedby_articles": [
+            {
+                "title": "Thermal Analysis and Thermodynamic Properties of Solids",
+                "doi": "10.1016/C2020-0-02847-1",
+                "year": "2021"
+            },
+            {
+                "title": "Science of heat and thermophysical studies: A generalized approach to thermal analysis",
+                "doi": "10.1016/B978-0-444-51954-2.X5000-0",
+                "year": "2006"
+            },
+            {
+                "title": "Science of Heat and Thermophysical Studies",
+                "doi": "10.1016/B978-0-444-51954-2.X5000-0",
+                "year": "2005"
+            },
+            {
+                "title": "Heat as manufacturing power or the source of disorder?",
+                "doi": "10.1023/A:1019989707529",
+                "year": "2002"
+            },
+            {
+                "title": "Irreversible thermodynamics and true thermal state dynamics in view of generalised solid-state reaction kinetics",
+                "doi": "10.1016/S0040-6031(02)00054-0",
+                "year": "2002"
+            },
+            {
+                "title": "The fire/heat concept and its journey from prehistoric time into the third millennium",
+                "doi": "10.1023/A:1011532928660",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "J. Polchinski, Nucl. Phys. B, 231 (1984) 269.",
+                "authors": "J. Polchinski",
+                "doi": "10.1016/0550-3213(84)90287-6",
+                "year": "1984"
+            },
+            {
+                "title": "G. P. Lepage, The TASI-89 Summer School, Boulder, Colorado 1989.",
+                "authors": "G. P. Lepage",
+                "doi": "N/A",
+                "year": "1989"
+            },
+            {
+                "title": "K. G. Wilson and J. Kogut, Phys. Reports, 12, 2 (1974) 75.",
+                "authors": "K. G. Wilson",
+                "doi": "10.1016/0370-1573(74)90023-4",
+                "year": "1974"
+            },
+            {
+                "title": "Size-Scale Effects in the Failure Mechanisms of Materials and Structures, (Ed. A. Carpinteri), E & FN SPON, London 1996.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1996"
+            },
+            {
+                "title": "M. Hole\u010dek, Physica A, 183 (1992) 236.",
+                "authors": "M. Hole\u010dek",
+                "doi": "10.1016/0378-4371(92)90189-W",
+                "year": "1992"
+            },
+            {
+                "title": "L. Nottale, Fractal Space-Time and Microphysics: Towards a Theory of Scale Relativity, World Scientific, 1993.",
+                "authors": "N/A",
+                "doi": "10.1142/1579",
+                "year": "N/A"
+            },
+            {
+                "title": "I. M. Havel, Int. J. General Systems, 24 (1996) 295.",
+                "authors": "I. M. Havel",
+                "doi": "10.1080/03081079608945124",
+                "year": "1996"
+            },
+            {
+                "title": "D. Jou, J. Casas-Vazquez and G. Lebon, Extended Irreversible Thermodynamics, Springer-Verlag, Berlin, Heidelberg 1993.",
+                "authors": "D. Jou",
+                "doi": "10.1007/978-3-642-97430-4",
+                "year": "1993"
+            }
+        ]
+    },
+    {
+        "title": "Contribution to the termodynamics of 1-(2-thiazolylazo)-2-naphthol in the water-nitrobenzene extraction system",
+        "authors": [
+            "Makrlik Emanuel",
+            "Va\u0148ura Petr"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.2298/jsc0008581m",
+        "scopus_id": "0040189965",
+        "textType": "Journal",
+        "publicationName": "Journal of the Serbian Chemical Society",
+        "pageRange": "581-585",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Thiazolylazo dyes and their application in analytical methods",
+                "doi": "10.1007/s00604-006-0704-9",
+                "year": "2007"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Low pressure radio frequency and microwave discharges for d.C. Sputtering of ferromagnetic materials",
+        "authors": [
+            "Musil J.",
+            "Mi\u0161ina M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "June 2000",
+        "doi": "10.1023/A:1022843120960",
+        "scopus_id": "0039011855",
+        "textType": "Journal",
+        "publicationName": "Czechoslovak Journal of Physics",
+        "pageRange": "785-794",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences",
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 2,
+        "citedby_articles": [
+            {
+                "title": "Coating of overstoichiometric transition metal nitrides (TMN<inf>x</inf> (x &gt; 1)) by magnetron sputtering",
+                "doi": "10.7567/1347-4065/aaec83",
+                "year": "2019"
+            },
+            {
+                "title": "Magnetron Discharges for Thin Films Plasma Processing",
+                "doi": "10.1016/B978-008044496-3/50004-6",
+                "year": "2006"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Closure concepts: A survey",
+        "authors": [
+            "Broersma Hajo",
+            "Ryj\u00e1\u010dek Zden\u011bk",
+            "Schiermeyer Ingo"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "10.1007/s003730050002",
+        "scopus_id": "0037607046",
+        "textType": "Journal",
+        "publicationName": "Graphs and Combinatorics",
+        "pageRange": "17-48",
+        "institutions": [
+            "Universiteit Twente"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 32,
+        "citedby_articles": [
+            {
+                "title": "New conditions for graph Hamiltonicity",
+                "doi": "10.2140/involve.2025.18.79",
+                "year": "2025"
+            },
+            {
+                "title": "A Closure Lemma for tough graphs and Hamiltonian degree conditions",
+                "doi": "10.1016/j.disc.2024.113872",
+                "year": "2024"
+            },
+            {
+                "title": "CLOSURE RESULTS FOR ARBITRARILY PARTITIONABLE GRAPHS",
+                "doi": "10.7494/OpMath.2024.44.6.773",
+                "year": "2024"
+            },
+            {
+                "title": "Spectral Conditions, Degree Sequences, and Graphical Properties",
+                "doi": "10.3390/math11204264",
+                "year": "2023"
+            },
+            {
+                "title": "On the\u00a0Minimum Cycle Cover Problem on\u00a0Graphs with\u00a0Bounded Co-degeneracy",
+                "doi": "10.1007/978-3-031-15914-5_14",
+                "year": "2022"
+            },
+            {
+                "title": "Co-Degeneracy and Co-Treewidth: Using the Complement to Solve Dense Instances",
+                "doi": "10.4230/LIPIcs.MFCS.2021.42",
+                "year": "2021"
+            },
+            {
+                "title": "Closure and Spanning Trees with Bounded Total Excess",
+                "doi": "10.1007/s00373-021-02283-z",
+                "year": "2021"
+            },
+            {
+                "title": "Line Graphs and Line Digraphs",
+                "doi": "N/A",
+                "year": "2021"
+            },
+            {
+                "title": "Stability Theorems for Graph Vulnerability Parameters",
+                "doi": "10.1007/s00373-020-02239-9",
+                "year": "2021"
+            },
+            {
+                "title": "Unified Spectral Hamiltonian Results of Balanced Bipartite Graphs and Complementary Graphs",
+                "doi": "10.1007/s00373-020-02200-w",
+                "year": "2020"
+            },
+            {
+                "title": "On a spanning tree with specified leaves in a bipartite graph",
+                "doi": "N/A",
+                "year": "2020"
+            },
+            {
+                "title": "Spectral results on Hamiltonian problem",
+                "doi": "10.1016/j.disc.2019.02.016",
+                "year": "2019"
+            },
+            {
+                "title": "Advanced Graph Theory and Combinatorics",
+                "doi": "10.1002/9781119008989",
+                "year": "2016"
+            },
+            {
+                "title": "Closure and Spanning k-Trees",
+                "doi": "10.1007/s00373-013-1314-z",
+                "year": "2014"
+            },
+            {
+                "title": "Stability of hereditary graph classes under closure operations",
+                "doi": "10.1002/jgt.21692",
+                "year": "2013"
+            },
+            {
+                "title": "How Many Conjectures Can You Stand? A Survey",
+                "doi": "10.1007/s00373-011-1090-6",
+                "year": "2012"
+            },
+            {
+                "title": "Closure operation for even factors on claw-free graphs",
+                "doi": "10.1016/j.disc.2011.04.009",
+                "year": "2011"
+            },
+            {
+                "title": "The edge-closure concept for claw-free graphs and the stability of forbidden subgraphs",
+                "doi": "10.1016/j.disc.2010.02.005",
+                "year": "2010"
+            },
+            {
+                "title": "Closure concept for 2-factors in claw-free graphs",
+                "doi": "10.1016/j.disc.2010.02.004",
+                "year": "2010"
+            },
+            {
+                "title": "Supereulerian index is stable under contractions and closures",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "Closure, stability and iterated line graphs with a 2-factor",
+                "doi": "10.1016/j.disc.2009.03.003",
+                "year": "2009"
+            },
+            {
+                "title": "\u03b2-degree closures for graphs",
+                "doi": "10.1016/j.disc.2008.07.036",
+                "year": "2009"
+            },
+            {
+                "title": "Cycles in graphs and related problems",
+                "doi": "10.4064/dm454-0-1",
+                "year": "2008"
+            },
+            {
+                "title": "Closure for the property of having a hamiltonian prism",
+                "doi": "10.1002/jgt.20203",
+                "year": "2007"
+            },
+            {
+                "title": "On stability of the hamiltonian index under contractions and closures",
+                "doi": "10.1002/jgt.20068",
+                "year": "2005"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Effect of Ti interlayer and bias on structure and properties of TiN films",
+        "authors": [
+            "Soukup Z.",
+            "Lhotka J.",
+            "Musil J.",
+            "Rafaja D."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "May 2000",
+        "doi": "10.1023/A:1022814503252",
+        "scopus_id": "0034373031",
+        "textType": "Journal",
+        "publicationName": "Czechoslovak Journal of Physics",
+        "pageRange": "655-663",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "Magnetron sputtering of boron carbide coating on aluminum substrate\u2014Experimental considerations for enhancing adhesion",
+                "doi": "10.1016/j.surfin.2023.102772",
+                "year": "2023"
+            },
+            {
+                "title": "Tailoring of titanium thin film properties in high power pulsed magnetron sputtering",
+                "doi": "10.1016/j.vacuum.2018.01.039",
+                "year": "2018"
+            },
+            {
+                "title": "Corrosion behavior of hybrid coatings: Electroless Ni-Cu-P and sputtered TiN",
+                "doi": "10.1016/j.surfcoat.2010.02.035",
+                "year": "2010"
+            },
+            {
+                "title": "Effect of residual internal stresses in TiN coatings On specific losses in anisotropic electrical steel",
+                "doi": "10.1134/S0031918X1002002X",
+                "year": "2010"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Bifurcation from the first eigenvalue of some nonlinear elliptic operators in Banach spaces",
+        "authors": [
+            "Dr\u00e1bek Pavel",
+            "Stavrakakis Nikos M."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "October 2000",
+        "doi": "10.1016/S0362-546X(99)00114-5",
+        "scopus_id": "0034301483",
+        "textType": "Journal",
+        "publicationName": "Nonlinear Analysis, Theory, Methods and Applications",
+        "pageRange": "561-572",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 5,
+        "citedby_articles": [
+            {
+                "title": "Global bifurcation of the p-Laplacian in R<sup>N</sup>",
+                "doi": "10.1016/j.na.2008.03.055",
+                "year": "2009"
+            },
+            {
+                "title": "An index formula for the degree of (S)<inf>+</inf>-mappings associated with one-dimensional p-laplacian",
+                "doi": "10.1155/S1085337504401055",
+                "year": "2004"
+            },
+            {
+                "title": "Topological degree for (S)+-mappings with maximal monotone perturbations and its applications to variational inequalities",
+                "doi": "10.1016/j.na.2004.07.007",
+                "year": "2004"
+            },
+            {
+                "title": "Bifurcation results for quasilinear elliptic systems",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "Multiplicity and regularity results for some quasilinear elliptic systems on \u211d<sup>N</sup>",
+                "doi": "10.1016/S0362-546X(01)00732-5",
+                "year": "2002"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Existence of multiple solutions of critical quasilinear elliptic Neumann problems",
+        "authors": [
+            "Binding Paul A.",
+            "Dr\u00e1bek Pavel",
+            "Huang Yin Xi"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "October 2000",
+        "doi": "10.1016/S0362-546X(99)00118-2",
+        "scopus_id": "0034300779",
+        "textType": "Journal",
+        "publicationName": "Nonlinear Analysis, Theory, Methods and Applications",
+        "pageRange": "613-629",
+        "institutions": [
+            "University of Calgary"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 37,
+        "citedby_articles": [
+            {
+                "title": "On a minimization problem involving fractional Sobolev spaces on Nehari manifold",
+                "doi": "10.1007/s13370-023-01071-7",
+                "year": "2023"
+            },
+            {
+                "title": "On the solvability of an indefinite nonlinear Kirchhoff equation via associated eigenvalue problems",
+                "doi": "10.1016/j.jde.2020.02.017",
+                "year": "2020"
+            },
+            {
+                "title": "On a class of nonlocal nonlinear Schr\u00f6dinger equations with potential well",
+                "doi": "10.1515/anona-2020-0020",
+                "year": "2019"
+            },
+            {
+                "title": "Existence and Multiplicity of Solutions for p-Laplacian Neumann Problems",
+                "doi": "10.1007/s00025-019-0995-x",
+                "year": "2019"
+            },
+            {
+                "title": "Semilinear elliptic equation involving the p-Laplacian on the Sierpi\u0144ski gasket",
+                "doi": "10.1080/17476933.2017.1419212",
+                "year": "2019"
+            },
+            {
+                "title": "Robin boundary-value problems for quasilinear elliptic equations with subcritical and critical nonlinearities",
+                "doi": "N/A",
+                "year": "2016"
+            },
+            {
+                "title": "Bifurcation phenomena for nonlinear superdiffusive Neumann equations of logistic type",
+                "doi": "10.1007/s10231-012-0263-0",
+                "year": "2014"
+            },
+            {
+                "title": "Existence of weak solutions for nonlinear time-fractional p -Laplace problems",
+                "doi": "10.1155/2014/231892",
+                "year": "2014"
+            },
+            {
+                "title": "Multiple positive solutions of semilinear elliptic systems with nonlinear boundary conditions",
+                "doi": "N/A",
+                "year": "2013"
+            },
+            {
+                "title": "An indefinite and critical concave-Convex-type equation",
+                "doi": "10.1017/S0308210510001939",
+                "year": "2013"
+            },
+            {
+                "title": "On some indefinite and non-powerlike elliptic equations",
+                "doi": "10.1016/j.na.2012.10.022",
+                "year": "2013"
+            },
+            {
+                "title": "A variational approach to a quasilinear multiparameter elliptic system involving the p-Laplacian and nonlinear boundary condition",
+                "doi": "10.1007/s40065-012-0035-0",
+                "year": "2012"
+            },
+            {
+                "title": "Multiple solutions for superlinear p-laplacian Neumann problems",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Multiplicity of positive solutions for quasilinear elliptic p-laplacian systems",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "On existence of weak solutions of neumann problem for a system of semilinear elliptic equations in an unbounded domain",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Sine-Gordon theory in a semi-strip",
+                "doi": "10.1016/j.na.2011.09.030",
+                "year": "2012"
+            },
+            {
+                "title": "Three non-zero solutions for elliptic Neumann problems",
+                "doi": "10.1142/S021953051100190X",
+                "year": "2011"
+            },
+            {
+                "title": "On existence of weak solutions of neumann problem for quasilinear elliptic equations involving p-laplacian in an unbounded domain",
+                "doi": "10.4134/BKMS.2011.48.6.1169",
+                "year": "2011"
+            },
+            {
+                "title": "The Nehari manifold for a class of concave-convex elliptic systems involving the p-Laplacian and nonlinear boundary condition",
+                "doi": "10.1016/j.na.2010.07.021",
+                "year": "2010"
+            },
+            {
+                "title": "Multiple nontrivial solutions for neumann problems involving the p-laplacian: A morse theoretical approach",
+                "doi": "10.1515/ans-2010-0104",
+                "year": "2010"
+            },
+            {
+                "title": "Multiple solutions for nonlinear coercive neumann problems",
+                "doi": "10.3934/cpaa.2009.8.1957",
+                "year": "2009"
+            },
+            {
+                "title": "A variational approach to a quasilinear elliptic problem involving the p-Laplacian and nonlinear boundary condition",
+                "doi": "10.1016/j.na.2009.01.090",
+                "year": "2009"
+            },
+            {
+                "title": "The Nehari manifold and application to a semilinear elliptic system",
+                "doi": "10.1016/j.na.2009.02.009",
+                "year": "2009"
+            },
+            {
+                "title": "A remark on the existence of multiple solutions to a multiparameter nonlinear elliptic system",
+                "doi": "10.1016/j.na.2008.10.118",
+                "year": "2009"
+            },
+            {
+                "title": "Existence of three nontrivial solutions for nonlinear Neumann hemivariational inequalities",
+                "doi": "10.1016/j.na.2008.04.033",
+                "year": "2009"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Structure and properties of hard and superhard Zr-Cu-N nanocomposite coatings",
+        "authors": [
+            "Zeman P",
+            "\u010cerstv\u00fd R",
+            "Mayrhofer P.H",
+            "Mitterer C",
+            "Musil J"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "Sep",
+        "doi": "10.1016/S0921-5093(00)00917-5",
+        "scopus_id": "0034285156",
+        "textType": "Journal",
+        "publicationName": "Materials Science and Engineering: A",
+        "pageRange": "189-197",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 138,
+        "citedby_articles": [
+            {
+                "title": "Microstructure and mechanical properties of AlTiN/AlTiVCuN nano-multilayered coatings deposited by BPMS",
+                "doi": "10.1016/j.ceramint.2025.02.007",
+                "year": "2025"
+            },
+            {
+                "title": "Self-formation of dual-phase nanocomposite Zr\u2013Cu\u2013N coatings based on nanocrystalline ZrN and glassy ZrCu",
+                "doi": "10.1016/j.matdes.2024.113278",
+                "year": "2024"
+            },
+            {
+                "title": "Designing Cu chemical distribution in Ti(AlCu)N coatings for enhanced erosion-corrosion and antibacterial performance",
+                "doi": "10.1016/j.apsusc.2023.159053",
+                "year": "2024"
+            },
+            {
+                "title": "Microstructure evolution and mechanical behavior of magnetron sputtering AlN\u2013Al nanostructured composite film",
+                "doi": "10.1016/j.ceramint.2023.11.276",
+                "year": "2024"
+            },
+            {
+                "title": "Microstructure and Mechanical Properties of AlTiVCuN Coatings Prepared by Ion Source-Assisted Magnetron Sputtering",
+                "doi": "10.3390/nano13243146",
+                "year": "2023"
+            },
+            {
+                "title": "Orientation controlled microstructure and mechanical properties of TiN-Cu nanocomposite films",
+                "doi": "10.1016/j.surfcoat.2022.129112",
+                "year": "2023"
+            },
+            {
+                "title": "Microstructure and mechanical properties of nanomultilayered AlTiN/Cu coatings prepared by a hybrid system of AIP and PDCMS",
+                "doi": "10.1016/j.ceramint.2022.08.332",
+                "year": "2023"
+            },
+            {
+                "title": "Relationship between oxidation behavior and tribological properties of Mo\u2013V\u2013Cu\u2013N coatings",
+                "doi": "10.1016/j.surfcoat.2022.129067",
+                "year": "2022"
+            },
+            {
+                "title": "Role of nickel in structural and mechanical properties of nc-WNNi sputtered nanocomposite coatings",
+                "doi": "10.1016/j.mseb.2022.115893",
+                "year": "2022"
+            },
+            {
+                "title": "Highly Durable Antimicrobial Tantalum Nitride/Copper Coatings on Stainless Steel Deposited by Pulsed Magnetron Sputtering",
+                "doi": "10.3390/mi13091411",
+                "year": "2022"
+            },
+            {
+                "title": "An Assessment of the Bactericidal and Virucidal Properties of ZrN-Cu Nanostructured Coatings Deposited by an Industrial PVD System",
+                "doi": "10.3390/coatings12091330",
+                "year": "2022"
+            },
+            {
+                "title": "The Additions of V and Cu on the Microstructure and Mechanical Properties of Mo-N Coatings",
+                "doi": "10.3390/coatings12081129",
+                "year": "2022"
+            },
+            {
+                "title": "Effect of Ag Doping on the Microstructure and Electrochemical Response of TiAlN Coatings Deposited by DCMS/HiPIMS Magnetron Sputtering",
+                "doi": "10.1007/s11665-021-06467-9",
+                "year": "2022"
+            },
+            {
+                "title": "Microstructure and Mechanical Properties of Co-Sputtering (Mo, Hf)N Coatings",
+                "doi": "10.3390/coatings12040509",
+                "year": "2022"
+            },
+            {
+                "title": "Microstructure, oxidation behavior and tribological properties of AlCrN/Cu coatings deposited by a hybrid PVD technique",
+                "doi": "10.1016/j.jmst.2021.06.007",
+                "year": "2022"
+            },
+            {
+                "title": "Synthesis and electrochemical properties of nanoporous CrN thin film electrodes for supercapacitor applications",
+                "doi": "10.1016/j.matdes.2021.109949",
+                "year": "2021"
+            },
+            {
+                "title": "A 3D printing route to fabrication of ZrCuSi alloy target for ZrCuSiN nanocomposite thin films",
+                "doi": "10.1016/j.apsusc.2021.150136",
+                "year": "2021"
+            },
+            {
+                "title": "Effect of silver content on the microstructure, thermal stability and mechanical properties of CrN<inf>x</inf>/Ag nanocomposite films",
+                "doi": "10.1016/j.ceramint.2021.05.254",
+                "year": "2021"
+            },
+            {
+                "title": "Influence of pulse frequency on microstructure and mechanical properties of Al-Ti-V-Cu-N coatings deposited by HIPIMS",
+                "doi": "10.1016/j.surfcoat.2020.126514",
+                "year": "2021"
+            },
+            {
+                "title": "Effect of Cu doping on the microstructure and mechanical properties of AlTiVN-Cu nanocomposite coatings",
+                "doi": "10.1016/j.surfcoat.2020.126490",
+                "year": "2020"
+            },
+            {
+                "title": "Co-regulation of Cu/Zn contents enhanced the biological and mechanical properties of TiN coated Ti-6Al-4V alloy",
+                "doi": "10.1016/j.surfcoat.2020.125943",
+                "year": "2020"
+            },
+            {
+                "title": "The effect of Si content on structural, mechanical and optical behaviour of magnetron sputtered Al\u2013Si\u2013N nanocomposite thin films",
+                "doi": "10.1016/j.jallcom.2020.154686",
+                "year": "2020"
+            },
+            {
+                "title": "Microstructural and electrochemical properties of TiAlN(Ag,Cu) nanocomposite coatings for medical applications deposited by DC magnetron sputtering",
+                "doi": "10.1016/j.jallcom.2020.154396",
+                "year": "2020"
+            },
+            {
+                "title": "Insights into friction properties and mechanism of self-lubricating MoVN\u2013Ag films at high temperature",
+                "doi": "10.1016/j.vacuum.2020.109332",
+                "year": "2020"
+            },
+            {
+                "title": "Microstructure and mechanical properties of ZrCuSiN coatings deposited by a single alloy target",
+                "doi": "10.3390/COATINGS10050435",
+                "year": "2020"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Helmersson",
+                "doi": "10.1063/1.339770",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Shinn",
+                "doi": "10.1557/JMR.1992.0901",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Chu",
+                "doi": "10.1016/0257-8972(93)90331-H",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mirkarimi",
+                "doi": "10.1063/1.104189",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Chu",
+                "doi": "10.1016/0257-8972(93)90234-F",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vep\u0159ek",
+                "doi": "10.1063/1.113110",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vep\u0159ek",
+                "doi": "10.1116/1.579878",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vep\u0159ek",
+                "doi": "10.1016/S0257-8972(98)00618-5",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mitterer",
+                "doi": "10.1016/S0042-207X(98)00059-1",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mitterer",
+                "doi": "10.1016/S0257-8972(99)00489-2",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/S0257-8972(99)00482-X",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/S0042-207X(98)00068-2",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/S0042-207X(98)00297-8",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.581537",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/S0257-8972(99)00065-1",
+                "year": "1999"
+            },
+            {
+                "title": "N/A",
+                "authors": "Voevodin",
+                "doi": "10.1063/1.365784",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gilmore",
+                "doi": "10.1016/S0257-8972(98)00602-1",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Voevodin",
+                "doi": "10.1016/S0040-6090(96)09145-6",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Karlsson",
+                "doi": "10.1016/0165-1633(83)90013-8",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "Perry",
+                "doi": "10.1016/0040-6090(88)90007-7",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Randhawa",
+                "doi": "10.1016/0257-8972(88)90023-0",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Beck",
+                "doi": "10.1016/0040-6090(92)90578-Y",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Reiners",
+                "doi": "10.1016/0257-8972(92)90174-9",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hones",
+                "doi": "10.1016/S0257-8972(97)00443-X",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mitterer",
+                "doi": "10.1016/S0257-8972(98)00651-3",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Schmid",
+                "doi": "10.1116/1.581433",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hofer",
+                "doi": "10.1016/0304-3991(95)00015-S",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sundgren",
+                "doi": "10.1016/0040-6090(83)90318-8",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "Maya",
+                "doi": "10.1116/1.578778",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Maruyama",
+                "doi": "10.1063/1.117978",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Wang",
+                "doi": "10.1116/1.581314",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Langford",
+                "doi": "N/A",
+                "year": "1980"
+            },
+            {
+                "title": "N/A",
+                "authors": "Barna",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "Powder Diffraction File, Joint Committee on Powder Diffraction Standards, International Center for Diffraction Data, Swarthmore, PA, Cards 35-0753, 04-0836.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Time-periodic oscillations in suspension bridges: Existence of unique solutions",
+        "authors": [
+            "Berkovits J.",
+            "Dr\u00e1bek P.",
+            "Leinfelder H.",
+            "Mustonen V.",
+            "Taj\u010dov\u00e1 G."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "September 2000",
+        "doi": "10.1016/S0362-546X(99)00105-4",
+        "scopus_id": "0034258761",
+        "textType": "Journal",
+        "publicationName": "Nonlinear Analysis: Real World Applications",
+        "pageRange": "345-362",
+        "institutions": [
+            "Oulun Yliopisto"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 24,
+        "citedby_articles": [
+            {
+                "title": "ANALYSIS OF A NONLINEAR FISH-BONE MODEL FOR SUSPENSION BRIDGES WITH RIGID HANGERS IN THE PRESENCE OF FLOW EFFECTS",
+                "doi": "10.3934/dcds.2024164",
+                "year": "2025"
+            },
+            {
+                "title": "Periodic solutions of a beam equation with jumping nonlinearity",
+                "doi": "10.1007/s40314-024-02657-y",
+                "year": "2024"
+            },
+            {
+                "title": "ANALYSIS OF POSITIVE SOLUTIONS FOR A FOURTH-ORDER BEAM EQUATION WITH SIGN-CHANGING GREEN\u2019S FUNCTION",
+                "doi": "10.1216/jie.2024.36.493",
+                "year": "2024"
+            },
+            {
+                "title": "A new model for suspension bridges involving the convexification of the cables",
+                "doi": "10.1007/s00033-020-01316-6",
+                "year": "2020"
+            },
+            {
+                "title": "On fourth-order boundary value problem with singular data",
+                "doi": "10.1002/mma.6264",
+                "year": "2020"
+            },
+            {
+                "title": "Torsional instability and sensitivity analysis in a suspension bridge model related to the Melan equation",
+                "doi": "10.1016/j.cnsns.2018.07.005",
+                "year": "2019"
+            },
+            {
+                "title": "Torsional instability in a nonlinear isolated model for suspension bridges with fixed cables and extensible hangers",
+                "doi": "10.1093/imamat/hxy032",
+                "year": "2018"
+            },
+            {
+                "title": "Comparison of Known Existence Results for One-Dimensional Beam Models of\u00a0Suspension Bridges",
+                "doi": "10.1007/978-3-319-75647-9_13",
+                "year": "2018"
+            },
+            {
+                "title": "Loss of Energy Concentration in Nonlinear Evolution Beam Equations",
+                "doi": "10.1007/s00332-017-9386-1",
+                "year": "2017"
+            },
+            {
+                "title": "One-dimensional model of a suspension bridge: Revision of uniqueness results",
+                "doi": "10.1016/j.aml.2017.03.011",
+                "year": "2017"
+            },
+            {
+                "title": "Existence of infinitely many solutions of a beam equation with non-monotone nonlinearity",
+                "doi": "10.1016/j.nonrwa.2016.06.010",
+                "year": "2017"
+            },
+            {
+                "title": "Torsional instability in suspension bridges: The Tacoma Narrows Bridge case",
+                "doi": "10.1016/j.cnsns.2016.05.028",
+                "year": "2017"
+            },
+            {
+                "title": "Torsional asymmetry in suspension bridge systems",
+                "doi": "10.1007/s10492-015-0117-3",
+                "year": "2015"
+            },
+            {
+                "title": "Brief history of suspension bridges",
+                "doi": "10.1007/978-3-319-15434-3_1",
+                "year": "2015"
+            },
+            {
+                "title": "Spectral analysis connected with suspension bridge systems",
+                "doi": "10.1093/imamat/hxv027",
+                "year": "2014"
+            },
+            {
+                "title": "Two notions which affected nonlinear analysis (bernard bolzano lecture)",
+                "doi": "10.21136/mb.2014.144146",
+                "year": "2014"
+            },
+            {
+                "title": "Nonlinearity in oscillating bridges",
+                "doi": "N/A",
+                "year": "2013"
+            },
+            {
+                "title": "Sudden lateral asymmetry and torsional oscillations in the original Tacoma suspension bridge",
+                "doi": "10.1016/j.jsv.2013.02.011",
+                "year": "2013"
+            },
+            {
+                "title": "Nonlinear models of suspension bridges",
+                "doi": "10.1016/j.jmaa.2005.08.080",
+                "year": "2006"
+            },
+            {
+                "title": "Asymptotic behaviour of solutions to cable stayed bridge equations",
+                "doi": "10.1016/j.jmaa.2005.11.031",
+                "year": "2006"
+            },
+            {
+                "title": "Instability of oscillations in cable-stayed bridges",
+                "doi": "10.1007/s10492-005-0034-y",
+                "year": "2005"
+            },
+            {
+                "title": "Mathematical modelling of cable stayed bridges: Existence, uniqueness, continuous dependence on data, homogenization of cable systems",
+                "doi": "10.1023/B:APOM.0000024518.38660.a3",
+                "year": "2004"
+            },
+            {
+                "title": "Nonlinear models of suspension bridges: Discussion of the results",
+                "doi": "10.1023/B:APOM.0000024489.96314.7f",
+                "year": "2003"
+            },
+            {
+                "title": "Periodic solutions of nonlinear vibrating beams",
+                "doi": "10.1155/S1085337503301022",
+                "year": "2003"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Alonso",
+                "doi": "10.1006/jmaa.1995.1454",
+                "year": "1995"
+            },
+            {
+                "title": "O.V. Besov, V.P. Il'jin, S. M. Nikol'skij, Integral Representations of Functions and Embedding Theorems (Russian), Izd. Nauka, Moscow, 1975.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Choi",
+                "doi": "N/A",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek",
+                "doi": "10.4171/ZAA/35",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fonda",
+                "doi": "10.1016/0377-0427(94)90352-2",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Glover",
+                "doi": "10.1007/BF00944997",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kufner",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lazer",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lazer",
+                "doi": "10.1090/S0002-9939-1989-0942635-9",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lazer",
+                "doi": "10.1090/S0002-9947-1989-0979963-1",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lazer",
+                "doi": "10.1090/conm/107/1066474",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lazer",
+                "doi": "10.1137/1032120",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Leinfelder",
+                "doi": "10.1007/BF01258900",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "McKenna",
+                "doi": "10.1007/BF00251232",
+                "year": "1987"
+            },
+            {
+                "title": "G. Taj\u010dov\u00e1, Mathematical models of suspension bridges, Preprint University of West Bohemia no. 94, Pilsen, 1997, Appl. Math., to appear.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vejvoda",
+                "doi": "N/A",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "Weidmann",
+                "doi": "N/A",
+                "year": "1980"
+            }
+        ]
+    },
+    {
+        "title": "Numerical solution of the thermomechanical processes in the thin layer structure of thermal barrier",
+        "authors": [
+            "Kune\u0161 J."
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "2000",
+        "doi": "N/A",
+        "scopus_id": "0033687412",
+        "textType": "Journal",
+        "publicationName": "Computer Assisted Mechanics and Engineering Sciences",
+        "pageRange": "207-218",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Similarity and modeling in science and engineering",
+                "doi": "10.1007/978-1-907343-78-0",
+                "year": "2012"
+            },
+            {
+                "title": "Simulation of thermal barrier coating behaviour during dynamic thermal loading by the Exodus method",
+                "doi": "10.2495/CMEM070481",
+                "year": "2007"
+            },
+            {
+                "title": "TB dynamic behaviour during thermal shocks - Simulation and experiment",
+                "doi": "N/A",
+                "year": "2002"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Nonobtuse tetrahedral partitions",
+        "authors": [
+            "K?\ufffd?ek Michal",
+            "Pradlov\ufffd Jana"
+        ],
+        "year": "2000",
+        "coverDate": "2000-01-01",
+        "coverDisplayDate": "May 2000",
+        "doi": "10.1002/(SICI)1098-2426(200005)16:3<327::AID-NUM4>3.0.CO;2-V",
+        "scopus_id": "0008339131",
+        "textType": "Journal",
+        "publicationName": "Numerical Methods for Partial Differential Equations",
+        "pageRange": "327-334",
+        "institutions": [
+            "Institute of Mathematics of the Academy of Sciences of the Czech Republic"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 13,
+        "citedby_articles": [
+            {
+                "title": "Textile composite properties taking into account the preforming process",
+                "doi": "10.1016/B978-0-443-21578-0.00018-4",
+                "year": "2024"
+            },
+            {
+                "title": "Existence of Well-Centered Simplicial Face-to-Face Tiling of Five-Dimensional Space",
+                "doi": "10.1007/s00454-020-00195-y",
+                "year": "2021"
+            },
+            {
+                "title": "Simplicial partitions with applications to the finite element method",
+                "doi": "N/A",
+                "year": "2020"
+            },
+            {
+                "title": "Duality of isosceles tetrahedra",
+                "doi": "10.1007/s00022-019-0506-y",
+                "year": "2019"
+            },
+            {
+                "title": "A Geometric Toolbox for Tetrahedral Finite Element Partitions",
+                "doi": "10.2174/978160805291211101010103",
+                "year": "2011"
+            },
+            {
+                "title": "On angle conditions in the finite element nethod",
+                "doi": "10.1007/BF03322598",
+                "year": "2011"
+            },
+            {
+                "title": "On nonobtuse simplicial partitions",
+                "doi": "10.1137/060669073",
+                "year": "2009"
+            },
+            {
+                "title": "High performance FVFE multidomain numerical method to perform radionuclides transport calculations",
+                "doi": "N/A",
+                "year": "2007"
+            },
+            {
+                "title": "Global and local refinement techniques yielding nonobtuse tetrahedral partitions",
+                "doi": "10.1016/j.camwa.2005.08.012",
+                "year": "2005"
+            },
+            {
+                "title": "Voxel-based meshing and unit-cell analysis of textile composites",
+                "doi": "10.1002/nme.594",
+                "year": "2003"
+            },
+            {
+                "title": "Algorithms for automated meshing and unit cell analysis of periodic composites with hierarchical tri-quadratic tetrahedral elements",
+                "doi": "10.1002/nme.828",
+                "year": "2003"
+            },
+            {
+                "title": "2D and 3D finite element meshing and remeshing: A bibliography (1990-2001)",
+                "doi": "10.1108/eum0000000006495",
+                "year": "2001"
+            },
+            {
+                "title": "FInite element approximation of a nonlinear steady-state heat conduction problem",
+                "doi": "N/A",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Baker",
+                "doi": "10.1007/BF02187904",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gardner",
+                "doi": "10.1038/scientificamerican0160-150",
+                "year": "1960"
+            },
+            {
+                "title": "Automatic mesh generation, Wiley, New York, 1991.",
+                "authors": "George",
+                "doi": "N/A",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Joe",
+                "doi": "10.1137/0907035",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gerver",
+                "doi": "10.1007/BF00147425",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "K?\ufffd?ek",
+                "doi": "N/A",
+                "year": "1982"
+            },
+            {
+                "title": "and Mathematical and numerical modelling in electrical engineering: theory and applications, Kluwer Academic, Dordrecht, 1996.",
+                "authors": "K?\ufffd?ek",
+                "doi": "10.1007/978-94-015-8672-6",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "B\ufffdnsch",
+                "doi": "10.1016/0899-8248(91)90006-G",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bey",
+                "doi": "10.1007/BF02238487",
+                "year": "1995"
+            },
+            {
+                "title": "?The h - p version of the finite element method for solving boundary value problems in polyhedral domains,? Boundary value problems & integral equations in nonsmooth domains ( and (Editors), Marcel Dekker, New York, 1994, pp. 101-120.",
+                "authors": "Guo",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "K?\ufffd?ek",
+                "doi": "10.1002/(SICI)1098-2426(199703)13:2<201::AID-NUM5>3.0.CO;2-T",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ong",
+                "doi": "10.1137/0915070",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zhang",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "K?\ufffd?ek",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Feistauer",
+                "doi": "10.1002/(SICI)1098-2426(199703)13:2<163::AID-NUM3>3.0.CO;2-N",
+                "year": "1997"
+            },
+            {
+                "title": "and Weakened acute type condition for tetrahedral triangulations and the discrete maximum principle, Math Comp to appear.",
+                "authors": "Korotov",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "and The preprocessing and postprocessing for the finite element method, Shanghai Sci Tech, Shanghai, 1994, (in Chinese).",
+                "authors": "Lin",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Maubach",
+                "doi": "10.1137/0916014",
+                "year": "1995"
+            },
+            {
+                "title": "Survey of applicable mathematics, Vol. I, Kluwer Academic, Dordrecht, 1994.",
+                "authors": "Rektorys",
+                "doi": "10.1007/978-94-015-8308-4",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "K?\ufffd?ek",
+                "doi": "10.1137/0729031",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Apel",
+                "doi": "10.1007/BF02320197",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Senechal",
+                "doi": "10.2307/2689983",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "Goldberg",
+                "doi": "10.1016/0097-3165(74)90058-2",
+                "year": "1974"
+            }
+        ]
+    }
+]

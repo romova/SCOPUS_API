@@ -1,26 +1,23 @@
+# Data from: 17. 3. 2025, total 10990 WBU articles
 # Contains documents, for which we did not find references
-❌ Failed to retrieve references for DOI 10.1002/smll.202412161: 404
-❌ Failed to retrieve references for DOI 10.18420/sw2024_15: 404
-❌ Failed to retrieve references for DOI 10.26720/anthro.24.02.16.1: 404
-❌ Failed to retrieve references for DOI 10.7441/joc.2024.04.02: 404
-❌ Failed to retrieve references for DOI 10.23829/TSS.2024.31.2-2: 404
-❌ Failed to retrieve references for DOI 10.17892/app.2023.00016.327: 404
-❌ Failed to retrieve references for DOI 10.30420/566091222: 404
-❌ Failed to retrieve references for DOI 10.24423/EngTrans.3072.20230418: 404
+❌ Failed to retrieve references for DOI 10.32422/mv-cjir.1671: 404
+❌ Failed to retrieve references for DOI 10.12905/0380.sydowia73-2021-0245: 404
+❌ Failed to retrieve references for DOI 10.25990/hyperboreus.7hbf-qv74: 404
+❌ Failed to retrieve references for DOI 10.15199/48.2021.04.4: 404
 ❌ Failed to retrieve references for DOI 10.22068/IJEEE.18.4.2557: 404
 ❌ Failed to retrieve references for DOI 10.13135/1825-263X/6892: 404
 ❌ Failed to retrieve references for DOI 10.3897/compcytogen.v16.i4.85059: 404
 ❌ Failed to retrieve references for DOI 10.17344/acsi.2022.7250: 404
-❌ Failed to retrieve references for DOI 10.12905/0380.sydowia73-2021-0245: 404
-❌ Failed to retrieve references for DOI 10.25990/hyperboreus.7hbf-qv74: 404
-❌ Failed to retrieve references for DOI 10.15199/48.2021.04.4: 404
-❌ Failed to retrieve references for DOI 10.32422/mv-cjir.1671: 404
+❌ Failed to retrieve references for DOI 10.17892/app.2023.00016.327: 404
+❌ Failed to retrieve references for DOI 10.30420/566091222: 404
+❌ Failed to retrieve references for DOI 10.24423/EngTrans.3072.20230418: 404
+❌ Failed to retrieve references for DOI 10.18420/sw2024_15: 404
+❌ Failed to retrieve references for DOI 10.26720/anthro.24.02.16.1: 404
+❌ Failed to retrieve references for DOI 10.7441/joc.2024.04.02: 404
+❌ Failed to retrieve references for DOI 10.23829/TSS.2024.31.2-2: 404
 ❌ Failed to retrieve references for DOI 10.1784/cm.2019.134: 404
 ❌ Failed to retrieve references for DOI 10.1784/cm.2019.128: 404
 ❌ Failed to retrieve references for DOI 10.1784/cm.2019.137: 404
-❌ Failed to retrieve references for DOI 10.1784/cm.2019.131: 404
-❌ Failed to retrieve references for DOI 10.1784/cm.2019.125: 404
-⚠️ Error retrieving references for DOI 10.1201/9780429324710-105: HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
 ❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/947: 404
 ❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/966: 404
 ❌ Failed to retrieve references for DOI 10.21062/ujep/408.2019/a/1213-2489/MT/19/6/941: 404
@@ -47,6 +44,39 @@
 ❌ Failed to retrieve references for DOI 10.1515/danb-2017-0013: 404
 ❌ Failed to retrieve references for DOI 10.4230/LIPIcs.ECOOP.2017.10: 404
 ❌ Failed to retrieve references for DOI 10.4230/LIPIcs.ECOOP.2017.9: 404
-❌ API Request Failed: 400
-{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Exceeds the number of search results"}}}
-✅ 5000 articles saved to: all_articles_by_institution_cited_5025_.json
+❌ Failed to retrieve references for DOI 10.7449/2017/MST-2017-1161-1163: 404
+❌ Failed to retrieve references for DOI 10.1515/if-2017-0020: 404
+❌ Failed to retrieve references for DOI 10.13137/2464-8728/16201: 404
+❌ Failed to retrieve references for DOI 10.21437/Interspeech.2017-2024: 404
+❌ Failed to retrieve references for DOI 10.24352/UB.OVGU-2017-117: 404
+❌ Failed to retrieve references for DOI 10.21437/Interspeech.2017-2026: 404
+❌ Failed to retrieve references for DOI 10.4230/LIPIcs.ECOOP.2016.12: 404
+❌ Failed to retrieve references for DOI 10.18520/cs/v110/i8/1524-1531: 404
+❌ Failed to retrieve references for DOI 10.4324/9781315259659-22: 404
+❌ Failed to retrieve references for DOI 10.1115/IMECE201665613: 404
+❌ Failed to retrieve references for DOI 10.1115/IMECE201665251: 404
+❌ Failed to retrieve references for DOI 10.1115/IMECE201665480: 404
+❌ Failed to retrieve references for DOI 10.1115/IMECE201665479: 404
+❌ Failed to retrieve references for DOI 10.14446/FI.2016.223: 404
+❌ Failed to retrieve references for DOI 10.1007/978-3-319-45246-334: 404
+❌ Failed to retrieve references for DOI 10.9774/GLEAF.9781315673790_44: 404
+❌ Failed to retrieve references for DOI 10.15598/aeee.v13i4.1401: 404
+❌ Failed to retrieve references for DOI 10.6567/IFToMM.14TH.WC.OS1.013: 404
+❌ Failed to retrieve references for DOI 10.6567/IFToMM.14TH.WC.OS4.007: 404
+❌ Failed to retrieve references for DOI 10.12915/pe.2014.12.64: 404
+❌ Failed to retrieve references for DOI 10.12915/pe.2014.12.31: 404
+❌ Failed to retrieve references for DOI 10.4230/LIPIcs.APPROX-RANDOM.2014.490: 404
+❌ Failed to retrieve references for DOI 10.1007/978-3-642-37222-3__51: 404
+❌ Failed to retrieve references for DOI 10.1007/978-94-017-9136-6__17: 404
+❌ Failed to retrieve references for DOI 10.1017S000497271300083X: 404
+❌ Failed to retrieve references for DOI 10.3140/bull.qeosci.1416: 404
+❌ Failed to retrieve references for DOI 10.1007/978-3-642-37222-3__71: 404
+❌ Failed to retrieve references for DOI 10.3970/cmc.2013.033.257: 404
+❌ Failed to retrieve references for DOI 10.3303/CET1333168: 404
+❌ Failed to retrieve references for DOI 10.4149/km-2010-6-367: 404
+❌ Failed to retrieve references for DOI 10.3182/20090706-3-FR-2004.0198: 404
+❌ Failed to retrieve references for DOI 10.3182/20090706-3-FR-2004.0276: 404
+❌ Failed to retrieve references for DOI 10.3182/20090630-4-ES-2003.0155: 404
+❌ Failed to retrieve references for DOI 10.3182/20090630-4-ES-2003.0157: 404
+❌ Failed to retrieve references for DOI 10.3182/20090706-3-FR-2004.0201: 404
+❌ Failed to retrieve references for DOI 10.1007/978-0-230-59956-7_11: 404

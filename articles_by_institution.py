@@ -77,14 +77,14 @@ def get_citing_articles(scopus_id):
 
 
 # 🔹 Function to get articles from an institution
-def get_articles_by_institution(institution, count=25, start=5025):
+def get_articles_by_institution(institution, count=25, start=5025, year=2025):
     articles = []
 
     while True:
         print(f"🔄 Fetching articles from index {start}...")
 
         # 🔹 Construct API URL with pagination
-        url = f"https://api.elsevier.com/content/search/scopus?start={start}&count={count}&httpaccept=application/json&query=AFFIL({institution})"
+        url = f"https://api.elsevier.com/content/search/scopus?start={start}&count={count}&httpaccept=application/json&query=AFFIL({institution})&date={year}"
 
         # 🔹 Make API Request
         response = requests.get(url, headers=SCOPUS_HEADERS)
@@ -149,7 +149,7 @@ def get_articles_by_institution(institution, count=25, start=5025):
         start += count
 
         # 🔹 Optional: Avoid hitting API rate limits
-        time.sleep(1)  # Delay to prevent excessive requests
+        time.sleep(0.4)  # Delay to prevent excessive requests
 
     return articles
 
@@ -166,14 +166,16 @@ SCOPUS_HEADERS = {
     "Accept": "application/json"
 }
 
+year = 2025
+
 # 🔹 Target Institution
 INSTITUTION_NAME = "University of West Bohemia"
 
 # 🔹 Fetch all articles
-articles_data = get_articles_by_institution(INSTITUTION_NAME, start=0)
+articles_data = get_articles_by_institution(INSTITUTION_NAME, 25, 0, year)
 
 # 🔹 Save results to JSON
-file_name = "all_articles_by_institution_cited_5025_.json"
+file_name = f"data_by_year/all_articles_by_institution_cited_{year}.json"
 if articles_data:
     with open(file_name, "w") as f:
         json.dump(articles_data, f, indent=4)

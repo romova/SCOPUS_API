@@ -1,0 +1,141 @@
+[
+    {
+        "title": "Semilinear boundary value problems at resonance with general nonlinearities",
+        "authors": [
+            "Dr\u00e1bek P."
+        ],
+        "year": "1992",
+        "coverDate": "1992-01-01",
+        "coverDisplayDate": "March 1992",
+        "doi": "N/A",
+        "scopus_id": "84972507053",
+        "textType": "Journal",
+        "publicationName": "Differential and Integral Equations",
+        "pageRange": "339-355",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 11,
+        "citedby_articles": [
+            {
+                "title": "Existence of H\u00f6lder Continuous Solutions for a Class of Degenerate Fourth-Order Elliptic Equations",
+                "doi": "10.1007/s00009-022-02090-7",
+                "year": "2022"
+            },
+            {
+                "title": "Morrey estimates for a class of noncoercive elliptic systems with VMO-coefficients",
+                "doi": "10.4171/RLM/938",
+                "year": "2021"
+            },
+            {
+                "title": "On the existence of weak solutions to a class of nonlinear elliptic systems with drift term",
+                "doi": "10.1016/j.jmaa.2020.124370",
+                "year": "2020"
+            },
+            {
+                "title": "Morrey estimates for a class of elliptic equations with drift term",
+                "doi": "10.1515/anona-2020-0055",
+                "year": "2020"
+            },
+            {
+                "title": "An introduction to nonlinear analysis and fixed point theory",
+                "doi": "10.1007/978-981-10-8866-7",
+                "year": "2018"
+            },
+            {
+                "title": "Professor Franco Nicolosi, a short mathematical biography",
+                "doi": "10.1080/17476933.2011.629044",
+                "year": "2011"
+            },
+            {
+                "title": "Resonant semilinear problems with nonlinear term depending on the derivative",
+                "doi": "10.1016/j.jmaa.2004.03.027",
+                "year": "2004"
+            },
+            {
+                "title": "Semilinear elliptic problems with nonlinearities depending on the derivative",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "On the solvability of a nonselfadjoint quasilinear elliptic boundary value problem",
+                "doi": "10.11650/twjm/1500407478",
+                "year": "2002"
+            },
+            {
+                "title": "On the solvability of semilinear differential equations at resonance",
+                "doi": "10.1017/s0013091500020721",
+                "year": "2000"
+            },
+            {
+                "title": "On semilinear problems with nonlinearities depending only on derivatives",
+                "doi": "10.1137/S0036141094261082",
+                "year": "1996"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Optimization of mechanical systems parameters in transient vibration",
+        "authors": [
+            "Zeman V",
+            "Dupal J",
+            "Hlav\u00e1\u010d Z"
+        ],
+        "year": "1992",
+        "coverDate": "1992-01-01",
+        "coverDisplayDate": "May 1992",
+        "doi": "10.1016/0094-114X(92)90025-D",
+        "scopus_id": "0026855349",
+        "textType": "Journal",
+        "publicationName": "Mechanism and Machine Theory",
+        "pageRange": "349-356",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Identification of transient phenomena occurring at the initiation and termination of wheelset sliding",
+                "doi": "10.3846/16484142.2012.668498",
+                "year": "2012"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Zeman",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zeman",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dowrick",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zeman",
+                "doi": "10.1016/0094-114X(87)90027-9",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haug",
+                "doi": "N/A",
+                "year": "1979"
+            }
+        ]
+    }
+]

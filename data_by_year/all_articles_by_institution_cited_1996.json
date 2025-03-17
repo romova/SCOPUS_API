@@ -1,0 +1,1631 @@
+[
+    {
+        "title": "Speaker recognition using raw speech data as features",
+        "authors": [
+            "Radov\u00e1 V."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "3342990121",
+        "textType": "Conference Proceeding",
+        "publicationName": "ITG-Fachbericht",
+        "pageRange": "73-76",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Perturbed p-Laplacian in R<sup>N</sup>: Bifurcation from the principal eigenvalue",
+        "authors": [
+            "Dr\u00e1bek Pavel",
+            "Huang Yin Xi"
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1 December 1996",
+        "doi": "10.1006/jmaa.1996.0455",
+        "scopus_id": "0030526944",
+        "textType": "Journal",
+        "publicationName": "Journal of Mathematical Analysis and Applications",
+        "pageRange": "582-608",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "A global bifurcation result for generalized laplace operators in R<sup>n</sup>",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Global bifurcation of the p-Laplacian in R<sup>N</sup>",
+                "doi": "10.1016/j.na.2008.03.055",
+                "year": "2009"
+            },
+            {
+                "title": "On the dynamics of a degenerate parabolic equation: Global bifurcation of stationary states and convergence",
+                "doi": "10.1007/s00526-005-0347-4",
+                "year": "2006"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Computation of inductances for iron-free coils of general shapes",
+        "authors": [
+            "Reif J."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "0030315603",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "359-372",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Analysis and Calculation of the Effective Length of a Reader Solenoid Coil Coupled to Rapidly Moving Microtag",
+                "doi": "10.1109/LAWP.2018.2821661",
+                "year": "2018"
+            },
+            {
+                "title": "Inductance of coil in nonhomogenous surrounding",
+                "doi": "10.1109/TMAG.2009.2012564",
+                "year": "2009"
+            },
+            {
+                "title": "A method of calculation of mutual- and self-inductances for iron-free coils",
+                "doi": "N/A",
+                "year": "2001"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Nonstationary thermal field in the induction heating system with axial symmetry",
+        "authors": [
+            "Kurek K."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "0030315543",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "405-417",
+        "institutions": [
+            "Silesian University of Technology"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 2,
+        "citedby_articles": [
+            {
+                "title": "Inverse heat transfer solution of the heat flux due to induction heating",
+                "doi": "10.1115/1.1949617",
+                "year": "2005"
+            },
+            {
+                "title": "Induction heating as coupled or non-coupled electromagnetic and thermal problems",
+                "doi": "N/A",
+                "year": "1997"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Equation of state for superheated steam in the range from 800 to 2000 \u00b0C and pressures up to 10 MPa",
+        "authors": [
+            "Mare\u0161 R."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "0030315242",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "647-652",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "The IAPWS industrial formulation 1997 for the thermodynamic properties of water and steam",
+                "doi": "10.1115/1.483186",
+                "year": "2000"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "A circuit approach to the computation of the electric field of floating electrodes",
+        "authors": [
+            "Mayer D."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "0030315158",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "1-14",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Mathematical model of asynchronous motor fed through two voltage inverters",
+        "authors": [
+            "Barto\u0161 V."
+        ],
+        "year": "1996",
+        "coverDate": "1996-12-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "0030313874",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "437-457",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 2,
+        "citedby_articles": [
+            {
+                "title": "Dynamic properties of traction drive with induction motor in transient regime consequent on interruption of energy supply",
+                "doi": "N/A",
+                "year": "2002"
+            },
+            {
+                "title": "Dynamic properties of induction motor fed from voltage convertor",
+                "doi": "N/A",
+                "year": "2000"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Study of UV laser ablation of nitrided steels using inductively coupled plasma atomic emission spectrometry",
+        "authors": [
+            "Kanick\u00fd Viktor",
+            "Musil Jan",
+            "Benda Marcel",
+            "Mermet Jean-Michel"
+        ],
+        "year": "1996",
+        "coverDate": "1996-08-01",
+        "coverDisplayDate": "August 1996",
+        "doi": "10.1135/cccc19961167",
+        "scopus_id": "21444458729",
+        "textType": "Journal",
+        "publicationName": "Collection of Czechoslovak Chemical Communications",
+        "pageRange": "1167-1176",
+        "institutions": [
+            "Masaryk University"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 5,
+        "citedby_articles": [
+            {
+                "title": "Calibration graphs for steels by IR laser ablation inductively coupled plasma atomic emission spectrometry",
+                "doi": "10.1007/s002160100805",
+                "year": "2001"
+            },
+            {
+                "title": "Analysis of tungsten carbide coatings by UV laser ablation inductively coupled plasma atomic emission spectrometry",
+                "doi": "10.1016/S0584-8547(00)00167-1",
+                "year": "2000"
+            },
+            {
+                "title": "Depth profiling of tin-coated glass by laser ablation inductively coupled plasma emission spectrometry with acoustic signal measurement",
+                "doi": "10.1007/s002160050045",
+                "year": "2000"
+            },
+            {
+                "title": "Study of laser ablation of brass materials using inductively coupled plasma atomic emission spectrometric detection",
+                "doi": "10.1016/S0584-8547(98)00082-2",
+                "year": "1998"
+            },
+            {
+                "title": "Depth profiling of thick layers of graded metal-zirconia ceramic coatings using laser ablation inductively coupled plasma atomic emission spectrometry",
+                "doi": "10.1366/0003702971941467",
+                "year": "1997"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "A Tauberian theorem for distributions",
+        "authors": [
+            "\u010c\u00ed\u017eek J."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "N/A",
+        "scopus_id": "85068119103",
+        "textType": "Journal",
+        "publicationName": "Commentationes Mathematicae Universitatis Carolinae",
+        "pageRange": "479-488",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Asymptotic behavior of generalized functions",
+                "doi": "10.1142/8266",
+                "year": "2011"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Weak Solutions of Degenerated Quasilinear Elliptic Equations of Higher Order",
+        "authors": [
+            "Dr\u00e1bek Pavel",
+            "Kufner Alois",
+            "Nicolosi Francesco"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "10.1155/S0161171296000956",
+        "scopus_id": "84958301251",
+        "textType": "Journal",
+        "publicationName": "International Journal of Mathematics and Mathematical Sciences",
+        "pageRange": "689-706",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": []
+    },
+    {
+        "title": "Two-level preconditioner with small coarse grid appropriate for unstructured meshes",
+        "authors": [
+            "K\u0159\u00ed\u017ekov\u00e1 Jitka",
+            "Van\u011bk Petr"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "10.1002/(SICI)1099-1506(199607/08)3:4<255::AID-NLA77>3.0.CO;2-2",
+        "scopus_id": "21344472759",
+        "textType": "Journal",
+        "publicationName": "Numerical Linear Algebra with Applications",
+        "pageRange": "255-274",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 5,
+        "citedby_articles": [
+            {
+                "title": "Nearly optimal convergence result for multigrid with aggressive coarsening and polynomial smoothing",
+                "doi": "10.1007/s10492-013-0018-2",
+                "year": "2013"
+            },
+            {
+                "title": "An improved convergence analysis of smoothed aggregation algebraic multigrid",
+                "doi": "10.1002/nla.775",
+                "year": "2012"
+            },
+            {
+                "title": "Efficient parallel AMG methods for approximate solutions of linear systems in CFD applications",
+                "doi": "10.1137/090774860",
+                "year": "2010"
+            },
+            {
+                "title": "Convergence of algebraic multigrid based on smoothed aggregation",
+                "doi": "10.1007/s211-001-8015-y",
+                "year": "2001"
+            },
+            {
+                "title": "Two-grid method for linear elasticity on unstructured meshes",
+                "doi": "10.1137/S1064827596297112",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "and . Finite Element Solution of Boundary Value Problems. Academic Press, 1984.",
+                "authors": "Axelsson",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "Iterative methods for solving boundary value problems of elasticity. (In Czech), thesis 1987.",
+                "authors": "Blaheta",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Brandt",
+                "doi": "10.1016/0096-3003(86)90095-0",
+                "year": "1986"
+            },
+            {
+                "title": "and . Domain decomposition and multigrid algorithms for elliptic problems on unstructured meshes. Tech. Report 93-42, CAM, 1993.",
+                "authors": "Chan",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "Multigrid Methods and Applications, Springer-Verlag, 1985.",
+                "authors": "Hackbusch",
+                "doi": "10.1007/978-3-662-02427-0",
+                "year": "1985"
+            },
+            {
+                "title": ", and . On the construction of preconditioning operators, extended version of a lecture given at the multigrid seminar in Oberwolfach (FRG), October 1987.",
+                "authors": "Jung",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "K\u0159\u00ed\u017ekov\u00e1",
+                "doi": "10.21136/AM.1994.134264",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "K\u0159\u00ed\u017ekov\u00e1",
+                "doi": "10.21136/AM.1994.134265",
+                "year": "1984"
+            },
+            {
+                "title": "Introduction to Linear and Nonlinear Programming, Addison-Wesley, New York 1973.",
+                "authors": "Luenberger",
+                "doi": "N/A",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mandel",
+                "doi": "10.1002/cnm.1640090307",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mavriplis",
+                "doi": "N/A",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "M\u00edka",
+                "doi": "10.21136/AM.1992.104488",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "van der Sluis",
+                "doi": "10.1007/BF01389450",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "10.21136/AM.1995.134274",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "10.21136/AM.1992.104509",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Toughness and Hamiltonicity in Almost Claw-Free Graphs",
+        "authors": [
+            "Broersma H.J.",
+            "Ryj\ufffd?ek Z.",
+            "Schiermeyer I."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "April 1996",
+        "doi": "10.1002/(SICI)1097-0118(199604)21:4<431::AID-JGT9>3.0.CO;2-Q",
+        "scopus_id": "1542580430",
+        "textType": "Journal",
+        "publicationName": "Journal of Graph Theory",
+        "pageRange": "431-439",
+        "institutions": [
+            "Universiteit Twente"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 13,
+        "citedby_articles": [
+            {
+                "title": "A Fan-type condition for cycles in 1-tough and k-connected (P<inf>2</inf>\u202f\u222a\u202fkP<inf>1</inf>)-free graphs",
+                "doi": "10.1016/j.amc.2025.129300",
+                "year": "2025"
+            },
+            {
+                "title": "Neighborhood union conditions for hamiltonicity of P<inf>3</inf>-dominated graphs II",
+                "doi": "N/A",
+                "year": "2016"
+            },
+            {
+                "title": "Neighborhood Union Conditions for Hamiltonicity of P <inf>3</inf>-Dominated Graphs",
+                "doi": "10.1007/s00373-013-1354-4",
+                "year": "2014"
+            },
+            {
+                "title": "Distance-dominating cycles in P<inf>3</inf>-dominated graphs",
+                "doi": "N/A",
+                "year": "2012"
+            },
+            {
+                "title": "Path factors and parallel knock-out schemes of almost claw-free graphs",
+                "doi": "10.1016/j.disc.2009.04.022",
+                "year": "2010"
+            },
+            {
+                "title": "Toughness and Matching Extension in P<inf>3</inf>-Dominated Graphs",
+                "doi": "10.1007/s00373-010-0939-4",
+                "year": "2010"
+            },
+            {
+                "title": "On hamiltonicity of P<inf>3</inf>-dominated graphs",
+                "doi": "10.1007/s00186-008-0260-7",
+                "year": "2009"
+            },
+            {
+                "title": "Hamiltonicity in partly claw-free graphs",
+                "doi": "10.1051/ro/2009007",
+                "year": "2009"
+            },
+            {
+                "title": "Circumferences of 2-connected claw-free graphs",
+                "doi": "N/A",
+                "year": "2003"
+            },
+            {
+                "title": "Neighborhood intersections and Hamiltonicity in almost claw-free graphs",
+                "doi": "10.1016/S0012-365X(00)00469-6",
+                "year": "2002"
+            },
+            {
+                "title": "Hamiltonian cycles in almost claw-free graphs",
+                "doi": "10.1007/PL00007257",
+                "year": "2001"
+            },
+            {
+                "title": "Longest cycles in almost claw-free graphs",
+                "doi": "10.1007/s003730070024",
+                "year": "2000"
+            },
+            {
+                "title": "Global insertion and hamiltonicity in DCT-graphs",
+                "doi": "10.1016/S0012-365X(97)00157-X",
+                "year": "1998"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Depth profile analysis of minor elements by GD-OES: Applications to diffusion phenomena",
+        "authors": [
+            "Weiss Zdene\u02d8k",
+            "Musil Jindr\u02d8ich",
+            "Vlc\u02d8ek Jaroslav"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "10.1007/PL00012709",
+        "scopus_id": "0346156639",
+        "textType": "Journal",
+        "publicationName": "Fresenius' Journal of Analytical Chemistry",
+        "pageRange": "188-192",
+        "institutions": [
+            "LECO Instrumente Plze\u0148"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Spectroscopies, scattering and diffraction techniques",
+                "doi": "10.1016/B978-044452787-5.00069-X",
+                "year": "2010"
+            },
+            {
+                "title": "Layer model approach to background correction in r.f.-GDOES",
+                "doi": "10.1002/sia.1929",
+                "year": "2004"
+            },
+            {
+                "title": "Elemental depth profiling of coated and surface-modified materials by GD-OES: Hard coatings on cutting tools",
+                "doi": "10.1016/S0040-6090(97)00586-5",
+                "year": "1997"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Shortest walks in almost claw-free graphs",
+        "authors": [
+            "Favaron O."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "April 1996",
+        "doi": "N/A",
+        "scopus_id": "0039930283",
+        "textType": "Journal",
+        "publicationName": "Ars Combinatoria",
+        "pageRange": "223-232",
+        "institutions": [
+            "Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Hamiltonicity and pancyclicity of cartesian products of graphs",
+                "doi": "10.1016/j.disc.2008.11.024",
+                "year": "2009"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Algebraic multigrid by smoothed aggregation for second and fourth order elliptic problems",
+        "authors": [
+            "Van\u011bk P.",
+            "Mandel J.",
+            "Brezina M."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "10.1007/BF02238511",
+        "scopus_id": "0030388574",
+        "textType": "Journal",
+        "publicationName": "Computing (Vienna/New York)",
+        "pageRange": "179-196",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 549,
+        "citedby_articles": [
+            {
+                "title": "FastAGMGar: An aggregation-based algebraic multigrid method",
+                "doi": "10.1016/j.cam.2025.116515",
+                "year": "2025"
+            },
+            {
+                "title": "Implementing the discontinuous-Galerkin finite element method using graph neural networks with application to diffusion equations",
+                "doi": "10.1016/j.neunet.2024.107061",
+                "year": "2025"
+            },
+            {
+                "title": "Multi-GPU Acceleration for Finite Element Analysis in Structural Mechanics",
+                "doi": "10.3390/app15031095",
+                "year": "2025"
+            },
+            {
+                "title": "Fast linear solvers for incompressible CFD simulations with compatible discrete operator schemes",
+                "doi": "10.1007/s40314-024-03003-y",
+                "year": "2025"
+            },
+            {
+                "title": "Structural zoom for linear composite materials based on adaptive mesh and homogenization",
+                "doi": "10.1007/s11012-025-01938-y",
+                "year": "2025"
+            },
+            {
+                "title": "MONOLITHIC ALGEBRAIC MULTIGRID PRECONDITIONERS FOR THE STOKES EQUATIONS",
+                "doi": "10.1137/23M1584514",
+                "year": "2025"
+            },
+            {
+                "title": "Massively parallel phase field fracture simulations on supercomputers: towards multi-billion degree-of-freedom computations",
+                "doi": "10.1186/s40323-024-00280-4",
+                "year": "2024"
+            },
+            {
+                "title": "Role of grain-level chemo-mechanics in composite cathode degradation of solid-state lithium batteries",
+                "doi": "10.1038/s41467-024-52123-w",
+                "year": "2024"
+            },
+            {
+                "title": "AIR multigrid with GMRES polynomials (AIRG) and additive preconditioners for Boltzmann transport",
+                "doi": "10.1016/j.jcp.2024.113342",
+                "year": "2024"
+            },
+            {
+                "title": "An approximate block factorization preconditioner for mixed-dimensional beam-solid interaction",
+                "doi": "10.1016/j.cma.2024.117256",
+                "year": "2024"
+            },
+            {
+                "title": "A split preconditioning scheme for nonlinear underdetermined least squares problems",
+                "doi": "10.1002/nla.2558",
+                "year": "2024"
+            },
+            {
+                "title": "2D Magnetotelluric Inversion Using Linear Finite Element Methods and a Discretize-Last Strategy With First and Second\u2013Order Anisotropic Regularization",
+                "doi": "10.1029/2024EA003680",
+                "year": "2024"
+            },
+            {
+                "title": "A deep learning algorithm to accelerate algebraic multigrid methods in finite element solvers of 3D elliptic PDEs",
+                "doi": "10.1016/j.camwa.2024.05.013",
+                "year": "2024"
+            },
+            {
+                "title": "Alya toward exascale: algorithmic scalability using PSCToolkit",
+                "doi": "10.1007/s11227-024-05989-y",
+                "year": "2024"
+            },
+            {
+                "title": "ALGEBRAIC MULTIGRID METHODS FOR METRIC-PERTURBED COUPLED PROBLEMS",
+                "doi": "10.1137/23M1572076",
+                "year": "2024"
+            },
+            {
+                "title": "Block preconditioning strategies for generalized continuum models with micropolar and nonlocal damage formulations",
+                "doi": "10.1002/nag.3707",
+                "year": "2024"
+            },
+            {
+                "title": "Hierarchical node method for solving large-scale sparse linear equations in parallel",
+                "doi": "10.1007/s10409-023-23350-x",
+                "year": "2024"
+            },
+            {
+                "title": "An Aggregation-Based Two-Grid Method for Multilevel Block Toeplitz Linear Systems",
+                "doi": "10.1007/s10915-023-02434-9",
+                "year": "2024"
+            },
+            {
+                "title": "Key features of numerical models for the FE-simulation of deep tunnel advance by the NATM",
+                "doi": "10.1016/j.undsp.2023.06.007",
+                "year": "2024"
+            },
+            {
+                "title": "AI-enhanced iterative solvers for accelerating the solution of large-scale parametrized systems",
+                "doi": "10.1002/nme.7372",
+                "year": "2024"
+            },
+            {
+                "title": "JPSOL: A Parallel Numerical Algebraic Solver Driven by Application Features",
+                "doi": "10.19596/j.cnki.1001-246x.8771",
+                "year": "2024"
+            },
+            {
+                "title": "Application-oriented Preconditioning of Seepage Mechanics",
+                "doi": "10.19596/j.cnki.1001-246x.8791",
+                "year": "2024"
+            },
+            {
+                "title": "A hybrid shifted Laplacian multigrid and domain decomposition preconditioner for the elastic Helmholtz equations",
+                "doi": "10.1016/j.jcp.2023.112622",
+                "year": "2024"
+            },
+            {
+                "title": "On Modifications and\u00a0Performance of\u00a0the\u00a0Hypre BoomerAMG Library Application to\u00a0Elliptic and\u00a0Saddle-Point Problems",
+                "doi": "10.1007/978-3-031-73372-7_10",
+                "year": "2024"
+            },
+            {
+                "title": "Predictive Multiscale Paradigm for Computational Design Certification",
+                "doi": "10.1016/B978-0-323-90646-3.00052-6",
+                "year": "2024"
+            }
+        ],
+        "references": [
+            {
+                "title": "Alcouffe, R. E., Brandt, A., Dendy, J. E., Painter J. W.: The multi-grid methods for the diffusion equation with strongly discontinuous coefficients. SIAM J. Sci. Stat. Comput.2, 430\u2013454 (1981).",
+                "authors": "R. E. Alcouffe",
+                "doi": "10.1137/0902035",
+                "year": "1981"
+            },
+            {
+                "title": "Bramble, J., Zhang, X.: Multigrid methods for the biharmonic problem discretized by conformingC 1 finite elements on nonnested meshes (submitted).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Bramble, J. H., Pasciak, J. E., Wang, J., Xu, J.: Convergence estimates for multigrip algorithms without regularity assumptions. Math. Comp.57, 23\u201345 (1991).",
+                "authors": "J. H. Bramble",
+                "doi": "10.1090/S0025-5718-1991-1079008-4",
+                "year": "1991"
+            },
+            {
+                "title": "Brandt, A.: Algebraic multigrid theory: The symmetric case. Appl. Math. Comput.19, 23\u201356 (1986).",
+                "authors": "A. Brandt",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "Brandt, A., McCormick, S. F., Ruge, J. W.: Algebraic multigrid (AMG) for sparse matrix equations. In: Sparsity and its applications (Evans, D. J., ed.), pp. 257\u2013284 Cambridge: Cambridge University Press 1985.",
+                "authors": "A. Brandt",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "Brenner, S. C.: An optimal order nonconforming multigrid method for the biharmonic equation. SIAM J. Numer. Anal.26, 1124\u20131138 (1989).",
+                "authors": "S. C. Brenner",
+                "doi": "10.1137/0726062",
+                "year": "1989"
+            },
+            {
+                "title": "Chan, T. F., Go, S., Zou, J.: Multilevel domain decomposition and multigrid methods for unstructured meshes: algorithms and theory. Tech. Report Cam 95-24, Dept. Math., UCLA, May 1995.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Dendy, J. E., Ida, M. P., Rutledge, J. M.: A semicoarsening multigrid algorithm for SIMD machines., SIAM J. Sci. Stat. Comput.13, 1460\u20131469 (1992).",
+                "authors": "J. E. Dendy",
+                "doi": "10.1137/0913082",
+                "year": "1992"
+            },
+            {
+                "title": "Hackbusch, W.: Multigrid methods and applications. Computational mathematics, Vol. 4. Berlin Heidelberg New York: Springer 1985.",
+                "authors": "W. Hackbusch",
+                "doi": "10.1007/978-3-662-02427-0",
+                "year": "1985"
+            },
+            {
+                "title": "Mandel, J.: Balancing domain decomposition. Comm. Numer. Meth. Eng.9, 233\u2013241 (1993).",
+                "authors": "J. Mandel",
+                "doi": "10.1002/cnm.1640090307",
+                "year": "1993"
+            },
+            {
+                "title": "Oswald, P.: Hierarchical conforming finite element methods for the biharmonic equation. SIAM J. Numer Anal.29, 1620\u20131625 (1992).",
+                "authors": "P. Oswald",
+                "doi": "10.1137/0729093",
+                "year": "1992"
+            },
+            {
+                "title": "Peisker, P., Braess, D.: A conjugate gradient method and a multigrid method for Morley's finite element approximation of the biharmonic equation. Numer. Math.50, 567\u2013586 (1987).",
+                "authors": "P. Peisker",
+                "doi": "10.1007/BF01408577",
+                "year": "1987"
+            },
+            {
+                "title": "Ruge, J. W.: Algebraic multigrid (AMG) for geodetic survey problems, in Prelimary Proc. Internat. Multigrid Conference, Fort Collins, CO, 1983, Institute for Computational Studies at Colorado State University.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Ruge, J. W., St\u00fcben, K.: Efficient solution of finite difference and finite element equations by algebraic multigrid (AMG), In: Multigrid methods for integral and differential equations (Paddon, D. J., Holstein, H., eds.), pp. 169\u2013212. The Institute of Mathematics and its Applications Conference Series, Oxford: Clarendon Press 1985.",
+                "authors": "J. W. Ruge",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "Ruge, J. W., St\u00fcben, K.: Algebraic multigrid (AMG) In: Multigrid methods (McCormick, S. F., ed.), pp. 73\u2013130, Philadelphia: SIAM 1987.",
+                "authors": "J. W. Ruge",
+                "doi": "10.1137/1.9781611971057.ch4",
+                "year": "1987"
+            },
+            {
+                "title": "Smith, R. A., Weiser, A.: Semicoarsening multigrid on a hypercube. SIAM J. Sci. Stat. Comput.13, 1314\u20131329 (1992).",
+                "authors": "R. A. Smith",
+                "doi": "10.1137/0913074",
+                "year": "1992"
+            },
+            {
+                "title": "St\u00fcben, K.: Algebraic multigrid (AMG): experiences and comparisons, Appl. Math. Comput.13, 419\u2013452 (1983).",
+                "authors": "K. St\u00fcben",
+                "doi": "N/A",
+                "year": "1983"
+            },
+            {
+                "title": "Van\u011bk, P.: Fast multigrid solver. Appl. Math.40, 1\u201320 (1995).",
+                "authors": "P. Van\u011bk",
+                "doi": "10.21136/AM.1995.134274",
+                "year": "1995"
+            },
+            {
+                "title": "Van\u011bk, P.: Acceleration of convergence of a two-level algorithm by smoothing transfer operator. Appl. Math.37, 265\u2013274 (1992).",
+                "authors": "P. Van\u011bk",
+                "doi": "10.21136/AM.1992.104509",
+                "year": "1992"
+            },
+            {
+                "title": "Van\u011bk, P., Mandel, J., Brezina, M.: Algebraic multigrid on unstructured meshes (Submitted).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Zhang, X.: Multilevel Schwarz methods for the biharmonic Dirichlet problem. SIAM J. Sci. Comput.15, 621\u2013644 (1994).",
+                "authors": "X. Zhang",
+                "doi": "10.1137/0915041",
+                "year": "1994"
+            }
+        ]
+    },
+    {
+        "title": "Three-dimensional shape optimization approach based on natural design variables and the boundary element method",
+        "authors": [
+            "Ko\u010dandrle P",
+            "Ko\u0161ka P"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "September 1996",
+        "doi": "10.1243/03093247V315377",
+        "scopus_id": "0030246701",
+        "textType": "Journal",
+        "publicationName": "Journal of Strain Analysis for Engineering Design",
+        "pageRange": "377-387",
+        "institutions": [
+            "Stress Calculation Group"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Shape design sensitivity analysis in elasticity using the boundary element method",
+                "doi": "10.1016/S0955-7997(01)00072-8",
+                "year": "2001"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Burczy\u0144cki T.",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1243/03093247V102063",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1243/03093247V284283",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haslinger J.",
+                "doi": "N/A",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0045-7825(88)90061-8",
+                "year": "N/A"
+            },
+            {
+                "title": "Ko\u010dandrle P. Shape optimization of plane elastic bodies, PhD Thesis, University of West Bohemia, Pilsen, 1995.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haug E. J.",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Banerjee P. K.",
+                "doi": "N/A",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1007/978-3-642-48860-3",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1002/nme.1620260709",
+                "year": "N/A"
+            },
+            {
+                "title": "Mota Soares C. A., Leal R. P., Choi K. K. \u2018Boundary elements in shape optimal design of structural components\u2019, in Computer Aided Optimal Design: Structural and Mechanical Systems, edited by C. A. Mota Soares, NATO ASI Series, Vol. F27, 1987 (Springer-Verlag, Berlin and Heidelberg), pp. 605\u2013631.",
+                "authors": "N/A",
+                "doi": "10.1007/978-3-642-83051-8_18",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0045-7825(89)90087-X",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1007/BF00236479",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haug E. J.",
+                "doi": "N/A",
+                "year": "1979"
+            }
+        ]
+    },
+    {
+        "title": "Line clipping in E<sup>2</sup> with O(1) processing complexity",
+        "authors": [
+            "Skala V\u00e1clav"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "July/August 1996",
+        "doi": "10.1016/0097-8493(96)00024-6",
+        "scopus_id": "0030182164",
+        "textType": "Journal",
+        "publicationName": "Computers and Graphics (Pergamon)",
+        "pageRange": "523-530",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 16,
+        "citedby_articles": [
+            {
+                "title": "A new fully projective O(lg N) line convex polygon intersection algorithm",
+                "doi": "10.1007/s00371-024-03413-3",
+                "year": "2025"
+            },
+            {
+                "title": "A Brief Survey of Clipping and Intersection Algorithms with a List of References (including Triangle-Triangle Intersections)",
+                "doi": "10.15388/23-INFOR508",
+                "year": "2023"
+            },
+            {
+                "title": "A Novel Line Convex Polygon Clipping Algorithm in E2 with Parallel Processing Modification",
+                "doi": "10.1007/978-3-030-86976-2_1",
+                "year": "2021"
+            },
+            {
+                "title": "A New Coding Scheme for Line Segment Clipping in E2",
+                "doi": "10.1007/978-3-030-86976-2_2",
+                "year": "2021"
+            },
+            {
+                "title": "Optimized line and line segment clipping in e2 and geometric algebra",
+                "doi": "10.33039/ami.2020.05.001",
+                "year": "2020"
+            },
+            {
+                "title": "Point-in-convex polygon and point-in-convex polyhedron algorithms with O(1) complexity using space subdivision",
+                "doi": "10.1063/1.4952270",
+                "year": "2016"
+            },
+            {
+                "title": "S-clip E<sup>2</sup>: A new concept of clipping algorithms",
+                "doi": "10.1145/2407156.2407200",
+                "year": "2012"
+            },
+            {
+                "title": "Point-in-polygon tests by convex decomposition",
+                "doi": "10.1016/j.cag.2007.03.002",
+                "year": "2007"
+            },
+            {
+                "title": "A new approach to line and line segment clipping in homogeneous coordinates",
+                "doi": "10.1007/s00371-005-0305-3",
+                "year": "2005"
+            },
+            {
+                "title": "2D point-in-polygon test by classifying edges into layers",
+                "doi": "10.1016/j.cag.2005.03.001",
+                "year": "2005"
+            },
+            {
+                "title": "An algorithm for line clipping against a polygon based on shearing transformation",
+                "doi": "10.1111/1467-8659.00626",
+                "year": "2002"
+            },
+            {
+                "title": "Hash function use for triangular mesh reconstruction",
+                "doi": "10.1117/12.477173",
+                "year": "2002"
+            },
+            {
+                "title": "A cell-based point-in-polygon algorithm suitable for large sets of points",
+                "doi": "10.1016/S0098-3004(01)00037-1",
+                "year": "2001"
+            },
+            {
+                "title": "Pre-processing approach for cutter interference removal",
+                "doi": "10.1080/00207540150504331",
+                "year": "2001"
+            },
+            {
+                "title": "The hash function and the principle of duality",
+                "doi": "N/A",
+                "year": "2001"
+            },
+            {
+                "title": "A fast algorithm for line clipping by convex polyhedron in E<sup>3</sup>",
+                "doi": "10.1016/s0097-8493(96)00084-2",
+                "year": "1997"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Skala",
+                "doi": "10.1016/0097-8493(94)90064-7",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Stolfi",
+                "doi": "N/A",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zachari\u00e1\u0161",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Nielsen",
+                "doi": "10.1111/1467-8659.1410003",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kolingerov\u00e1",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zachari\u00e1\u0161",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Skala",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Preparata",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Skala",
+                "doi": "10.1016/0097-8493(93)90030-D",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Skala",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Skala",
+                "doi": "N/A",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
+        "authors": [
+            "Musil J",
+            "Vl\u010dek J",
+            "Je\u017eek V",
+            "Benda M",
+            "Kub\u00e1sek M",
+            "Soukup L"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "June/August 1996",
+        "doi": "10.1016/0042-207x(96)00085-1",
+        "scopus_id": "0030164812",
+        "textType": "Journal",
+        "publicationName": "Vacuum",
+        "pageRange": "871-877",
+        "institutions": [
+            "Academy of Sciences of the Czech Republic"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 2,
+        "citedby_articles": [
+            {
+                "title": "Structural characteristics of titanium coating on copper substrates",
+                "doi": "10.1007/s12034-011-0118-0",
+                "year": "2011"
+            },
+            {
+                "title": "Combination of coating and heat treatment processes",
+                "doi": "10.1016/j.surfcoat.2006.08.042",
+                "year": "2006"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0257-8972(95)08353-7",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0257-8972(95)02556-1",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zlatanovi\u010d",
+                "doi": "10.1016/0257-8972(91)90124-F",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van Stappen",
+                "doi": "10.1016/0921-5093(91)90478-6",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haen",
+                "doi": "10.1016/0257-8972(93)90225-D",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sun",
+                "doi": "10.1016/0921-5093(91)90458-Y",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0257-8972(95)02582-0",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "An efficient algorithm for line clipping by convex and non-convex polyhedra in E<sup>3</sup>",
+        "authors": [
+            "Skala V\u00e1clav"
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "March 1996",
+        "doi": "10.1111/1467-8659.1510061",
+        "scopus_id": "0030105977",
+        "textType": "Journal",
+        "publicationName": "Computer Graphics Forum",
+        "pageRange": "61-68",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 18,
+        "citedby_articles": [
+            {
+                "title": "A new fully projective O(lg N) line convex polygon intersection algorithm",
+                "doi": "10.1007/s00371-024-03413-3",
+                "year": "2025"
+            },
+            {
+                "title": "Robust Line-Convex Polygon Intersection Computation in E<sup>2</sup> using Projective Space Representation",
+                "doi": "10.22630/MGV.2023.32.3.1",
+                "year": "2023"
+            },
+            {
+                "title": "A Brief Survey of Clipping and Intersection Algorithms with a List of References (including Triangle-Triangle Intersections)",
+                "doi": "10.15388/23-INFOR508",
+                "year": "2023"
+            },
+            {
+                "title": "A Novel Line Convex Polygon Clipping Algorithm in E2 with Parallel Processing Modification",
+                "doi": "10.1007/978-3-030-86976-2_1",
+                "year": "2021"
+            },
+            {
+                "title": "A New Coding Scheme for Line Segment Clipping in E2",
+                "doi": "10.1007/978-3-030-86976-2_2",
+                "year": "2021"
+            },
+            {
+                "title": "Methods for software visualization of large graph data structures",
+                "doi": "10.18517/ijaseit.10.1.10739",
+                "year": "2020"
+            },
+            {
+                "title": "Line and Polygon Clipping Techniques on Natural Images - A Mathematical Solution and Performance Evaluation",
+                "doi": "10.1142/S0219467819500128",
+                "year": "2019"
+            },
+            {
+                "title": "Modified skala's plane tested algorithm for line-polyhedron intersection",
+                "doi": "10.12988/ams.2015.52169",
+                "year": "2015"
+            },
+            {
+                "title": "Algorithms for line and plane intersection with a convex polyhedron with 0(sqrt(N)) expected complexity in E3",
+                "doi": "10.1145/2668975.2668976",
+                "year": "2014"
+            },
+            {
+                "title": "Line - Convex polyhedron intersection using vertex connections table",
+                "doi": "10.12988/ams.2014.4133",
+                "year": "2014"
+            },
+            {
+                "title": "Advanced sources and optical components for the McStas neutron scattering instrument simulation package",
+                "doi": "10.3233/JNR-130007",
+                "year": "2014"
+            },
+            {
+                "title": "Intersection of a line and a convex hull of points cloud",
+                "doi": "10.12988/ams.2013.37372",
+                "year": "2013"
+            },
+            {
+                "title": "A new approach to line and line segment clipping in homogeneous coordinates",
+                "doi": "10.1007/s00371-005-0305-3",
+                "year": "2005"
+            },
+            {
+                "title": "Extension of the Nicholls-Lee-Nichols algorithm to three dimensions",
+                "doi": "10.1007/s003710000094",
+                "year": "2001"
+            },
+            {
+                "title": "An algorithm for determining intersection segment-polygon in 3D",
+                "doi": "10.1016/s0097-8493(98)00064-8",
+                "year": "1998"
+            },
+            {
+                "title": "Fast algorithms for clipping lines and line segments in E<sup>2</sup>",
+                "doi": "10.1007/s003710050121",
+                "year": "1998"
+            },
+            {
+                "title": "A fast algorithm for line clipping by convex polyhedron in E<sup>3</sup>",
+                "doi": "10.1016/s0097-8493(96)00084-2",
+                "year": "1997"
+            },
+            {
+                "title": "Convex polyhedron-line intersection detection using dual representation",
+                "doi": "10.1007/s003710050088",
+                "year": "1997"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Functional Validation of Fault-Tolerant Asynchronous Algorithms",
+        "authors": [
+            "Hlavicka J.",
+            "Racek S.",
+            "Smrha P."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "1996",
+        "doi": "10.1109/EURMIC.1996.546376",
+        "scopus_id": "0007258586",
+        "textType": "Conference Proceeding",
+        "publicationName": "Proceedings - Euromicro Conference on Real-Time Systems",
+        "pageRange": "143-150",
+        "institutions": [
+            "Czech Technical University in Prague"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Dependability evaluation of time triggered architecture using simulation",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Model-based dependability evaluation method for TTP/C based systems",
+                "doi": "10.1007/3-540-36080-8_23",
+                "year": "2002"
+            },
+            {
+                "title": "Evaluation of process controller fault tolerance using simulation",
+                "doi": "10.1016/S0928-4869(00)00009-4",
+                "year": "2000"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1109/32.345827",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0743-7315(89)90034-8",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "racek",
+                "doi": "N/A",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "racek",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "0"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1109/32.54293",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1109/12.2189",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Formation of high temperature phases in sputter deposited Ti-based films below 100 \u00b0C",
+        "authors": [
+            "Musil J.",
+            "Bell A. J.",
+            "Vl\u010dek J.",
+            "Hurkmans T."
+        ],
+        "year": "1996",
+        "coverDate": "1996-01-01",
+        "coverDisplayDate": "July/August 1996",
+        "doi": "10.1116/1.580055",
+        "scopus_id": "0003570816",
+        "textType": "Journal",
+        "publicationName": "Journal of Vacuum Science and Technology A: Vacuum, Surfaces and Films",
+        "pageRange": "2247-2250",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 33,
+        "citedby_articles": [
+            {
+                "title": "Mechanisms of hardness enhancement in CrB<inf>2</inf> thin films with varying VB<inf>2</inf> concentrations",
+                "doi": "10.1016/j.jallcom.2024.177208",
+                "year": "2025"
+            },
+            {
+                "title": "Flexible hard nanocoatings with high thermal stability",
+                "doi": "10.1016/j.surfcoat.2023.130195",
+                "year": "2024"
+            },
+            {
+                "title": "The structure and mechanical properties of Cr-based Cr-Ti alloy films",
+                "doi": "10.1088/2053-1591/ac4883",
+                "year": "2022"
+            },
+            {
+                "title": "A review of coated nano- and micro-lattice materials",
+                "doi": "10.1557/s43578-021-00178-6",
+                "year": "2021"
+            },
+            {
+                "title": "Advanced sputtering technologies of flexible hard nanocoatings",
+                "doi": "N/A",
+                "year": "2021"
+            },
+            {
+                "title": "Investigation of the superelastic behavior of a Ti-16Zr-13Nb-2Sn sputtered film by nanoindentation",
+                "doi": "10.1016/j.surfcoat.2020.126690",
+                "year": "2021"
+            },
+            {
+                "title": "Structural Engineering of Nanocomposite Coatings Based on Tungsten and Titanium Carbides",
+                "doi": "10.1007/978-3-030-50794-7_54",
+                "year": "2020"
+            },
+            {
+                "title": "The effect of low titanium content on the phase composition, structure, and mechanical properties of magnetron sputtered WB<inf>2</inf>-TiB<inf>2</inf> films",
+                "doi": "10.1016/j.tsf.2018.07.042",
+                "year": "2018"
+            },
+            {
+                "title": "\u03b2- (Me<inf>1</inf>, Me<inf>2</inf>) and MeNx films deposited by magnetron sputtering: Novel heterostructural alloy and compound films",
+                "doi": "10.1016/j.surfcoat.2017.12.057",
+                "year": "2018"
+            },
+            {
+                "title": "Evaluating sputter deposited metal coatings on 3D printed polymer micro-truss structures",
+                "doi": "10.1016/j.matdes.2017.12.005",
+                "year": "2018"
+            },
+            {
+                "title": "The structural characterizations of Ti-17 alloy films prepared by magnetron sputtering",
+                "doi": "10.1016/j.apsusc.2017.09.045",
+                "year": "2018"
+            },
+            {
+                "title": "Microstructure and nanomechanical properties of co-deposited Ti-Cr films prepared by magnetron sputtering",
+                "doi": "10.1016/j.surfcoat.2017.07.005",
+                "year": "2017"
+            },
+            {
+                "title": "The phase, morphology and surface characterization of Ti-Mo alloy films prepared by magnetron sputtering",
+                "doi": "10.1039/c7ra10510j",
+                "year": "2017"
+            },
+            {
+                "title": "Amorphous Zr-Cu thin-film alloys with metallic glass behavior",
+                "doi": "10.1016/j.jallcom.2016.12.098",
+                "year": "2017"
+            },
+            {
+                "title": "Advanced hard coatings with enhanced toughness and resistance to cracking",
+                "doi": "10.1201/b18729",
+                "year": "2015"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "Nanocomposites deposited by reactive magnetron sputtering and their applications",
+                "doi": "N/A",
+                "year": "2013"
+            },
+            {
+                "title": "The Influence of Ta underlayers on the structure of TiO <inf>2</inf> thin films deposited on an unheated glass substrate",
+                "doi": "10.1016/j.apsusc.2012.05.088",
+                "year": "2012"
+            },
+            {
+                "title": "Photoactivated properties of TiO<inf>2</inf> films prepared by magnetron sputtering",
+                "doi": "10.1002/ppap.200731303",
+                "year": "2007"
+            },
+            {
+                "title": "Effect of Al addition on structure and properties of sputtered TiC films",
+                "doi": "10.1002/ppap.200730102",
+                "year": "2007"
+            },
+            {
+                "title": "Magnetron sputtered Ti-Si-C thin films prepared at low temperatures",
+                "doi": "10.1016/j.surfcoat.2007.01.025",
+                "year": "2007"
+            },
+            {
+                "title": "Effect of ion bombardment on properties of hard reactively sputtered Ti(Fe)N<inf>x</inf> films",
+                "doi": "10.1016/j.surfcoat.2003.09.007",
+                "year": "2004"
+            },
+            {
+                "title": "Structure-hardness relations in sputtered Ti-Al-V-N films",
+                "doi": "10.1016/S0040-6090(03)01096-4",
+                "year": "2003"
+            },
+            {
+                "title": "Magnetron sputtered Cr-Ni-N and Ti-Mo-N films: Comparison of mechanical properties",
+                "doi": "10.1016/S0257-8972(01)01250-6",
+                "year": "2001"
+            }
+        ],
+        "references": []
+    }
+]

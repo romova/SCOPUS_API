@@ -1,0 +1,3363 @@
+[
+    {
+        "title": "Induction heating of moving materials",
+        "authors": [
+            "Barglik J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "5544250224",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "515-527",
+        "institutions": [
+            "Silesian University of Technology"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 7,
+        "citedby_articles": [
+            {
+                "title": "Coupled temperature electromagnetic flow fields in the electromagnetic stirrer with a rotating magnetic field",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "Continual induction hardening of 3D steel bodies of specific geometries",
+                "doi": "N/A",
+                "year": "2007"
+            },
+            {
+                "title": "Electrodynamic feeder for accurate dosing of liquid non-ferrous metals",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "Mathematical modelling of continual induction surface hardening of axi-symmetric bodies",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "Mathematical and computer modelling of induction hardening",
+                "doi": "N/A",
+                "year": "2001"
+            },
+            {
+                "title": "Influence of input material data on accuracy of thermal calculations at induction heating",
+                "doi": "N/A",
+                "year": "2000"
+            },
+            {
+                "title": "Stationary temperature field in a non-magnetic thin plate heated by transversal harmonic electromagnetic field",
+                "doi": "N/A",
+                "year": "2000"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Maxwell stress tensor and forces in magnetic fields",
+        "authors": [
+            "Mayer D."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "11744289599",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "543-554",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "The synthesis of symmetrizing circuit for generalized three-phase network",
+        "authors": [
+            "Mayer D."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "11744254145",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "457-468",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "New approach to symmetrization of three-phase network",
+                "doi": "N/A",
+                "year": "2005"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Three-dimensional analysis of induction heating of non-magnetic plate with finite dimensions",
+        "authors": [
+            "Barglik J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "0542445191",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "361-373",
+        "institutions": [
+            "Silesian University of Technology"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 5,
+        "citedby_articles": [
+            {
+                "title": "Induction heating in transversal magnetic fieldMathematical modeling and experimental verification",
+                "doi": "N/A",
+                "year": "2009"
+            },
+            {
+                "title": "Analysis of weakly-coupled electromagnetic and temperature fields in transverse flux induction heating system for non-ferromagnetic strips",
+                "doi": "N/A",
+                "year": "2005"
+            },
+            {
+                "title": "3D analysis of coupled electromagnetic and temperature fields in transverse flux induction heating system supplied by current of mains frequency",
+                "doi": "N/A",
+                "year": "2004"
+            },
+            {
+                "title": "Influence of input material data on accuracy of thermal calculations at induction heating",
+                "doi": "N/A",
+                "year": "2000"
+            },
+            {
+                "title": "Stationary temperature field in a non-magnetic thin plate heated by transversal harmonic electromagnetic field",
+                "doi": "N/A",
+                "year": "2000"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Operation parameters and characteristics of a superconducting DC electromagnet for magnetic separation",
+        "authors": [
+            "Dole\u017eel I."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "0542399162",
+        "textType": "Journal",
+        "publicationName": "Acta Technica CSAV (Ceskoslovensk Akademie Ved)",
+        "pageRange": "217-231",
+        "institutions": [
+            "Academy of Sciences of the Czech Republic"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Design of power magnetic chute separator and minimization of its external magnetic field",
+                "doi": "10.1109/PTC.2005.4524561",
+                "year": "2005"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Experiments with Sodium Peroxoborate",
+        "authors": [
+            "Kraitr M."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "0347663798",
+        "textType": "Journal",
+        "publicationName": "Chemicke Listy",
+        "pageRange": "570",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": "N/A"
+    },
+    {
+        "title": "Algal flora of the \u010cerven\u00e9 blato peat bog (T\u0159ebo\u0148 Basin, Czech Republic)",
+        "authors": [
+            "Lederer F."
+        ],
+        "year": "1998",
+        "coverDate": "1998-12-01",
+        "coverDisplayDate": "1998",
+        "doi": "N/A",
+        "scopus_id": "0032322114",
+        "textType": "Journal",
+        "publicationName": "Preslia",
+        "pageRange": "303-311",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 9,
+        "citedby_articles": [
+            {
+                "title": "Effects of water levels on species diversity of silica-scaled chrysophytes in large tributaries of lake baikal",
+                "doi": "10.3897/abs.6.e52840",
+                "year": "2020"
+            },
+            {
+                "title": "Micro-scale distribution of algae in a Pyrenean peat-bog, Spain",
+                "doi": "N/A",
+                "year": "2015"
+            },
+            {
+                "title": "Diversity and ecology of desmids of peat bogs in the Jesen\u00edky Mts: Spatial distribution, remarkable finds",
+                "doi": "10.5507/fot.2012.009",
+                "year": "2012"
+            },
+            {
+                "title": "Algal community patterns in Slovenian bogs along environmental gradients",
+                "doi": "10.2478/s11756-010-0033-7",
+                "year": "2010"
+            },
+            {
+                "title": "The structure and species richness of the diatom assemblages of the Western Carpathian spring fens along the gradient of mineral richness",
+                "doi": "10.5507/fot.2009.035",
+                "year": "2009"
+            },
+            {
+                "title": "Synura obesa sp. nov. (Synurophyceae) and other silica-scaled chrysophytes from Abisko (Swedish Lapland)",
+                "doi": "10.1127/0029-5035/2008/0086-0243",
+                "year": "2008"
+            },
+            {
+                "title": "Diversity and ecology of desmids of peat bogs in the Jizersk\u00e9 hory Mts",
+                "doi": "10.2478/s11756-008-0139-3",
+                "year": "2008"
+            },
+            {
+                "title": "Distribution of diatoms and bryophytes on linear transects through spring fens",
+                "doi": "10.1127/0029-5035/2004/0078-0411",
+                "year": "2004"
+            },
+            {
+                "title": "Epiphytic diatoms of the spring fens in the flysh area of the Western Carpathians",
+                "doi": "N/A",
+                "year": "2003"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Existence of periodic solutions for a semilinear ordinary differential equation",
+        "authors": [
+            "Girg P."
+        ],
+        "year": "1998",
+        "coverDate": "1998-11-20",
+        "coverDisplayDate": "20 November 1998",
+        "doi": "N/A",
+        "scopus_id": "3342982870",
+        "textType": "Journal",
+        "publicationName": "Electronic Journal of Differential Equations",
+        "pageRange": "1-10",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Matrix functions nonregular on the convex hull of the spectrum",
+                "doi": "10.1080/03081087.2011.605362",
+                "year": "2012"
+            },
+            {
+                "title": "Norm estimates for functions of matrices with simple spectrum",
+                "doi": "10.1007/s12215-010-0016-0",
+                "year": "2010"
+            },
+            {
+                "title": "Meromorphic functions of matrix arguments and applications",
+                "doi": "10.1080/00036810903397453",
+                "year": "2009"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "2-factors and hamiltonicity",
+        "authors": [
+            "Ryj\u00e1\u010dek Zden\u011bk",
+            "Schiermeyer Ingo"
+        ],
+        "year": "1998",
+        "coverDate": "1998-09-28",
+        "coverDisplayDate": "28 September 1998",
+        "doi": "10.1016/S0012-365X(98)00104-6",
+        "scopus_id": "0041595374",
+        "textType": "Journal",
+        "publicationName": "Discrete Mathematics",
+        "pageRange": "171-177",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Anstee",
+                "doi": "10.1016/0196-6774(85)90022-7",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bondy",
+                "doi": "N/A",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Chv\u00e1tal",
+                "doi": "10.1016/0012-365X(73)90138-6",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dirac",
+                "doi": "N/A",
+                "year": "1952"
+            },
+            {
+                "title": "N/A",
+                "authors": "Enomoto",
+                "doi": "10.1002/jgt.3190090106",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Faudree",
+                "doi": "10.1007/BF01787418",
+                "year": "1995"
+            },
+            {
+                "title": "C. Hoede, A comparison of some conditions for non-hamiltonicity of graphs, Ars Combin., to appear.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ore",
+                "doi": "10.2307/2308928",
+                "year": "1960"
+            }
+        ]
+    },
+    {
+        "title": "Minimal 2-connected non-hamiltonian claw-free graphs",
+        "authors": [
+            "Brousek Jan"
+        ],
+        "year": "1998",
+        "coverDate": "1998-09-28",
+        "coverDisplayDate": "28 September 1998",
+        "doi": "10.1016/S0012-365X(98)00093-4",
+        "scopus_id": "0006718990",
+        "textType": "Journal",
+        "publicationName": "Discrete Mathematics",
+        "pageRange": "57-64",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 25,
+        "citedby_articles": [
+            {
+                "title": "Forbidden pairs of disconnected graphs for supereulerianity of connected graphs",
+                "doi": "10.1016/j.disc.2023.113663",
+                "year": "2024"
+            },
+            {
+                "title": "Minimal induced subgraphs of the class of 2-connected non-Hamiltonian wheel-free graphs",
+                "doi": "10.1016/j.disc.2022.113289",
+                "year": "2023"
+            },
+            {
+                "title": "Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs",
+                "doi": "10.1016/j.disc.2022.112869",
+                "year": "2022"
+            },
+            {
+                "title": "Induced Nets and Hamiltonicity of Claw-Free Graphs",
+                "doi": "10.1007/s00373-020-02265-7",
+                "year": "2021"
+            },
+            {
+                "title": "A characterization of 2-connected {K<inf>1,3</inf>,N<inf>3,1,1</inf>}-free non-Hamiltonian graphs",
+                "doi": "10.1016/j.disc.2021.112321",
+                "year": "2021"
+            },
+            {
+                "title": "Forbidden subgraphs for graphs with (near) perfect matching to be Hamiltonian",
+                "doi": "10.2989/16073606.2020.1752840",
+                "year": "2021"
+            },
+            {
+                "title": "Hamiltonicity of domination vertex-critical claw-free graphs",
+                "doi": "N/A",
+                "year": "2020"
+            },
+            {
+                "title": "Extremal problems on the Hamiltonicity of claw-free graphs",
+                "doi": "10.1016/j.disc.2018.06.023",
+                "year": "2018"
+            },
+            {
+                "title": "Minimal k-Connected Non-Hamiltonian Graphs",
+                "doi": "10.1007/s00373-018-1874-z",
+                "year": "2018"
+            },
+            {
+                "title": "Forbidden set of induced subgraphs for 2-connected supereulerian graphs",
+                "doi": "10.1016/j.disc.2017.08.006",
+                "year": "2017"
+            },
+            {
+                "title": "Forbidden pairs for spanning (closed) trails",
+                "doi": "10.1016/j.disc.2017.01.009",
+                "year": "2017"
+            },
+            {
+                "title": "Forbidden Pairs of Disconnected Graphs Implying Hamiltonicity",
+                "doi": "10.1002/jgt.22024",
+                "year": "2017"
+            },
+            {
+                "title": "Degree conditions restricted to induced paths for hamiltonicity of claw-heavy graphs",
+                "doi": "10.1007/s10114-016-5735-5",
+                "year": "2017"
+            },
+            {
+                "title": "Heavy subgraphs, stability and hamiltonicity",
+                "doi": "10.7151/dmgt.1967",
+                "year": "2017"
+            },
+            {
+                "title": "Induced subgraphs with large degrees at end-vertices for hamiltonicity of claw-free graphs",
+                "doi": "10.1007/s10114-016-4686-1",
+                "year": "2016"
+            },
+            {
+                "title": "Solution to a Problem on Hamiltonicity of Graphs Under Ore- and Fan-Type Heavy Subgraph Conditions",
+                "doi": "10.1007/s00373-015-1619-1",
+                "year": "2016"
+            },
+            {
+                "title": "Spectral radius and traceability of connected claw-free graphs",
+                "doi": "10.2298/FIL1609445N",
+                "year": "2016"
+            },
+            {
+                "title": "Algorithms for the recognition of net-free graphs and for computing maximum cardinality matchings in claw-free graphs",
+                "doi": "10.24846/v23i2y201406",
+                "year": "2014"
+            },
+            {
+                "title": "Forbidden subgraphs that imply 2-factors",
+                "doi": "10.1016/j.disc.2007.04.014",
+                "year": "2008"
+            },
+            {
+                "title": "A note on hamiltonicity of generalized net-free graphs of large diameter",
+                "doi": "10.1016/S0012-365X(01)00327-2",
+                "year": "2002"
+            },
+            {
+                "title": "Forbidden triples for hamiltonicity",
+                "doi": "10.1016/S0012-365X(01)00326-0",
+                "year": "2002"
+            },
+            {
+                "title": "Clique covering and degree conditions for hamiltonicity in claw-free graphs",
+                "doi": "10.1016/S0012-365X(00)00432-5",
+                "year": "2001"
+            },
+            {
+                "title": "Closure concepts: A survey",
+                "doi": "10.1007/s003730050002",
+                "year": "2000"
+            },
+            {
+                "title": "Linear time algorithms for Hamiltonian problems on (claw,net)-free graphs",
+                "doi": "10.1137/S0097539799357775",
+                "year": "2000"
+            },
+            {
+                "title": "Forbidden subgraphs, stability and hamiltonicity",
+                "doi": "10.1016/s0012-365x(99)90053-5",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Bedrossian",
+                "doi": "N/A",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bondy",
+                "doi": "N/A",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Broersma",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Broersma",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Duffus",
+                "doi": "N/A",
+                "year": "1980"
+            },
+            {
+                "title": "N/A",
+                "authors": "Duffus",
+                "doi": "N/A",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "Faudree",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Faudree",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fouquet",
+                "doi": "10.1006/jctb.1993.1052",
+                "year": "1993"
+            }
+        ]
+    },
+    {
+        "title": "Low-pressure magnetron sputtering",
+        "authors": [
+            "Musil J"
+        ],
+        "year": "1998",
+        "coverDate": "1998-07-01",
+        "coverDisplayDate": "1 July 1998",
+        "doi": "10.1016/s0042-207x(98)00068-2",
+        "scopus_id": "0032108846",
+        "textType": "Journal",
+        "publicationName": "Vacuum",
+        "pageRange": "363-372",
+        "institutions": [
+            "Academy of Sciences of the Czech Republic",
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 121,
+        "citedby_articles": [
+            {
+                "title": "Microstructure and Properties of Ni<inf>3</inf>N Composite Films on Ni-Based Nanosheets by Magnetron Sputtering",
+                "doi": "10.3390/coatings15020197",
+                "year": "2025"
+            },
+            {
+                "title": "Production of a high-density hydrogen plasma in a capacitively coupled RF discharge with a hollow cathode enclosed by magnets",
+                "doi": "10.1116/6.0003448",
+                "year": "2024"
+            },
+            {
+                "title": "Tunable, graded band-gap TiO<inf>2</inf> thin film solar cell deposited by HIPIMS on flexible substrate",
+                "doi": "10.1016/j.surfcoat.2023.130302",
+                "year": "2024"
+            },
+            {
+                "title": "Flexible hard nanocoatings with high thermal stability",
+                "doi": "10.1016/j.surfcoat.2023.130195",
+                "year": "2024"
+            },
+            {
+                "title": "Calculation Method of Target Erosion in the Planar DC Magnetron Sputtering",
+                "doi": "10.1109/CSTIC61820.2024.10531931",
+                "year": "2024"
+            },
+            {
+                "title": "Study of Plasma Particle Distribution and Electron Temperature in Cylindrical Magnetron Sputtering",
+                "doi": "10.1007/s11090-023-10425-9",
+                "year": "2024"
+            },
+            {
+                "title": "Deposition-controlled phase separation in CuNb metallic alloys",
+                "doi": "10.1016/j.tsf.2023.140083",
+                "year": "2023"
+            },
+            {
+                "title": "Recent Developments and Applications of TiN-Based Films Synthesized by Magnetron Sputtering",
+                "doi": "10.1007/s11665-023-08273-x",
+                "year": "2023"
+            },
+            {
+                "title": "Spatial distributions of the ion flux in a capacitive hydrogen RF discharge using a hollow cathode with double toroidal grooves enclosed by magnets",
+                "doi": "10.35848/1347-4065/acdb7f",
+                "year": "2023"
+            },
+            {
+                "title": "Spatial structures of rf ring-shaped magnetized sputtering plasmas with two facing cylindrical ZnO/Al<inf>2</inf>O<inf>3</inf> targets",
+                "doi": "10.35848/1347-4065/acc7aa",
+                "year": "2023"
+            },
+            {
+                "title": "On the Microcrystal Structure of Sputtered Cu Films Deposited on Si(100) Surfaces: Experiment and Integrated Multiscale Simulation",
+                "doi": "10.3390/molecules28124786",
+                "year": "2023"
+            },
+            {
+                "title": "Characteristics of novel rotational magnetron sputtering plasma sources with various magnet arrangements for target utilization saving resources",
+                "doi": "N/A",
+                "year": "2022"
+            },
+            {
+                "title": "Temporal evolution of the ion flux to the target in rotational RF multimagnetron plasma",
+                "doi": "10.1116/6.0001994",
+                "year": "2022"
+            },
+            {
+                "title": "Development of a cruciform radio-frequency closed magnetron sputtering source including four sectorial magnetron sputtering discharges for uniform target utilization",
+                "doi": "10.1016/j.vacuum.2022.111184",
+                "year": "2022"
+            },
+            {
+                "title": "Spatial profile of Al-ZnO thin film on polycarbonate deposited by ring-shaped magnetized rf plasma sputtering with two facing cylindrical Al<inf>2</inf>O<inf>3</inf> \u2013 ZnO targets",
+                "doi": "10.35848/1347-4065/ac4a01",
+                "year": "2022"
+            },
+            {
+                "title": "Effects of Synchronized Pulsed-bias on Microstructure and Properties of CrN Coatings Prepared by HiPIMS at Low Temperature",
+                "doi": "10.11933/j.issn.1007-9289.20210924004",
+                "year": "2022"
+            },
+            {
+                "title": "Plasma-Beam Processing of Tools Made of SiAlON Dielectric Ceramics to Increase Wear Resistance When Cutting Nickel\u2013Chromium Alloys",
+                "doi": "10.3390/coatings12040469",
+                "year": "2022"
+            },
+            {
+                "title": "Preparation of Water-Repellent Film on a Plastic Plate by Unbalanced Radio-Frequency Magnetron Plasma Sputtering Using PTFE Target for a Next-Generation Automobile Window",
+                "doi": "10.1007/s11090-021-10204-4",
+                "year": "2021"
+            },
+            {
+                "title": "Advanced sputtering technologies of flexible hard nanocoatings",
+                "doi": "N/A",
+                "year": "2021"
+            },
+            {
+                "title": "Structure characteristics of tio<inf>2</inf> thin films prepared by dc reactive magnetron sputtering at low pressure",
+                "doi": "10.14704/nq.2021.19.4.NQ21040",
+                "year": "2021"
+            },
+            {
+                "title": "Comparison of thermal properties of a hot target magnetron operated in DC and long HIPIMS modes",
+                "doi": "10.1016/j.surfcoat.2021.126889",
+                "year": "2021"
+            },
+            {
+                "title": "Microstructural analysis of novel Gd<inf>2</inf>Ti<inf>2</inf>O<inf>7</inf> thin films processed via sputter deposition",
+                "doi": "10.1016/j.matdes.2020.109430",
+                "year": "2021"
+            },
+            {
+                "title": "HiPIMS optimization by using mixed high-power and low-power pulsing",
+                "doi": "10.1088/1361-6595/abd79a",
+                "year": "2021"
+            },
+            {
+                "title": "Development of rotational maze-shaped RF magnetron plasma for successful target utilization and thin-film preparation",
+                "doi": "10.35848/1347-4065/abb758",
+                "year": "2021"
+            },
+            {
+                "title": "Characteristics of a rotational windmill-shaped radio frequency magnetron sputtering plasma for effective target utilization",
+                "doi": "10.1016/j.vacuum.2020.109593",
+                "year": "2020"
+            }
+        ],
+        "references": [
+            {
+                "title": "Thornton, J. A., Ann. Rev. Mater. Sci., 1997, 7, 239.",
+                "authors": "N/A",
+                "doi": "10.1146/annurev.ms.07.080177.001323",
+                "year": "N/A"
+            },
+            {
+                "title": "Thornton, J. A., Metal Finishing, 1979, 77(5), 83.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Kadlec, S., Musil, J. and Munz, W. D., J. Vac. Sci. Technol., 1990, A8, 1318.",
+                "authors": "N/A",
+                "doi": "10.1116/1.576874",
+                "year": "N/A"
+            },
+            {
+                "title": "Matsuoka, M., Hoshi, Y. and Naoe, M., J. Appl. Phys., 1986, 60, 2096.",
+                "authors": "N/A",
+                "doi": "10.1063/1.337214",
+                "year": "N/A"
+            },
+            {
+                "title": "Matsuoka, M. and Ono, K., Appl. Phys. Lett., 1988, 53, 2025.",
+                "authors": "N/A",
+                "doi": "10.1063/1.100310",
+                "year": "N/A"
+            },
+            {
+                "title": "Rhode, S. L., Hultman, L., Wong, M. S. and Sproul, W. D., Surf. Coat. Technol., 1992, 50, 255.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(92)90009-Y",
+                "year": "N/A"
+            },
+            {
+                "title": "Muralidhar, G. K., Musil, J. and Kadlec, S., J. Vac. Sci. Technol., 1996, A14(4), 2182.",
+                "authors": "N/A",
+                "doi": "10.1116/1.580044",
+                "year": "N/A"
+            },
+            {
+                "title": "Sproul, W. D., Surf. Coat. Technol., 1991, 49, 284.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(91)90070-D",
+                "year": "N/A"
+            },
+            {
+                "title": "Munz, W. D., Surf. Coat. Technol., 1991, 48, 81.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(91)90130-O",
+                "year": "N/A"
+            },
+            {
+                "title": "Efeoglu, I., Arnel, R. D., Tinston, S. F. and Teer, D. G., Surf. Coat. Technol., 1993, 57, 61.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(93)90337-N",
+                "year": "N/A"
+            },
+            {
+                "title": "Kadlec, S. and Musil, J., J. Vac. Sci. Technol., 1996, A13(2), 389.",
+                "authors": "N/A",
+                "doi": "10.1116/1.579369",
+                "year": "N/A"
+            },
+            {
+                "title": "Adachi, R. and Takeshita, K., J. Vac. Sci. Technol., 1982, 20, 98.",
+                "authors": "N/A",
+                "doi": "10.1116/1.571320",
+                "year": "N/A"
+            },
+            {
+                "title": "Cuomo, J. J. and Rossnagel, S. M., J. Vac. Sci. Technol., 1986, A4, 393.",
+                "authors": "N/A",
+                "doi": "10.1116/1.573889",
+                "year": "N/A"
+            },
+            {
+                "title": "Rossnagel, S. M. and Hopwood, J., J. Vac. Sci. Technol., 1994, B12(1), 449.",
+                "authors": "N/A",
+                "doi": "10.1116/1.587142",
+                "year": "N/A"
+            },
+            {
+                "title": "Yoshida, Y., Appl. Phys. Lett., 1992, 61(14), 1.",
+                "authors": "N/A",
+                "doi": "10.1063/1.108413",
+                "year": "N/A"
+            },
+            {
+                "title": "Misina, M. and Musil, J., Surf. Coat. Technol., 1995, 74\u201375, 450.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(95)08247-6",
+                "year": "N/A"
+            },
+            {
+                "title": "Musil, J., Misina, M. and Cepera, M., Czech J. Phys., 1996, 46(4), 353.",
+                "authors": "N/A",
+                "doi": "10.1007/BF01691694",
+                "year": "N/A"
+            },
+            {
+                "title": "Musil, J., Leipner, I. and Vleck, J., Round magnetron with grooved target, Contributed paper at 7th Joint Vacuum Conference of Hungary, Austria, Croatia and Slovenia, Debrecen, Hungary, 26\u201329 May, 1997.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Musil, J., Misina, M. and Hovorka, D., J. Vac. Sci. Technol., 1997, A15, 1999.",
+                "authors": "N/A",
+                "doi": "10.1116/1.580670",
+                "year": "N/A"
+            },
+            {
+                "title": "Hosokawa, N., Tsukada, T. and Misumi, T., J. Vac. Sci. Technol., 1997, A14, 143.",
+                "authors": "N/A",
+                "doi": "10.1116/1.569107",
+                "year": "N/A"
+            },
+            {
+                "title": "tbKukla, R., Krug, T., Ludwig, R. and Wilmes, K., Vacuum, 1990, 41, 1968.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Posadowski, W. M., Surf. Coat. Technol., 1991, 49, 290.",
+                "authors": "N/A",
+                "doi": "10.1016/0257-8972(91)90071-4",
+                "year": "N/A"
+            },
+            {
+                "title": "Posadowski, W. M., in Multicomponent and Multilayered Thin Films for Advanced Microtechnologies, ed. O. Auciello and J. Engemann, Kluwer Academic, Dordrecht, 1993, pp. 109\u2013113.",
+                "authors": "N/A",
+                "doi": "10.1007/978-94-011-1727-2_5",
+                "year": "N/A"
+            },
+            {
+                "title": "Asamaki, T., Mori, R. and Takagi, A., Jpn, J. Appl. Phys., 1994, 33, 2500.",
+                "authors": "N/A",
+                "doi": "10.1143/JJAP.33.2500",
+                "year": "N/A"
+            },
+            {
+                "title": "Kadlec, S. and Musil, J., J. Vac. Sci. Technol., 1995, A13(2), 2500.",
+                "authors": "N/A",
+                "doi": "10.1116/1.579369",
+                "year": "N/A"
+            },
+            {
+                "title": "Kadlec, S. and Musil, J., Vacuum, 1996, 47(3), 389.",
+                "authors": "N/A",
+                "doi": "10.1016/0042-207X(96)80013-3",
+                "year": "N/A"
+            },
+            {
+                "title": "Musil, J., Rajsky, A., Bell, A. J., Matous, J., Cepera, M. and Zeman, J., J. Vac. Sci. Technol., 1996, A14(4), 2187.",
+                "authors": "N/A",
+                "doi": "10.1116/1.580045",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Collisional-radiative model for an argon glow discharge",
+        "authors": [
+            "Bogaerts Annemie",
+            "Gijbels Renaat",
+            "Vlcek Jaroslav"
+        ],
+        "year": "1998",
+        "coverDate": "1998-07-01",
+        "coverDisplayDate": "1 July 1998",
+        "doi": "10.1063/1.368009",
+        "scopus_id": "0001440856",
+        "textType": "Journal",
+        "publicationName": "Journal of Applied Physics",
+        "pageRange": "121-136",
+        "institutions": [
+            "Universiteit Antwerpen"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 243,
+        "citedby_articles": [
+            {
+                "title": "Electron density measurements and calculations in a helium capacitively-coupled radio-frequency plasma",
+                "doi": "10.1088/1361-6595/adb178",
+                "year": "2025"
+            },
+            {
+                "title": "Effect of pressure and current density on metastable argon dynamics in low-pressure Ar-O<inf>2</inf> plasma",
+                "doi": "10.1088/1402-4896/ada315",
+                "year": "2025"
+            },
+            {
+                "title": "The quenching effect of oxygen addition on an argon capacitively coupled plasma: experimental and computational study of the argon metastable atom kinetics",
+                "doi": "10.1088/1361-6595/ada8d8",
+                "year": "2025"
+            },
+            {
+                "title": "On the Ar I 419.8 nm/751.5 nm (3p<inf>5</inf>/2p<inf>5</inf>) line intensity ratio for electric field measurement in dielectric barrier discharge in argon at atmospheric pressure",
+                "doi": "10.1088/1361-6595/adaa9b",
+                "year": "2025"
+            },
+            {
+                "title": "Helium line emission spectroscopy to measure plasma parameters using modeling and machine learning in low-temperature plasmas",
+                "doi": "10.1088/1361-6463/ad6007",
+                "year": "2024"
+            },
+            {
+                "title": "Optical actinometry for number density measurements in low-pressure plasmas: Advantages, error sources, and method validation",
+                "doi": "10.1063/5.0227576",
+                "year": "2024"
+            },
+            {
+                "title": "Self-consistent calculation of the optical emission spectrum of an argon capacitively coupled plasma based on the coupling of particle simulation with a collisional-radiative model",
+                "doi": "10.1088/1361-6463/ad4e42",
+                "year": "2024"
+            },
+            {
+                "title": "Empirical line ratios for optical emission spectroscopy in low-temperature, low-density, magnetised Ar plasmas",
+                "doi": "10.1088/1361-6463/ad5357",
+                "year": "2024"
+            },
+            {
+                "title": "Properties of the ionization region in a magnetron plasma at gas-aggregation-source-relevant pressure regime explored using a global model",
+                "doi": "10.1088/1361-6463/ad4a88",
+                "year": "2024"
+            },
+            {
+                "title": "Quantitative analysis of optical emission spectroscopy for plasma process monitoring",
+                "doi": "10.35848/1347-4065/ad3da0",
+                "year": "2024"
+            },
+            {
+                "title": "Optical emission spectroscopy of a plasma jet for biomedical applications",
+                "doi": "N/A",
+                "year": "2024"
+            },
+            {
+                "title": "First-principles simulation of optical emission spectra for low-pressure argon plasmas and its experimental validation",
+                "doi": "10.1088/1361-6595/ad0ede",
+                "year": "2023"
+            },
+            {
+                "title": "Development of diagnostics of electron density and temperature for atmospheric-pressure helium plasma based on optical emission spectroscopy analysis and a collisional-radiative model",
+                "doi": "10.35848/1347-4065/accc93",
+                "year": "2023"
+            },
+            {
+                "title": "Measurements of Electron Density, Temperature, and Absolute Metastable 1s<inf>3</inf>and 1s<inf>5</inf>States of Ar in Ar-CO DC Discharge Employing Emission Spectroscopy",
+                "doi": "10.1109/TPS.2023.3297520",
+                "year": "2023"
+            },
+            {
+                "title": "2022 Review of Data-Driven Plasma Science",
+                "doi": "10.1109/TPS.2023.3268170",
+                "year": "2023"
+            },
+            {
+                "title": "Metastable argon atom kinetics in a low-pressure capacitively coupled radio frequency discharge",
+                "doi": "10.1088/1361-6595/acd6b5",
+                "year": "2023"
+            },
+            {
+                "title": "Lightwave-driven electron emission for polarity-sensitive terahertz beam profiling",
+                "doi": "10.1063/5.0125947",
+                "year": "2023"
+            },
+            {
+                "title": "Investigation of the afterpeaks in pulsed microwave argon plasma at atmospheric pressure",
+                "doi": "10.1088/1361-6595/acab2a",
+                "year": "2023"
+            },
+            {
+                "title": "General parametric dependence of atmospheric pressure argon plasmas",
+                "doi": "10.1007/s40042-022-00686-6",
+                "year": "2023"
+            },
+            {
+                "title": "In situ monitoring of plasma ignition step during photoresist stripping using O<inf>2</inf>/N<inf>2</inf> and O<inf>2</inf>/Ar",
+                "doi": "10.1007/s40042-022-00665-x",
+                "year": "2023"
+            },
+            {
+                "title": "Extended reaction kinetics model for non-thermal argon plasmas and its test against experimental data",
+                "doi": "10.1088/1361-6595/ac9332",
+                "year": "2022"
+            },
+            {
+                "title": "Modeling results on the dust charge distribution in a plasma afterglow",
+                "doi": "10.1063/5.0100913",
+                "year": "2022"
+            },
+            {
+                "title": "Evaluation of a collisional radiative model for electron temperature determination in hydrogen plasma",
+                "doi": "10.1063/5.0101676",
+                "year": "2022"
+            },
+            {
+                "title": "Collisional radiative model for high-ionization-rate equilibrium argon plasma plume",
+                "doi": "10.1016/j.sab.2022.106436",
+                "year": "2022"
+            },
+            {
+                "title": "Optical Emission Spectroscopic Measurement of Argon Low-Pressure Inductively Coupled Plasma Based on the Optimization Algorithm of Plasma Diagnostic Model",
+                "doi": "10.1109/TPS.2022.3172944",
+                "year": "2022"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0584-8547(94)00117-E",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.360139",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.360526",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.52.3743",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1021/ac9510651",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.358887",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.361023",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1021/ac951206z",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1098/rspa.1962.0101",
+                "year": "1962"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1098/rspa.1962.0209",
+                "year": "1962"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0370-1328/82/5/301",
+                "year": "1963"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRev.131.1170",
+                "year": "1963"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1143/JPSJ.47.265",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/16/3/019",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1002/ctpp.19840240503",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0584-8547(85)80050-1",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0022-4073(91)90024-K",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/22/5/009",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/25/12/007",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0963-0252/2/3/001",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.38.2975",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevE.52.913",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.43.3043",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1971"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRev.83.1159",
+                "year": "1951"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRev.116.511",
+                "year": "1959"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0584-8547(84)80103-2",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/22/5/010",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.5.1110",
+                "year": "1972"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.1682381",
+                "year": "1974"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.435638",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0378-4363(76)90155-8",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1007/s002160050582",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.42.6192",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1109/27.106827",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/14/7/011",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/22/1/008",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.1696957",
+                "year": "1965"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.20.855",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0022-4073(85)90046-9",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/15/11/014",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3700/12/6/016",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.357820",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.555889",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3700/9/17/023",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.34.1007",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.39.2461",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1103/PhysRevA.8.1962",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1143/JPSJ.52.1164",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/S0584-8547(96)01578-9",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1063/1.359193",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1039/a608262i",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3700/20/6/020",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1088/0022-3727/28/11/009",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Structure analysis of austenitic CrMn steel alloyed by nitrogen",
+        "authors": [
+            "Koutsk\u00fd J",
+            "Nov\u00fd Z"
+        ],
+        "year": "1998",
+        "coverDate": "1998-06-01",
+        "coverDisplayDate": "1 June 1998",
+        "doi": "10.1016/S0924-0136(97)00471-8",
+        "scopus_id": "0032090127",
+        "textType": "Journal",
+        "publicationName": "Journal of Materials Processing Technology",
+        "pageRange": "112-116",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "Nanoindentation creep deformation behaviour of high nitrogen nickel-free austenitic stainless steel",
+                "doi": "10.1080/02670836.2019.1631947",
+                "year": "2019"
+            },
+            {
+                "title": "Influence of grain boundary carbides on mechanical properties of high nitrogen austenitic stainless steel",
+                "doi": "10.1016/j.matdes.2012.01.024",
+                "year": "2012"
+            },
+            {
+                "title": "Influence of hot working on microstructure and mechanical behavior of high nitrogen stainless steel",
+                "doi": "10.1007/s10853-011-5439-2",
+                "year": "2011"
+            },
+            {
+                "title": "Effects of hot-working parameters on microstructural evolution of high nitrogen austenitic stainless steel",
+                "doi": "10.1016/j.matdes.2011.03.055",
+                "year": "2011"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Simmons",
+                "doi": "10.1016/S0956-716X(99)80048-X",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hsiao",
+                "doi": "N/A",
+                "year": "1958"
+            },
+            {
+                "title": "G. Gr\u00fctzner, Mitteilung aus dem Forschungsinstitut der Mannesmann AG, Stahl v. Eisen 93 (1973) 1.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "Zb. Nov\u00fd, \u0158e\u0161en\u0131\u0301 slo\u017een\u00fdch elektronov\u00fdch difraktogram\u016fpomoc\u0131\u0301 program\u016f, \u2018M\u0159\u0131\u0301\u017eka\u2019 a \u2018Orientace\u2019 (Solution of composed electron diffractograms by help of programs \u2018Lattice\u2019 and \u2018Orientation\u2019), 3rd Int. Sem., X-ray and Electron Diffraction, Slovakia, Gab\u010d\u0131\u0301kovo, September, 1993.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "R.A. Varin, K.J. Kurzydlowski, Mater. Sci. Eng. A. 101 (1988) 203.",
+                "authors": "N/A",
+                "doi": "10.1016/0921-5093(88)90068-8",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Phase transformation in sputtered Ti-SS alloy film during plasma nitriding",
+        "authors": [
+            "Musil J",
+            "Je\u017eek V",
+            "Benda M",
+            "Vl\u010dek J"
+        ],
+        "year": "1998",
+        "coverDate": "1998-04-01",
+        "coverDisplayDate": "1 April 1998",
+        "doi": "10.1016/S0040-6090(97)00667-6",
+        "scopus_id": "0032046442",
+        "textType": "Journal",
+        "publicationName": "Thin Solid Films",
+        "pageRange": "458-462",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Mechanical properties and microstructure of intermetallic coating on the basis of the ni-al system",
+                "doi": "N/A",
+                "year": "2005"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.580055",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0921-5093(93)90786-E",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0042-207X(96)00193-5",
+                "year": "1996"
+            },
+            {
+                "title": "A.E. Vol, Strojenije i svojstva dvojnych metalli\u010deskich sistem, Tom 2, Gos. Izd. Fiziko-matemati\u010deskoj literatury, Moskva (1962) 878.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "B. Massalski (Ed.), Binary Alloy Phase Diagrams, ASM, OH, 1987.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Fundamentals of elementary processes in plasmas",
+        "authors": [
+            "Vl\u010dek J.",
+            "\u0160patenka P.",
+            "Musil J.",
+            "Forejt L."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "January 1998",
+        "doi": "10.1016/S0257-8972(97)00283-1",
+        "scopus_id": "0042282091",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "1557-1564",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "A comparison of plasma in laser and hybrid laser-magnetron SiC deposition systems",
+                "doi": "10.1002/ppap.200732320",
+                "year": "2007"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Shohet",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lelevkin",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lieberman",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0042-207X(94)00076-X",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "\u0160patenka",
+                "doi": "10.1088/0957-0233/3/8/003",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rubinstein",
+                "doi": "10.1063/1.862421",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "\u0160patenka",
+                "doi": "10.1088/0963-0252/6/1/007",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vacquie",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gonzales",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ogilvie",
+                "doi": "10.1016/0584-8547(92)80129-5",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tamir",
+                "doi": "10.1063/1.346997",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hudson",
+                "doi": "10.1016/0022-4073(87)90103-8",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Danzmann",
+                "doi": "10.1088/0022-3700/14/16/026",
+                "year": "1981"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vl\u010dek",
+                "doi": "10.1016/S0584-8547(96)01636-9",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "van der Mullen",
+                "doi": "10.1016/0584-8547(87)80132-5",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hasegawa",
+                "doi": "10.1021/ac00150a014",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Burton",
+                "doi": "10.1016/0584-8547(91)80083-F",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vl\u010dek",
+                "doi": "10.1016/S0584-8547(96)01637-0",
+                "year": "1997"
+            }
+        ]
+    },
+    {
+        "title": "Magnetron sputtering of alloy-based films and its specifity",
+        "authors": [
+            "Musil J.",
+            "Vl\u010dek J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "October 1998",
+        "doi": "10.1023/A:1022814319240",
+        "scopus_id": "0039657308",
+        "textType": "Journal",
+        "publicationName": "Czechoslovak Journal of Physics",
+        "pageRange": "1209-1224",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 20,
+        "citedby_articles": [
+            {
+                "title": "Influence of ion bombardment on structure and properties of TiZrN thin film",
+                "doi": "10.1016/j.apsusc.2015.02.190",
+                "year": "2015"
+            },
+            {
+                "title": "Microstructure and properties of thick nanocomposite TiN/Si<inf>3</inf>N<inf>4</inf> coatings on Vanadis 23 HS steel",
+                "doi": "10.3139/146.111223",
+                "year": "2015"
+            },
+            {
+                "title": "Synthesis and mechanical property improvement of Ni-doped TiB<inf>2</inf> coatings",
+                "doi": "10.13922/j.cnki.cjovst.2015.05.15",
+                "year": "2015"
+            },
+            {
+                "title": "Advanced hard coatings with enhanced toughness and resistance to cracking",
+                "doi": "10.1201/b18729",
+                "year": "2015"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "Toughening magnetron sputtered TiB<inf>2</inf> coatings by Ni addition",
+                "doi": "10.1016/j.surfcoat.2013.06.094",
+                "year": "2013"
+            },
+            {
+                "title": "Application of nanotechnology in antimicrobial coatings in the water industry",
+                "doi": "10.1142/S1793292011002779",
+                "year": "2011"
+            },
+            {
+                "title": "Formation of porous niobium films by oblique angle deposition: Influence of substrate morphology",
+                "doi": "10.1016/j.tsf.2009.05.020",
+                "year": "2009"
+            },
+            {
+                "title": "Microstructural analysis of TiAl <inf>x</inf> N <inf>y</inf> O <inf>z</inf> coatings fabricated by DC reactive sputtering",
+                "doi": "10.1007/s11665-008-9266-9",
+                "year": "2009"
+            },
+            {
+                "title": "Selectively attaching Pt-nano-clusters to the open ends and defect sites on carbon nanotubes for electrochemical catalysis",
+                "doi": "10.1016/j.electacta.2007.02.037",
+                "year": "2007"
+            },
+            {
+                "title": "Properties of hard nanocomposite thin films",
+                "doi": "10.1142/9781860949975_0005",
+                "year": "2007"
+            },
+            {
+                "title": "Study of nanocrystalline TiN/Si<inf>3</inf>N<inf>4</inf> thin films deposited using a dual ion beam method",
+                "doi": "10.1016/j.tsf.2005.03.036",
+                "year": "2005"
+            },
+            {
+                "title": "Nitriding of titanium disks and industrial dental implants using hollow cathode discharge",
+                "doi": "10.1016/j.surfcoat.2004.10.009",
+                "year": "2005"
+            },
+            {
+                "title": "Magnetron sputtering of hard nanocomposite coatings and their properties",
+                "doi": "10.1016/S0257-8972(01)01139-2",
+                "year": "2001"
+            },
+            {
+                "title": "Hard and superhard nanocomposite coatings",
+                "doi": "10.1016/S0257-8972(99)00586-1",
+                "year": "2000"
+            },
+            {
+                "title": "Recent progress in hard nanocomposite coatings",
+                "doi": "10.1615/hightempmatproc.v4.i4.90",
+                "year": "2000"
+            },
+            {
+                "title": "Chapter 9 Physical vapor deposition",
+                "doi": "10.1016/S1470-1804(99)80055-8",
+                "year": "1999"
+            },
+            {
+                "title": "Magnetron sputtering of alloy and alloy-based films",
+                "doi": "10.1016/S0040-6090(98)01567-3",
+                "year": "1999"
+            },
+            {
+                "title": "Formation of Ti<inf>1-x</inf>Si<inf>x</inf> and Ti<inf>1-x</inf>Si<inf>x</inf>N films by magnetron co-sputtering",
+                "doi": "10.1023/A:1022853101763",
+                "year": "1999"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "High-temperature oxidation of TiN/CrN multilayers reactively sputtered at low temperatures",
+        "authors": [
+            "Panjan P.",
+            "Navin\u0161ek B.",
+            "Cvelbar A.",
+            "Zalar A.",
+            "Vlcek J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "January 1998",
+        "doi": "10.1016/S0257-8972(97)00395-2",
+        "scopus_id": "0039636078",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "1497-1502",
+        "institutions": [
+            "Institut \"Jo\u017eef Stefan\""
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 59,
+        "citedby_articles": [
+            {
+                "title": "Design of super-hard high-entropy ceramics coatings via machine learning",
+                "doi": "10.1016/j.ceramint.2022.07.145",
+                "year": "2022"
+            },
+            {
+                "title": "Nitrogen diffusion mechanism, microstructure and mechanical properties of thick Cr/CrN multilayer prepared by arc deposition system",
+                "doi": "10.1016/j.vacuum.2022.110902",
+                "year": "2022"
+            },
+            {
+                "title": "Investigation of the tribological and operational properties of (Me<inf>x</inf>,Mo<inf>y</inf>,Al<inf>1-(x+y)</inf>)N (Me \u2013Ti, Zr or Cr) coatings",
+                "doi": "10.1016/j.triboint.2021.107305",
+                "year": "2022"
+            },
+            {
+                "title": "Insights into the role of the layer architecture of Cr\u2013Ti\u2013N based coatings in long-term high temperature oxidation experiments in steam atmosphere",
+                "doi": "10.1016/j.ceramint.2020.10.003",
+                "year": "2021"
+            },
+            {
+                "title": "A study of the electrochemical and tribological properties of TiN/CrN nano-layer coating deposited on carburized-H13 hot-work steel by Arc-PVD technique",
+                "doi": "10.1080/21870764.2020.1863577",
+                "year": "2021"
+            },
+            {
+                "title": "Conductive surface oxide on CrN(001) layers",
+                "doi": "10.1063/1.5091034",
+                "year": "2019"
+            },
+            {
+                "title": "High-entropy alloys",
+                "doi": "10.1016/C2017-0-03317-7",
+                "year": "2019"
+            },
+            {
+                "title": "Evaluation of the mechanical and tribological properties of multilayer CrN/TiN films deposited at low temperatures",
+                "doi": "10.1109/MIEL.2017.8190099",
+                "year": "2017"
+            },
+            {
+                "title": "Temperature dependence of the residual stresses and mechanical properties in TiN/CrN nanolayered coatings processed by cathodic arc deposition",
+                "doi": "10.1016/j.surfcoat.2013.10.079",
+                "year": "2014"
+            },
+            {
+                "title": "Preparation and characterization of the Mo(C)N/Mo(C) multilayer coating",
+                "doi": "10.1016/j.surfcoat.2012.06.036",
+                "year": "2013"
+            },
+            {
+                "title": "Contact resistance characteristics of coated metallic bipolar plates for PEM fuel cells - Investigations on the effect of manufacturing",
+                "doi": "10.1016/j.ijhydene.2012.09.042",
+                "year": "2012"
+            },
+            {
+                "title": "Variable-range hopping conduction in epitaxial CrN(001)",
+                "doi": "10.1103/PhysRevB.83.165205",
+                "year": "2011"
+            },
+            {
+                "title": "Performance of nanolayer CrN/Ag coated cutting tools",
+                "doi": "10.1179/026708410X12593178265661",
+                "year": "2011"
+            },
+            {
+                "title": "Tribological behavior of CrAlSiN/W<inf>2</inf>N multilayer coatings deposited by DC magnetron sputtering",
+                "doi": "10.1016/j.tsf.2010.05.038",
+                "year": "2010"
+            },
+            {
+                "title": "CrN electronic structure and vibrational modes: An optical analysis",
+                "doi": "10.1103/PhysRevB.82.045116",
+                "year": "2010"
+            },
+            {
+                "title": "Effects of carbon content on the high temperature friction and wear of chromium carbonitride coatings",
+                "doi": "10.1016/j.triboint.2009.12.010",
+                "year": "2010"
+            },
+            {
+                "title": "Surface mound formation during epitaxial growth of CrN(001)",
+                "doi": "10.1016/j.tsf.2009.12.085",
+                "year": "2010"
+            },
+            {
+                "title": "Nanolayer CrNx/WNy coatings used on micro drills for machining of printed circuit boards",
+                "doi": "10.1016/j.jmatprotec.2009.12.001",
+                "year": "2010"
+            },
+            {
+                "title": "Transition metal nitride-based nanolayered multilayer coatings and nanocomposite coatings as novel superhard materials",
+                "doi": "10.1201/b11764",
+                "year": "2010"
+            },
+            {
+                "title": "Microstructure and electrochemical behavior of Ti-coatedZr<inf>55</inf>Al<inf>10</inf>Ni<inf>5</inf>Cu<inf>30</inf> bulk metallic glass",
+                "doi": "10.1016/j.intermet.2009.04.009",
+                "year": "2009"
+            },
+            {
+                "title": "Corrosion-wear behaviour of PVD Cr/CrN multilayer coatings for gear applications",
+                "doi": "10.1016/j.triboint.2008.06.015",
+                "year": "2009"
+            },
+            {
+                "title": "Investigation of interface properties of sputter deposited TiN/CrN superlattices by low angle x-ray reflectivity",
+                "doi": "10.1088/0022-3727/41/20/205409",
+                "year": "2008"
+            },
+            {
+                "title": "Characterization of nano-layered multilayer coatings using modified Bragg law",
+                "doi": "10.1016/j.matchar.2007.11.001",
+                "year": "2008"
+            },
+            {
+                "title": "In situ structural evolution of arc-deposited Cr-based coatings",
+                "doi": "10.1016/j.surfcoat.2008.06.102",
+                "year": "2008"
+            },
+            {
+                "title": "Characteristics of TiN/CrN multilayer coatings with TiCrN and CrTiN interlayer",
+                "doi": "N/A",
+                "year": "2008"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Movchan",
+                "doi": "10.1016/0040-6090(82)90455-2",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "Helmersson",
+                "doi": "10.1063/1.339770",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sundgren",
+                "doi": "10.1016/0040-6090(90)90235-6",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Holleck",
+                "doi": "10.1016/0040-6090(87)90165-9",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bull",
+                "doi": "10.1016/0257-8972(94)02407-3",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sproul",
+                "doi": "10.1116/1.579361",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Barnett",
+                "doi": "10.1016/B978-0-12-533017-6.50006-3",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Cvelbar",
+                "doi": "10.1016/0040-6090(95)06927-5",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "McIntyre",
+                "doi": "10.1063/1.345664",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hofmann",
+                "doi": "10.1016/0040-6090(90)90216-Z",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Navin\u0161ek",
+                "doi": "10.1016/0257-8972(95)08214-X",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Formation of nanocrystalline NiCr-N films by reactive dc magnetron sputtering",
+        "authors": [
+            "Musil J.",
+            "Regent F."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "November/December 1998",
+        "doi": "10.1116/1.581537",
+        "scopus_id": "0032355111",
+        "textType": "Journal",
+        "publicationName": "Journal of Vacuum Science and Technology A: Vacuum, Surfaces and Films",
+        "pageRange": "3301-3304",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 50,
+        "citedby_articles": [
+            {
+                "title": "Microstructural and electrical behavior of NiCr/Al nanomultilayered films prepared by magnetron sputtering",
+                "doi": "10.1016/j.jallcom.2022.165012",
+                "year": "2022"
+            },
+            {
+                "title": "INFLUENCE of Cu CONTENT on PREFERRED ORIENTATION and PROPERTIES of CrCuN COATINGS",
+                "doi": "10.1142/S0218625X19501130",
+                "year": "2020"
+            },
+            {
+                "title": "Combination of an atmospheric pressured arc reactor and a magnetron sputter device for the synthesis of novel nanostructured thin films",
+                "doi": "10.1016/j.tsf.2019.137528",
+                "year": "2019"
+            },
+            {
+                "title": "Effect of Ni Content on Double-Target Co-sputtered CrNiN Coatings",
+                "doi": "10.1007/s11665-019-04042-x",
+                "year": "2019"
+            },
+            {
+                "title": "Characterization of structural properties and harden enhancement of Al-Cu-N By thin film coating",
+                "doi": "10.24247/ijmperdaug2019136",
+                "year": "2019"
+            },
+            {
+                "title": "CHARACTERIZATION of RF MAGNETRON-SPUTTERED CrCuN and CrNiN COATINGS by NANOINDENTATION",
+                "doi": "10.1142/S0218625X17501037",
+                "year": "2017"
+            },
+            {
+                "title": "Multilayered nanocomposite coatings for anti-erosive protection",
+                "doi": "N/A",
+                "year": "2015"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "Hard Nanocomposite Coatings",
+                "doi": "10.1016/B978-0-08-096532-1.00416-7",
+                "year": "2014"
+            },
+            {
+                "title": "The microstructure and mechanical properties of TiNNi nanocomposite thin films",
+                "doi": "10.1016/j.surfcoat.2013.07.051",
+                "year": "2013"
+            },
+            {
+                "title": "Microstructure and mechanical properties of Ti-B-C-N nanocomposite coatings",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "The fundamentals of hard and superhard nanocomposites and heterostructures",
+                "doi": "10.1201/b11764",
+                "year": "2010"
+            },
+            {
+                "title": "Search for ultrahard materials and recent progress in the understanding of hardness enhancement and properties of nanocomposites",
+                "doi": "10.4028/www.scientific.net/SSP.159.1",
+                "year": "2010"
+            },
+            {
+                "title": "Influence of Ni content on the structure and properties of Cr-Ni-N coatings prepared by direct current magnetron sputtering",
+                "doi": "10.1016/j.tsf.2009.01.014",
+                "year": "2009"
+            },
+            {
+                "title": "Surface and electrical properties of NiCr thin films prepared by DC magnetron sputtering",
+                "doi": "10.1007/s11595-006-2159-6",
+                "year": "2008"
+            },
+            {
+                "title": "Magnetic properties and phase stability in Co-Ni base alloy thin films",
+                "doi": "10.1007/s00339-007-4332-y",
+                "year": "2008"
+            },
+            {
+                "title": "Reactive magnetron sputtering of Inconel 690 by Ar-N<inf>2</inf> plasma",
+                "doi": "10.1016/j.tsf.2007.07.212",
+                "year": "2008"
+            },
+            {
+                "title": "Microstructure and electrical properties of Ni-Cr thin films fabricated by ion beam sputtering",
+                "doi": "10.1179/174328407X161079",
+                "year": "2007"
+            },
+            {
+                "title": "Plasma assisted techniques for deposition of superhard nanocomposite coatings",
+                "doi": "10.1016/j.surfcoat.2006.08.113",
+                "year": "2007"
+            },
+            {
+                "title": "Magnetron sputtered hard and yet tough nanocomposite coatings with case studies: Nanocrystalline TiN embedded in amorphous SiN<inf>x</inf>",
+                "doi": "10.1142/9781860949975_0001",
+                "year": "2007"
+            },
+            {
+                "title": "Evaluation on wear behavior of Cr-Ag-N and Cr-W-N PVD nanocomposite coatings using two different types of tribometer",
+                "doi": "10.1016/j.surfcoat.2006.04.066",
+                "year": "2006"
+            },
+            {
+                "title": "Effect of chromium concentration on the electrical properties of NiCr thin films resistor deposited at room temperature by magnetron cosputtering technique",
+                "doi": "10.1149/1.2129332",
+                "year": "2006"
+            },
+            {
+                "title": "Oxidation of Ni-toughened nc-TiN/a-SiN<inf>x</inf> nanocomposite thin films",
+                "doi": "10.1557/JMR.2005.0357",
+                "year": "2005"
+            },
+            {
+                "title": "Toughening of hard nanostructural thin films: A critical review",
+                "doi": "10.1016/j.surfcoat.2004.10.020",
+                "year": "2005"
+            },
+            {
+                "title": "Atomic force microscopy studies of cubic BC<inf>2</inf>N, a new superhard phase",
+                "doi": "10.1007/s10853-005-2385-x",
+                "year": "2005"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(95)06695-0",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0965-9773(95)00025-9",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.580194",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/S0040-6090(96)08882-7",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/S0254-0584(98)00020-0",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1116/1.572818",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0040-6090(94)06360-5",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0965-9773(95)00257-F",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Nanocrystalline titanium carbide thin films deposited by reactive magnetron sputtering",
+        "authors": [
+            "Musil J.",
+            "Hovorka D.",
+            "Mi\u0161ina M.",
+            "Bell A.J.",
+            "Studni\u010dka V."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "August 1998",
+        "doi": "10.1023/A:1022881307331",
+        "scopus_id": "0032282880",
+        "textType": "Journal",
+        "publicationName": "Czechoslovak Journal of Physics",
+        "pageRange": "963-971",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 3,
+        "citedby_articles": [
+            {
+                "title": "Specialized investigations on physical and morphological features of TiC thin films synthesized by PECVD method",
+                "doi": "10.1051/epjap/2015150295",
+                "year": "2015"
+            },
+            {
+                "title": "Influence of heat treatment on the structure of W-Si-N sputtered films",
+                "doi": "10.4028/www.scientific.net/kem.230-232.640",
+                "year": "2002"
+            },
+            {
+                "title": "Tribological properties of metallic and ceramic coatings",
+                "doi": "N/A",
+                "year": "2000"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "The Fredholm alternative at the first eigenvalue for the one-dimensional p-Laplacian",
+        "authors": [
+            "del Pino Manuel",
+            "Dr\u00e1bek Pavel",
+            "Manasevich Raul"
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "September 1998",
+        "doi": "10.1016/S0764-4442(99)80023-8",
+        "scopus_id": "0032162239",
+        "textType": "Journal",
+        "publicationName": "Comptes Rendus de l'Academie des Sciences - Series I: Mathematics",
+        "pageRange": "461-465",
+        "institutions": [
+            "Facultad de Ciencias F\u00edsicas y Matem\u00e1ticas de la Universidad de Chile"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 6,
+        "citedby_articles": [
+            {
+                "title": "Lyapunov Inequalities and Applications",
+                "doi": "10.1007/978-3-030-69029-8",
+                "year": "2021"
+            },
+            {
+                "title": "Quasilinear eigenvalues",
+                "doi": "N/A",
+                "year": "2015"
+            },
+            {
+                "title": "Liapunov-type integral inequalities for p-laplacian dynamic equations on time scales",
+                "doi": "N/A",
+                "year": "2014"
+            },
+            {
+                "title": "Lower bounds for generalized eigenvalues of the quasilinear systems",
+                "doi": "10.1016/j.jmaa.2011.06.026",
+                "year": "2012"
+            },
+            {
+                "title": "Lyapunov inequalities for nonlinear p-Laplacian problems with weight functions",
+                "doi": "N/A",
+                "year": "2011"
+            },
+            {
+                "title": "Lower bounds for eigenvalues of the one-dimensional p-Laplacian",
+                "doi": "10.1155/S108533750431002X",
+                "year": "2004"
+            }
+        ],
+        "references": [
+            {
+                "title": "Binding P.A., Dr\u00e1bek P., Huang Y.X., On the Fredholm alternative for the p-Laplacian, Proc. Amer. Math. Soc. (to appear).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Binding",
+                "doi": "10.1016/S0893-9659(97)00108-0",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "del Pino",
+                "doi": "10.1016/0022-0396(89)90093-4",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "del Pino",
+                "doi": "N/A",
+                "year": "1991"
+            },
+            {
+                "title": "Dr\u00e1bek P., Tak\u00e1\u010d P., A counterexample to the Fredholm alternative for the p-Laplacian (to appear).",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fleckinger",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fu\u010dik",
+                "doi": "N/A",
+                "year": "1973"
+            }
+        ]
+    },
+    {
+        "title": "Magnetron sputtering of films with controlled texture and grain size",
+        "authors": [
+            "Musil J.",
+            "Vl\u010dek J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "July 1998",
+        "doi": "10.1016/S0254-0584(98)00020-0",
+        "scopus_id": "0032117350",
+        "textType": "Journal",
+        "publicationName": "Materials Chemistry and Physics",
+        "pageRange": "116-122",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 114,
+        "citedby_articles": [
+            {
+                "title": "High Capacitance Porous Ruthenium Nitride Films with High Rate Capability for Micro-Supercapacitors",
+                "doi": "10.1002/smll.202402607",
+                "year": "2024"
+            },
+            {
+                "title": "Magnetron Sputtering as a Microstructural Screening Tool for Laser Additive Manufacturing: Study on Ni Superalloys",
+                "doi": "10.1002/adem.202301585",
+                "year": "2024"
+            },
+            {
+                "title": "Influence of TM elements on the mechanical and thermodynamic properties of Hf<inf>2</inf>Si intermetallics",
+                "doi": "10.1016/j.vacuum.2023.112793",
+                "year": "2024"
+            },
+            {
+                "title": "The lattice vibration, mechanical anisotropy, stress-strain behavior and electronic properties of Zr<inf>x</inf>Cu<inf>y</inf>Si<inf>z</inf> intermetallics: A first-principles study",
+                "doi": "10.1016/j.ssc.2023.115363",
+                "year": "2023"
+            },
+            {
+                "title": "Corrosion characteristics of single-phase Mg\u20133Zn alloy thin film for biodegradable electronics",
+                "doi": "10.1016/j.jma.2023.06.016",
+                "year": "2023"
+            },
+            {
+                "title": "Effects of Cr Concentration on the Structure and the Electrical and Optical Properties of Ti-Al-Cr-N Thin Films Prepared by Means of Reactive Co-Sputtering",
+                "doi": "10.3390/cryst12121831",
+                "year": "2022"
+            },
+            {
+                "title": "Synthesis and characterization of ZrC<inf>x</inf> coatings with different stoichiometry",
+                "doi": "10.1016/j.vacuum.2022.111211",
+                "year": "2022"
+            },
+            {
+                "title": "Preparation of Cotton\u2013Zinc Composites by Magnetron Sputtering Metallization and Evaluation of their Antimicrobial Properties and Cytotoxicity",
+                "doi": "10.3390/ma15082746",
+                "year": "2022"
+            },
+            {
+                "title": "Microstructure of titanium coatings controlled by pulse sequence in multipulse HiPIMS",
+                "doi": "10.1016/j.surfcoat.2021.127624",
+                "year": "2021"
+            },
+            {
+                "title": "A 3D printing route to fabrication of ZrCuSi alloy target for ZrCuSiN nanocomposite thin films",
+                "doi": "10.1016/j.apsusc.2021.150136",
+                "year": "2021"
+            },
+            {
+                "title": "High-temperature thin films and coatings",
+                "doi": "N/A",
+                "year": "2021"
+            },
+            {
+                "title": "Comparative measurements and analysis of the mechanical and electrical properties of Ti-Zr-C nanocomposite: Role of stoichiometry",
+                "doi": "10.1016/j.measurement.2021.109223",
+                "year": "2021"
+            },
+            {
+                "title": "Microstructure and mechanical properties of ZrCuSiN coatings deposited by a single alloy target",
+                "doi": "10.3390/COATINGS10050435",
+                "year": "2020"
+            },
+            {
+                "title": "Effect of helium incorporation on plasma parameters and characteristic properties of hydrogen free carbon films deposited using DC magnetron sputtering",
+                "doi": "10.1063/1.5115449",
+                "year": "2020"
+            },
+            {
+                "title": "Hard and crack resistant carbon supersaturated refractory nanostructured multicomponent coatings",
+                "doi": "10.1038/s41598-018-32932-y",
+                "year": "2018"
+            },
+            {
+                "title": "Effect of Substrate Pulse Bias Voltage on the Microstructure and Mechanical and Wear-resistant Properties of TiN/Cu Nanocomposite Films",
+                "doi": "N/A",
+                "year": "2018"
+            },
+            {
+                "title": "The structural characterizations of Ti-17 alloy films prepared by magnetron sputtering",
+                "doi": "10.1016/j.apsusc.2017.09.045",
+                "year": "2018"
+            },
+            {
+                "title": "Thin film roughness optimization in the tin coatings using genetic algorithms",
+                "doi": "N/A",
+                "year": "2017"
+            },
+            {
+                "title": "Robust tribo-mechanical and hot corrosion resistance of ultra-refractory Ta-Hf-C ternary alloy films",
+                "doi": "10.1038/s41598-017-03181-2",
+                "year": "2017"
+            },
+            {
+                "title": "CHARACTERIZATION of RF MAGNETRON-SPUTTERED CrCuN and CrNiN COATINGS by NANOINDENTATION",
+                "doi": "10.1142/S0218625X17501037",
+                "year": "2017"
+            },
+            {
+                "title": "The microstructure and mechanical properties evaluation of CrTiAlSiN coatings: Effects of silicon content",
+                "doi": "10.1016/j.tsf.2017.07.058",
+                "year": "2017"
+            },
+            {
+                "title": "Microstructures and mechanical properties of an a-C:N film as the interlayer and the outmost layer of a DLC-deposited Ti bio-alloy",
+                "doi": "10.1016/j.ceramint.2017.05.196",
+                "year": "2017"
+            },
+            {
+                "title": "Effects of Cu on Microstructure and Mechanical Properties of AlN/TiN-Cu Nanocomposite Multilayers",
+                "doi": "10.11900/0412.1961.2016.00259",
+                "year": "2017"
+            },
+            {
+                "title": "Dual ion beam assisted magnetron deposition of biaxially textured YSZ and YBCO/YSZ thin films",
+                "doi": "10.1016/j.surfcoat.2016.08.013",
+                "year": "2016"
+            },
+            {
+                "title": "Microstructure and nanomechanical properties of magnetron sputtered Ti\u00a0\u2212\u00a0Nb films",
+                "doi": "10.1016/j.surfcoat.2016.06.014",
+                "year": "2016"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Rossnagel",
+                "doi": "10.1116/1.587142",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0257-8972(95)02582-0",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Liu",
+                "doi": "10.1002/1521-396X(199705)161:1<3::AID-PSSA3>3.0.CO;2-U",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hung",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.580055",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Siegel",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "J. Musil, F. Regent, Formation of nanocrystalline NiCr-N films by reactive dc magnetron sputtering, J. Vac. Sci. Technol. A, in press.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Veprek",
+                "doi": "10.1016/0040-6090(95)06695-0",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Veprek",
+                "doi": "10.1063/1.113110",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dias",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Nakayama",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vaz",
+                "doi": "N/A",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gleiter",
+                "doi": "10.1016/0965-9773(95)00025-9",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Onishi",
+                "doi": "10.1116/1.580194",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Takayama",
+                "doi": "10.1016/S0040-6090(96)08882-7",
+                "year": "1996"
+            }
+        ]
+    },
+    {
+        "title": "An investigation of properties of the forward displacement analysis of the generalized stewart platform by means of general optimization methods",
+        "authors": [
+            "\u0160ika Z.",
+            "Ko\u010dandrle V.",
+            "Stejskal V."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "April 1998",
+        "doi": "10.1016/S0094-114X(97)00044-X",
+        "scopus_id": "0032035793",
+        "textType": "Journal",
+        "publicationName": "Mechanism and Machine Theory",
+        "pageRange": "245-253",
+        "institutions": [
+            "Czech Technical University in Prague"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 13,
+        "citedby_articles": [
+            {
+                "title": "Three dimensional delayed resonator of Stewart platform type for entire absorption of fully spatial vibration",
+                "doi": "10.1016/j.jsv.2023.118154",
+                "year": "2024"
+            },
+            {
+                "title": "Novel method for forward kinematics of 6-PSS parallel manipulator",
+                "doi": "10.13229/j.cnki.jdxbgxb20180636",
+                "year": "2019"
+            },
+            {
+                "title": "Performance evaluation of a sensor concept for solving the direct kinematics problem of general planar 3-RPR parallel mechanisms by using solely the linear actuators' orientations",
+                "doi": "10.3390/robotics8030072",
+                "year": "2019"
+            },
+            {
+                "title": "On the Direct Kinematics Problem of Parallel Mechanisms",
+                "doi": "10.1155/2018/2412608",
+                "year": "2018"
+            },
+            {
+                "title": "A new forward kinematic algorithm for a general Stewart platform",
+                "doi": "10.1016/j.mechmachtheory.2015.01.002",
+                "year": "2015"
+            },
+            {
+                "title": "Dynamics and system identification of parallel robots",
+                "doi": "N/A",
+                "year": "2013"
+            },
+            {
+                "title": "Femoral fracture reduction with a parallel manipulator robot on a traction table",
+                "doi": "10.1002/rcs.1550",
+                "year": "2013"
+            },
+            {
+                "title": "Forward displacement analysis of the 6/6-SPS Stewart manipulator with two dissimilar semisymmetrical hexagons",
+                "doi": "10.1109/ICMA.2010.5588872",
+                "year": "2010"
+            },
+            {
+                "title": "The research on direct kinematic problem of the stewart manipulators with two dissimilar semisymmetrical hexagons",
+                "doi": "10.1109/CCDC.2010.5498603",
+                "year": "2010"
+            },
+            {
+                "title": "The research on direct kinematic problem of a special class of the stewart-gough manipulators",
+                "doi": "10.1109/ICMA.2008.4798890",
+                "year": "2008"
+            },
+            {
+                "title": "On the forward and inverse displacement of spatial parallel manipulators",
+                "doi": "10.1007/s00170-005-0009-x",
+                "year": "2006"
+            },
+            {
+                "title": "Successive approximation algorithm for the direct position analysis of parallel manipulators",
+                "doi": "10.1016/S0094-114X(99)00070-1",
+                "year": "2000"
+            },
+            {
+                "title": "Direct displacement analysis of parallel manipulators",
+                "doi": "10.1002/(SICI)1097-4563(200006)17:6<341::AID-ROB4>3.0.CO;2-N",
+                "year": "2000"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Hunt",
+                "doi": "10.1016/0094-114X(93)90044-V",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dasgupta",
+                "doi": "10.1016/0094-114X(94)90081-7",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Wen",
+                "doi": "10.1016/0094-114X(94)90094-9",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Yin",
+                "doi": "10.1016/0094-114X(94)90015-9",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Faugere",
+                "doi": "10.1016/0094-114X(94)00069-W",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sika",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Garcia De Jalon",
+                "doi": "10.1016/0045-7825(86)90044-7",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Luksan",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rinnoy Kan",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lee",
+                "doi": "10.1016/0094-114X(88)90106-1",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lee",
+                "doi": "10.1016/0094-114X(88)90107-3",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Lee",
+                "doi": "10.1115/1.2912808",
+                "year": "1991"
+            }
+        ]
+    },
+    {
+        "title": "Recent advances in magnetron sputtering technology",
+        "authors": [
+            "Musil J."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "March 1998",
+        "doi": "10.1016/S0257-8972(97)00633-6",
+        "scopus_id": "0032028412",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "280-286",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences",
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 82,
+        "citedby_articles": [
+            {
+                "title": "A high-temperature solar selective absorber based on one-dimensional multilayer nanostructures",
+                "doi": "10.1016/j.solmat.2024.112833",
+                "year": "2024"
+            },
+            {
+                "title": "Investigation of the SERS application of gold films deposited on uncured polydimethylsiloxane with tunable LSPR",
+                "doi": "10.1088/1361-6501/ad031d",
+                "year": "2024"
+            },
+            {
+                "title": "Review on the Preparation and High-Temperature Oxidation Resistance of Metal Coating for Fuel Cladding Zirconium Alloys",
+                "doi": "10.1080/00295639.2023.2219802",
+                "year": "2024"
+            },
+            {
+                "title": "Preparation and Innovative Design Applications of Paper-Based Aluminized Film",
+                "doi": "10.3390/coatings13101751",
+                "year": "2023"
+            },
+            {
+                "title": "Effect of sputtering process parameters on the uniformity of copper film deposited in micro-via",
+                "doi": "10.1016/j.jmrt.2023.06.243",
+                "year": "2023"
+            },
+            {
+                "title": "State-of-the-art electrochromic thin films devices, fabrication techniques and applications: a review",
+                "doi": "10.1080/20550324.2023.2291619",
+                "year": "2023"
+            },
+            {
+                "title": "Experimental and simulation study on heat transfer characteristics of aluminium alloy piston under transition conditions",
+                "doi": "10.1038/s41598-022-13357-0",
+                "year": "2022"
+            },
+            {
+                "title": "Deformation and Fracture Behavior of Metal Films on Polydimethylsiloxane (PDMS) and Its Application in Strain Sensing: a Review",
+                "doi": "10.11896/cldb.21010111",
+                "year": "2022"
+            },
+            {
+                "title": "Study of Plasma Parameters and Deposition Rate of Titanium Thin Film in a DC Magnetron Sputtering Method",
+                "doi": "10.1134/S1063780X21100524",
+                "year": "2022"
+            },
+            {
+                "title": "Techniques of preparation of thin films: Catalytic combustion",
+                "doi": "10.3390/catal11121530",
+                "year": "2021"
+            },
+            {
+                "title": "Depositing a titanium coating on the lithium neutron production target by magnetron sputtering technology",
+                "doi": "10.3390/ma14081873",
+                "year": "2021"
+            },
+            {
+                "title": "Study the influence of deposition parameter on structure &amp; wettability properties of chromium oxide coating deposited by reactive RF magnetron sputtering on GFRP composite",
+                "doi": "10.1016/j.matpr.2021.10.253",
+                "year": "2021"
+            },
+            {
+                "title": "Sputtered 2D transition metal dichalcogenides: From growth to device applications",
+                "doi": "10.3906/fiz-2104-8",
+                "year": "2021"
+            },
+            {
+                "title": "The properties of Cu films deposited by high rate magnetron sputtering from a liquid target",
+                "doi": "10.1016/j.vacuum.2019.108914",
+                "year": "2019"
+            },
+            {
+                "title": "Multilayered models for determining the Young's modulus of thin films by means of Impulse Excitation Technique",
+                "doi": "10.1016/j.mechmat.2019.103143",
+                "year": "2019"
+            },
+            {
+                "title": "Preparation of multicomponent thin films by magnetron co-sputtering method: The Cu-Ti case study",
+                "doi": "10.1016/j.vacuum.2019.01.012",
+                "year": "2019"
+            },
+            {
+                "title": "Overview of thin film deposition techniques",
+                "doi": "10.3934/MATERSCI.2019.2.174",
+                "year": "2019"
+            },
+            {
+                "title": "Magnetron sputtered NbN thin film electrodes for supercapacitors",
+                "doi": "10.1016/j.matlet.2018.06.052",
+                "year": "2018"
+            },
+            {
+                "title": "Synthesis and characterization of Titanium Silicon Nitride (TiSiN) thin film: A review",
+                "doi": "10.1088/1757-899X/377/1/012181",
+                "year": "2018"
+            },
+            {
+                "title": "Design of bipolar pulsed magnetron sputtering power supply",
+                "doi": "10.11884/HPLPB201830.170393",
+                "year": "2018"
+            },
+            {
+                "title": "Investigations of elemental composition and structure evolution in (Ti,Cu)-oxide gradient thin films prepared using (multi)magnetron co-sputtering",
+                "doi": "10.1016/j.surfcoat.2017.11.038",
+                "year": "2018"
+            },
+            {
+                "title": "Assessment of sputtered chromium oxide-nitride coatings",
+                "doi": "10.1520/MPC20170053",
+                "year": "2018"
+            },
+            {
+                "title": "Transient evolution of the target erosion profile during magnetron sputtering: Dependence on gas pressure and magnetic configuration",
+                "doi": "10.1016/j.surfcoat.2016.12.053",
+                "year": "2017"
+            },
+            {
+                "title": "Features of copper coatings growth at high-rate deposition using magnetron sputtering systems with a liquid metal target",
+                "doi": "10.1016/j.surfcoat.2017.05.065",
+                "year": "2017"
+            },
+            {
+                "title": "Effect of material of the crucible on operation of magnetron sputtering system with liquid-phase target",
+                "doi": "10.1016/j.vacuum.2017.04.001",
+                "year": "2017"
+            }
+        ],
+        "references": [
+            {
+                "title": "J.S. Chapin, US Patent Appl. 438 482, 1974",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Window",
+                "doi": "10.1116/1.573904",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.580670",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1998"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.580045",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ohmi",
+                "doi": "10.1149/1.2085721",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hosokawa",
+                "doi": "10.1116/1.569107",
+                "year": "1997"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kukla",
+                "doi": "10.1016/0042-207X(90)94147-I",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Posadowski",
+                "doi": "10.1016/0257-8972(91)90071-4",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Posadowski",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Asamaki",
+                "doi": "10.1143/JJAP.33.2500",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kadlec",
+                "doi": "10.1116/1.579369",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Thornton",
+                "doi": "10.1146/annurev.ms.07.080177.001323",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kadlec",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.580055",
+                "year": "1996"
+            }
+        ]
+    },
+    {
+        "title": "The mechanical, tribological and optical properties of CN<inf>x</inf> coatings prepared by sputtering methods",
+        "authors": [
+            "Fendrych F.",
+            "Jastrabik L.",
+            "Pajasova L.",
+            "Chvostova D.",
+            "Soukup L.",
+            "Rusnak K."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "February 1998",
+        "doi": "10.1016/s0925-9635(97)00231-8",
+        "scopus_id": "0031994367",
+        "textType": "Journal",
+        "publicationName": "Diamond and Related Materials",
+        "pageRange": "417-421",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 8,
+        "citedby_articles": [
+            {
+                "title": "Effect of nitrogen concentrations on optical, structural and mechanical properties of self organized a-C:N films",
+                "doi": "10.1016/j.ceramint.2020.02.163",
+                "year": "2020"
+            },
+            {
+                "title": "Ultra thin hard films - Optical characterization and metrology in industrial manufacturing",
+                "doi": "10.1117/12.544608",
+                "year": "2004"
+            },
+            {
+                "title": "Mechanical and tribological properties of CN<inf>x</inf> films deposited by reactive pulsed laser ablation",
+                "doi": "10.1016/S0925-9635(01)00527-1",
+                "year": "2002"
+            },
+            {
+                "title": "CN<inf>x</inf> coatings deposited by pulsed RF supersonic plasma jet: Hardness, nitrogenation and optical properties",
+                "doi": "10.1016/S0257-8972(01)01157-4",
+                "year": "2001"
+            },
+            {
+                "title": "Electrical and optical properties of CN<inf>x</inf>(0\u2264x\u22640.25) films deposited by reactive magnetron sputtering",
+                "doi": "10.1063/1.1334370",
+                "year": "2001"
+            },
+            {
+                "title": "Mechanical and optical properties of CN<inf>x</inf> films with high N/C ratio",
+                "doi": "10.1007/s003390100849",
+                "year": "2001"
+            },
+            {
+                "title": "Tribology of diamond, diamond-like carbon, and related films",
+                "doi": "N/A",
+                "year": "2000"
+            },
+            {
+                "title": "CN<inf>x</inf> coatings sputtered by DC magnetron: Hardness, nitrogenation and optical properties",
+                "doi": "10.1016/s0925-9635(99)00029-1",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Cuomo",
+                "doi": "10.1116/1.569931",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "Liu",
+                "doi": "10.1126/science.245.4920.841",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Liu",
+                "doi": "10.1103/PhysRevB.41.10727",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sobota",
+                "doi": "N/A",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hrdina",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vorlicek",
+                "doi": "10.1016/0925-9635(95)00366-5",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Soukup",
+                "doi": "10.1016/0257-8972(95)02418-2",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Nakayama",
+                "doi": "10.1143/JJAP.32.L1465",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Wang",
+                "doi": "10.1016/0040-6090(94)06313-3",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Davis",
+                "doi": "10.1016/0022-3093(94)90101-5",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Robertson",
+                "doi": "10.1080/00018738600101911",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Taft",
+                "doi": "10.1103/PhysRev.138.A197",
+                "year": "1965"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gao",
+                "doi": "10.1103/PhysRevLett.62.945",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Torng",
+                "doi": "10.1557/JMR.1990.2490",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Grigorovici",
+                "doi": "10.1016/0022-3093(72)90229-3",
+                "year": "1972"
+            },
+            {
+                "title": "N/A",
+                "authors": "Logothetidis",
+                "doi": "10.1063/1.360892",
+                "year": "1996"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tauc",
+                "doi": "10.1002/pssb.19660150224",
+                "year": "1966"
+            }
+        ]
+    },
+    {
+        "title": "Fast algorithms for clipping lines and line segments in E<sup>2</sup>",
+        "authors": [
+            "Bui Duc Huy",
+            "Skala Vaclav"
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "1998",
+        "doi": "10.1007/s003710050121",
+        "scopus_id": "0031649895",
+        "textType": "Journal",
+        "publicationName": "Visual Computer",
+        "pageRange": "31-37",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 15,
+        "citedby_articles": [
+            {
+                "title": "A new fully projective O(lg N) line convex polygon intersection algorithm",
+                "doi": "10.1007/s00371-024-03413-3",
+                "year": "2025"
+            },
+            {
+                "title": "A Brief Survey of Clipping and Intersection Algorithms with a List of References (including Triangle-Triangle Intersections)",
+                "doi": "10.15388/23-INFOR508",
+                "year": "2023"
+            },
+            {
+                "title": "A Novel Line Convex Polygon Clipping Algorithm in E2 with Parallel Processing Modification",
+                "doi": "10.1007/978-3-030-86976-2_1",
+                "year": "2021"
+            },
+            {
+                "title": "A New Coding Scheme for Line Segment Clipping in E2",
+                "doi": "10.1007/978-3-030-86976-2_2",
+                "year": "2021"
+            },
+            {
+                "title": "Optimized line and line segment clipping in e2 and geometric algebra",
+                "doi": "10.33039/ami.2020.05.001",
+                "year": "2020"
+            },
+            {
+                "title": "Methods for software visualization of large graph data structures",
+                "doi": "10.18517/ijaseit.10.1.10739",
+                "year": "2020"
+            },
+            {
+                "title": "An efficient line clipping algorithm in 2D space",
+                "doi": "N/A",
+                "year": "2019"
+            },
+            {
+                "title": "Semi-circular angle-based one bit circle generation algorithm on a hexagonal grid",
+                "doi": "10.1504/IJCAET.2016.077601",
+                "year": "2016"
+            },
+            {
+                "title": "Improvement in the Cohen-Sutherland line segment clipping algorithm",
+                "doi": "10.1109/GrC.2013.6740399",
+                "year": "2013"
+            },
+            {
+                "title": "S-clip E<sup>2</sup>: A new concept of clipping algorithms",
+                "doi": "10.1145/2407156.2407200",
+                "year": "2012"
+            },
+            {
+                "title": "A new approach to line and line segment clipping in homogeneous coordinates",
+                "doi": "10.1007/s00371-005-0305-3",
+                "year": "2005"
+            },
+            {
+                "title": "A new line clipping algorithm with hardware acceleration",
+                "doi": "10.1109/CGI.2004.1309220",
+                "year": "2004"
+            },
+            {
+                "title": "An efficient implementation of parametric line and polygon clipping algorithm",
+                "doi": "10.1145/508791.508945",
+                "year": "2002"
+            },
+            {
+                "title": "Extension of the Nicholls-Lee-Nichols algorithm to three dimensions",
+                "doi": "10.1007/s003710000094",
+                "year": "2001"
+            },
+            {
+                "title": "Merging a set of polygons",
+                "doi": "10.1016/S0097-8493(00)00109-6",
+                "year": "2001"
+            }
+        ],
+        "references": []
+    },
+    {
+        "title": "Numerical modeling of transient heating of solid plate 3D structure",
+        "authors": [
+            "Barglik J.",
+            "Komecza K.",
+            "Ulrych B.",
+            "Wiak S."
+        ],
+        "year": "1998",
+        "coverDate": "1998-01-01",
+        "coverDisplayDate": "1998",
+        "doi": "10.1108/03321649810203251",
+        "scopus_id": "0031619723",
+        "textType": "Journal",
+        "publicationName": "COMPEL - The International Journal for Computation and Mathematics in Electrical and Electronic Engineering",
+        "pageRange": "337-341",
+        "institutions": [
+            "Silesian University of Technology"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "OPERA 3D User Guide",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Barglik, J., Sajdak, C., Mayer, D., Ulrych, B.",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kurbiel, A.",
+                "doi": "N/A",
+                "year": "1992"
+            }
+        ]
+    }
+]

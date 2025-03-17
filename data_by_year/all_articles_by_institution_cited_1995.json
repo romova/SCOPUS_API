@@ -1,0 +1,1616 @@
+[
+    {
+        "title": "Variational formulation of the problems of mechanics and its matrix analogy",
+        "authors": [
+            "Rosenberg J."
+        ],
+        "year": "1995",
+        "coverDate": "1995-11-20",
+        "coverDisplayDate": "20 November 1995",
+        "doi": "10.1016/0377-0427(95)00086-0",
+        "scopus_id": "0029427865",
+        "textType": "Journal",
+        "publicationName": "Journal of Computational and Applied Mathematics",
+        "pageRange": "307-311",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Microcontinuum approach in biomechanical modeling",
+                "doi": "10.1016/S0378-4754(02)00081-2",
+                "year": "2003"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Bufler",
+                "doi": "10.1007/BF00534244",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gurtin",
+                "doi": "10.1090/qam/99951",
+                "year": "1964"
+            },
+            {
+                "title": "N/A",
+                "authors": "Magri",
+                "doi": "10.1016/0020-7225(74)90069-X",
+                "year": "1974"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rosenberg",
+                "doi": "10.1002/zamm.19850650910",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Telega",
+                "doi": "10.1093/imamat/24.2.175",
+                "year": "1979"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tonti",
+                "doi": "10.1016/0020-7225(84)90026-0",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Vajnberg",
+                "doi": "N/A",
+                "year": "1956"
+            }
+        ]
+    },
+    {
+        "title": "Domain decomposition like technique with H/h-independent rate of convergence",
+        "authors": [
+            "K\u0159\u00ed\u017ekov\u00e1 Jitka",
+            "Van\u011bk Petr"
+        ],
+        "year": "1995",
+        "coverDate": "1995-11-20",
+        "coverDisplayDate": "20 November 1995",
+        "doi": "10.1016/0377-0427(95)00074-7",
+        "scopus_id": "0029423568",
+        "textType": "Journal",
+        "publicationName": "Journal of Computational and Applied Mathematics",
+        "pageRange": "215-220",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 0,
+        "citedby_articles": [],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Axelsson",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Brandt",
+                "doi": "10.1016/0096-3003(86)90095-0",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hackbusch",
+                "doi": "N/A",
+                "year": "1985"
+            },
+            {
+                "title": "J. K\u0159\u00ed\u017ekov\u00e1 and P. Van\u011bk, Two-level preconditioner with small coarse grid appropriate for unstructured meshes, NLAA, submitted.",
+                "authors": "N/A",
+                "doi": "10.1002/(SICI)1099-1506(199607/08)3:4<255::AID-NLA77>3.0.CO;2-2",
+                "year": "N/A"
+            },
+            {
+                "title": "J. K\u0159\u00ed\u017ekov\u00e1 and P. Van\u011bk, Two-level method on unstructured meshes with convergence rate independent on the coarse-space size, NLAA, submitted.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Mandel",
+                "doi": "10.1002/cnm.1640090307",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "10.21136/AM.1992.104509",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van\u011bk",
+                "doi": "10.1007/s10492-012-0001-3",
+                "year": "1995"
+            },
+            {
+                "title": "P. Van\u011bk, J. Mandel and M. Brezina, Multigrid on unstructured meshes, SIAM J. Sci. Comput., submitted.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "A spatial problem of liquid-shell interaction",
+        "authors": [
+            "K\u0159en Ji\u0159\u00ed"
+        ],
+        "year": "1995",
+        "coverDate": "1995-11-20",
+        "coverDisplayDate": "20 November 1995",
+        "doi": "10.1016/0377-0427(95)00085-2",
+        "scopus_id": "0029395138",
+        "textType": "Journal",
+        "publicationName": "Journal of Computational and Applied Mathematics",
+        "pageRange": "301-306",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Fluid-structure interaction problems, finite element and boundary element approaches: A bibliography (1995-1998)",
+                "doi": "10.1016/S0168-874X(98)00065-1",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Bathe",
+                "doi": "N/A",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "K\u0159en",
+                "doi": "N/A",
+                "year": "1994"
+            }
+        ]
+    },
+    {
+        "title": "Hamiltonicity in claw-free graphs through induced bulls",
+        "authors": [
+            "Ryj\u00e1\u010dek Zden\u011bk"
+        ],
+        "year": "1995",
+        "coverDate": "1995-06-11",
+        "coverDisplayDate": "11 June 1995",
+        "doi": "10.1016/0012-365X(94)00292-Q",
+        "scopus_id": "0040935813",
+        "textType": "Journal",
+        "publicationName": "Discrete Mathematics",
+        "pageRange": "141-147",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "Forcing Hamiltonicity in locally finite graphs via forbidden induced subgraphs I: Nets and bulls",
+                "doi": "10.1002/jgt.22902",
+                "year": "2023"
+            },
+            {
+                "title": "Hamiltonian cycles in almost claw-free graphs",
+                "doi": "10.1007/PL00007257",
+                "year": "2001"
+            },
+            {
+                "title": "Vertex pancyclism in claw-free graphs",
+                "doi": "10.1016/S0012-365X(97)00252-5",
+                "year": "1998"
+            },
+            {
+                "title": "Claw-free graphs - A survey",
+                "doi": "10.1016/S0012-365X(96)00045-3",
+                "year": "1997"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Broersma",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gould",
+                "doi": "10.1002/jgt.3190150204",
+                "year": "1991"
+            }
+        ]
+    },
+    {
+        "title": "On the independence number in K<inf>1, r+1</inf>-free graphs",
+        "authors": [
+            "Ryj\u00e1\u010dek Zden\u011bk",
+            "Schiermeyer Ingo"
+        ],
+        "year": "1995",
+        "coverDate": "1995-03-06",
+        "coverDisplayDate": "6 March 1995",
+        "doi": "10.1016/0012-365X(94)00218-8",
+        "scopus_id": "0041639595",
+        "textType": "Journal",
+        "publicationName": "Discrete Mathematics",
+        "pageRange": "365-374",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 7,
+        "citedby_articles": [
+            {
+                "title": "Domination in Graphs: Core Concepts",
+                "doi": "10.1007/978-3-031-09496-5",
+                "year": "2023"
+            },
+            {
+                "title": "Cores of imprimitive symmetric graphs of order a product of two distinct primes",
+                "doi": "10.1002/jgt.21881",
+                "year": "2016"
+            },
+            {
+                "title": "The independence number of connected (claw, K<inf>4</inf>)-free 4-regular graphs",
+                "doi": "10.11650/tjm.17.2013.2189",
+                "year": "2013"
+            },
+            {
+                "title": "On independent domination and size",
+                "doi": "N/A",
+                "year": "2008"
+            },
+            {
+                "title": "On local and global independence numbers of a graph",
+                "doi": "10.1016/S0166-218X(03)00391-3",
+                "year": "2003"
+            },
+            {
+                "title": "Independence and upper irredundance in claw-free graphs",
+                "doi": "10.1016/S0166-218X(03)00392-5",
+                "year": "2003"
+            },
+            {
+                "title": "Minimum independent generalized t-degree and independence number in K<inf>1</inf>,<inf>r+1</inf>-free graphs",
+                "doi": "10.1016/S0012-365X(96)00175-6",
+                "year": "1997"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Bondy",
+                "doi": "N/A",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Faudree",
+                "doi": "10.1016/0012-365X(92)90035-E",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Gernert",
+                "doi": "N/A",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hamada",
+                "doi": "10.1016/0012-365X(76)90037-6",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Li",
+                "doi": "N/A",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ryj\u00e1\u010dek",
+                "doi": "10.1002/jgt.3190180505",
+                "year": "1994"
+            }
+        ]
+    },
+    {
+        "title": "Comparison of reaction rates for helium plasmas calculated using nonequilibrium and equilibrium electron energy distribution functions",
+        "authors": [
+            "Slavik J.",
+            "Capriati G."
+        ],
+        "year": "1995",
+        "coverDate": "1995-03-01",
+        "coverDisplayDate": "March 1995",
+        "doi": "10.1007/BF01596684",
+        "scopus_id": "0029263634",
+        "textType": "Journal",
+        "publicationName": "Plasma Chemistry and Plasma Processing",
+        "pageRange": "109-121",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 1,
+        "citedby_articles": [
+            {
+                "title": "Electron energy distribution reconstruction in low-pressure helium plasmas from optical measurements",
+                "doi": "10.1088/0741-3335/41/9/304",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "H. W. Dravin, F. Emard, and K. Katsonis,Z. Naturforsch. Teila 28, 1422 (1973).",
+                "authors": "H. W. Dravin",
+                "doi": "10.1515/zna-1973-0907",
+                "year": "1973"
+            },
+            {
+                "title": "T. Fujimoto,J. Quant. Spectrosc. Radial. Transfer 21, 439 (1979).",
+                "authors": "T. Fujimoto",
+                "doi": "10.1016/0022-4073(79)90004-9",
+                "year": "1979"
+            },
+            {
+                "title": "M. S. Hedge and P. K. Ghosh,Physica C97, 275 (1979).",
+                "authors": "M. S. Hedge",
+                "doi": "N/A",
+                "year": "1979"
+            },
+            {
+                "title": "J. Slavik,Contrib. Plasma Phys. 31, 605, 613 (1991).",
+                "authors": "J. Slavik",
+                "doi": "10.1002/ctpp.2150310605",
+                "year": "1991"
+            },
+            {
+                "title": "C. Gorse, J. Bretagne, and M. Capitelli,Phys. Lett. A 126, 277 (1988).",
+                "authors": "C. Gorse",
+                "doi": "10.1016/0375-9601(88)90761-X",
+                "year": "1988"
+            },
+            {
+                "title": "G. Capriati, G. Colonna, C. Gorse, and M. Capitelli,Plasma Chem. Plasma Process. 12, 237 (1992).",
+                "authors": "G. Capriati",
+                "doi": "10.1007/BF01447024",
+                "year": "1992"
+            },
+            {
+                "title": "T. Holstein,Phys. Rev. 70, 367 (1946).",
+                "authors": "T. Holstein",
+                "doi": "10.1103/PhysRev.70.367",
+                "year": "1946"
+            },
+            {
+                "title": "S. D. Rockwood,Phys. Rev. A 8, 2348 (1973).",
+                "authors": "S. D. Rockwood",
+                "doi": "10.1103/PhysRevA.8.2348",
+                "year": "1973"
+            }
+        ]
+    },
+    {
+        "title": "Nonlinear Eigenvalue Problem for p\u2010Laplacian in IR<sup>N</sup>",
+        "authors": [
+            "Dr\u00e1bek Pavel",
+            "Rother Wolfgang"
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "1995",
+        "doi": "10.1002/mana.19951730109",
+        "scopus_id": "84985351736",
+        "textType": "Journal",
+        "publicationName": "Mathematische Nachrichten",
+        "pageRange": "131-139",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 49,
+        "citedby_articles": [
+            {
+                "title": "p-Laplacian problem in a Riemannian manifold",
+                "doi": "10.1007/s13324-025-01031-3",
+                "year": "2025"
+            },
+            {
+                "title": "Existence Results and L\u221e-Bound of Solutions to Kirchhoff\u2013Schr\u00f6dinger\u2013Hardy Type Equations Involving Double Phase Operators",
+                "doi": "10.1007/s00025-024-02274-5",
+                "year": "2024"
+            },
+            {
+                "title": "Bifurcation and regularity of entire solutions for the planar nonlinear Schr\u00f6dinger\u2013Poisson system",
+                "doi": "10.1007/s00208-023-02752-1",
+                "year": "2024"
+            },
+            {
+                "title": "Multiple Solutions to the Fractional p-Laplacian Equations of Schr\u00f6dinger\u2013Hardy-Type Involving Concave\u2013Convex Nonlinearities",
+                "doi": "10.3390/fractalfract8070426",
+                "year": "2024"
+            },
+            {
+                "title": "Bifurcation and regularity analysis of the Schr\u00f6dinger-Poisson equation",
+                "doi": "10.1088/1361-6544/ad1efb",
+                "year": "2024"
+            },
+            {
+                "title": "Multiple solutions for double phase problems in R<sup>n</sup> via Ricceri's principle",
+                "doi": "10.1016/j.jmaa.2023.127513",
+                "year": "2023"
+            },
+            {
+                "title": "Spectrum of the fractional p-Laplacian in R<sup>N</sup> and decay estimate for positive solutions of a Schr\u00f6dinger equation",
+                "doi": "10.1016/j.na.2019.03.002",
+                "year": "2020"
+            },
+            {
+                "title": "Asymptotic properties of a \u03c6-Laplacian and Rayleigh quotient",
+                "doi": "10.14712/1213-7243.2020.020",
+                "year": "2020"
+            },
+            {
+                "title": "A study of nonlinear elliptic problems involving supercritical and exponential growth in R<sup>n</sup>",
+                "doi": "10.1002/mma.4520",
+                "year": "2017"
+            },
+            {
+                "title": "On the existence of solutions for quasilinear elliptic problems with radial potentials on exterior ball",
+                "doi": "10.1002/mana.201400250",
+                "year": "2016"
+            },
+            {
+                "title": "Weighted quasilinear eigenvalue problems in exterior domains",
+                "doi": "10.1007/s00526-014-0773-2",
+                "year": "2015"
+            },
+            {
+                "title": "Existence and boundedness of solutions for a singular cooperative quasilinear elliptic system",
+                "doi": "10.1080/17476933.2012.744404",
+                "year": "2014"
+            },
+            {
+                "title": "Multiple solutions for a p-laplacian system with nonlinear boundary conditions",
+                "doi": "10.4134/BKMS.2014.51.1.099",
+                "year": "2014"
+            },
+            {
+                "title": "Three solutions for equations involving nonhomogeneous operators of p-Laplace type in (Formula presented.)",
+                "doi": "10.1186/1029-242X-2014-427",
+                "year": "2014"
+            },
+            {
+                "title": "Positivity of the infimum eigenvalue for equations of p(x)-Laplace type in R<sup>n</sup>",
+                "doi": "10.1186/1687-2770-2013-214",
+                "year": "2013"
+            },
+            {
+                "title": "The expected time to end the tug-of-war in a wedge",
+                "doi": "10.1007/s00440-011-0400-5",
+                "year": "2013"
+            },
+            {
+                "title": "Existence and multiplicity results for quasilinear elliptic exterior problems with nonlinear boundary conditions",
+                "doi": "10.1016/j.na.2011.10.046",
+                "year": "2012"
+            },
+            {
+                "title": "Positive solutions of p-laplacian equations with nonlinear boundary condition",
+                "doi": "10.3934/dcdsb.2011.16.623",
+                "year": "2011"
+            },
+            {
+                "title": "A study of nonlinear problems for the p-Laplacian in \u211d<sup>n</sup> via Ricceri's principle",
+                "doi": "10.1016/j.na.2011.04.013",
+                "year": "2011"
+            },
+            {
+                "title": "A positive solution branch for nonlinear eigenvalue problems in \u211d<sup>n</sup>",
+                "doi": "10.1016/j.na.2010.11.023",
+                "year": "2011"
+            },
+            {
+                "title": "Anistropic elliptic equations in \u211d<sup>N</sup>: Existence and regularity results",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "Constant-sign and sign-changing solutions for nonlinear elliptic equations with neumann boundary values",
+                "doi": "N/A",
+                "year": "2010"
+            },
+            {
+                "title": "L<sup>\u221e</sup>-Estimates for nonlinear elliptic Neumann boundary value problems",
+                "doi": "10.1007/s00030-009-0054-5",
+                "year": "2010"
+            },
+            {
+                "title": "Note on an anisotropic p-laplacian equation in R<sup>n</sup>",
+                "doi": "10.14232/ejqtde.2010.1.73",
+                "year": "2010"
+            },
+            {
+                "title": "Global bifurcation of the p-Laplacian in R<sup>N</sup>",
+                "doi": "10.1016/j.na.2008.03.055",
+                "year": "2009"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Adams R. A.",
+                "doi": "N/A",
+                "year": "1975"
+            },
+            {
+                "title": "N/A",
+                "authors": "Dr\u00e1bek P.",
+                "doi": "N/A",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1080/03605308908820654",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.2307/2159352",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0022-0396(90)90126-A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1017/S1446788700037150",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1007/BF02391014",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1016/0022-0396(84)90105-0",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "N/A",
+                "doi": "10.1002/cpa.3160200406",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Li Gongbao",
+                "doi": "N/A",
+                "year": "1989"
+            }
+        ]
+    },
+    {
+        "title": "AN AUTOMATIC CREATION OF THE LANGUAGE MODEL FOR THE SPONTANEOUS CZECH SPEECH RECOGNIZER",
+        "authors": [
+            "Kle\u010dkov\u00e1 J."
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "1995",
+        "doi": "N/A",
+        "scopus_id": "84957827440",
+        "textType": "Conference Proceeding",
+        "publicationName": "4th European Conference on Speech Communication and Technology, EUROSPEECH 1995",
+        "pageRange": "1185-1188",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 4,
+        "citedby_articles": [
+            {
+                "title": "DEVELOPING THE DATABASE OF THE SPONTANEOUS SPEECH PROSODY CHARACTERISTICS",
+                "doi": "N/A",
+                "year": "1999"
+            },
+            {
+                "title": "PROCESSING OF ANAPHORIC AND ELLIPTIC SENTENCES IN A SPOKEN DIALOG SYSTEM",
+                "doi": "10.21437/eurospeech.1999-363",
+                "year": "1999"
+            },
+            {
+                "title": "Improvement of the recognition rate of spoken queries to the dialogue system",
+                "doi": "10.1007/3-540-48239-3_56",
+                "year": "1999"
+            },
+            {
+                "title": "Storing prosody attributes of spontaneous speech",
+                "doi": "10.1007/3-540-48239-3_49",
+                "year": "1999"
+            }
+        ],
+        "references": "N/A"
+    },
+    {
+        "title": "Production of Ti films with controlled texture",
+        "authors": [
+            "Musil J.",
+            "Vl\u010dek J.",
+            "Je\u017eek V.",
+            "Benda M.",
+            "Kolega M.",
+            "Boomsma R."
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "1995",
+        "doi": "10.1016/0257-8972(95)02582-0",
+        "scopus_id": "0039317669",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "274-279",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 17,
+        "citedby_articles": [
+            {
+                "title": "Effect of Bias Voltage on the Electrochemical Corrosion Behavior of Titanium Coatings Deposited on Steel Substrate by Cathodic Arc Evaporation",
+                "doi": "10.1007/s11665-025-10687-8",
+                "year": "2025"
+            },
+            {
+                "title": "Crystallographic Orientation Analysis of Nanocrystalline Tungsten Thin Film Using TEM Precession Electron Diffraction and SEM Transmission Kikuchi Diffraction",
+                "doi": "10.1017/S1431927621000027",
+                "year": "2021"
+            },
+            {
+                "title": "The structural characterizations of Ti-17 alloy films prepared by magnetron sputtering",
+                "doi": "10.1016/j.apsusc.2017.09.045",
+                "year": "2018"
+            },
+            {
+                "title": "Improving the mechanical properties of titanium films by texture strengthening",
+                "doi": "10.1016/j.matchar.2017.03.015",
+                "year": "2017"
+            },
+            {
+                "title": "The phase, morphology and surface characterization of Ti-Mo alloy films prepared by magnetron sputtering",
+                "doi": "10.1039/c7ra10510j",
+                "year": "2017"
+            },
+            {
+                "title": "Effects of substrate temperature on the structure, residual stress and nanohardness of Ti6Al4V films prepared by magnetron sputtering",
+                "doi": "10.1016/j.apsusc.2016.02.021",
+                "year": "2016"
+            },
+            {
+                "title": "Effect of deposition temperature on the structure and mechanical properties of Ti-6Al-4V film",
+                "doi": "10.4028/www.scientific.net/MSF.749.643",
+                "year": "2013"
+            },
+            {
+                "title": "Structures and properties of hard and superhard nanocomposite coatings",
+                "doi": "10.3367/UFNe.0179.200901b.0035",
+                "year": "2009"
+            },
+            {
+                "title": "Structure, Properties and Fabrication of the Solid Nanocrystalline Coatings Deposited in Several Ways",
+                "doi": "10.15407/ufm.08.03.171",
+                "year": "2007"
+            },
+            {
+                "title": "A comparative study of microstructure and mechanical properties for CrN<inf>x</inf> films with various deposition rates by magnetron sputtering",
+                "doi": "10.1016/S0257-8972(01)01094-5",
+                "year": "2001"
+            },
+            {
+                "title": "A perspective of magnetron sputtering in surface engineering",
+                "doi": "10.1016/S0257-8972(98)00748-8",
+                "year": "1999"
+            },
+            {
+                "title": "Magnetron sputtering of alloy-based films and its specifity",
+                "doi": "10.1023/A:1022814319240",
+                "year": "1998"
+            },
+            {
+                "title": "Magnetron sputtering of films with controlled texture and grain size",
+                "doi": "10.1016/S0254-0584(98)00020-0",
+                "year": "1998"
+            },
+            {
+                "title": "High-rate magnetron sputtering",
+                "doi": "10.1116/1.580045",
+                "year": "1996"
+            },
+            {
+                "title": "XRD characterization of thin films with low intensity reflection lines",
+                "doi": "10.1016/0042-207X(96)00193-5",
+                "year": "1996"
+            },
+            {
+                "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
+                "doi": "10.1016/0042-207x(96)00085-1",
+                "year": "1996"
+            },
+            {
+                "title": "Formation of high temperature phases in sputter deposited Ti-based films below 100 \u00b0C",
+                "doi": "10.1116/1.580055",
+                "year": "1996"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Nakada",
+                "doi": "10.1143/JJAP.30.3344",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kim",
+                "doi": "10.1116/1.579233",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Suzuki",
+                "doi": "10.1063/1.111102",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Kaloyeros",
+                "doi": "10.1016/0040-6090(86)90352-4",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Louro",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Birringer",
+                "doi": "10.1016/0921-5093(89)90083-X",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1995"
+            }
+        ]
+    },
+    {
+        "title": "Protection of aluminium by duplex coatings",
+        "authors": [
+            "Musil J.",
+            "Vl\u010dek J.",
+            "Je\u017eek V.",
+            "Benda M."
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "1995",
+        "doi": "10.1016/0257-8972(95)02556-1",
+        "scopus_id": "0029409214",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "341-347",
+        "institutions": [
+            "Institute of Physics of the Czech Academy of Sciences"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 9,
+        "citedby_articles": [
+            {
+                "title": "Enhanced surface properties of aluminum by PVD-TiN coating combined with cathodic cage plasma nitriding",
+                "doi": "10.1016/j.surfcoat.2017.08.015",
+                "year": "2017"
+            },
+            {
+                "title": "Microstructures and nano-mechanical properties of multilayer coatings prepared by plasma nitriding Cr-coated Al alloy",
+                "doi": "10.1016/j.vacuum.2017.05.013",
+                "year": "2017"
+            },
+            {
+                "title": "Microstructure and mechanical properties of multiphase layer formed during depositing Ti film followed by plasma nitriding on 2024 aluminum alloy",
+                "doi": "10.1016/j.apsusc.2014.02.091",
+                "year": "2014"
+            },
+            {
+                "title": "Comments on process of duplex coatings on aluminum alloys",
+                "doi": "10.1007/s11771-004-0049-7",
+                "year": "2004"
+            },
+            {
+                "title": "On the mechanism of ion nitriding of an austenitic stainless steel",
+                "doi": "10.1016/S0257-8972(00)00988-9",
+                "year": "2001"
+            },
+            {
+                "title": "Passivation and anodic oxidation of duplex TiN coating on stainless steel",
+                "doi": "10.1149/1.1392595",
+                "year": "1999"
+            },
+            {
+                "title": "Duplex TiN coatings deposited by arc plating for increased corrosion resistance of stainless steel substrates",
+                "doi": "10.1016/S0257-8972(99)00033-X",
+                "year": "1999"
+            },
+            {
+                "title": "A perspective of magnetron sputtering in surface engineering",
+                "doi": "10.1016/S0257-8972(98)00748-8",
+                "year": "1999"
+            },
+            {
+                "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
+                "doi": "10.1016/0042-207x(96)00085-1",
+                "year": "1996"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Zlatanovi\u010d",
+                "doi": "10.1016/0257-8972(91)90124-F",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van Stappen",
+                "doi": "10.1016/0921-5093(91)90478-6",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haen",
+                "doi": "10.1016/0257-8972(93)90225-D",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1995"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sun",
+                "doi": "10.1016/0921-5093(91)90458-Y",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zlatanovi\u010d",
+                "doi": "10.1016/0257-8972(94)90105-8",
+                "year": "1994"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zlatanovi\u010d",
+                "doi": "10.1016/0257-8972(90)90127-X",
+                "year": "1990"
+            }
+        ]
+    },
+    {
+        "title": "Mutual interdiffusion of elements in steel and Ti coating and aluminium and Ti coating couples during plasma nitriding",
+        "authors": [
+            "Musil J.",
+            "Vlc\u0306ek J.",
+            "Jez\u0306ek V.",
+            "Benda M.",
+            "Weiss Z."
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "September 1995",
+        "doi": "10.1016/0257-8972(95)08353-7",
+        "scopus_id": "0029375641",
+        "textType": "Journal",
+        "publicationName": "Surface and Coatings Technology",
+        "pageRange": "609-613",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 6,
+        "citedby_articles": [
+            {
+                "title": "Optimizing surface morphologies for ceramic films prepared using a magnetron sputtering",
+                "doi": "10.1166/jnn.2010.2651",
+                "year": "2010"
+            },
+            {
+                "title": "Combination of coating and heat treatment processes",
+                "doi": "10.1016/j.surfcoat.2006.08.042",
+                "year": "2006"
+            },
+            {
+                "title": "Effect of Ti interlayer and bias on structure and properties of TiN films",
+                "doi": "10.1023/A:1022814503252",
+                "year": "2000"
+            },
+            {
+                "title": "A perspective of magnetron sputtering in surface engineering",
+                "doi": "10.1016/S0257-8972(98)00748-8",
+                "year": "1999"
+            },
+            {
+                "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
+                "doi": "10.1016/0042-207x(96)00085-1",
+                "year": "1996"
+            },
+            {
+                "title": "Protection of aluminium by duplex coatings",
+                "doi": "10.1016/0257-8972(95)02556-1",
+                "year": "1995"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Cheng",
+                "doi": "10.1016/0257-8972(89)90069-8",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Van Stappen",
+                "doi": "10.1179/sur.1989.5.4.305",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hakansson",
+                "doi": "10.1016/0257-8972(91)90128-J",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bull",
+                "doi": "10.1016/0921-5093(91)90599-I",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Huang",
+                "doi": "10.1016/0257-8972(92)90049-G",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Pischow",
+                "doi": "10.1016/0257-8972(93)90003-7",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Haen",
+                "doi": "10.1016/0257-8972(93)90225-D",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hanz\u0306el",
+                "doi": "10.1116/1.578293",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "M\u00fcnz",
+                "doi": "10.1016/0257-8972(92)90058-I",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "N/A",
+                "year": "1993"
+            }
+        ]
+    },
+    {
+        "title": "High temperature oxidation of the 18Mn18Cr0.5N austenitic steel",
+        "authors": [
+            "Kube\u0161 Z.",
+            "Vesel\u00e1 J.",
+            "Weiss Z."
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "January 1995",
+        "doi": "10.1007/BF00639312",
+        "scopus_id": "0029326104",
+        "textType": "Journal",
+        "publicationName": "Journal of Materials Science Letters",
+        "pageRange": "876-877",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 6,
+        "citedby_articles": [
+            {
+                "title": "Oxidation behaviour at 1123 K of AISI 304-Ni/Al-Al<inf>2</inf>O <inf>3</inf>/TiO<inf>2</inf> multilayer system deposited by flame spray",
+                "doi": "10.3989/revmetalmadrid.1003",
+                "year": "2011"
+            },
+            {
+                "title": "The effects of Pre-oxidation and alloy chemistry of austenitic stainless steels on glass/metal sealing",
+                "doi": "10.1007/s11085-009-9181-y",
+                "year": "2010"
+            },
+            {
+                "title": "The effects of 304L stainless steel pre-oxidation on bonding to alkali barium silicate glass",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "High temperature oxidation of 304L stainless steel and its effects on glass-to-metal joining",
+                "doi": "N/A",
+                "year": "2006"
+            },
+            {
+                "title": "Effect of yttrium and erbium ion implantation on the oxidation behaviour of the AISI 304 austenitic steel",
+                "doi": "10.1016/S0257-8972(99)00666-0",
+                "year": "2000"
+            },
+            {
+                "title": "The influence of implanted silicon on the cyclic oxidation behaviour of two different stainless steels",
+                "doi": "10.1016/S0257-8972(99)00503-4",
+                "year": "1999"
+            }
+        ],
+        "references": [
+            {
+                "title": "E. Heinrich, G. Kr\u00f6ncke andG. Tache,Stahl and Eisen 102 (1982) 113.",
+                "authors": "E. Heinrich",
+                "doi": "N/A",
+                "year": "1982"
+            },
+            {
+                "title": "R. Presser andJ. M. Silcock,Metall. Sci. 17 (1983) 241.",
+                "authors": "R. Presser",
+                "doi": "10.1179/030634583790420871",
+                "year": "1983"
+            },
+            {
+                "title": "J. A. C. Broekaert,J. Anal. Atomic Spectrom. 2 (1978) 537.",
+                "authors": "J. A. C. Broekaert",
+                "doi": "10.1039/ja9870200537",
+                "year": "1978"
+            },
+            {
+                "title": "Z. Weiss,Surf. Interface Analysis 18 (1992) 691.",
+                "authors": "Z. Weiss",
+                "doi": "10.1002/sia.740180910",
+                "year": "1992"
+            },
+            {
+                "title": "Z. Kube\u0161, Report 0238, \u0160KODA - Central Res. Inst., Plze\u0148 1989.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Planar magnetron with additional plasma confinement",
+        "authors": [
+            "Musil J",
+            "Rus\u0148\u00e1k K",
+            "Je\u017eek V",
+            "Vl\u010dek J"
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "April 1995",
+        "doi": "10.1016/0042-207X(94)00076-X",
+        "scopus_id": "0029288350",
+        "textType": "Journal",
+        "publicationName": "Vacuum",
+        "pageRange": "341-347",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 15,
+        "citedby_articles": [
+            {
+                "title": "Flexible hard nanocoatings with high thermal stability",
+                "doi": "10.1016/j.surfcoat.2023.130195",
+                "year": "2024"
+            },
+            {
+                "title": "Advanced sputtering technologies of flexible hard nanocoatings",
+                "doi": "N/A",
+                "year": "2021"
+            },
+            {
+                "title": "Low-temperature AlN film deposition using magnetic mirror-type magnetron cathode for low gas pressure operation",
+                "doi": "10.1116/1.5129720",
+                "year": "2020"
+            },
+            {
+                "title": "Magnetron sputtering cathode for inward enlargement of doughnut-shaped plasma discharge area",
+                "doi": "10.1016/j.vacuum.2019.108869",
+                "year": "2019"
+            },
+            {
+                "title": "Transient evolution of the target erosion profile during magnetron sputtering: Dependence on gas pressure and magnetic configuration",
+                "doi": "10.1016/j.surfcoat.2016.12.053",
+                "year": "2017"
+            },
+            {
+                "title": "Steady state discharge optimization in high-power impulse magnetron sputtering through the control of the magnetic field",
+                "doi": "10.1063/1.3673871",
+                "year": "2012"
+            },
+            {
+                "title": "Influence of additional magnetic field on plasma parameters in magnetron sputtering",
+                "doi": "10.1016/j.vacuum.2009.04.047",
+                "year": "2009"
+            },
+            {
+                "title": "The effect of external cusp magnetic field on Ar ICP characteristics",
+                "doi": "10.1016/j.vacuum.2008.04.074",
+                "year": "2008"
+            },
+            {
+                "title": "Magnetron Discharges for Thin Films Plasma Processing",
+                "doi": "10.1016/B978-008044496-3/50004-6",
+                "year": "2006"
+            },
+            {
+                "title": "Langmuir probe measurements of plasma parameters in a planar magnetron with additional plasma confinement",
+                "doi": "10.1016/S0042-207X(99)00144-X",
+                "year": "1999"
+            },
+            {
+                "title": "Effect of deposition conditions and substrate position on the properties of superconducting YBa<inf>2</inf>Cu<inf>3</inf>O<inf>\u03b4</inf> thin films prepared in a facing-target sputtering system",
+                "doi": "10.1016/S0042-207X(98)00093-1",
+                "year": "1998"
+            },
+            {
+                "title": "Fundamentals of elementary processes in plasmas",
+                "doi": "10.1016/S0257-8972(97)00283-1",
+                "year": "1998"
+            },
+            {
+                "title": "A comparison of internal plasma parameters in a conventional planar magnetron and a magnetron with additional plasma confinement",
+                "doi": "10.1088/0963-0252/6/1/007",
+                "year": "1997"
+            },
+            {
+                "title": "Planar magnetron sputtering discharge enhanced with radio frequency or microwave magnetoactive plasma",
+                "doi": "10.1116/1.580670",
+                "year": "1997"
+            },
+            {
+                "title": "Twin facing target sputtering system for the deposition of multilayer and alloy films",
+                "doi": "10.1016/s0042-207x(96)00238-2",
+                "year": "1997"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Kukla",
+                "doi": "10.1016/0042-207X(90)94147-I",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fan",
+                "doi": "10.1016/0040-6090(93)90408-H",
+                "year": "1993"
+            },
+            {
+                "title": "Sloan Technology Co., US Patent No. 659 270, 1976.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Abe",
+                "doi": "10.1016/0040-6090(82)90246-2",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hata",
+                "doi": "10.1063/1.92002",
+                "year": "1980"
+            },
+            {
+                "title": "N/A",
+                "authors": "Takeda",
+                "doi": "10.1143/JJAP.19.1001",
+                "year": "1980"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hata",
+                "doi": "N/A",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hata",
+                "doi": "10.1016/0040-6090(83)90081-0",
+                "year": "1983"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hata",
+                "doi": "N/A",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Takahashi",
+                "doi": "10.1143/JJAP.24.L752",
+                "year": "1985"
+            },
+            {
+                "title": "N/A",
+                "authors": "Geisler",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Takahashi",
+                "doi": "10.1109/20.42559",
+                "year": "1989"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rossnagel",
+                "doi": "10.1016/0042-207X(88)90600-8",
+                "year": "1988"
+            },
+            {
+                "title": "N/A",
+                "authors": "Adachi",
+                "doi": "10.1116/1.571320",
+                "year": "1982"
+            },
+            {
+                "title": "N/A",
+                "authors": "Cuomo",
+                "doi": "10.1116/1.573889",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Window",
+                "doi": "10.1116/1.573470",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Window",
+                "doi": "10.1116/1.573904",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1016/0042-207X(90)90241-P",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Musil",
+                "doi": "10.1116/1.577597",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "M\u00fcnz",
+                "doi": "10.1016/0257-8972(92)90058-I",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Sproul",
+                "doi": "10.1016/0921-5093(93)90787-F",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Monaghan",
+                "doi": "10.1016/0042-207X(92)90189-4",
+                "year": "1992"
+            },
+            {
+                "title": "N/A",
+                "authors": "Efeoglu",
+                "doi": "10.1016/0257-8972(93)90337-N",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Monaghan",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hosokawa",
+                "doi": "10.1116/1.569107",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Posadowski",
+                "doi": "10.1016/0257-8972(91)90071-4",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Posadowski",
+                "doi": "N/A",
+                "year": "1993"
+            },
+            {
+                "title": "S Kadlec and J Musil Czech Republic Patent Application PV 1820-93, 1993.",
+                "authors": "N/A",
+                "doi": "N/A",
+                "year": "N/A"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rao",
+                "doi": "10.1116/1.577179",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Fan",
+                "doi": "10.1016/0040-6090(93)90356-T",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ido",
+                "doi": "10.1143/JJAP.32.2112",
+                "year": "1993"
+            }
+        ]
+    },
+    {
+        "title": "Anodic plasma nitriding with a molybdenum cathode",
+        "authors": [
+            "Benda M",
+            "Vlc\u0306ek J",
+            "Musil J"
+        ],
+        "year": "1995",
+        "coverDate": "1995-01-01",
+        "coverDisplayDate": "January 1995",
+        "doi": "10.1016/0042-207X(93)E0006-7",
+        "scopus_id": "0029183212",
+        "textType": "Journal",
+        "publicationName": "Vacuum",
+        "pageRange": "43-47",
+        "institutions": [
+            "University of West Bohemia"
+        ],
+        "affiliation-city": "N/A",
+        "affiliation-country": "N/A",
+        "citedby-count": 9,
+        "citedby_articles": [
+            {
+                "title": "Oil removal and nitriding of sintered parts using a DC discharge",
+                "doi": "10.1016/j.surfcoat.2004.06.022",
+                "year": "2005"
+            },
+            {
+                "title": "Effective nitriding of steels outside low-pressure microwave discharges",
+                "doi": "10.1016/S0257-8972(02)00080-4",
+                "year": "2002"
+            },
+            {
+                "title": "Microwave plasma nitriding of a low-alloy steel",
+                "doi": "10.1116/1.1308587",
+                "year": "2000"
+            },
+            {
+                "title": "Recent progress in plasma nitriding",
+                "doi": "10.1016/S0042-207X(00)00404-8",
+                "year": "2000"
+            },
+            {
+                "title": "Plasma nitriding enhanced by hollow cathode discharge - a new method for formation of superhard nanocomposite coatings on steel surfaces",
+                "doi": "10.1016/S0042-207X(99)00145-1",
+                "year": "1999"
+            },
+            {
+                "title": "Surface hardening of alloy steels using a high intensity electron beam",
+                "doi": "10.1080/10426919808935275",
+                "year": "1998"
+            },
+            {
+                "title": "Electron beam hardening of ion nitrided layers",
+                "doi": "10.1016/s0042-207x(97)00168-1",
+                "year": "1998"
+            },
+            {
+                "title": "Use of a tungsten metal arc heat source for surface modification of Ti-6Al-4V alloy",
+                "doi": "10.1179/mst.1998.14.4.357",
+                "year": "1998"
+            },
+            {
+                "title": "Plasma nitriding combined with a hollow cathode discharge sputtering at high pressures",
+                "doi": "10.1116/1.580935",
+                "year": "1997"
+            }
+        ],
+        "references": [
+            {
+                "title": "N/A",
+                "authors": "Jones",
+                "doi": "N/A",
+                "year": "1964"
+            },
+            {
+                "title": "N/A",
+                "authors": "Edenhofer",
+                "doi": "N/A",
+                "year": "1976"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bell",
+                "doi": "N/A",
+                "year": "1977"
+            },
+            {
+                "title": "N/A",
+                "authors": "Hudis",
+                "doi": "10.1063/1.1662398",
+                "year": "1973"
+            },
+            {
+                "title": "N/A",
+                "authors": "Tibbetts",
+                "doi": "10.1063/1.1663186",
+                "year": "1974"
+            },
+            {
+                "title": "N/A",
+                "authors": "Liu",
+                "doi": "N/A",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "Taylor",
+                "doi": "10.1063/1.435869",
+                "year": "1978"
+            },
+            {
+                "title": "N/A",
+                "authors": "Matsumoto",
+                "doi": "N/A",
+                "year": "1984"
+            },
+            {
+                "title": "N/A",
+                "authors": "Avni",
+                "doi": "10.1016/0025-5416(87)90515-5",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Leyland",
+                "doi": "10.1016/0257-8972(90)90140-8",
+                "year": "1990"
+            },
+            {
+                "title": "N/A",
+                "authors": "Jung",
+                "doi": "10.1002/pssa.2210930210",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Zlatanovi\u010d",
+                "doi": "N/A",
+                "year": "1986"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bingzhong",
+                "doi": "10.1179/sur.1987.3.3.226",
+                "year": "1987"
+            },
+            {
+                "title": "N/A",
+                "authors": "Bougdira",
+                "doi": "10.1016/0921-5093(91)90587-D",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Rus\u0148\u00e1k",
+                "doi": "10.1088/0022-3727/26/4/010",
+                "year": "1993"
+            },
+            {
+                "title": "N/A",
+                "authors": "Falk",
+                "doi": "10.1016/0921-5093(91)90607-O",
+                "year": "1991"
+            },
+            {
+                "title": "N/A",
+                "authors": "Ricard",
+                "doi": "10.1051/rphysap:01989002403025100",
+                "year": "1989"
+            }
+        ]
+    }
+]
