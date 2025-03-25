@@ -22,7 +22,12 @@
             {
                 "title": "Microcontinuum approach in biomechanical modeling",
                 "doi": "10.1016/S0378-4754(02)00081-2",
-                "year": "2003"
+                "year": "2003",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             }
         ],
         "references": [
@@ -30,37 +35,63 @@
                 "title": "N/A",
                 "authors": "Bufler",
                 "doi": "10.1007/BF00534244",
-                "year": "1976"
+                "year": "1976",
+                "affiliation": {
+                    "affiliation-city": "Stuttgart",
+                    "affilname": "Universität Stuttgart",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Gurtin",
                 "doi": "10.1090/qam/99951",
-                "year": "1964"
+                "year": "1964",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
                 "authors": "Magri",
                 "doi": "10.1016/0020-7225(74)90069-X",
-                "year": "1974"
+                "year": "1974",
+                "affiliation": {
+                    "affiliation-city": "Milan",
+                    "affilname": "Politecnico di Milano",
+                    "affiliation-country": "Italy"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Rosenberg",
                 "doi": "10.1002/zamm.19850650910",
-                "year": "1985"
+                "year": "1985",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "Nijedlého sady 14",
+                    "affiliation-country": null
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Telega",
                 "doi": "10.1093/imamat/24.2.175",
-                "year": "1979"
+                "year": "1979",
+                "affiliation": {
+                    "affiliation-city": "Warsaw",
+                    "affilname": "Institute of Fundamental Technological Research of the Polish Academy of Sciences",
+                    "affiliation-country": "Poland"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Tonti",
                 "doi": "10.1016/0020-7225(84)90026-0",
-                "year": "1984"
+                "year": "1984",
+                "affiliation": {
+                    "affiliation-city": "Trieste",
+                    "affilname": "Università degli Studi di Trieste",
+                    "affiliation-country": "Italy"
+                }
             },
             {
                 "title": "N/A",
@@ -73,8 +104,8 @@
     {
         "title": "Domain decomposition like technique with H/h-independent rate of convergence",
         "authors": [
-            "K\u0159\u00ed\u017ekov\u00e1 Jitka",
-            "Van\u011bk Petr"
+            "Křížková Jitka",
+            "Vaněk Petr"
         ],
         "year": "1995",
         "coverDate": "1995-11-20",
@@ -102,7 +133,8 @@
                 "title": "N/A",
                 "authors": "Brandt",
                 "doi": "10.1016/0096-3003(86)90095-0",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
@@ -111,13 +143,14 @@
                 "year": "1985"
             },
             {
-                "title": "J. K\u0159\u00ed\u017ekov\u00e1 and P. Van\u011bk, Two-level preconditioner with small coarse grid appropriate for unstructured meshes, NLAA, submitted.",
+                "title": "J. Křížková and P. Vaněk, Two-level preconditioner with small coarse grid appropriate for unstructured meshes, NLAA, submitted.",
                 "authors": "N/A",
                 "doi": "10.1002/(SICI)1099-1506(199607/08)3:4<255::AID-NLA77>3.0.CO;2-2",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": "N/A"
             },
             {
-                "title": "J. K\u0159\u00ed\u017ekov\u00e1 and P. Van\u011bk, Two-level method on unstructured meshes with convergence rate independent on the coarse-space size, NLAA, submitted.",
+                "title": "J. Křížková and P. Vaněk, Two-level method on unstructured meshes with convergence rate independent on the coarse-space size, NLAA, submitted.",
                 "authors": "N/A",
                 "doi": "N/A",
                 "year": "N/A"
@@ -126,22 +159,33 @@
                 "title": "N/A",
                 "authors": "Mandel",
                 "doi": "10.1002/cnm.1640090307",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Denver",
+                    "affilname": "University of Colorado Denver",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
-                "authors": "Van\u011bk",
+                "authors": "Vaněk",
                 "doi": "10.21136/AM.1992.104509",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
-                "authors": "Van\u011bk",
+                "authors": "Vaněk",
                 "doi": "10.1007/s10492-012-0001-3",
-                "year": "1995"
+                "year": "1995",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
-                "title": "P. Van\u011bk, J. Mandel and M. Brezina, Multigrid on unstructured meshes, SIAM J. Sci. Comput., submitted.",
+                "title": "P. Vaněk, J. Mandel and M. Brezina, Multigrid on unstructured meshes, SIAM J. Sci. Comput., submitted.",
                 "authors": "N/A",
                 "doi": "N/A",
                 "year": "N/A"
@@ -151,7 +195,7 @@
     {
         "title": "A spatial problem of liquid-shell interaction",
         "authors": [
-            "K\u0159en Ji\u0159\u00ed"
+            "Křen Jiří"
         ],
         "year": "1995",
         "coverDate": "1995-11-20",
@@ -171,7 +215,12 @@
             {
                 "title": "Fluid-structure interaction problems, finite element and boundary element approaches: A bibliography (1995-1998)",
                 "doi": "10.1016/S0168-874X(98)00065-1",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Linkoping",
+                    "affilname": "Tekniska Fakulteten (Tekniska Högskolan) (LITH)",
+                    "affiliation-country": "Sweden"
+                }
             }
         ],
         "references": [
@@ -183,7 +232,7 @@
             },
             {
                 "title": "N/A",
-                "authors": "K\u0159en",
+                "authors": "Křen",
                 "doi": "N/A",
                 "year": "1994"
             }
@@ -192,7 +241,7 @@
     {
         "title": "Hamiltonicity in claw-free graphs through induced bulls",
         "authors": [
-            "Ryj\u00e1\u010dek Zden\u011bk"
+            "Ryjáček Zdeněk"
         ],
         "year": "1995",
         "coverDate": "1995-06-11",
@@ -212,22 +261,61 @@
             {
                 "title": "Forcing Hamiltonicity in locally finite graphs via forbidden induced subgraphs I: Nets and bulls",
                 "doi": "10.1002/jgt.22902",
-                "year": "2023"
+                "year": "2023",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Brussels",
+                        "affilname": "Vrije Universiteit Brussel",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Lyngby",
+                        "affilname": "Technical University of Denmark",
+                        "affiliation-country": "Denmark"
+                    }
+                ]
             },
             {
                 "title": "Hamiltonian cycles in almost claw-free graphs",
                 "doi": "10.1007/PL00007257",
-                "year": "2001"
+                "year": "2001",
+                "affiliation": {
+                    "affiliation-city": "Toronto",
+                    "affilname": "University of Toronto",
+                    "affiliation-country": "Canada"
+                }
             },
             {
                 "title": "Vertex pancyclism in claw-free graphs",
                 "doi": "10.1016/S0012-365X(97)00252-5",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": {
+                    "affiliation-city": "Toronto",
+                    "affilname": "University of Toronto",
+                    "affiliation-country": "Canada"
+                }
             },
             {
                 "title": "Claw-free graphs - A survey",
                 "doi": "10.1016/S0012-365X(96)00045-3",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Memphis",
+                        "affilname": "College of Arts &amp; Sciences",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Orsay",
+                        "affilname": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+                        "affiliation-country": "France"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             }
         ],
         "references": [
@@ -241,14 +329,19 @@
                 "title": "N/A",
                 "authors": "Gould",
                 "doi": "10.1002/jgt.3190150204",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Atlanta",
+                    "affilname": "Emory University",
+                    "affiliation-country": "United States"
+                }
             }
         ]
     },
     {
         "title": "On the independence number in K<inf>1, r+1</inf>-free graphs",
         "authors": [
-            "Ryj\u00e1\u010dek Zden\u011bk",
+            "Ryjáček Zdeněk",
             "Schiermeyer Ingo"
         ],
         "year": "1995",
@@ -269,17 +362,51 @@
             {
                 "title": "Domination in Graphs: Core Concepts",
                 "doi": "10.1007/978-3-031-09496-5",
-                "year": "2023"
+                "year": "2023",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Clemson",
+                        "affilname": "Clemson University College of Engineering, Computing and Applied Sciences",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Johnson",
+                        "affilname": "East Tennessee State University",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Johannesburg",
+                        "affilname": "University of Johannesburg",
+                        "affiliation-country": "South Africa"
+                    }
+                ]
             },
             {
                 "title": "Cores of imprimitive symmetric graphs of order a product of two distinct primes",
                 "doi": "10.1002/jgt.21881",
-                "year": "2016"
+                "year": "2016",
+                "affiliation": {
+                    "affiliation-city": "Melbourne",
+                    "affilname": "University of Melbourne",
+                    "affiliation-country": "Australia"
+                }
             },
             {
                 "title": "The independence number of connected (claw, K<inf>4</inf>)-free 4-regular graphs",
                 "doi": "10.11650/tjm.17.2013.2189",
-                "year": "2013"
+                "year": "2013",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Shanghai",
+                        "affilname": "Shanghai University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Chongqing",
+                        "affilname": "Chongqing Normal University",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "On independent domination and size",
@@ -289,17 +416,44 @@
             {
                 "title": "On local and global independence numbers of a graph",
                 "doi": "10.1016/S0166-218X(03)00391-3",
-                "year": "2003"
+                "year": "2003",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Memphis",
+                        "affilname": "College of Arts &amp; Sciences",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Charles University",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Independence and upper irredundance in claw-free graphs",
                 "doi": "10.1016/S0166-218X(03)00392-5",
-                "year": "2003"
+                "year": "2003",
+                "affiliation": {
+                    "affiliation-city": "Orsay",
+                    "affilname": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+                    "affiliation-country": "France"
+                }
             },
             {
                 "title": "Minimum independent generalized t-degree and independence number in K<inf>1</inf>,<inf>r+1</inf>-free graphs",
                 "doi": "10.1016/S0012-365X(96)00175-6",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": {
+                    "affiliation-city": "Gif-sur-Yvette",
+                    "affilname": "Université Paris-Saclay",
+                    "affiliation-country": "France"
+                }
             }
         ],
         "references": [
@@ -313,7 +467,34 @@
                 "title": "N/A",
                 "authors": "Faudree",
                 "doi": "10.1016/0012-365X(92)90035-E",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Memphis",
+                        "affilname": "University of Memphis",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Louisville",
+                        "affilname": "University of Louisville",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Madison",
+                        "affilname": "Drew University",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Atlanta",
+                        "affilname": "Emory University",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Memphis",
+                        "affilname": "Rhodes College",
+                        "affiliation-country": "United States"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -325,7 +506,19 @@
                 "title": "N/A",
                 "authors": "Hamada",
                 "doi": "10.1016/0012-365X(76)90037-6",
-                "year": "1976"
+                "year": "1976",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tokyo",
+                        "affilname": "Tokyo University of Science",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Tokyo",
+                        "affilname": "Tokai University",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -335,9 +528,14 @@
             },
             {
                 "title": "N/A",
-                "authors": "Ryj\u00e1\u010dek",
+                "authors": "Ryjáček",
                 "doi": "10.1002/jgt.3190180505",
-                "year": "1994"
+                "year": "1994",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             }
         ]
     },
@@ -365,7 +563,12 @@
             {
                 "title": "Electron energy distribution reconstruction in low-pressure helium plasmas from optical measurements",
                 "doi": "10.1088/0741-3335/41/9/304",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Garching bei Munchen",
+                    "affilname": "Max Planck Institute for Plasma Physics",
+                    "affiliation-country": "Germany"
+                }
             }
         ],
         "references": [
@@ -373,13 +576,23 @@
                 "title": "H. W. Dravin, F. Emard, and K. Katsonis,Z. Naturforsch. Teila 28, 1422 (1973).",
                 "authors": "H. W. Dravin",
                 "doi": "10.1515/zna-1973-0907",
-                "year": "1973"
+                "year": "1973",
+                "affiliation": {
+                    "affiliation-city": "Fontenay-aux-Roses",
+                    "affilname": "CEA Fontenay aux Roses",
+                    "affiliation-country": "France"
+                }
             },
             {
                 "title": "T. Fujimoto,J. Quant. Spectrosc. Radial. Transfer 21, 439 (1979).",
                 "authors": "T. Fujimoto",
                 "doi": "10.1016/0022-4073(79)90004-9",
-                "year": "1979"
+                "year": "1979",
+                "affiliation": {
+                    "affiliation-city": "Kyoto",
+                    "affilname": "Kyoto University",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "M. S. Hedge and P. K. Ghosh,Physica C97, 275 (1979).",
@@ -391,38 +604,70 @@
                 "title": "J. Slavik,Contrib. Plasma Phys. 31, 605, 613 (1991).",
                 "authors": "J. Slavik",
                 "doi": "10.1002/ctpp.2150310605",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "C. Gorse, J. Bretagne, and M. Capitelli,Phys. Lett. A 126, 277 (1988).",
                 "authors": "C. Gorse",
                 "doi": "10.1016/0375-9601(88)90761-X",
-                "year": "1988"
+                "year": "1988",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Palaiseau",
+                        "affilname": "Laboratoire de Physique des Plasmas",
+                        "affiliation-country": "France"
+                    },
+                    {
+                        "affiliation-city": "Rome",
+                        "affilname": "Consiglio Nazionale delle Ricerche",
+                        "affiliation-country": "Italy"
+                    }
+                ]
             },
             {
                 "title": "G. Capriati, G. Colonna, C. Gorse, and M. Capitelli,Plasma Chem. Plasma Process. 12, 237 (1992).",
                 "authors": "G. Capriati",
                 "doi": "10.1007/BF01447024",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": {
+                    "affiliation-city": "Bari",
+                    "affilname": "Università degli studi di Bari Aldo Moro",
+                    "affiliation-country": "Italy"
+                }
             },
             {
                 "title": "T. Holstein,Phys. Rev. 70, 367 (1946).",
                 "authors": "T. Holstein",
                 "doi": "10.1103/PhysRev.70.367",
-                "year": "1946"
+                "year": "1946",
+                "affiliation": {
+                    "affiliation-city": "Pittsburgh",
+                    "affilname": "Westinghouse Research &amp; Development Center",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "S. D. Rockwood,Phys. Rev. A 8, 2348 (1973).",
                 "authors": "S. D. Rockwood",
                 "doi": "10.1103/PhysRevA.8.2348",
-                "year": "1973"
+                "year": "1973",
+                "affiliation": {
+                    "affiliation-city": "Los Alamos",
+                    "affilname": "Los Alamos National Laboratory",
+                    "affiliation-country": "United States"
+                }
             }
         ]
     },
     {
-        "title": "Nonlinear Eigenvalue Problem for p\u2010Laplacian in IR<sup>N</sup>",
+        "title": "Nonlinear Eigenvalue Problem for p‐Laplacian in IR<sup>N</sup>",
         "authors": [
-            "Dr\u00e1bek Pavel",
+            "Drábek Pavel",
             "Rother Wolfgang"
         ],
         "year": "1995",
@@ -443,105 +688,336 @@
             {
                 "title": "p-Laplacian problem in a Riemannian manifold",
                 "doi": "10.1007/s13324-025-01031-3",
-                "year": "2025"
+                "year": "2025",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tunis",
+                        "affilname": "Université de Tunis El Manar, Faculté des Sciences de Tunis",
+                        "affiliation-country": "Tunisia"
+                    },
+                    {
+                        "affiliation-city": "Santo Andre",
+                        "affilname": "Universidade Federal do ABC",
+                        "affiliation-country": "Brazil"
+                    },
+                    {
+                        "affiliation-city": "Sao Luis",
+                        "affilname": "Universidade Estadual do Maranhão",
+                        "affiliation-country": "Brazil"
+                    }
+                ]
             },
             {
-                "title": "Existence Results and L\u221e-Bound of Solutions to Kirchhoff\u2013Schr\u00f6dinger\u2013Hardy Type Equations Involving Double Phase Operators",
+                "title": "Existence Results and L∞-Bound of Solutions to Kirchhoff–Schrödinger–Hardy Type Equations Involving Double Phase Operators",
                 "doi": "10.1007/s00025-024-02274-5",
-                "year": "2024"
+                "year": "2024",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Jongno-gu",
+                        "affilname": "Sangmyung University",
+                        "affiliation-country": "South Korea"
+                    },
+                    {
+                        "affiliation-city": "Incheon",
+                        "affilname": "Incheon National University",
+                        "affiliation-country": "South Korea"
+                    },
+                    {
+                        "affiliation-city": "Chongqing",
+                        "affilname": "Chongqing Normal University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Seoul",
+                        "affilname": "Sungkyunkwan University",
+                        "affiliation-country": "South Korea"
+                    }
+                ]
             },
             {
-                "title": "Bifurcation and regularity of entire solutions for the planar nonlinear Schr\u00f6dinger\u2013Poisson system",
+                "title": "Bifurcation and regularity of entire solutions for the planar nonlinear Schrödinger–Poisson system",
                 "doi": "10.1007/s00208-023-02752-1",
-                "year": "2024"
+                "year": "2024",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Harbin",
+                        "affilname": "Harbin Institute of Technology",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Jinhua",
+                        "affilname": "Zhejiang Normal University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Perugia",
+                        "affilname": "Università degli Studi di Perugia",
+                        "affiliation-country": "Italy"
+                    },
+                    {
+                        "affiliation-city": "Qingdao",
+                        "affilname": "Shandong University of Science and Technology",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
-                "title": "Multiple Solutions to the Fractional p-Laplacian Equations of Schr\u00f6dinger\u2013Hardy-Type Involving Concave\u2013Convex Nonlinearities",
+                "title": "Multiple Solutions to the Fractional p-Laplacian Equations of Schrödinger–Hardy-Type Involving Concave–Convex Nonlinearities",
                 "doi": "10.3390/fractalfract8070426",
-                "year": "2024"
+                "year": "2024",
+                "affiliation": {
+                    "affiliation-city": "Jongno-gu",
+                    "affilname": "Sangmyung University",
+                    "affiliation-country": "South Korea"
+                }
             },
             {
-                "title": "Bifurcation and regularity analysis of the Schr\u00f6dinger-Poisson equation",
+                "title": "Bifurcation and regularity analysis of the Schrödinger-Poisson equation",
                 "doi": "10.1088/1361-6544/ad1efb",
-                "year": "2024"
+                "year": "2024",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Harbin",
+                        "affilname": "Harbin Institute of Technology",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Jinhua",
+                        "affilname": "Zhejiang Normal University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Perugia",
+                        "affilname": "Università degli Studi di Perugia",
+                        "affiliation-country": "Italy"
+                    },
+                    {
+                        "affiliation-city": "Qingdao",
+                        "affilname": "Shandong University of Science and Technology",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "Multiple solutions for double phase problems in R<sup>n</sup> via Ricceri's principle",
                 "doi": "10.1016/j.jmaa.2023.127513",
-                "year": "2023"
+                "year": "2023",
+                "affiliation": {
+                    "affiliation-city": "Ancona",
+                    "affilname": "Università Politecnica delle Marche",
+                    "affiliation-country": "Italy"
+                }
             },
             {
-                "title": "Spectrum of the fractional p-Laplacian in R<sup>N</sup> and decay estimate for positive solutions of a Schr\u00f6dinger equation",
+                "title": "Spectrum of the fractional p-Laplacian in R<sup>N</sup> and decay estimate for positive solutions of a Schrödinger equation",
                 "doi": "10.1016/j.na.2019.03.002",
-                "year": "2020"
+                "year": "2020",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Valparaiso",
+                        "affilname": "Universidad Técnica Federico Santa María",
+                        "affiliation-country": "Chile"
+                    },
+                    {
+                        "affiliation-city": "Buenos Aires",
+                        "affilname": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+                        "affiliation-country": "Argentina"
+                    }
+                ]
             },
             {
-                "title": "Asymptotic properties of a \u03c6-Laplacian and Rayleigh quotient",
+                "title": "Asymptotic properties of a φ-Laplacian and Rayleigh quotient",
                 "doi": "10.14712/1213-7243.2020.020",
-                "year": "2020"
+                "year": "2020",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Abu Dhabi",
+                        "affilname": "Khalifa University of Science and Technology",
+                        "affiliation-country": "United Arab Emirates"
+                    },
+                    {
+                        "affiliation-city": "Valdivia",
+                        "affilname": "Universidad Austral de Chile",
+                        "affiliation-country": "Chile"
+                    }
+                ]
             },
             {
                 "title": "A study of nonlinear elliptic problems involving supercritical and exponential growth in R<sup>n</sup>",
                 "doi": "10.1002/mma.4520",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": {
+                    "affiliation-city": "Xuzhou",
+                    "affilname": "China University of Mining and Technology",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "On the existence of solutions for quasilinear elliptic problems with radial potentials on exterior ball",
                 "doi": "10.1002/mana.201400250",
-                "year": "2016"
+                "year": "2016",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Beijing",
+                        "affilname": "Beijing University of Chemical Technology",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Beijing",
+                        "affilname": "Capital Normal University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Beijing",
+                        "affilname": "Beijing University of Posts and Telecommunications",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "Weighted quasilinear eigenvalue problems in exterior domains",
                 "doi": "10.1007/s00526-014-0773-2",
-                "year": "2015"
+                "year": "2015",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Existence and boundedness of solutions for a singular cooperative quasilinear elliptic system",
                 "doi": "10.1080/17476933.2012.744404",
-                "year": "2014"
+                "year": "2014",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Bejaia",
+                        "affilname": "Université Abderrahmane Mira - Béjaïa",
+                        "affiliation-country": "Algeria"
+                    },
+                    {
+                        "affiliation-city": "Perpignan",
+                        "affilname": "Université de Perpignan Via Domitia",
+                        "affiliation-country": "France"
+                    }
+                ]
             },
             {
                 "title": "Multiple solutions for a p-laplacian system with nonlinear boundary conditions",
                 "doi": "10.4134/BKMS.2014.51.1.099",
-                "year": "2014"
+                "year": "2014",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Chongqing",
+                        "affilname": "Southwest University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Williamsburg",
+                        "affilname": "William &amp; Mary",
+                        "affiliation-country": "United States"
+                    }
+                ]
             },
             {
                 "title": "Three solutions for equations involving nonhomogeneous operators of p-Laplace type in (Formula presented.)",
                 "doi": "10.1186/1029-242X-2014-427",
-                "year": "2014"
+                "year": "2014",
+                "affiliation": {
+                    "affiliation-city": "Jongno-gu",
+                    "affilname": "Sangmyung University",
+                    "affiliation-country": "South Korea"
+                }
             },
             {
                 "title": "Positivity of the infimum eigenvalue for equations of p(x)-Laplace type in R<sup>n</sup>",
                 "doi": "10.1186/1687-2770-2013-214",
-                "year": "2013"
+                "year": "2013",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Jongno-gu",
+                        "affilname": "Sangmyung University",
+                        "affiliation-country": "South Korea"
+                    },
+                    {
+                        "affiliation-city": "Incheon",
+                        "affilname": "Incheon National University",
+                        "affiliation-country": "South Korea"
+                    }
+                ]
             },
             {
                 "title": "The expected time to end the tug-of-war in a wedge",
                 "doi": "10.1007/s00440-011-0400-5",
-                "year": "2013"
+                "year": "2013",
+                "affiliation": {
+                    "affiliation-city": "Las Cruces",
+                    "affilname": "New Mexico State University",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "Existence and multiplicity results for quasilinear elliptic exterior problems with nonlinear boundary conditions",
                 "doi": "10.1016/j.na.2011.10.046",
-                "year": "2012"
+                "year": "2012",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Beijing",
+                        "affilname": "Beijing University of Chemical Technology",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Beijing",
+                        "affilname": "Capital Normal University",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "Positive solutions of p-laplacian equations with nonlinear boundary condition",
                 "doi": "10.3934/dcdsb.2011.16.623",
-                "year": "2011"
+                "year": "2011",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Nanjing",
+                        "affilname": "Nanjing Normal University",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Xuzhou",
+                        "affilname": "Xuzhou University of Technology",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
-                "title": "A study of nonlinear problems for the p-Laplacian in \u211d<sup>n</sup> via Ricceri's principle",
+                "title": "A study of nonlinear problems for the p-Laplacian in ℝ<sup>n</sup> via Ricceri's principle",
                 "doi": "10.1016/j.na.2011.04.013",
-                "year": "2011"
+                "year": "2011",
+                "affiliation": {
+                    "affiliation-city": "Riyadh",
+                    "affilname": "Al-Imam Muhammad Ibn Saud Islamic University",
+                    "affiliation-country": "Saudi Arabia"
+                }
             },
             {
-                "title": "A positive solution branch for nonlinear eigenvalue problems in \u211d<sup>n</sup>",
+                "title": "A positive solution branch for nonlinear eigenvalue problems in ℝ<sup>n</sup>",
                 "doi": "10.1016/j.na.2010.11.023",
-                "year": "2011"
+                "year": "2011",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Chennai",
+                        "affilname": "Institute of Mathematical Sciences India",
+                        "affiliation-country": "India"
+                    },
+                    {
+                        "affiliation-city": "Mumbai",
+                        "affilname": "Tata Institute of Fundamental Research, Mumbai",
+                        "affiliation-country": "India"
+                    }
+                ]
             },
             {
-                "title": "Anistropic elliptic equations in \u211d<sup>N</sup>: Existence and regularity results",
+                "title": "Anistropic elliptic equations in ℝ<sup>N</sup>: Existence and regularity results",
                 "doi": "N/A",
                 "year": "2010"
             },
@@ -551,19 +1027,34 @@
                 "year": "2010"
             },
             {
-                "title": "L<sup>\u221e</sup>-Estimates for nonlinear elliptic Neumann boundary value problems",
+                "title": "L<sup>∞</sup>-Estimates for nonlinear elliptic Neumann boundary value problems",
                 "doi": "10.1007/s00030-009-0054-5",
-                "year": "2010"
+                "year": "2010",
+                "affiliation": {
+                    "affiliation-city": "Halle",
+                    "affilname": "Martin-Luther-Universität Halle-Wittenberg",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "Note on an anisotropic p-laplacian equation in R<sup>n</sup>",
                 "doi": "10.14232/ejqtde.2010.1.73",
-                "year": "2010"
+                "year": "2010",
+                "affiliation": {
+                    "affiliation-city": "Riyadh",
+                    "affilname": "Al-Imam Muhammad Ibn Saud Islamic University",
+                    "affiliation-country": "Saudi Arabia"
+                }
             },
             {
                 "title": "Global bifurcation of the p-Laplacian in R<sup>N</sup>",
                 "doi": "10.1016/j.na.2008.03.055",
-                "year": "2009"
+                "year": "2009",
+                "affiliation": {
+                    "affiliation-city": "Seoul",
+                    "affilname": "Sungkyunkwan University",
+                    "affiliation-country": "South Korea"
+                }
             }
         ],
         "references": [
@@ -575,7 +1066,7 @@
             },
             {
                 "title": "N/A",
-                "authors": "Dr\u00e1bek P.",
+                "authors": "Drábek P.",
                 "doi": "N/A",
                 "year": "1992"
             },
@@ -583,43 +1074,77 @@
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1080/03605308908820654",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": {
+                    "affiliation-city": "Beijing",
+                    "affilname": "Chinese Academy of Sciences",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.2307/2159352",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1016/0022-0396(90)90126-A",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Sydney",
+                        "affilname": "UNSW Sydney",
+                        "affiliation-country": "Australia"
+                    },
+                    {
+                        "affiliation-city": "Vancouver",
+                        "affilname": "The University of British Columbia",
+                        "affiliation-country": "Canada"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1017/S1446788700037150",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": {
+                    "affiliation-city": "Bayreuth",
+                    "affilname": "Universität Bayreuth",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1007/BF02391014",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": {
+                    "affiliation-city": "Minneapolis",
+                    "affilname": "University of Minnesota Twin Cities",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1016/0022-0396(84)90105-0",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": {
+                    "affiliation-city": "Bonn",
+                    "affilname": "Universität Bonn",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "N/A",
                 "doi": "10.1002/cpa.3160200406",
-                "year": "N/A"
+                "year": "N/A",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
@@ -632,7 +1157,7 @@
     {
         "title": "AN AUTOMATIC CREATION OF THE LANGUAGE MODEL FOR THE SPONTANEOUS CZECH SPEECH RECOGNIZER",
         "authors": [
-            "Kle\u010dkov\u00e1 J."
+            "Klečková J."
         ],
         "year": "1995",
         "coverDate": "1995-01-01",
@@ -657,17 +1182,32 @@
             {
                 "title": "PROCESSING OF ANAPHORIC AND ELLIPTIC SENTENCES IN A SPOKEN DIALOG SYSTEM",
                 "doi": "10.21437/eurospeech.1999-363",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Improvement of the recognition rate of spoken queries to the dialogue system",
                 "doi": "10.1007/3-540-48239-3_56",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Storing prosody attributes of spontaneous speech",
                 "doi": "10.1007/3-540-48239-3_49",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             }
         ],
         "references": "N/A"
@@ -676,8 +1216,8 @@
         "title": "Production of Ti films with controlled texture",
         "authors": [
             "Musil J.",
-            "Vl\u010dek J.",
-            "Je\u017eek V.",
+            "Vlček J.",
+            "Ježek V.",
             "Benda M.",
             "Kolega M.",
             "Boomsma R."
@@ -700,87 +1240,294 @@
             {
                 "title": "Effect of Bias Voltage on the Electrochemical Corrosion Behavior of Titanium Coatings Deposited on Steel Substrate by Cathodic Arc Evaporation",
                 "doi": "10.1007/s11665-025-10687-8",
-                "year": "2025"
+                "year": "2025",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Gdansk",
+                        "affilname": "Polskiej Akademii Nauk, Instytut Maszyn Przepływowych im. Roberta Szewalskiego",
+                        "affiliation-country": "Poland"
+                    },
+                    {
+                        "affiliation-city": "Lviv",
+                        "affilname": "Karpenko Physico-Mechanical Institute of the NAS of Ukraine",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Kharkiv",
+                        "affilname": "National Science Center Kharkov Institute of Physics and Technology",
+                        "affiliation-country": "Ukraine"
+                    }
+                ]
             },
             {
                 "title": "Crystallographic Orientation Analysis of Nanocrystalline Tungsten Thin Film Using TEM Precession Electron Diffraction and SEM Transmission Kikuchi Diffraction",
                 "doi": "10.1017/S1431927621000027",
-                "year": "2021"
+                "year": "2021",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Dusseldorf",
+                        "affilname": "Max-Planck-Institut für Eisenforschung GmbH",
+                        "affiliation-country": "Germany"
+                    },
+                    {
+                        "affiliation-city": "Seoul",
+                        "affilname": "Sungkyunkwan University",
+                        "affiliation-country": "South Korea"
+                    },
+                    {
+                        "affiliation-city": "Bochum",
+                        "affilname": "Ruhr-Universitat Bochum",
+                        "affiliation-country": "Germany"
+                    },
+                    {
+                        "affiliation-city": "Suwon",
+                        "affilname": "Samsung Electronics Co. Ltd.",
+                        "affiliation-country": "South Korea"
+                    }
+                ]
             },
             {
                 "title": "The structural characterizations of Ti-17 alloy films prepared by magnetron sputtering",
                 "doi": "10.1016/j.apsusc.2017.09.045",
-                "year": "2018"
+                "year": "2018",
+                "affiliation": {
+                    "affiliation-city": "Xi'an",
+                    "affilname": "State Key Laboratory of Solidification Processing",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Improving the mechanical properties of titanium films by texture strengthening",
                 "doi": "10.1016/j.matchar.2017.03.015",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": {
+                    "affiliation-city": "Xi'an",
+                    "affilname": "State Key Laboratory of Solidification Processing",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "The phase, morphology and surface characterization of Ti-Mo alloy films prepared by magnetron sputtering",
                 "doi": "10.1039/c7ra10510j",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": {
+                    "affiliation-city": "Xi'an",
+                    "affilname": "State Key Laboratory of Solidification Processing",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Effects of substrate temperature on the structure, residual stress and nanohardness of Ti6Al4V films prepared by magnetron sputtering",
                 "doi": "10.1016/j.apsusc.2016.02.021",
-                "year": "2016"
+                "year": "2016",
+                "affiliation": {
+                    "affiliation-city": "Xi'an",
+                    "affilname": "State Key Laboratory of Solidification Processing",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Effect of deposition temperature on the structure and mechanical properties of Ti-6Al-4V film",
                 "doi": "10.4028/www.scientific.net/MSF.749.643",
-                "year": "2013"
+                "year": "2013",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Langfang",
+                        "affilname": "China Petroleum Pipeline Engineering Co., Ltd.",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Xi'an",
+                        "affilname": "Northwest Institute for Nonferrous Metal Research",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "Structures and properties of hard and superhard nanocomposite coatings",
                 "doi": "10.3367/UFNe.0179.200901b.0035",
-                "year": "2009"
+                "year": "2009",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Kyiv",
+                        "affilname": "G. V. Kurdyumov Institute for Metal Physics, National Academy of Sciences of Ukraine",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Kharkiv",
+                        "affilname": "V. N. Karazin Kharkiv National University",
+                        "affiliation-country": "Ukraine"
+                    }
+                ]
             },
             {
                 "title": "Structure, Properties and Fabrication of the Solid Nanocrystalline Coatings Deposited in Several Ways",
                 "doi": "10.15407/ufm.08.03.171",
-                "year": "2007"
+                "year": "2007",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Ust-Kamenogorsk",
+                        "affilname": "D. Serikbayev East Kazakhstan Technical University",
+                        "affiliation-country": "Kazakhstan"
+                    },
+                    {
+                        "affiliation-city": "Kharkiv",
+                        "affilname": "Scientific Center of Physical Technologies, Kharkiv",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Kyiv",
+                        "affilname": "G. V. Kurdyumov Institute for Metal Physics, National Academy of Sciences of Ukraine",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Kyiv",
+                        "affilname": "Institute for Problems of Materials Science National Academy of Sciences in Ukraine",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Minsk",
+                        "affilname": "Belarusian State University",
+                        "affiliation-country": "Belarus"
+                    },
+                    {
+                        "affiliation-city": "Kharkiv",
+                        "affilname": "V. N. Karazin Kharkiv National University",
+                        "affiliation-country": "Ukraine"
+                    },
+                    {
+                        "affiliation-city": "Sumy",
+                        "affilname": "Concern ‘Ukrrosmetall’",
+                        "affiliation-country": "Ukraine"
+                    }
+                ]
             },
             {
                 "title": "A comparative study of microstructure and mechanical properties for CrN<inf>x</inf> films with various deposition rates by magnetron sputtering",
                 "doi": "10.1016/S0257-8972(01)01094-5",
-                "year": "2001"
+                "year": "2001",
+                "affiliation": {
+                    "affiliation-city": "Seoul",
+                    "affilname": "Sungkyunkwan University",
+                    "affiliation-country": "South Korea"
+                }
             },
             {
                 "title": "A perspective of magnetron sputtering in surface engineering",
                 "doi": "10.1016/S0257-8972(98)00748-8",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Magnetron sputtering of alloy-based films and its specifity",
                 "doi": "10.1023/A:1022814319240",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Magnetron sputtering of films with controlled texture and grain size",
                 "doi": "10.1016/S0254-0584(98)00020-0",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "High-rate magnetron sputtering",
                 "doi": "10.1116/1.580045",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Brno",
+                        "affilname": "Military Technical Institute of Protection",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "XRD characterization of thin films with low intensity reflection lines",
                 "doi": "10.1016/0042-207X(96)00193-5",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Brno",
+                        "affilname": "Military Technical Institute",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
                 "doi": "10.1016/0042-207x(96)00085-1",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Academy of Sciences of the Czech Republic",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
-                "title": "Formation of high temperature phases in sputter deposited Ti-based films below 100 \u00b0C",
+                "title": "Formation of high temperature phases in sputter deposited Ti-based films below 100 °C",
                 "doi": "10.1116/1.580055",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Venlo",
+                        "affilname": "Hauzer Techno Coating BV",
+                        "affiliation-country": "Netherlands"
+                    },
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             }
         ],
         "references": [
@@ -788,25 +1535,52 @@
                 "title": "N/A",
                 "authors": "Nakada",
                 "doi": "10.1143/JJAP.30.3344",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Tokyo",
+                    "affilname": "Aoyama Gakuin University",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Kim",
                 "doi": "10.1116/1.579233",
-                "year": "1994"
+                "year": "1994",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Urbana",
+                        "affilname": "The Grainger College of Engineering",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Yorktown Heights",
+                        "affilname": "IBM Thomas J. Watson Research Center",
+                        "affiliation-country": "United States"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Suzuki",
                 "doi": "10.1063/1.111102",
-                "year": "1994"
+                "year": "1994",
+                "affiliation": {
+                    "affiliation-city": "Tokyo",
+                    "affilname": "Toshiba Corporation",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Kaloyeros",
                 "doi": "10.1016/0040-6090(86)90352-4",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": {
+                    "affiliation-city": "Urbana",
+                    "affilname": "The Grainger College of Engineering",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
@@ -818,7 +1592,12 @@
                 "title": "N/A",
                 "authors": "Birringer",
                 "doi": "10.1016/0921-5093(89)90083-X",
-                "year": "1989"
+                "year": "1989",
+                "affiliation": {
+                    "affiliation-city": "Saarbrucken",
+                    "affilname": "Universität des Saarlandes",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
@@ -832,8 +1611,8 @@
         "title": "Protection of aluminium by duplex coatings",
         "authors": [
             "Musil J.",
-            "Vl\u010dek J.",
-            "Je\u017eek V.",
+            "Vlček J.",
+            "Ježek V.",
             "Benda M."
         ],
         "year": "1995",
@@ -854,61 +1633,197 @@
             {
                 "title": "Enhanced surface properties of aluminum by PVD-TiN coating combined with cathodic cage plasma nitriding",
                 "doi": "10.1016/j.surfcoat.2017.08.015",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Bagh",
+                        "affilname": "Women University of Azad Jammu &amp; kashmir Bagh",
+                        "affiliation-country": "Pakistan"
+                    },
+                    {
+                        "affiliation-city": "Jizan",
+                        "affilname": "Jazan University",
+                        "affiliation-country": "Saudi Arabia"
+                    },
+                    {
+                        "affiliation-city": "Islamabad",
+                        "affilname": "Quaid-i-Azam University",
+                        "affiliation-country": "Pakistan"
+                    },
+                    {
+                        "affiliation-city": "Mexico",
+                        "affilname": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+                        "affiliation-country": "Mexico"
+                    },
+                    {
+                        "affiliation-city": "Coahuila",
+                        "affilname": "Universidad Autónoma de Coahuila",
+                        "affiliation-country": "Mexico"
+                    }
+                ]
             },
             {
                 "title": "Microstructures and nano-mechanical properties of multilayer coatings prepared by plasma nitriding Cr-coated Al alloy",
                 "doi": "10.1016/j.vacuum.2017.05.013",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tianjin",
+                        "affilname": "Hebei University of Technology",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Harbin",
+                        "affilname": "Harbin Institute of Technology",
+                        "affiliation-country": "China"
+                    }
+                ]
             },
             {
                 "title": "Microstructure and mechanical properties of multiphase layer formed during depositing Ti film followed by plasma nitriding on 2024 aluminum alloy",
                 "doi": "10.1016/j.apsusc.2014.02.091",
-                "year": "2014"
+                "year": "2014",
+                "affiliation": {
+                    "affiliation-city": "Harbin",
+                    "affilname": "Harbin Institute of Technology",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Comments on process of duplex coatings on aluminum alloys",
                 "doi": "10.1007/s11771-004-0049-7",
-                "year": "2004"
+                "year": "2004",
+                "affiliation": {
+                    "affiliation-city": "Chongqing",
+                    "affilname": "Chongqing University",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "On the mechanism of ion nitriding of an austenitic stainless steel",
                 "doi": "10.1016/S0257-8972(00)00988-9",
-                "year": "2001"
+                "year": "2001",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Kaunas",
+                        "affilname": "Vytautas Magnus University",
+                        "affiliation-country": "Lithuania"
+                    },
+                    {
+                        "affiliation-city": "Kaunas",
+                        "affilname": "Lithuanian Energy Institute",
+                        "affiliation-country": "Lithuania"
+                    },
+                    {
+                        "affiliation-city": "Poitiers",
+                        "affilname": "Université de Poitiers",
+                        "affiliation-country": "France"
+                    }
+                ]
             },
             {
                 "title": "Passivation and anodic oxidation of duplex TiN coating on stainless steel",
                 "doi": "10.1149/1.1392595",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tallinn",
+                        "affilname": "Tallinna Tehnikaülikool",
+                        "affiliation-country": "Estonia"
+                    },
+                    {
+                        "affiliation-city": "Stockholm",
+                        "affilname": "The Royal Institute of Technology (KTH)",
+                        "affiliation-country": "Sweden"
+                    }
+                ]
             },
             {
                 "title": "Duplex TiN coatings deposited by arc plating for increased corrosion resistance of stainless steel substrates",
                 "doi": "10.1016/S0257-8972(99)00033-X",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tallinn",
+                        "affilname": "Tallinna Tehnikaülikool",
+                        "affiliation-country": "Estonia"
+                    },
+                    {
+                        "affiliation-city": "Stockholm",
+                        "affilname": "The Royal Institute of Technology (KTH)",
+                        "affiliation-country": "Sweden"
+                    }
+                ]
             },
             {
                 "title": "A perspective of magnetron sputtering in surface engineering",
                 "doi": "10.1016/S0257-8972(98)00748-8",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
                 "doi": "10.1016/0042-207x(96)00085-1",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Academy of Sciences of the Czech Republic",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             }
         ],
         "references": [
             {
                 "title": "N/A",
-                "authors": "Zlatanovi\u010d",
+                "authors": "Zlatanovič",
                 "doi": "10.1016/0257-8972(91)90124-F",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Belgrade",
+                    "affilname": "Faculty of Electrical Engineering",
+                    "affiliation-country": "Yugoslavia"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Van Stappen",
                 "doi": "10.1016/0921-5093(91)90478-6",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Leuven",
+                        "affilname": "KU Leuven",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Hasselt",
+                        "affilname": "Universiteit Hasselt",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Diepenbeek",
+                        "affilname": "Scientific and Technical Centre for the Metalworking Industry",
+                        "affiliation-country": "Belgium"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -920,7 +1835,19 @@
                 "title": "N/A",
                 "authors": "Haen",
                 "doi": "10.1016/0257-8972(93)90225-D",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Hasselt",
+                        "affilname": "Universiteit Hasselt",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Diepenbeek",
+                        "affilname": "Science Park",
+                        "affiliation-country": "Belgium"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -932,19 +1859,53 @@
                 "title": "N/A",
                 "authors": "Sun",
                 "doi": "10.1016/0921-5093(91)90458-Y",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Birmingham",
+                    "affilname": "University of Birmingham",
+                    "affiliation-country": "United Kingdom"
+                }
             },
             {
                 "title": "N/A",
-                "authors": "Zlatanovi\u010d",
+                "authors": "Zlatanovič",
                 "doi": "10.1016/0257-8972(94)90105-8",
-                "year": "1994"
+                "year": "1994",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Venlo",
+                        "affilname": "Hauzer Techno Coating BV",
+                        "affiliation-country": "Netherlands"
+                    },
+                    {
+                        "affiliation-city": "Novi Sad",
+                        "affilname": "University of Novi Sad",
+                        "affiliation-country": "Serbia"
+                    },
+                    {
+                        "affiliation-city": "Belgrade",
+                        "affilname": "Faculty of Electrical Engineering",
+                        "affiliation-country": "Yugoslavia"
+                    }
+                ]
             },
             {
                 "title": "N/A",
-                "authors": "Zlatanovi\u010d",
+                "authors": "Zlatanovič",
                 "doi": "10.1016/0257-8972(90)90127-X",
-                "year": "1990"
+                "year": "1990",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Essen",
+                        "affilname": "Evonik Industries AG",
+                        "affiliation-country": "Germany"
+                    },
+                    {
+                        "affiliation-city": "Belgrade",
+                        "affilname": "Faculty of Electrical Engineering",
+                        "affiliation-country": "Yugoslavia"
+                    }
+                ]
             }
         ]
     },
@@ -952,8 +1913,8 @@
         "title": "Mutual interdiffusion of elements in steel and Ti coating and aluminium and Ti coating couples during plasma nitriding",
         "authors": [
             "Musil J.",
-            "Vlc\u0306ek J.",
-            "Jez\u0306ek V.",
+            "Vlc̆ek J.",
+            "Jez̆ek V.",
             "Benda M.",
             "Weiss Z."
         ],
@@ -975,32 +1936,97 @@
             {
                 "title": "Optimizing surface morphologies for ceramic films prepared using a magnetron sputtering",
                 "doi": "10.1166/jnn.2010.2651",
-                "year": "2010"
+                "year": "2010",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Pingtung",
+                        "affilname": "Yung-Ta Institute of Technology and Commerce",
+                        "affiliation-country": "Taiwan"
+                    },
+                    {
+                        "affiliation-city": "Kaohsiung",
+                        "affilname": "Metal Industries Research and Development Center Taiwan",
+                        "affiliation-country": "Taiwan"
+                    }
+                ]
             },
             {
                 "title": "Combination of coating and heat treatment processes",
                 "doi": "10.1016/j.surfcoat.2006.08.042",
-                "year": "2006"
+                "year": "2006",
+                "affiliation": {
+                    "affiliation-city": "Bremen",
+                    "affilname": "Stiftung Institut fur Werkstofftechnik",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "Effect of Ti interlayer and bias on structure and properties of TiN films",
                 "doi": "10.1023/A:1022814503252",
-                "year": "2000"
+                "year": "2000",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Charles University",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "A perspective of magnetron sputtering in surface engineering",
                 "doi": "10.1016/S0257-8972(98)00748-8",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Interdiffusion between Ti and steel elements in Ti coating/steel substrate couple",
                 "doi": "10.1016/0042-207x(96)00085-1",
-                "year": "1996"
+                "year": "1996",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Academy of Sciences of the Czech Republic",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Protection of aluminium by duplex coatings",
                 "doi": "10.1016/0257-8972(95)02556-1",
-                "year": "1995"
+                "year": "1995",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             }
         ],
         "references": [
@@ -1008,55 +2034,140 @@
                 "title": "N/A",
                 "authors": "Cheng",
                 "doi": "10.1016/0257-8972(89)90069-8",
-                "year": "1989"
+                "year": "1989",
+                "affiliation": {
+                    "affiliation-city": "Lemont",
+                    "affilname": "Argonne National Laboratory",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Van Stappen",
                 "doi": "10.1179/sur.1989.5.4.305",
-                "year": "1989"
+                "year": "1989",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Hasselt",
+                        "affilname": "Universiteit Hasselt",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Diepenbeek",
+                        "affilname": "Scientific and Technical Centre for the Metalworking Industry",
+                        "affiliation-country": "Belgium"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Hakansson",
                 "doi": "10.1016/0257-8972(91)90128-J",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Linkoping",
+                        "affilname": "Linköpings Universitet",
+                        "affiliation-country": "Sweden"
+                    },
+                    {
+                        "affiliation-city": "Urbana",
+                        "affilname": "University of Illinois Urbana-Champaign",
+                        "affiliation-country": "United States"
+                    },
+                    {
+                        "affiliation-city": "Venlo",
+                        "affilname": "Hauzer Techno Coating Europe BV",
+                        "affiliation-country": "Netherlands"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Bull",
                 "doi": "10.1016/0921-5093(91)90599-I",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": null,
+                    "affilname": "Harwell Lab",
+                    "affiliation-country": "United Kingdom"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Huang",
                 "doi": "10.1016/0257-8972(92)90049-G",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Shenyang",
+                        "affilname": "Institute of Metal Research Chinese Academy of Sciences",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "affiliation-city": "Vienna",
+                        "affilname": "Technische Universität Wien",
+                        "affiliation-country": "Austria"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Pischow",
                 "doi": "10.1016/0257-8972(93)90003-7",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Espoo",
+                    "affilname": "Aalto University",
+                    "affiliation-country": "Finland"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Haen",
                 "doi": "10.1016/0257-8972(93)90225-D",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Hasselt",
+                        "affilname": "Universiteit Hasselt",
+                        "affiliation-country": "Belgium"
+                    },
+                    {
+                        "affiliation-city": "Diepenbeek",
+                        "affilname": "Science Park",
+                        "affiliation-country": "Belgium"
+                    }
+                ]
             },
             {
                 "title": "N/A",
-                "authors": "Hanz\u0306el",
+                "authors": "Hanz̆el",
                 "doi": "10.1116/1.578293",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Mainz",
+                        "affilname": "Johannes Gutenberg-Universität Mainz",
+                        "affiliation-country": "Germany"
+                    },
+                    {
+                        "affiliation-city": "Ljubljana",
+                        "affilname": "Univerza v Ljubljani",
+                        "affiliation-country": "Slovenia"
+                    }
+                ]
             },
             {
                 "title": "N/A",
-                "authors": "M\u00fcnz",
+                "authors": "Münz",
                 "doi": "10.1016/0257-8972(92)90058-I",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": {
+                    "affiliation-city": "Venlo",
+                    "affilname": "Hauzer Techno Coating BV",
+                    "affiliation-country": "Netherlands"
+                }
             },
             {
                 "title": "N/A",
@@ -1069,8 +2180,8 @@
     {
         "title": "High temperature oxidation of the 18Mn18Cr0.5N austenitic steel",
         "authors": [
-            "Kube\u0161 Z.",
-            "Vesel\u00e1 J.",
+            "Kubeš Z.",
+            "Veselá J.",
             "Weiss Z."
         ],
         "year": "1995",
@@ -1091,12 +2202,29 @@
             {
                 "title": "Oxidation behaviour at 1123 K of AISI 304-Ni/Al-Al<inf>2</inf>O <inf>3</inf>/TiO<inf>2</inf> multilayer system deposited by flame spray",
                 "doi": "10.3989/revmetalmadrid.1003",
-                "year": "2011"
+                "year": "2011",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Valencia",
+                        "affilname": "Universitat Politècnica de València",
+                        "affiliation-country": "Spain"
+                    },
+                    {
+                        "affiliation-city": "Castellon de la Plana",
+                        "affilname": "Universidad Jaume I",
+                        "affiliation-country": "Spain"
+                    }
+                ]
             },
             {
                 "title": "The effects of Pre-oxidation and alloy chemistry of austenitic stainless steels on glass/metal sealing",
                 "doi": "10.1007/s11085-009-9181-y",
-                "year": "2010"
+                "year": "2010",
+                "affiliation": {
+                    "affiliation-city": "Albuquerque",
+                    "affilname": "Sandia National Laboratories, New Mexico",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "The effects of 304L stainless steel pre-oxidation on bonding to alkali barium silicate glass",
@@ -1111,17 +2239,46 @@
             {
                 "title": "Effect of yttrium and erbium ion implantation on the oxidation behaviour of the AISI 304 austenitic steel",
                 "doi": "10.1016/S0257-8972(99)00666-0",
-                "year": "2000"
+                "year": "2000",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Madrid",
+                        "affilname": "Universidad Complutense de Madrid",
+                        "affiliation-country": "Spain"
+                    },
+                    {
+                        "affiliation-city": "Vigo",
+                        "affilname": "Universidade de Vigo",
+                        "affiliation-country": "Spain"
+                    },
+                    {
+                        "affiliation-city": "Castellon de la Plana",
+                        "affilname": "Universidad Jaume I",
+                        "affiliation-country": "Spain"
+                    }
+                ]
             },
             {
                 "title": "The influence of implanted silicon on the cyclic oxidation behaviour of two different stainless steels",
                 "doi": "10.1016/S0257-8972(99)00503-4",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Madrid",
+                        "affilname": "Universidad Complutense de Madrid",
+                        "affiliation-country": "Spain"
+                    },
+                    {
+                        "affiliation-city": "Vigo",
+                        "affilname": "Universidade de Vigo",
+                        "affiliation-country": "Spain"
+                    }
+                ]
             }
         ],
         "references": [
             {
-                "title": "E. Heinrich, G. Kr\u00f6ncke andG. Tache,Stahl and Eisen 102 (1982) 113.",
+                "title": "E. Heinrich, G. Kröncke andG. Tache,Stahl and Eisen 102 (1982) 113.",
                 "authors": "E. Heinrich",
                 "doi": "N/A",
                 "year": "1982"
@@ -1130,22 +2287,37 @@
                 "title": "R. Presser andJ. M. Silcock,Metall. Sci. 17 (1983) 241.",
                 "authors": "R. Presser",
                 "doi": "10.1179/030634583790420871",
-                "year": "1983"
+                "year": "1983",
+                "affiliation": {
+                    "affiliation-city": "Leatherhead",
+                    "affilname": "Central Electricity Generating Board",
+                    "affiliation-country": "United Kingdom"
+                }
             },
             {
                 "title": "J. A. C. Broekaert,J. Anal. Atomic Spectrom. 2 (1978) 537.",
                 "authors": "J. A. C. Broekaert",
                 "doi": "10.1039/ja9870200537",
-                "year": "1978"
+                "year": "1978",
+                "affiliation": {
+                    "affiliation-city": "Dortmund",
+                    "affilname": "Leibniz-Institut für Analytische Wissenschaften",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "Z. Weiss,Surf. Interface Analysis 18 (1992) 691.",
                 "authors": "Z. Weiss",
                 "doi": "10.1002/sia.740180910",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "Škoda Corporation",
+                    "affiliation-country": null
+                }
             },
             {
-                "title": "Z. Kube\u0161, Report 0238, \u0160KODA - Central Res. Inst., Plze\u0148 1989.",
+                "title": "Z. Kubeš, Report 0238, ŠKODA - Central Res. Inst., Plzeň 1989.",
                 "authors": "N/A",
                 "doi": "N/A",
                 "year": "N/A"
@@ -1156,9 +2328,9 @@
         "title": "Planar magnetron with additional plasma confinement",
         "authors": [
             "Musil J",
-            "Rus\u0148\u00e1k K",
-            "Je\u017eek V",
-            "Vl\u010dek J"
+            "Rusňák K",
+            "Ježek V",
+            "Vlček J"
         ],
         "year": "1995",
         "coverDate": "1995-01-01",
@@ -1178,7 +2350,12 @@
             {
                 "title": "Flexible hard nanocoatings with high thermal stability",
                 "doi": "10.1016/j.surfcoat.2023.130195",
-                "year": "2024"
+                "year": "2024",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Advanced sputtering technologies of flexible hard nanocoatings",
@@ -1188,67 +2365,174 @@
             {
                 "title": "Low-temperature AlN film deposition using magnetic mirror-type magnetron cathode for low gas pressure operation",
                 "doi": "10.1116/1.5129720",
-                "year": "2020"
+                "year": "2020",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tosu",
+                        "affilname": "National Institute of Advanced Industrial Science and Technology, Kyushu",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Kurume",
+                        "affilname": "National Institute of Technology, Kurume College",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             },
             {
                 "title": "Magnetron sputtering cathode for inward enlargement of doughnut-shaped plasma discharge area",
                 "doi": "10.1016/j.vacuum.2019.108869",
-                "year": "2019"
+                "year": "2019",
+                "affiliation": {
+                    "affiliation-city": "Tosu",
+                    "affilname": "National Institute of Advanced Industrial Science and Technology, Kyushu",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "Transient evolution of the target erosion profile during magnetron sputtering: Dependence on gas pressure and magnetic configuration",
                 "doi": "10.1016/j.surfcoat.2016.12.053",
-                "year": "2017"
+                "year": "2017",
+                "affiliation": {
+                    "affiliation-city": "Musashino",
+                    "affilname": "Seikei University",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "Steady state discharge optimization in high-power impulse magnetron sputtering through the control of the magnetic field",
                 "doi": "10.1063/1.3673871",
-                "year": "2012"
+                "year": "2012",
+                "affiliation": {
+                    "affiliation-city": "Montreal",
+                    "affilname": "Polytechnique Montréal",
+                    "affiliation-country": "Canada"
+                }
             },
             {
                 "title": "Influence of additional magnetic field on plasma parameters in magnetron sputtering",
                 "doi": "10.1016/j.vacuum.2009.04.047",
-                "year": "2009"
+                "year": "2009",
+                "affiliation": {
+                    "affiliation-city": "Dalian",
+                    "affilname": "Dalian University of Technology",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "The effect of external cusp magnetic field on Ar ICP characteristics",
                 "doi": "10.1016/j.vacuum.2008.04.074",
-                "year": "2008"
+                "year": "2008",
+                "affiliation": {
+                    "affiliation-city": "Dalian",
+                    "affilname": "Dalian University of Technology",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Magnetron Discharges for Thin Films Plasma Processing",
                 "doi": "10.1016/B978-008044496-3/50004-6",
-                "year": "2006"
+                "year": "2006",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Langmuir probe measurements of plasma parameters in a planar magnetron with additional plasma confinement",
                 "doi": "10.1016/S0042-207X(99)00144-X",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Ceske Budejovice",
+                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
-                "title": "Effect of deposition conditions and substrate position on the properties of superconducting YBa<inf>2</inf>Cu<inf>3</inf>O<inf>\u03b4</inf> thin films prepared in a facing-target sputtering system",
+                "title": "Effect of deposition conditions and substrate position on the properties of superconducting YBa<inf>2</inf>Cu<inf>3</inf>O<inf>δ</inf> thin films prepared in a facing-target sputtering system",
                 "doi": "10.1016/S0042-207X(98)00093-1",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Singapore City",
+                        "affilname": "A-Star, Singapore Institute of Manufacturing Technology",
+                        "affiliation-country": "Singapore"
+                    },
+                    {
+                        "affiliation-city": "Hong Kong",
+                        "affilname": "Chinese University of Hong Kong",
+                        "affiliation-country": "Hong Kong"
+                    }
+                ]
             },
             {
                 "title": "Fundamentals of elementary processes in plasmas",
                 "doi": "10.1016/S0257-8972(97)00283-1",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Ceske Budejovice",
+                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "A comparison of internal plasma parameters in a conventional planar magnetron and a magnetron with additional plasma confinement",
                 "doi": "10.1088/0963-0252/6/1/007",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Ceske Budejovice",
+                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Planar magnetron sputtering discharge enhanced with radio frequency or microwave magnetoactive plasma",
                 "doi": "10.1116/1.580670",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Twin facing target sputtering system for the deposition of multilayer and alloy films",
                 "doi": "10.1016/s0042-207x(96)00238-2",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": {
+                    "affiliation-city": "Bengaluru",
+                    "affilname": "Indian Institute of Science",
+                    "affiliation-country": "India"
+                }
             }
         ],
         "references": [
@@ -1256,13 +2540,23 @@
                 "title": "N/A",
                 "authors": "Kukla",
                 "doi": "10.1016/0042-207X(90)94147-I",
-                "year": "1990"
+                "year": "1990",
+                "affiliation": {
+                    "affiliation-city": "Essen",
+                    "affilname": "Evonik Industries AG",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Fan",
                 "doi": "10.1016/0040-6090(93)90408-H",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Chengdu",
+                    "affilname": "University of Electronic Science and Technology of China",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "Sloan Technology Co., US Patent No. 659 270, 1976.",
@@ -1274,19 +2568,41 @@
                 "title": "N/A",
                 "authors": "Abe",
                 "doi": "10.1016/0040-6090(82)90246-2",
-                "year": "1982"
+                "year": "1982",
+                "affiliation": {
+                    "affiliation-city": "Tokyo",
+                    "affilname": "Hitachi, Ltd.",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Hata",
                 "doi": "10.1063/1.92002",
-                "year": "1980"
+                "year": "1980",
+                "affiliation": {
+                    "affiliation-city": "Kanazawa",
+                    "affilname": "Kanazawa University",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Takeda",
                 "doi": "10.1143/JJAP.19.1001",
-                "year": "1980"
+                "year": "1980",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Kanazawa",
+                        "affilname": "Kanazawa University",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Hongo",
+                        "affilname": "Toyama Technical College",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -1298,7 +2614,12 @@
                 "title": "N/A",
                 "authors": "Hata",
                 "doi": "10.1016/0040-6090(83)90081-0",
-                "year": "1983"
+                "year": "1983",
+                "affiliation": {
+                    "affiliation-city": "Kanazawa",
+                    "affilname": "Kanazawa University",
+                    "affiliation-country": "Japan"
+                }
             },
             {
                 "title": "N/A",
@@ -1310,7 +2631,19 @@
                 "title": "N/A",
                 "authors": "Takahashi",
                 "doi": "10.1143/JJAP.24.L752",
-                "year": "1985"
+                "year": "1985",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Kanazawa",
+                        "affilname": "Kanazawa University",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Toyama",
+                        "affilname": "University of Toyama",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -1322,73 +2655,150 @@
                 "title": "N/A",
                 "authors": "Takahashi",
                 "doi": "10.1109/20.42559",
-                "year": "1989"
+                "year": "1989",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Tokyo",
+                        "affilname": "Institute of Science Tokyo",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Toyama",
+                        "affilname": "University of Toyama",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Rossnagel",
                 "doi": "10.1016/0042-207X(88)90600-8",
-                "year": "1988"
+                "year": "1988",
+                "affiliation": {
+                    "affiliation-city": "Yorktown Heights",
+                    "affilname": "IBM Thomas J. Watson Research Center",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Adachi",
                 "doi": "10.1116/1.571320",
-                "year": "1982"
+                "year": "1982",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
                 "authors": "Cuomo",
                 "doi": "10.1116/1.573889",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": {
+                    "affiliation-city": "Yorktown Heights",
+                    "affilname": "IBM Thomas J. Watson Research Center",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Window",
                 "doi": "10.1116/1.573470",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": {
+                    "affiliation-city": "Canberra",
+                    "affilname": "Commonwealth Scientific and Industrial Research Organisation",
+                    "affiliation-country": "Australia"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Window",
                 "doi": "10.1116/1.573904",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": {
+                    "affiliation-city": "Canberra",
+                    "affilname": "Commonwealth Scientific and Industrial Research Organisation",
+                    "affiliation-country": "Australia"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Musil",
                 "doi": "10.1016/0042-207X(90)90241-P",
-                "year": "1990"
+                "year": "1990",
+                "affiliation": {
+                    "affiliation-city": "Prague",
+                    "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Musil",
                 "doi": "10.1116/1.577597",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Academy of Sciences of the Czech Republic",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": null,
+                        "affilname": "Hauzer Techno Coating Europe BV",
+                        "affiliation-country": "United States"
+                    }
+                ]
             },
             {
                 "title": "N/A",
-                "authors": "M\u00fcnz",
+                "authors": "Münz",
                 "doi": "10.1016/0257-8972(92)90058-I",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": {
+                    "affiliation-city": "Venlo",
+                    "affilname": "Hauzer Techno Coating BV",
+                    "affiliation-country": "Netherlands"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Sproul",
                 "doi": "10.1016/0921-5093(93)90787-F",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Evanston",
+                    "affilname": "Northwestern University",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Monaghan",
                 "doi": "10.1016/0042-207X(92)90189-4",
-                "year": "1992"
+                "year": "1992",
+                "affiliation": {
+                    "affiliation-city": "Salford",
+                    "affilname": "University of Salford",
+                    "affiliation-country": "United Kingdom"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Efeoglu",
                 "doi": "10.1016/0257-8972(93)90337-N",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Salford",
+                        "affilname": "University of Salford",
+                        "affiliation-country": "United Kingdom"
+                    },
+                    {
+                        "affiliation-city": null,
+                        "affilname": "D.G. Teer Coating Services Ltd..285/286 Hartlebury Trading Estate",
+                        "affiliation-country": "United Kingdom"
+                    }
+                ]
             },
             {
                 "title": "N/A",
@@ -1400,13 +2810,19 @@
                 "title": "N/A",
                 "authors": "Hosokawa",
                 "doi": "10.1116/1.569107",
-                "year": "1977"
+                "year": "1977",
+                "affiliation": "N/A"
             },
             {
                 "title": "N/A",
                 "authors": "Posadowski",
                 "doi": "10.1016/0257-8972(91)90071-4",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Wroclaw",
+                    "affilname": "Politechnika Wrocławska",
+                    "affiliation-country": "Poland"
+                }
             },
             {
                 "title": "N/A",
@@ -1424,19 +2840,41 @@
                 "title": "N/A",
                 "authors": "Rao",
                 "doi": "10.1116/1.577179",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Bengaluru",
+                    "affilname": "Indian Institute of Science",
+                    "affiliation-country": "India"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Fan",
                 "doi": "10.1016/0040-6090(93)90356-T",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Chengdu",
+                    "affilname": "University of Electronic Science and Technology of China",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Ido",
                 "doi": "10.1143/JJAP.32.2112",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Omiya",
+                        "affilname": "Mitsubishi Materials Corporation",
+                        "affiliation-country": "Japan"
+                    },
+                    {
+                        "affiliation-city": "Saitama",
+                        "affilname": "Saitama University",
+                        "affiliation-country": "Japan"
+                    }
+                ]
             }
         ]
     },
@@ -1444,7 +2882,7 @@
         "title": "Anodic plasma nitriding with a molybdenum cathode",
         "authors": [
             "Benda M",
-            "Vlc\u0306ek J",
+            "Vlc̆ek J",
             "Musil J"
         ],
         "year": "1995",
@@ -1465,47 +2903,137 @@
             {
                 "title": "Oil removal and nitriding of sintered parts using a DC discharge",
                 "doi": "10.1016/j.surfcoat.2004.06.022",
-                "year": "2005"
+                "year": "2005",
+                "affiliation": {
+                    "affiliation-city": "Florianopolis",
+                    "affilname": "Universidade Federal de Santa Catarina",
+                    "affiliation-country": "Brazil"
+                }
             },
             {
                 "title": "Effective nitriding of steels outside low-pressure microwave discharges",
                 "doi": "10.1016/S0257-8972(02)00080-4",
-                "year": "2002"
+                "year": "2002",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Microwave plasma nitriding of a low-alloy steel",
                 "doi": "10.1116/1.1308587",
-                "year": "2000"
+                "year": "2000",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Seoul",
+                        "affilname": "Sungkyunkwan University",
+                        "affiliation-country": "South Korea"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             },
             {
                 "title": "Recent progress in plasma nitriding",
                 "doi": "10.1016/S0042-207X(00)00404-8",
-                "year": "2000"
+                "year": "2000",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Plasma nitriding enhanced by hollow cathode discharge - a new method for formation of superhard nanocomposite coatings on steel surfaces",
                 "doi": "10.1016/S0042-207X(99)00145-1",
-                "year": "1999"
+                "year": "1999",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "Surface hardening of alloy steels using a high intensity electron beam",
                 "doi": "10.1080/10426919808935275",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Institute of Metal Science, Equipment and Technologies with Hydro- and Aerodynamics Centre “Acad. A. Balevski”, Bulgarian Academy of Sciences",
+                        "affiliation-country": "Bulgaria"
+                    },
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Institute of Electronics Bulgarian Academy of Sciences",
+                        "affiliation-country": "Bulgaria"
+                    },
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Technical University of Sofia",
+                        "affiliation-country": "Bulgaria"
+                    }
+                ]
             },
             {
                 "title": "Electron beam hardening of ion nitrided layers",
                 "doi": "10.1016/s0042-207x(97)00168-1",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Institute of Metal Science, Equipment and Technologies with Hydro- and Aerodynamics Centre “Acad. A. Balevski”, Bulgarian Academy of Sciences",
+                        "affiliation-country": "Bulgaria"
+                    },
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Technical University of Sofia",
+                        "affiliation-country": "Bulgaria"
+                    },
+                    {
+                        "affiliation-city": "Sofia",
+                        "affilname": "Institute of Electronics",
+                        "affiliation-country": "Bulgaria"
+                    }
+                ]
             },
             {
                 "title": "Use of a tungsten metal arc heat source for surface modification of Ti-6Al-4V alloy",
                 "doi": "10.1179/mst.1998.14.4.357",
-                "year": "1998"
+                "year": "1998",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Podgorica",
+                        "affilname": "University of Montenegro",
+                        "affiliation-country": "Montenegro"
+                    },
+                    {
+                        "affiliation-city": "Uxbridge",
+                        "affilname": "Brunel University London",
+                        "affiliation-country": "United Kingdom"
+                    }
+                ]
             },
             {
                 "title": "Plasma nitriding combined with a hollow cathode discharge sputtering at high pressures",
                 "doi": "10.1116/1.580935",
-                "year": "1997"
+                "year": "1997",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Prague",
+                        "affilname": "Institute of Physics of the Czech Academy of Sciences",
+                        "affiliation-country": "Czech Republic"
+                    },
+                    {
+                        "affiliation-city": "Plzen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ]
             }
         ],
         "references": [
@@ -1531,13 +3059,23 @@
                 "title": "N/A",
                 "authors": "Hudis",
                 "doi": "10.1063/1.1662398",
-                "year": "1973"
+                "year": "1973",
+                "affiliation": {
+                    "affiliation-city": "Boston",
+                    "affilname": "General Electric Company",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Tibbetts",
                 "doi": "10.1063/1.1663186",
-                "year": "1974"
+                "year": "1974",
+                "affiliation": {
+                    "affiliation-city": "Detroit",
+                    "affilname": "General Motors",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
@@ -1549,7 +3087,12 @@
                 "title": "N/A",
                 "authors": "Taylor",
                 "doi": "10.1063/1.435869",
-                "year": "1978"
+                "year": "1978",
+                "affiliation": {
+                    "affiliation-city": "Houston",
+                    "affilname": "University of Houston",
+                    "affiliation-country": "United States"
+                }
             },
             {
                 "title": "N/A",
@@ -1561,23 +3104,45 @@
                 "title": "N/A",
                 "authors": "Avni",
                 "doi": "10.1016/0025-5416(87)90515-5",
-                "year": "1987"
+                "year": "1987",
+                "affiliation": [
+                    {
+                        "affiliation-city": "Beer-Sheva",
+                        "affilname": "Nuclear Research Center-Negev",
+                        "affiliation-country": "Israel"
+                    },
+                    {
+                        "affiliation-city": "Cleveland",
+                        "affilname": "NASA Glenn Research Center",
+                        "affiliation-country": "United States"
+                    }
+                ]
             },
             {
                 "title": "N/A",
                 "authors": "Leyland",
                 "doi": "10.1016/0257-8972(90)90140-8",
-                "year": "1990"
+                "year": "1990",
+                "affiliation": {
+                    "affiliation-city": "Hull",
+                    "affilname": "University of Hull",
+                    "affiliation-country": "United Kingdom"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Jung",
                 "doi": "10.1002/pssa.2210930210",
-                "year": "1986"
+                "year": "1986",
+                "affiliation": {
+                    "affiliation-city": "Berlin",
+                    "affilname": "Zentralinstitut für Elektronenphysik",
+                    "affiliation-country": "Germany"
+                }
             },
             {
                 "title": "N/A",
-                "authors": "Zlatanovi\u010d",
+                "authors": "Zlatanovič",
                 "doi": "N/A",
                 "year": "1986"
             },
@@ -1585,31 +3150,52 @@
                 "title": "N/A",
                 "authors": "Bingzhong",
                 "doi": "10.1179/sur.1987.3.3.226",
-                "year": "1987"
+                "year": "1987",
+                "affiliation": {
+                    "affiliation-city": "Beijing",
+                    "affilname": "China Academy of Railway Sciences",
+                    "affiliation-country": "China"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Bougdira",
                 "doi": "10.1016/0921-5093(91)90587-D",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Nancy",
+                    "affilname": "Institut Jean Lamour",
+                    "affiliation-country": "France"
+                }
             },
             {
                 "title": "N/A",
-                "authors": "Rus\u0148\u00e1k",
+                "authors": "Rusňák",
                 "doi": "10.1088/0022-3727/26/4/010",
-                "year": "1993"
+                "year": "1993",
+                "affiliation": {
+                    "affiliation-city": "Plzen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Falk",
                 "doi": "10.1016/0921-5093(91)90607-O",
-                "year": "1991"
+                "year": "1991",
+                "affiliation": {
+                    "affiliation-city": "Nancy",
+                    "affilname": "Institut Jean Lamour",
+                    "affiliation-country": "France"
+                }
             },
             {
                 "title": "N/A",
                 "authors": "Ricard",
                 "doi": "10.1051/rphysap:01989002403025100",
-                "year": "1989"
+                "year": "1989",
+                "affiliation": "N/A"
             }
         ]
     }

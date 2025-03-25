@@ -171,14 +171,15 @@ year = 2025
 # 🔹 Target Institution
 INSTITUTION_NAME = "University of West Bohemia"
 
-# 🔹 Fetch all articles
-articles_data = get_articles_by_institution(INSTITUTION_NAME, 25, 0, year)
+if __name__ == "__main__":
+    # 🔹 Fetch all articles
+    articles_data = get_articles_by_institution(INSTITUTION_NAME, 25, 0, year)
 
-# 🔹 Save results to JSON
-file_name = f"data_by_year/all_articles_by_institution_cited_{year}.json"
-if articles_data:
-    with open(file_name, "w") as f:
-        json.dump(articles_data, f, indent=4)
-    print(f"✅ {len(articles_data)} articles saved to: {file_name}")
-else:
-    print("❌ No articles found for this institution.")
+    # 🔹 Save results to JSON
+    file_name = f"data_by_year/all_articles_by_institution_cited_{year}.json"
+    if articles_data:
+        with open(file_name, "w") as f:
+            json.dump(articles_data, f, indent=4)
+        print(f"✅ {len(articles_data)} articles saved to: {file_name}")
+    else:
+        print("❌ No articles found for this institution.")
