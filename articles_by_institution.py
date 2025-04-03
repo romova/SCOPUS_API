@@ -158,7 +158,7 @@ def get_articles_by_institution(institution, count=25, start=5025, year=2025):
 
 
 # 🔹 API Key (Replace with yours)
-SCOPUS_API_KEY = "b8efa691b0c21fd57ed68d78b9fc8f9f"
+SCOPUS_API_KEY = "API-KEY"
 
 # 🔹 Headers for Scopus API
 SCOPUS_HEADERS = {

@@ -9,16 +9,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 count = 0
 
 api_keys = [
-"b326738f15b305d9b121147febeeec8a",
-"b8efa691b0c21fd57ed68d78b9fc8f9f",
-"4733428ef4f85dc562bf356ff3762406",
-"ff185ca3d057ca22d6aac0b77d110911",
-"25a3e7888fef4eda98f436da14800143",
-"298e8341bfd45479b6850fa7c62e66f0",
-"22cd74f9e0fc7ad07ccca38538f2ec29",
-"1ee52cda59192cc9652d78318099d8d7",
-"aca7628e8c8cdb5d8257da28942bf82b",
-"21986d75fd61408ce4294972957e743c"]
+"LIST-YOUR-API-KEYS-HERE"]
 api_key_index = 0
 
 SCOPUS_HEADERS["X-ELS-APIKey"] = api_keys[0]
