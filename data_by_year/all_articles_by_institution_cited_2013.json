@@ -52820,7 +52820,7 @@
                 "affiliation": {
                     "affiliation-city": "St. Petersburg",
                     "affilname": "Polytechnisches Institut",
-                    "affiliation-country": null
+                    "affiliation-country": "Russia"
                 }
             },
             {
@@ -66535,7 +66535,7 @@
                     {
                         "affiliation-city": "Cluj Napoca",
                         "affilname": "SC ACI Cluj SA",
-                        "affiliation-country": null
+                        "affiliation-country": "Romania"
                     }
                 ]
             },
@@ -127351,7 +127351,7 @@
                     {
                         "affiliation-city": "Berlin",
                         "affilname": "Zentralinst. f. Physikal. Chemie",
-                        "affiliation-country": null
+                        "affiliation-country": "Germany"
                     },
                     {
                         "affiliation-city": "Berlin",

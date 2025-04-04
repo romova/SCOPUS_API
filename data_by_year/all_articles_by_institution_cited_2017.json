@@ -23490,7 +23490,7 @@
                     {
                         "affiliation-city": "Cluj",
                         "affilname": "Institute of Speleology",
-                        "affiliation-country": null
+                        "affiliation-country": "Romania"
                     }
                 ]
             },
@@ -47888,12 +47888,12 @@
                     {
                         "affiliation-city": "Bucharest",
                         "affilname": "Research and Technological Engineering Center for Reactives",
-                        "affiliation-country": null
+                        "affiliation-country": "Romania"
                     },
                     {
                         "affiliation-city": "Bucharest",
                         "affilname": "Research Center for Resources, Auxiliaries and Residual Waters",
-                        "affiliation-country": null
+                        "affiliation-country": "Romania"
                     }
                 ]
             },
@@ -87639,7 +87639,7 @@
                     {
                         "affiliation-city": "Tripol",
                         "affilname": "Université Libanaise",
-                        "affiliation-country": "Libyan Arab Jamahiriya"
+                        "affiliation-country": "Libya"
                     }
                 ]
             },
@@ -121690,7 +121690,7 @@
                 "affiliation": {
                     "affiliation-city": "Plzen",
                     "affilname": "Central Research Institute of škoda Plzeň",
-                    "affiliation-country": null
+                    "affiliation-country": "Czech Republic"
                 }
             },
             {
@@ -121718,7 +121718,7 @@
                 "affiliation": {
                     "affiliation-city": "Plzen",
                     "affilname": "Central Research Institute of škoda Plzeň",
-                    "affiliation-country": null
+                    "affiliation-country": "Czech Republic"
                 }
             },
             {
@@ -274663,7 +274663,7 @@
                     {
                         "affiliation-city": "Macau",
                         "affilname": "Zhuhai-Macao Collaborative Research Center for Meteorological Innovation and Application",
-                        "affiliation-country": null
+                        "affiliation-country": "China"
                     },
                     {
                         "affiliation-city": "Zhuhai",

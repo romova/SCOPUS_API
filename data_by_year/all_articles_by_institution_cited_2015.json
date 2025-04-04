@@ -137213,7 +137213,7 @@
                     {
                         "affiliation-city": "Žilina",
                         "affilname": "DPP Žilina Ltd.",
-                        "affiliation-country": null
+                        "affiliation-country": "Slovakia"
                     }
                 ]
             },
@@ -144635,7 +144635,7 @@
                 "affiliation": {
                     "affiliation-city": "Plzen",
                     "affilname": "Central Research Institute",
-                    "affiliation-country": "Czechoslovakia"
+                    "affiliation-country": "Czech Republic"
                 }
             },
             {
@@ -155791,7 +155791,7 @@
                     {
                         "affiliation-city": "Kosice",
                         "affilname": "Lehrstuhl für Anorganische Chemie der P. J. šáfárik UniversitÄt",
-                        "affiliation-country": null
+                        "affiliation-country": "Slovakia"
                     },
                     {
                         "affiliation-city": "Veszprem",
@@ -155814,7 +155814,7 @@
                     {
                         "affiliation-city": "Kosice",
                         "affilname": "University Košice",
-                        "affiliation-country": "Czech Republic"
+                        "affiliation-country": "Slovakia"
                     },
                     {
                         "affiliation-city": null,
@@ -220644,7 +220644,7 @@
                     {
                         "affiliation-city": "Pristina, Kosovo",
                         "affilname": "Faculty of Medical Sciences “Rezonance”",
-                        "affiliation-country": null
+                        "affiliation-country": "Kosovo"
                     }
                 ]
             },
@@ -253627,7 +253627,7 @@
                     {
                         "affiliation-city": "Dresden",
                         "affilname": "Zentralinstitut Für Festkörperphysik Und Werkstofforschung Der Deutschen Akademie Der Wissenschaften Zu Berlin",
-                        "affiliation-country": null
+                        "affiliation-country": "Germany"
                     }
                 ]
             },
@@ -257860,7 +257860,7 @@
                 "affiliation": {
                     "affiliation-city": "St. Petersburg",
                     "affilname": "Polytechnisches Institut",
-                    "affiliation-country": null
+                    "affiliation-country": "Russia"
                 }
             },
             {
@@ -265329,12 +265329,12 @@
                     {
                         "affiliation-city": "Bucharest",
                         "affilname": "National Institute for Physics and Nuclear Engineering (NIPNE)",
-                        "affiliation-country": "Oman"
+                        "affiliation-country": "Romania"
                     },
                     {
                         "affiliation-city": "Bucharest",
                         "affilname": "Institute of Space Sciences (ISS)",
-                        "affiliation-country": "Oman"
+                        "affiliation-country": "Romania"
                     }
                 ]
             },
@@ -290209,7 +290209,7 @@
                     {
                         "affiliation-city": "Macau",
                         "affilname": "Macao Polytechnic University",
-                        "affiliation-country": "Macao"
+                        "affiliation-country": "China"
                     },
                     {
                         "affiliation-city": "Warrington",
