@@ -727,7 +727,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -749,7 +749,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -781,7 +781,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -819,8 +819,8 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Plzen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -2789,7 +2789,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },

@@ -1,0 +1,3036 @@
+Technical University:
+	Czech Republic-Pilsen: 1
+	N/A-N/A: 1
+	Ukraine-Mariupol: 1
+	Germany-Brandenburg: 1
+Technical University of Plzeň:
+	N/A-N/A: 1
+	Czech Republic-Plzen: 1
+Faculty of Electrical Engineering:
+	Yugoslavia-Belgrade: 1
+	Czech Republic-Pilsen: 1
+	Poland-Czestochowa: 1
+	Czech Republic-Prague: 1
+	Bosnia and Herzegovina-Sarajevo: 1
+	Czech Republic-Plzen: 1
+	Bosnia and Herzegovina-Banjaluka: 1
+Indian Institute of Science:
+	India-Bengaluru: 1
+	India-Kudapura: 1
+University of Leicester:
+	United Kingdom-Leicester: 1
+	Portugal-Leicester: 1
+University of South Carolina:
+	United States-Columbia: 1
+	United States-Carolina: 1
+Department of Computer Science:
+	United States-College Park: 1
+	United States-Piscataway: 1
+	United States-Norfolk: 1
+	United States-Coral Gables: 1
+	United States-Hanover: 1
+	United States-Durham: 1
+	United States-Huntsville: 1
+	United States-Irvine: 1
+	United States-Iowa City: 1
+	United States-Chapel Hill: 1
+	United States-Providence: 1
+	United States-Austin: 1
+	United States-San Antonio: 1
+	United States-Houston: 1
+	United States-West Lafayette: 1
+	United States-Tucson: 1
+	United States-Newark: 1
+	United States-Memphis: 1
+	United States-Ames: 1
+	United States-Pittsburgh: 1
+	United States-Tuscaloosa: 1
+	United States-Fort Collins: 1
+	United States-Birmingham: 1
+	United States-Rochester: 1
+	United States-Tallahassee: 1
+	United States-Stillwater: 1
+	United States-Las Cruces: 1
+	United States-Troy: 1
+School of Engineering and Applied Science:
+	United States-Princeton: 1
+	United States-Philadelphia: 1
+	United States-Washington, D.C.: 1
+College of Arts &amp; Sciences:
+	United States-Memphis: 1
+	United States-Mississippi State: 1
+	United States-Chapel Hill: 1
+	United States-Boston: 1
+	United States-Vermillion: 1
+Incheon National University:
+	South Korea-Incheon: 1
+	Cuba-Incheon: 1
+Southwest University:
+	China-Chongqing: 1
+	India-Pune: 1
+	China-Zunyi: 1
+Hauzer Techno Coating Europe BV:
+	Netherlands-Venlo: 1
+	United States-N/A: 1
+Institute of Science Tokyo:
+	Japan-Tokyo: 1
+	Japan-Yokohama: 1
+University of Houston:
+	United States-Houston: 1
+	United States-Kingwood: 1
+College of Engineering and Applied Science:
+	United States-Boulder: 1
+	United States-Cincinnati: 1
+	United States-Colorado Springs: 1
+College of Engineering:
+	United States-Pittsburgh: 1
+	United States-East Lansing: 1
+	United States-Corvallis: 1
+	United States-Tampa: 1
+	United States-West Lafayette: 1
+	United States-College Station: 1
+	United States-Davis: 1
+	United States-Iowa City: 1
+	United States-Chicago: 1
+	United States-Arlington: 1
+	United States-Columbia: 1
+	United States-Houghton: 1
+	United States-Columbus: 1
+	United States-Amherst: 1
+	United States-Atlanta: 1
+	United States-Notre Dame: 1
+	United States-Boston: 1
+	United States-Cookeville: 1
+	United States-Detroit: 1
+	United States-Fayetteville: 1
+	United States-Ames: 1
+	United States-Logan: 1
+	United States-Philadelphia: 1
+	United States-San Diego: 1
+	United States-Reno: 1
+	United States-Boise: 1
+	United States-Toledo: 1
+	United States-Lowell: 1
+	United States-Daytona Beach: 1
+	United States-Moscow: 1
+	United States-Lafayette: 1
+	United States-Nashville: 1
+	India-Kakinada: 1
+	United States-Mobile: 1
+Munzur University:
+	Türkiye-Tunceli: 1
+	Turkey-Tunceli: 1
+Ltd.:
+	China-Xi'an: 1
+	China-Beijing: 1
+	China-Chongqing: 1
+	China-Chengdu: 1
+	China-Zhuzhou: 1
+	Slovakia-Turany: 1
+	China-Shenyang: 1
+	China-Zhaoqing: 1
+	China-Ningbo: 1
+	China-Wuhan: 1
+	China-Yiyang: 1
+	China-Hangzhou: 1
+	China-Yantai: 1
+	China-Yangjiang: 1
+	China-Harbin: 1
+	China-Shanghai: 1
+	South Korea-Pocheon, Gyeonggi: 1
+	China-Qingdao: 1
+	China-Dongguan: 1
+	China-Xuancheng: 1
+	China-Hefei: 1
+	China-Lanzhou: 1
+	China-Huzhou: 1
+	China-Taiyuan: 1
+	China-Nanjing: 1
+	China-Xiamen: 1
+	China-Deyang: 1
+	China-Haikou: 1
+	China-Shenzhen: 1
+	Japan-Osaka: 1
+	South Korea-Yongin: 1
+	China-Nanyang: 1
+	China-Foshan: 1
+	China-Wuxi: 1
+	China-Changsha: 1
+	China-Guangzhou: 1
+	China-Dongying: 1
+	China-Guilin: 1
+	China-Maanshan: 1
+	Taiwan-Linkou: 1
+	China-Yongkang: 1
+	China-Loudi: 1
+	China-Chengde: 1
+	China-Qiqihar: 1
+	China-Kunming: 1
+	China-Baoji: 1
+	China-Tai'an: 1
+	China-Ganzhou: 1
+	Japan-Tokyo: 1
+	China-Shizuishan: 1
+	China-Tianjin: 1
+	China-Urumqi: 1
+	China-Wenzhou: 1
+	China-Shijiazhuang: 1
+	China-Caofeidian: 1
+	China-Handan: 1
+	China-Fuzhou: 1
+	China-Jiangmen: 1
+	China-Nanchang: 1
+	China-Liuzhou: 1
+	South Korea-Gumi: 1
+	China-Zaozhuang: 1
+	South Korea-Gimcheon-si: 1
+	China-Aksu: 1
+	China-Shuozhou: 1
+	China-Tangshan: 1
+	South Korea-Seoul: 1
+	China-Zhengzhou: 1
+	Japan-Yamada: 1
+	China-Hezhou: 1
+	China-Wenling: 1
+	China-Jiaxing: 1
+	South Korea-Hwaseong: 1
+	South Korea-Asan: 1
+	China-Nanning: 1
+	China-Suqian: 1
+	China-Tongling: 1
+	China-Suzhou: 1
+	South Korea-Busan: 1
+	China-Shaoxing: 1
+	Czech Republic-Plzen: 1
+	China-Jinan: 1
+	China-Xuzhou: 1
+	South Korea-Suwon: 1
+	South Korea-Daejeon: 1
+	China-Baotou: 1
+	China-Zhongshan: 1
+	Thailand-Samut Sakhon: 1
+	China-Hunan: 1
+	China-Tongxiang: 1
+	China-Biejing: 1
+	China-Weifang: 1
+	Japan-Aichi: 1
+	South Korea-Gasan-dong, Geumcheon-gu: 1
+	China-Changchun: 1
+	China-Yangzhou: 1
+	N/A-N/A: 1
+	China-Yibin: 1
+	China-Lishui: 1
+	China-Yancheng: 1
+	China-Dalian: 1
+	China-Pinghu: 1
+	China-Yichun: 1
+	China-Datong: 1
+	China-Wuhu: 1
+	China-Liaoning dalian: 1
+	China-Longkou: 1
+	China-Hainan: 1
+	China-Changzhou: 1
+	China-Qinhuangdao: 1
+	China-Langfang: 1
+	China-Shijiazhuang City: 1
+	South Korea-Osan-si: 1
+	China-Quzhou City: 1
+	China-Rizhao: 1
+	China-Xinji: 1
+	Slovenia-Maribor: 1
+	Iran-Shiraz: 1
+	China-Yueyang: 1
+	Thailand-Chonburi: 1
+	Czech Republic-Brno-Chrlice: 1
+	China-Zhuhai: 1
+	China-Liaocheng: 1
+	Japan-Tsukuba: 1
+	Japan-Koriyama: 1
+	China-Anshan: 1
+	China-Nantong: 1
+	Thailand-Bangkok: 1
+	Thailand-Rayong: 1
+	China-Jinhua: 1
+	China-Guiyang: 1
+	China-Mianyang: 1
+	South Korea-Yangsan: 1
+	China-Weihai: 1
+	China-Jingjiang: 1
+	China-Changzhi: 1
+	Iran-Shahr-e Kord: 1
+	China-Taizhou: 1
+	China-Binzhou: 1
+	China-Quzhou: 1
+	China-Baoding: 1
+Universidad de Antioquia:
+	Colombia-Medellin: 1
+	United States-Medellin: 1
+Department of Materials Science and Engineering:
+	United States-Berkeley: 1
+	United States-Piscataway: 1
+	Japan-Kyoto: 1
+College of Science and Engineering:
+	United States-Minneapolis: 1
+	Australia-Adelaide: 1
+	United States-San Marcos: 1
+University of Arkansas:
+	United States-Fayetteville: 1
+	United States-Stuttgart: 1
+	United States-N/A: 1
+	United States-Prescott: 1
+College of Engineering and Science:
+	United States-Melbourne: 1
+	United States-Ruston: 1
+European Centre of Excellence NTIS:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Plzen: 1
+IMAG:
+	France-Grenoble: 1
+	France-Saint Martin d'Heres: 1
+CNR:
+	Morocco-Agdal Rabat: 1
+	United States-Torino: 1
+Universidade Federal de Juiz de Fora:
+	Brazil-Juiz de Fora: 1
+	China-N/A: 1
+Qinghai Minzu University:
+	China-Xining: 1
+	China-Xi’ning: 1
+	China-Qinghai: 1
+National Kaohsiung Normal University:
+	Taiwan-Kaohsiung: 1
+	Japan-Kaohsiung: 1
+Faculty of Science:
+	Egypt-Giza: 1
+	China-Tianjin: 1
+	Egypt-Cairo: 1
+	Egypt-Sohag: 1
+	Egypt-Asyut: 1
+	Egypt-Zagazig: 1
+	Egypt-Mansoura: 1
+	Egypt-Aswan: 1
+	Switzerland-Geneva: 1
+	Egypt-Minya: 1
+	Australia-Sydney: 1
+	Egypt-Suez: 1
+	Egypt-Qena: 1
+	Japan-Toyonaka: 1
+	Egypt-Port Said: 1
+	Egypt-Benha: 1
+	Egypt-New Damietta: 1
+	New Zealand-Auckland: 1
+	Egypt-Kafr el-Sheikh: 1
+	Egypt-Helwan: 1
+	Netherlands-Nijmegen: 1
+	Canada-Toronto: 1
+	Egypt-Fayoum: 1
+	Egypt-Shibin El Kom: 1
+	Egypt-Ismailia: 1
+	Japan-Kyoto: 1
+	Egypt-Tanta: 1
+	Egypt-Alexandria: 1
+	Thailand-Bangkok: 1
+	Turkey-Ankara: 1
+College of Liberal Arts and Sciences:
+	United States-Gainesville: 1
+	United States-Iowa City: 1
+	United States-Ames: 1
+Institute of Mechanical and Electrical Engineering:
+	Czech Republic-Plzen: 1
+	United States-N/A: 1
+Henan University:
+	China-Kaifeng: 1
+	China-Zhengzhou: 1
+Louisiana State University:
+	United States-Baton Rouge: 1
+	United States-New Orleans: 1
+	United States-Peabody: 1
+Feng Chia University:
+	Taiwan-Taichung: 1
+	China-Taichung: 1
+Ltd:
+	China-Jiangmen City: 1
+	China-Datong: 1
+	China-Zhaoqing: 1
+	China-Kunming: 1
+	China-Pizhou: 1
+	China-Xi'an: 1
+	China-Shenzhen: 1
+	Taiwan-Taoyuan: 1
+	China-Xiamen: 1
+	China-Beijing: 1
+	China-Chongyi: 1
+	China-Hangzhou: 1
+	China-Taiyuan: 1
+	China-Yingde: 1
+	China-Huainan: 1
+	China-Wuxi: 1
+	China-Yichun: 1
+	China-Liuzhou: 1
+	India-Padappai: 1
+	China-Shanghai: 1
+	China-Ningbo: 1
+	China-Qujing: 1
+	China-Chongqing: 1
+	South Korea-Daejeon: 1
+	China-Hubei: 1
+	China-Qingdao: 1
+	China-Guangdong: 1
+	China-Wuhu: 1
+	South Korea-Ulsan: 1
+	China-Foshan: 1
+	China-Hanzhong: 1
+	China-Zhuhai: 1
+	China-Changzhou: 1
+	China-Taizhou: 1
+	China-Nantong: 1
+	China-Binzhou: 1
+	China-Yixing: 1
+	Taiwan-New Taipei City: 1
+	China-Tongren: 1
+	China-Jilin: 1
+	China-Zhejiang: 1
+	Taiwan-Hsinchu: 1
+	China-Tianjin: 1
+	China-Zhenjiang: 1
+	China-Xinchang: 1
+	China-Quanzhou: 1
+	China-Dalian: 1
+	Japan-Tokyo: 1
+	China-Weifang: 1
+	China-Suzhou: 1
+	China-Guangzhou: 1
+COMSATS University Islamabad:
+	Pakistan-Islamabad: 1
+	Pakistan-Campus: 1
+Carnegie Institution of Washington:
+	United States-Washington, D.C.: 1
+	United States-Argonne: 1
+HVM Plasma Ltd.:
+	Czech Republic-Prague: 1
+	Czech Republic-N/A: 1
+AIN:
+	Spain-Pamplona: 1
+	Spain-Cordovilla: 1
+FR CNRS 3459:
+	France-Amiens Cedex: 1
+	France-Amiens: 1
+Universidad Nacional de Colombia:
+	Colombia-Bogota: 1
+	Colombia-Bogotá, D.C.: 1
+	Colombia-La Paz, Cesar: 1
+	Colombia-Bogotá DC: 1
+	Colombia-111321 Bogotá: 1
+Pusan National University:
+	South Korea-Busan: 1
+	Cuba-Busan: 1
+Université Libanaise:
+	Lebanon-Beirut: 1
+	Libya-Tripol: 1
+Department of Mechanical Engineering:
+	United States-Berkeley: 1
+	United States-Tuscaloosa: 1
+	United States-Rapid City: 1
+	Australia-Melbourne: 1
+Department of Biomedical Engineering:
+	United States-Chapel Hill: 1
+	United States-Ann Arbor: 1
+	United States-Charlottesville: 1
+	United States-Cleveland: 1
+	United States-Birmingham: 1
+	United States-Piscataway: 1
+	United States-Stony Brook: 1
+	United States-Portland: 1
+National Chin-Yi University of Technology:
+	Taiwan-Taichung: 1
+	China-Taichung: 1
+University of Washington:
+	United States-Box 356560: 1
+	United States-Seattle: 1
+	United States-Madison: 1
+	United States-Atlanta: 1
+	United States-Bozeman: 1
+	United States-Newcastle: 1
+	United States-N/A: 1
+	United States-WASHINGTON: 1
+	United States-États-Unis: 1
+	United States-SeattleSeattle: 1
+School of Computer Science:
+	United States-Pittsburgh: 1
+	Australia-Sydney: 1
+	Canada-Ontario: 1
+School of Engineering:
+	United States-Worcester: 1
+	United States-University: 1
+	United States-Merced: 1
+	United States-Providence: 1
+	United States-Troy: 1
+	United Kingdom-Manchester: 1
+	Egypt-New Cairo: 1
+	United States-Washington, D.C.: 1
+	United States-Santa Clara: 1
+	United States-Bridgeport: 1
+	United Kingdom-Exeter: 1
+College of Engineering and Physical Sciences:
+	United States-Durham: 1
+	United States-Laramie: 1
+Balzers AG:
+	Liechtenstein-Balzers: 1
+	Sweden-Stockholm: 1
+European Commission:
+	Belgium-Brussels: 1
+	United Kingdom-Cowbridge: 1
+Ministry of Education:
+	Iran-Miandoab: 1
+	Bangladesh-Dhaka: 1
+Gyeongsang National University:
+	South Korea-Jinju: 1
+	North Korea-Jinju: 1
+Balzers S.A.:
+	France-Saint-Thibault-des-Vignes: 1
+	France-Sausheim: 1
+Concordia University:
+	Canada-Montreal: 1
+	United States-Concordia: 1
+	United States-Minneapolis: 1
+Central Research Institute:
+	Czech Republic-Plzen: 1
+	Hungary-Budapest: 1
+Yeungnam University:
+	South Korea-Gyeongsan: 1
+	Cuba-Gyeongsan: 1
+s.r.o.:
+	Czech Republic-Sumperk: 1
+	Slovakia-Zilina: 1
+	Slovakia-Turany: 1
+	Slovakia-Bratislava: 1
+	Czech Republic-Prague: 1
+	Czech Republic-Kyjov: 1
+SHM Ltd.:
+	Czech Republic-Sumperk: 1
+	Czech Republic-Novy Malin: 1
+State Key Laboratory of Intelligent Agricultural Power Equipment:
+	China-Beijing: 1
+	China-Luoyang: 1
+DuPont:
+	United States-Wilmington: 1
+	United States-Louisville: 1
+Union Carbide Corporation:
+	United States-Bound Brook: 1
+	United States-N/A: 1
+Independent Consultant:
+	United States-Anacortes: 1
+	Germany-Kiel: 1
+	United States-San Jose: 1
+	Netherlands-Leiden: 1
+	United States-Cary: 1
+	Indonesia-Jakarta: 1
+	Brazil-Belo Horizonte: 1
+	Ghana-Accra: 1
+	Australia-Townsville: 1
+	Pakistan-Karachi: 1
+	Germany-Munich: 1
+College of Engineering and Computer Science:
+	United States-Syracuse: 1
+	United States-Orlando: 1
+	United States-Dearborn: 1
+	United States-Chattanooga: 1
+Tatra National Park:
+	Poland-Zakopane: 1
+	Poland-N/A: 1
+University of Presov in Presov:
+	Slovakia-Presov-Lubotice: 1
+	Slovakia-Presov: 1
+Slovak Academy of Sciences:
+	Slovakia-Bratislava: 1
+	Czechoslovakia-Bratislava: 1
+School of Medicine:
+	Greece-Athens: 1
+	Japan-Yokohama: 1
+	Iran-Shiraz: 1
+	Taiwan-Taichung: 1
+	Canada-Montreal: 1
+	Jordan-Amman: 1
+	Iran-Tehran: 1
+	Italy-Udine: 1
+	Taiwan-New Taipei City: 1
+	China-Xiamen: 1
+	United Kingdom-St Andrews: 1
+	Taiwan-Taipei: 1
+	Iran-Gonabad: 1
+	United Kingdom-Preston: 1
+	United States-Shreveport: 1
+	South Korea-Gyeongsan: 1
+	Greece-Thessaloniki: 1
+	South Korea-Jeonju: 1
+	Ireland-Cork: 1
+	United States-Urbana-Champaign: 1
+Platit AG:
+	Switzerland-Grenchen: 1
+	Switzerland-Selzach: 1
+Department of Electrical and Computer Engineering:
+	United States-Tuscaloosa: 1
+	South Korea-Seoul: 1
+	United States-Piscataway: 1
+	United States-Birmingham: 1
+Facultad de Matemáticas:
+	Chile-Macul: 1
+	Spain-Madrid: 1
+Faculty of Computers and Artificial Intelligence:
+	Egypt-Giza: 1
+	Egypt-Cairo: 1
+SRM Institute of Science and Technology:
+	India-Kattankulathur: 1
+	India-Tiruchirappalli: 1
+College of Sciences:
+	Saudi Arabia-Riyadh: 1
+	China-Tianjin: 1
+National Power:
+	United Kingdom-Swindon: 1
+	United Kingdom-Leatherhead: 1
+Oklahoma State University:
+	United States-Stillwater: 1
+	United States-Louisville: 1
+School of Materials Science and Engineering:
+	Singapore-Singapore City: 1
+	China-Jinan: 1
+	China-Beijing: 1
+Faculty of Engineering:
+	Australia-Sydney: 1
+	Egypt-Cairo: 1
+	Egypt-Zagazig: 1
+	Egypt-Minya: 1
+	Egypt-Mansoura: 1
+	Egypt-Alexandria: 1
+	Malaysia-Johor Bahru: 1
+	Egypt-Asyut: 1
+	Egypt-Aswan: 1
+	Egypt-Sohag: 1
+	Malaysia-Semenyih: 1
+	Egypt-New Borg El Arab: 1
+	Egypt-Tanta: 1
+	Egypt-Shibin El Kom: 1
+	South Africa-Port Elizabeth: 1
+	Egypt-Ismailia: 1
+	Egypt-6th October: 1
+	Egypt-Kafr el-Sheikh: 1
+	Egypt-Suez: 1
+	Egypt-Qena: 1
+	Turkey-Karabuk: 1
+	Egypt-Beni Suef: 1
+	Egypt-Badr: 1
+	Egypt-Fayoum: 1
+	Egypt-El Shorouk: 1
+	Thailand-Nong Bua: 1
+Northeastern University:
+	United States-Boston: 1
+	China-Shenyang: 1
+Air Force Institute of Technology:
+	United States-Dayton: 1
+	Nigeria-Kaduna: 1
+	Poland-Warsaw: 1
+	Poland-Ostrołęcki: 1
+The Extreme Light Infrastructure ERIC:
+	Czech Republic-Dolni Brezany: 1
+	Czech Republic-Dolní Břežany: 1
+	Czech Republic-BřeŽany: 1
+School of Computer Science and Engineering:
+	Singapore-Singapore City: 1
+	Australia-Sydney: 1
+University of Ottawa:
+	Canada-Ottawa: 1
+	United States-Ottawa: 1
+Federal Institute of Education:
+	Brazil-Maceio: 1
+	Brazil-Natal: 1
+	Brazil-Salgueiro: 1
+	Brazil-Passo Fundo: 1
+	Brazil-Caucaia: 1
+	Brazil-Rio Grande: 1
+Faculty of Applied Sciences:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Plzen: 1
+LLC:
+	Russian Federation-Tomsk: 1
+	United States-Thetford: 1
+	United States-Miami: 1
+	United States-Denver: 1
+	United States-Statham: 1
+	United States-Winston Salem: 1
+	United States-Princeton: 1
+	United States-Leesburg: 1
+	United States-Trinity: 1
+	United States-Santa Fe: 1
+	United States-Chicago: 1
+	United States-Newark: 1
+	Ukraine-Kyiv: 1
+	Ukraine-Lviv: 1
+	United States-Richmond: 1
+	United States-Rockville: 1
+	United States-St. Louis: 1
+	United States-Indialantic: 1
+	United States-San Francisco: 1
+	United States-Charlottesville: 1
+ILJIN Electric Co. Ltd.:
+	South Korea-Hwaseong: 1
+	South Korea-Seoul: 1
+New Technologies Research Centre:
+	Czech Republic-Plzen: 1
+	Czech Republic-Pilsen: 1
+Max Planck Institute for Psycholinguistics:
+	Netherlands-Nijmegen: 1
+	India-N/A: 1
+Independent Researcher:
+	Italy-San Pietro in Casale: 1
+	Russian Federation-Saint Petersburg: 1
+	Hungary-Budapest: 1
+	Netherlands-'s-Hertogenbosch: 1
+	United States-Long Beach: 1
+	United States-Madison: 1
+	Germany-Kiel: 1
+	Czech Republic-Brno: 1
+	India-New Delhi: 1
+	Italy-Torino: 1
+	Afghanistan-St Petersburg: 1
+	Germany-Karlsruhe: 1
+	United States-Berkeley: 1
+	Japan-Ikenobe: 1
+	United Kingdom-Langport: 1
+	Iran-Sari: 1
+	United Kingdom-Solihull: 1
+	Germany-Koln: 1
+	Norway-Horten: 1
+	Germany-Berlin: 1
+	Japan-Tokyo: 1
+	Netherlands-Amsterdam: 1
+	United States-Gainesville: 1
+	United States-Chicago: 1
+	United Kingdom-London: 1
+	Germany-Munich: 1
+	Australia-Melbourne: 1
+	Spain-Madrid: 1
+	Canada-Montreal: 1
+	United States-San Francisco: 1
+	United States-San Diego: 1
+	United States-New York: 1
+	Italy-Milan: 1
+	Iran-Mashad: 1
+	Iran-Isfahan: 1
+	Canada-Calgary: 1
+	Italy-Rome: 1
+	United States-Los Angeles: 1
+	Russian Federation-Moscow: 1
+	India-Siliguri: 1
+	United Kingdom-Winchester: 1
+	Italy-L'Aquila: 1
+Società per gli Studi Naturalistici della Romagna:
+	Italy-Forli: 1
+	Italy-Bagnacavallo: 1
+Institute of Physics and Technology:
+	Russian Federation-Yekaterinburg: 1
+	Mongolia-Ulaanbaatar: 1
+Department of Physics:
+	United Kingdom-Cambridge: 1
+	United States-La Jolla: 1
+Computer Science Department:
+	United States-Logan: 1
+	United States-Monterey: 1
+University of Seoul:
+	South Korea-Seoul: 1
+	Cuba-Seoul: 1
+Fixstars Corporation:
+	United States-Sunnyvale: 1
+	Japan-Tokyo: 1
+Research and Development Center:
+	South Korea-Icheon: 1
+	United States-Houston: 1
+	Turkey-Ankara: 1
+ABB Group:
+	Switzerland-Zurich: 1
+	Finland-Helsinki: 1
+China First Heavy Industries:
+	China-Qiqihar: 1
+	China-Tianjin: 1
+College of Engineering and Computing:
+	United States-Rolla: 1
+	United States-Fairfax: 1
+Faculty of Social Sciences:
+	United Kingdom-Southampton: 1
+	United Kingdom-Sheffield: 1
+	Norway-Stavanger: 1
+	United Kingdom-York: 1
+Jiangsu Nata Opto-Electronic Material Co. Ltd.:
+	China-Suzhou: 1
+	China-Jiangsu Province: 1
+Evatec AG:
+	Switzerland-Trübbach: 1
+	Switzerland-N/A: 1
+Ministry of Ecology and Environment:
+	China-Nanjing: 1
+	China-Zhengzhou: 1
+	China-Beijing: 1
+Goiano Federal Institute:
+	Brazil-Urutaí: 1
+	Brazil-Goias: 1
+School of Electrical and Computer Engineering:
+	Greece-Athens: 1
+	United States-Atlanta: 1
+NTIS - New Technologies for the Information Society:
+	Czech Republic-Pilsen: 1
+	United States-N/A: 1
+Kongju National University:
+	South Korea-Gongju: 1
+	China-Cheonan: 1
+Science Center for Physics and Technology:
+	Ukraine-Kharkiv: 1
+	Ukraine-Kharkov: 1
+Henan Academy of Sciences:
+	China-Zhengzhou: 1
+	China-Luoyang: 1
+Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas:
+	Mexico-Mexico: 1
+	Mexico-Mexico City: 1
+Department of Bioengineering:
+	United States-Berkeley: 1
+	United States-Seattle: 1
+	United States-Stanford: 1
+School of Science:
+	United States-Troy: 1
+	China-Beijing: 1
+China University of Geosciences:
+	China-Wuhan: 1
+	China-Hangzhou: 1
+Computer Graphics Group:
+	United States-Orlando: 1
+	Germany-Saarbrucken: 1
+Synchrotron Light Research Institute:
+	Thailand-Nakhon Ratchasima: 1
+	Thailand-Petchaburi: 1
+BOC Coating Technology:
+	United States-Fairfield: 1
+	United States-Sydney: 1
+spol. s r.o.:
+	Czech Republic-Praha 5: 1
+	Slovakia-Bratislava: 1
+Jeju National University:
+	South Korea-Jeju: 1
+	Cuba-Jeju: 1
+Indian Institute of Technology Jodhpur:
+	India-Jodhpur: 1
+	Canada-Jodhpur: 1
+Airco Coating Technology:
+	United States-Sydney: 1
+	United States-Concord: 1
+University of Kashmir:
+	India-Srinagar: 1
+	India-Garhwal: 1
+Military Institute of Science and Technology:
+	Bangladesh-Dhaka: 1
+	Viet Nam-Hanoi: 1
+School of Electrical Engineering:
+	Serbia-Belgrade: 1
+	Malaysia-Johor Bahru: 1
+	China-Xi'an: 1
+UWB:
+	Czech Republic-Plzen: 1
+	Czech Republic-Plzeo: 1
+New Technologies for the Information Society:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Plzen: 1
+Advanced Materials Laboratory:
+	Japan-Tsukuba: 1
+	United States-Albuquerque: 1
+Institute for Chemistry:
+	Yugoslavia-Belgrade: 1
+	Serbia-Belgrade: 1
+College of Medicine:
+	United States-Omaha: 1
+	South Korea-Incheon: 1
+	Egypt-6th October: 1
+	Saudi Arabia-Riyadh: 1
+	Taiwan-Tainan: 1
+	United States-Charleston: 1
+	Saudi Arabia-Abha: 1
+	United States-Rootstown: 1
+	Taiwan-Taipei: 1
+	United States-Columbus: 1
+	United Arab Emirates-Dubai: 1
+	Taiwan-Taichung: 1
+	South Korea-Seoul: 1
+Forest Research Institute:
+	Greece-Thessaloniki: 1
+	Hungary-Szombathely: 1
+Faculty of Sciences:
+	Egypt-Beni Suef: 1
+	Netherlands-Nijmegen: 1
+	Algeria-Algiers: 1
+	Morocco-Oujda: 1
+Faculty of Science and Engineering:
+	United Kingdom-Manchester: 1
+	United Kingdom-Wolverhampton: 1
+Department of Biological and Agricultural Engineering:
+	United States-College Station: 1
+	United States-Raleigh: 1
+Research and Development:
+	Austria-Graz: 1
+	Sweden-Fagersta: 1
+	N/A-N/A: 1
+	United States-Arlington: 1
+	Netherlands-Amsterdam: 1
+	Poland-Krakow: 1
+MSC Software Corporation:
+	United States-Los Angeles: 1
+	United States-Ann Arbor: 1
+Department of Civil and Environmental Engineering:
+	United States-Berkeley: 1
+	United States-Rapid City: 1
+	United States-Piscataway: 1
+	United States-Huntsville: 1
+	South Korea-Seoul: 1
+National Supercomputing Center in Shenzhen:
+	China-Shenzhen: 1
+	China-Qingshuihe, Shenzhen: 1
+Southwest Technology and Engineering Research Institute:
+	China-Jiulongpo: 1
+	China-Chongqing: 1
+College of Science:
+	Egypt-Cairo: 1
+	United States-Tucson: 1
+	United States-West Lafayette: 1
+	Iran-Tehran: 1
+Technological Educational Institute of Western Greece:
+	Greece-Patra: 1
+	Greece-Antirion: 1
+Academy of Sciences:
+	Russian Federation-Moscow: 1
+	Germany-Berlin: 1
+	Sweden-Stockholm: 1
+	France-Paris: 1
+	United States-Washington: 1
+Government Engineering College:
+	India-Idukki: 1
+	India-Bhuj: 1
+	India-Arwal: 1
+	India-Talakal: 1
+	India-Gujarat: 1
+	India-Raipur (C.G.): 1
+	India-Patan: 1
+	India-Wayanad: 1
+College of Computing:
+	United States-Atlanta: 1
+	United States-Chicago: 1
+	United States-Houghton: 1
+University of Tennessee:
+	United States-Jackson: 1
+	United States-Tullahoma: 1
+	United States-Oak Ridge: 1
+	United States-Chattanooga: 1
+Agricultural University of Tirana:
+	Albania-Tirana: 1
+	Czech Republic-Tirana: 1
+Natural History Museum:
+	Yugoslavia-Belgrade: 1
+	Serbia-Belgrade: 1
+	Netherlands-Hoofddorp: 1
+University of Wisconsin:
+	United States-Minneapolis: 1
+	United States-United States: 1
+	United States-N/A: 1
+Gachon University:
+	South Korea-Seongnam: 1
+	Kenya-Yeonsu-gu: 1
+Synchrotron Light Research Institute (Public Organization):
+	Thailand-Muang District: 1
+	Thailand-Nakhon Ratchasima: 1
+School of Dentistry:
+	Japan-Tokyo: 1
+	United Kingdom-Cardiff: 1
+	United States-Minneapolis: 1
+	Iran-Mashhad: 1
+	Iran-Tehran: 1
+	Greece-Thessaloniki: 1
+	Iran-Hamadan: 1
+	Iran-Shiraz: 1
+MGM University:
+	India-Sambhajinagar: 1
+	India-Aurangabad: 1
+Shamoon College of Engineering:
+	Israel-Beer-Sheva: 1
+	Israel-Ashdod: 1
+	Israel-Beer Sheva: 1
+	Israel-Beer Sheba: 1
+a.s.:
+	Czech Republic-Prague: 1
+	Czech Republic-Ostrava: 1
+	Slovakia-Dubnica Nad Vahom: 1
+	Czech Republic-Plzen: 1
+	Czech Republic-Tremosnice: 1
+	Czech Republic-Liberec: 1
+	Czech Republic-Usti nad Labem: 1
+	Czech Republic-Praha-Zbraslav: 1
+	Czech Republic-Brno: 1
+	Slovakia-044 21 Hodkovce: 1
+	Czech Republic-Liberec XI: 1
+	Czech Republic-Decin: 1
+SINKU-RIKO Inc.:
+	Japan-Yokohama: 1
+	Japan-Hakusancho, Midoriku: 1
+Al-Azhar University:
+	Egypt-Cairo: 1
+	Egypt-Al-Azhar: 1
+School of Dental Medicine:
+	United States-Farmington: 1
+	Switzerland-Bern: 1
+	Switzerland-Geneve: 1
+Brigham and Women's Hospital:
+	United States-Boston: 1
+	United Kingdom-London: 1
+Electrical and Computer Engineering Department:
+	United States-La Jolla: 1
+	United States-Huntsville: 1
+University of Reading:
+	United Kingdom-Reading: 1
+	Egypt-Reading: 1
+Universität Regensburg:
+	Germany-Regensburg: 1
+	United States-N/A: 1
+School of Veterinary Medicine:
+	United States-Davis: 1
+	United States-Baton Rouge: 1
+School of Pharmacy:
+	Iran-Tehran: 1
+	Iran-Shiraz: 1
+	Iran-Mashhad: 1
+	Iran-Hamadan: 1
+	Spain-Granada: 1
+School of Public Health:
+	Iran-Tehran: 1
+	United States-Minneapolis: 1
+	United States-Boston: 1
+	Iran-Hamadan: 1
+	China-Wuhan: 1
+	Hong Kong-N.t.: 1
+Graduate School of Medicine:
+	Japan-Kyoto: 1
+	Japan-Suita: 1
+	Japan-Sendai: 1
+	Japan-Chiba: 1
+	Japan-Tokyo: 1
+	Japan-Maebashi: 1
+	Japan-Kobe: 1
+	Japan-Nishihara: 1
+	Japan-Yokohama: 1
+	Japan-Sapporo: 1
+	Japan-Chuo: 1
+	Japan-Matsumoto: 1
+Hallym University:
+	South Korea-Chuncheon: 1
+	Switzerland-N/A: 1
+Aramco Services Company:
+	United States-Houston: 1
+	United States-Cambridge: 1
+The University:
+	United Kingdom-Canterbury: 1
+	United Kingdom-Newcastle: 1
+	United Kingdom-Glasgow: 1
+	United Kingdom-Birmingham: 1
+Faculty of Pharmacy:
+	Egypt-Beni Suef: 1
+	Egypt-Zagazig: 1
+	Egypt-Alexandria: 1
+	Egypt-6th October: 1
+	Egypt-Suez: 1
+	Egypt-Cairo: 1
+	Egypt-Sadat City: 1
+	Egypt-New Cairo: 1
+	Egypt-Mansoura: 1
+	France-Illkirch-Graffenstaden: 1
+	Egypt-El Shorouk: 1
+	Iran-Tabriz: 1
+	Egypt-Minya: 1
+	Egypt-Tanta: 1
+	Egypt-Helwan: 1
+	Egypt-Asyut: 1
+Institute of Physics:
+	N/A-N/A: 1
+	United Kingdom-London: 1
+	Poland-Czestochowa: 1
+	India-Bhubaneswar: 1
+	Germany-Marburg: 1
+	Pakistan-Rahim Yar Khan: 1
+	Estonia-Tartu: 1
+Faculty of Technology:
+	Netherlands-Groningen: 1
+	Algeria-Setif: 1
+	Serbia-Novi Sad: 1
+Institute of Genetics and Genomics in Geneva (iGE3):
+	Switzerland-Geneve: 1
+	Switzerland-Geneva: 1
+Faculty of Medicine:
+	Egypt-Tanta: 1
+	Egypt-Ismailia: 1
+	France-Nimes: 1
+	France-Besancon: 1
+	Israel-Jerusalem: 1
+	Egypt-Alexandria: 1
+	Egypt-Mansoura: 1
+	Egypt-Cairo: 1
+	Egypt-Asyut: 1
+	Japan-Akita: 1
+	Egypt-Sohag: 1
+	Egypt-Minya: 1
+	Iran-Tabriz: 1
+	Canada-Montreal: 1
+	Egypt-Helwan: 1
+	Australia-Frankston: 1
+	Japan-Niigata: 1
+	Finland-Oulu: 1
+	Japan-Saga: 1
+	Greece-Ioannina: 1
+	Egypt-Qena: 1
+	Netherlands-Amsterdam: 1
+	Japan-Kashihara: 1
+	Egypt-Suez: 1
+	Iran-Hamadan: 1
+	United Kingdom-London: 1
+	Egypt-Aswan: 1
+	Canada-Ottawa: 1
+Oerlikon Surface Solutions AG:
+	Liechtenstein-Balzers: 1
+	Switzerland-N/A: 1
+Noveltis:
+	France-Ramonville: 1
+	France-Toulouse: 1
+Wolf Research and Development Corporation:
+	United States-Bronx: 1
+	United States-Riverdale: 1
+National Museum of History:
+	Romania-Bucharest: 1
+	Bulgaria-Sofia: 1
+University of California:
+	United States-Livermore: 1
+	United States-Emeryville: 1
+	United States-Sacramento: 1
+	United States-Vallejo: 1
+	United States-Amherst: 1
+	United States-Berkeley: 1
+Meraka Institute:
+	Russian Federation-N/A: 1
+	South Africa-Pretoria: 1
+Santa Fe Institute:
+	United States-Santa Fe: 1
+	Mexico-Santa Fe, New: 1
+Government College:
+	India-Kozhikode: 1
+	India-Una: 1
+	India-Thiruvananthapuram: 1
+College of Pharmacy:
+	Saudi Arabia-Riyadh: 1
+	United States-Minneapolis: 1
+	United States-Columbus: 1
+	South Korea-Seoul: 1
+Université de Thiès:
+	Senegal-Thies: 1
+	Senegal-Dakar: 1
+St George's Hospital:
+	United Kingdom-Hamburg: 1
+	United Kingdom-London: 1
+Faculty of Mechanical Engineering:
+	Czech Republic-Plzen: 1
+	Slovakia-Bratislava: 1
+	Serbia-Belgrade: 1
+z.s.:
+	Czech Republic-Prague: 1
+	Czech Republic-Pilsen: 1
+	Czech Republic-Ostrava: 1
+Museum of West Bohemia:
+	Czech Republic-Plzen: 1
+	Czech Republic-Pilsen: 1
+State Grid Electric Power Research Institute:
+	China-Beijing: 1
+	China-Nanjing: 1
+UNIFEI:
+	Brazil-Sao Paulo: 1
+	Brazil-Volta Redonda: 1
+Faculty of Veterinary Medicine:
+	Egypt-Qena: 1
+	Japan-Sapporo: 1
+	Egypt-Alexandria: 1
+	Egypt-Asyut: 1
+	Egypt-Mansoura: 1
+	Egypt-Giza: 1
+Food and Agriculture Organization of the United Nations:
+	Italy-Rome: 1
+	Albania-N/A: 1
+Università:
+	Italy-Trieste: 1
+	United States-Palermo: 1
+National University:
+	Bangladesh-Gazipur City: 1
+	South Korea-Daejeon: 1
+	Kazakhstan-Almaty: 1
+	South Korea-Gwangju: 1
+School of Business:
+	United States-Hoboken: 1
+	United Kingdom-Dundee: 1
+	Macao-Taipa: 1
+Cooperative Medianet Innovation Center:
+	China-Shanghai: 1
+	China-Beijing: 1
+Niroo Research Institute:
+	Iran-Tehran: 1
+	Iraq-Tehran: 1
+College of Education:
+	Egypt-Cairo: 1
+	Nigeria-Onitsha: 1
+	United States-Mississippi State: 1
+	South Korea-Seoul: 1
+University Hospital:
+	Switzerland-Geneva: 1
+	Sudan-Khartoum: 1
+	United States-Indianapolis: 1
+	France-Bordeaux: 1
+Institute for Biomedical Engineering:
+	Switzerland-Zurich: 1
+	Canada-Toronto: 1
+Kelten Römer Museum Manching:
+	Germany-Manching: 1
+	Germany-N/A: 1
+Research Institute:
+	Czech Republic-Usti nad Labem: 1
+	Czech Republic-Prague: 1
+	United States-Cleveland: 1
+Faculty of Artificial Intelligence:
+	Egypt-Badr: 1
+	Egypt-Kafr el-Sheikh: 1
+Faculty of Computers and Information:
+	Egypt-Benha: 1
+	Egypt-Zagazig: 1
+	Egypt-Minya: 1
+	Egypt-Fayoum: 1
+	Egypt-Damietta: 1
+Faculty of Arts:
+	Egypt-Port Said: 1
+	United Kingdom-St Andrews: 1
+	Egypt-Shibin El Kom: 1
+	Slovenia-Ljubljana: 1
+Faculty of Education:
+	Egypt-Mansoura: 1
+	Egypt-Tanta: 1
+	Egypt-Alexandria: 1
+UJP PRAHA a.s.:
+	Czech Republic-Prague: 1
+	Czech Republic-Prague-Zbraslav: 1
+State Geological Institute of Dionýz Štúr:
+	Slovakia-Bratislava 11: 1
+	Slovakia-Bratislava: 1
+National Geospatial-Intelligence Agency:
+	United States-Springfield: 1
+	United States-Arnold: 1
+Space Science Institute:
+	United States-La Canada-Flintridge: 1
+	United States-Boulder: 1
+Hefei National Laboratory:
+	China-Hefei: 1
+	China-Shenzhen: 1
+	China-Shanghai: 1
+JSC:
+	Latvia-Riga: 1
+	Russian Federation-Saint Petersburg (ex Leningrad): 1
+	Russian Federation-Saint Petersburg: 1
+Government Degree College (B):
+	Pakistan-Sharaqpur Sharif, Tehsil: 1
+	Pakistan-Sharqpur Shareef: 1
+University of Lakki Marwat:
+	Pakistan-Lakki Marwat: 1
+	Pakistan-Khyber Pakhtunkhwa: 1
+	Pakistan-Pakhtunkhwa: 1
+Faculty of Science and Technology:
+	Indonesia-Yogyakarta: 1
+	Indonesia-Surabaya: 1
+v. v. i.:
+	Czech Republic-Prague: 1
+	Peru-Prague: 1
+	Czech Republic-Brno: 1
+	Czech Republic-Kutna Hora: 1
+ASCOMETAL CREAS:
+	France-Cedex: 1
+	France-Amneville: 1
+Centre for Materials Science and Technology:
+	India-New Delhi: 1
+	India-Mysore: 1
+Vietnam Education Publishing House:
+	Viet Nam-Hoan Kiem: 1
+	Viet Nam-Hanoi: 1
+Dongguan Polytechnic:
+	China-Dongguan: 1
+	China-Dongguan 523808, China: 1
+College of Agriculture:
+	United States-West Lafayette: 1
+	Egypt-Cairo: 1
+Interlink Systems Sciences, Inc.:
+	United States-N/A: 1
+	United States-Lake Success: 1
+Laboratoire de Physique des Solides:
+	France-Orsay: 1
+	France-Nancy: 1
+Faculty of Dentistry:
+	Canada-Winnipeg: 1
+	Egypt-Mansoura: 1
+	Egypt-Alexandria: 1
+	New Zealand-Dunedin: 1
+	Egypt-Tanta: 1
+	Egypt-6th October: 1
+Istituto Italiano di Paleontologia Umana:
+	Italy-Roma: 1
+	Italy-Rome: 1
+General Directorate of Mapping:
+	Turkey-Ankara: 1
+	Turkey-Dikimevi, Ankara: 1
+Graduate School of Medical Sciences:
+	Japan-Fukuoka: 1
+	Japan-Kumamoto: 1
+National Kure Medical Center:
+	Japan-Kure: 1
+	Japan-Hiroshima: 1
+Regional Innovation Centre for Electrical Engineering (RICE):
+	Czech Republic-Plzen: 1
+	Czech Republic-Pilsen: 1
+International Department:
+	China-Guangzhou: 1
+	China-Beijing: 1
+AECC Sichuan Gas Turbine Establishment:
+	China-Mianyang: 1
+	China-Chengdu: 1
+A.s.:
+	Czech Republic-Milevsko: 1
+	Czech Republic-Nove Straseci: 1
+Software Engineering Institute:
+	United States-Pittsburgh: 1
+	United States-N/A: 1
+	United States-University Park: 1
+Universidad Simón Bolívar:
+	Venezuela-Caracas: 1
+	Mexico-Mexico: 1
+	Colombia-Barranquilla: 1
+Faculty of Information Studies:
+	Slovenia-Ljubljana: 1
+	Slovenia-Novo Mesto: 1
+SIM vzw:
+	Belgium-Ghent: 1
+	Belgium-Zwijnaarde: 1
+Marmara Forestry Research Institute:
+	Turkey-Istanbul: 1
+	Türkiye-Sariyer: 1
+Howard Hughes Medical Institute:
+	United States-Chevy Chase: 1
+	United Kingdom-London: 1
+World Agroforestry Centre:
+	China-Kunming: 1
+	Kenya-Nairobi: 1
+ALVALAB:
+	Spain-Santander: 1
+	Spain-Oviedo: 1
+Guizhou Academy of Agricultural Sciences:
+	China-Guiyang: 1
+	China-Guizhou Guiyang: 1
+Vestas Wind System A/S:
+	Denmark-Aarhus: 1
+	Denmark-Arhus: 1
+Psychiatric Hospital:
+	United States-Skopje: 1
+	Czech Republic-Havlickuv Brod: 1
+Macedonian Academy of Sciences and Arts:
+	Turkmenistan-Skopje: 1
+	North Macedonia-Skopje: 1
+Regional Hospital:
+	Czech Republic-Ceske Budejovice: 1
+	Czech Republic-Jihlava: 1
+Általános Orvostudományi Kar:
+	Hungary-Debrecen: 1
+	Hungary-Budapest: 1
+Academy of Science:
+	Thailand-Bangkok: 1
+	Thailand-Dusit: 1
+	Thailand-North Bangkok: 1
+University of Nigeria:
+	Nigeria-Naukka: 1
+	Pakistan-Naukka: 1
+Institute of Technology and Business in České Budějovice:
+	Czech Republic-Ceske Budejovice: 1
+	Czech Republic-370 01 České Budějovice: 1
+Universidade Federal de Lavras:
+	Brazil-Lavras: 1
+	China-N/A: 1
+University of Kurdistan:
+	Iran-Sanandaj: 1
+	Iraq-Kurdistan: 1
+Faculty of Health and Medical Sciences:
+	Australia-Adelaide: 1
+	United Kingdom-Guildford: 1
+Mechanical Engineering Department:
+	United States-New Orleans: 1
+	India-Aurangabad: 1
+Research Department:
+	Netherlands-Amsterdam: 1
+	Portugal-Porto: 1
+Ministry of Justice:
+	Thailand-Bangkok: 1
+	Chile-Santiago: 1
+Faculty of Computer Science:
+	Indonesia-Pekanbaru: 1
+	Indonesia-Jambi: 1
+	Egypt-6th October: 1
+Agilent Technologies:
+	United States-Santa Clara: 1
+	United States-Wilmington: 1
+Bone and Joint Center:
+	United States-Detroit: 1
+	United States-Palo Alto: 1
+New York Academy:
+	Japan-N/A: 1
+	N/A-N/A: 1
+Research Association of Superconducting Magnetic Energy Storage:
+	Japan-N/A: 1
+	N/A-N/A: 1
+Hahn-Schickard:
+	Germany-Stuttgart: 1
+	Germany-Freiburg im Breisgau: 1
+	Germany-Villingen-Schwenningen: 1
+Geological Survey of New South Wales:
+	Australia-Londonderry: 1
+	Australia-Sydney: 1
+NTIS:
+	Czech Republic-Pilsen: 1
+	United States-Springfield: 1
+Sioux Technologies:
+	Netherlands-Eindhoven: 1
+	China-Suzhou: 1
+	Netherlands-Apeldoorn: 1
+Clara Angela Foundation:
+	Germany-Witten: 1
+	Germany-Berlin: 1
+University of Bohemia:
+	Czech Republic-Pleň: 1
+	Czech Republic-Plzen: 1
+	Czech Republic-Ceske Budejovice: 1
+Engineering Dept.:
+	Brazil-Sorocaba: 1
+	Brazil-Sao Paulo: 1
+School of Business Administration:
+	United States-Rochester: 1
+	Japan-Tokyo: 1
+	United Arab Emirates-Sharjah: 1
+Language Computer Corporation:
+	United States-Richardson: 1
+	United States-Dallas: 1
+College of Arts, Humanities and Social Sciences:
+	United Kingdom-Cardiff: 1
+	United Kingdom-Edinburgh: 1
+Mechanical Engineering:
+	South Korea-Yusong: 1
+	N/A-N/A: 1
+MOVEJ Analytics:
+	United States-Dayton: 1
+	United States-Fairborn: 1
+Schneider Electric:
+	France-Rueil-Malmaison: 1
+	United States-Morrissville: 1
+	United States-Morrisville: 1
+Faculty of Business and Law:
+	United Kingdom-Manchester: 1
+	Australia-Newcastle: 1
+	Australia-Wollongong: 1
+Hôpital Manhes:
+	France-Paris: 1
+	France-N/A: 1
+Division of Nephrology:
+	United States-Birmingham: 1
+	United States-Cooperstown: 1
+University of West:
+	Czech Republic-Pilsen: 1
+	Sweden-Trollhattan: 1
+Kennesaw State University:
+	United States-Kennesaw: 1
+	Georgia-Kennesaw: 1
+JSC Power Machines:
+	Russian Federation-Saint Petersburg: 1
+	Russian Federation-Saint Petersburg (ex Leningrad): 1
+Military Industrial College:
+	Viet Nam-Phu Tho: 1
+	Viet Nam-Hanoi: 1
+Ministry of National Education:
+	Türkiye-Istanbul: 1
+	Türkiye-Malatya: 1
+	Türkiye-Ankara: 1
+National Cancer Institute:
+	Malaysia-Putrajaya: 1
+	Egypt-Cairo: 1
+Bioengineering Research and Development Center (BioIRC):
+	Serbia-Kragujevac: 1
+	Serbia-N/A: 1
+College of Veterinary Medicine:
+	South Korea-Seoul: 1
+	United States-Puyallup: 1
+	United States-Saint Paul: 1
+University of Saint Joseph:
+	United States-West Hartford: 1
+	United States-West: 1
+	China-Macau: 1
+Limited:
+	China-Tianjin: 1
+	China-Beijing: 1
+	India-Noida: 1
+	United Kingdom-Oxford: 1
+	China-Rizhao: 1
+Universidad del Istmo:
+	Panama-Panama City: 1
+	Mexico-Oaxaca: 1
+	Mexico-Ciudad Universitaria: 1
+Meta:
+	United States-Meta: 1
+	United States-Menlo Park: 1
+Regional Innovation Centre of Electrotechnic:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Pilsen, Prague: 1
+Medtronic:
+	Switzerland-Tolochenaz: 1
+	United States-Northridge: 1
+	France-Trévoux: 1
+China Medical University Hospital:
+	Taiwan-Taichung: 1
+	Czech Republic-Taichung: 1
+Faculté des Sciences:
+	France-Corte: 1
+	France-Pau: 1
+	Lebanon-Beirut: 1
+	Algeria-Algiers: 1
+	Switzerland-Neuchatel: 1
+Tuscia University:
+	Italy-Civitavecchia: 1
+	Italy-Tuscia: 1
+Museo Civico di Storia Naturale:
+	Italy-Comiso: 1
+	Italy-Turin: 1
+not available:
+	Greece-Athens: 1
+	Japan-Yokosuka: 1
+	Czech Republic-Pardubice: 1
+	Czech Republic-Olomouc: 1
+	Spain-Zaragoza: 1
+	Portugal-Porto: 1
+	Germany-Tubingen: 1
+	United States-Birmingham: 1
+	Australia-Brisbane: 1
+	United Kingdom-London: 1
+School of Biological Sciences:
+	Singapore-Singapore City: 1
+	South Korea-Seoul: 1
+	United States-Lincoln: 1
+	New Zealand-Auckland: 1
+Treibacher Industrie AG:
+	Austria-Althofen: 1
+	Austria-Klagenfurt: 1
+Archeolodzy.org Foundation:
+	Poland-Swidnica: 1
+	Poland-Wroclaw: 1
+Technological Institute of Apizaco:
+	Mexico-Tlaxcala: 1
+	Mexico-Centro: 1
+R and D Department:
+	Spain-Valencia: 1
+	Spain-Cordova: 1
+	Sweden-Kongsberg: 1
+	Italy-Chieti: 1
+Italian Interuniversity Consortium on Materials Science and Technology (INSTM):
+	Italy-Florence: 1
+	Italy-Rome: 1
+New York Consortium in Evolutionary Primatology:
+	United States-New York: 1
+	United States-Flushing: 1
+Bürogemeinschaft für fisch- und gewässerökologische Studien:
+	Germany-Marburg: 1
+	Germany-Frankfurt am Main: 1
+Faculty of Teacher Training and Education:
+	Indonesia-Jember: 1
+	Indonesia-Palembang: 1
+Joint Laboratory of Solid State Chemistry of the Czech Academy of Sciences and the University of Chemical Technology:
+	N/A-N/A: 1
+	Czechoslovakia-N/A: 1
+West Virginia State University:
+	United States-Institute: 1
+	United States-Lauderhill: 1
+Vienna Institute of Demography:
+	Austria-Vienna: 1
+	Netherlands-Vienna: 1
+Faculty of Sciences and Techniques:
+	Morocco-Errachida: 1
+	Morocco-Beni Mellal: 1
+Ganzhou Achteck Tool Technology Co. Ltd.:
+	China-Ganzhou: 1
+	China-N/A: 1
+International Medical University:
+	Malaysia-Kuala Lumpur: 1
+	Kyrgyzstan-Kuala Lumpur: 1
+Cairo University:
+	Egypt-Giza: 1
+	United Kingdom-Giza: 1
+State University:
+	N/A-N/A: 1
+	United States-Blacksburg: 1
+	Russian Federation-Samara: 1
+	Moldova-Chisinau: 1
+Inc:
+	United States-Natick: 1
+	United States-Troy: 1
+	South Korea-Daejeon: 1
+	United States-Miami: 1
+	Canada-Kitchener: 1
+	United States-Philipsburg: 1
+	United States-San Antonio: 1
+	United States-Minneapolis: 1
+	United States-San Francisco: 1
+	United States-San Diego: 1
+	United States-Long Island City: 1
+	Japan-Tomakomai: 1
+	United States-Rockville: 1
+	China-Chongqing: 1
+Department of Mechanical and Aerospace Engineering:
+	United States-La Jolla: 1
+	United States-Piscataway: 1
+	United States-Monterey: 1
+	United States-Huntsville: 1
+College of Arts and Sciences:
+	United States-Hattiesburg: 1
+	United States-Tallahassee: 1
+	United States-Coral Gables: 1
+	United States-Las Cruces: 1
+	United States-Kingston: 1
+	United States-Stony Brook: 1
+Center of Anthropological Researches of the Teko Guaraní:
+	Bolivia-Gutierrez: 1
+	Bolivia-N/A: 1
+Nanotechnology Research Center:
+	Iran-Mashhad: 1
+	Egypt-El Shorouk: 1
+EnergyVille:
+	Belgium-Leuven: 1
+	Belgium-Genk: 1
+MPT:
+	Spain-N/A: 1
+	Japan-Kyoto: 1
+St. Francis College:
+	India-Bengaluru: 1
+	United States-Brooklyn Heights: 1
+Universidade Católica Portuguesa:
+	Portugal-Lisbon: 1
+	Portugal-Porto: 1
+School of Chemistry:
+	Australia-Melbourne: 1
+	United Kingdom-Bristol: 1
+	Australia-Sydney: 1
+MECAS ESI:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Brno: 1
+LifeCell Corporation:
+	United States-Branchburg Park: 1
+	United States-The Woodlands: 1
+Czech Society for Ornithology:
+	Czech Republic-Prague: 1
+	Czech Republic-150 00 Prague 5: 1
+	Czech Republic-Praha 5: 1
+Canadian Blood Services:
+	Canada-Ottawa: 1
+	Canada-Dartmouth: 1
+Wildlife Conservation Society:
+	United States-New York: 1
+	India-Bangalore: 1
+	Mongolia-Ulaanbaatar: 1
+Research:
+	Spain-Madrid: 1
+	Honduras-Tegucigalpa: 1
+	Lebanon-Beirut: 1
+Institute of Quantum Materials Science:
+	Russian Federation-Ekaterinburg: 1
+	Russian Federation-Yekaterinburg: 1
+Vickram College of Engineering:
+	India-Madurai: 1
+	India-Enathi: 1
+Physikalisches Institut:
+	Germany-Frankfurt am Main: 1
+	Germany-Munster: 1
+	Germany-D-69120 Heidelberg: 1
+	Germany-Marburg: 1
+Government Degree College:
+	India-Tangdhar: 1
+	Pakistan-Karachi: 1
+	India-Hisar: 1
+Regione Emilia-Romagna:
+	Italy-Bologna: 1
+	Italy-Reggio Emilia: 1
+Amity University:
+	India-Indore: 1
+	India-Noida: 1
+	India-N/A: 1
+	India-Bangluru: 1
+Center for Theoretical Physics:
+	United States-Cambridge: 1
+	South Korea-Seoul: 1
+Faculty of Medicine and Health:
+	Australia-Sydney: 1
+	Sweden-Orebro: 1
+K.N. Govt. P.G. College:
+	India-Bhadohi: 1
+	India-Sant Ravidas Nagar: 1
+De La Salle University:
+	Philippines-Manila: 1
+	Philippines-La Salle: 1
+Teaching Hospital:
+	Iraq-Ramadi: 1
+	Sri Lanka-Ratnapura: 1
+Unité Mixte de Recherche:
+	France-Paris: 1
+	France-Pau: 1
+University of Applied Sciences:
+	Switzerland-Le Locle: 1
+	Netherlands-Leeuwarden: 1
+	Poland-Nysa: 1
+	Croatia-Karlovac: 1
+School of Physics:
+	China-Guangzhou: 1
+	Australia-Melbourne: 1
+Government Degree College Nowshera:
+	India-Rajouri: 1
+	India-Jammu: 1
+University of China:
+	China-Tianjin: 1
+	China-Guanghan: 1
+Northwest German Forest Research Institute:
+	Germany-D-34346 Hann. Münden: 1
+	Germany-Hann Munden: 1
+	Germany-Gottingen: 1
+Wuyi University:
+	China-Jiangmen: 1
+	China-Wuyishan: 1
+Department of Computer Science and Engineering:
+	United States-La Jolla: 1
+	South Korea-Seoul: 1
+National Institute of Technology:
+	India-Tadepalligudem: 1
+	India-Garhwal: 1
+	India-Srinagar-Garhwal: 1
+	India-Warngal: 1
+	Japan-Matsue: 1
+	Japan-Miyazaki: 1
+College of Business Administration:
+	China-Hangzhou: 1
+	Saudi Arabia-Riyadh: 1
+	United Arab Emirates-Sharjah: 1
+	United States-Milwaukee: 1
+	United States-Manhattan: 1
+Sentient Corporation:
+	United States-Idaho Falls: 1
+	United States-Burlington: 1
+Rockwell Automation:
+	United States-Milwaukee: 1
+	China-Shanghai: 1
+Science and Technology on Surface Physics and Chemistry Laboratory:
+	China-N/A: 1
+	China-Mianyang: 1
+Departamento de investigación:
+	Mexico-Colima: 1
+	Mexico-Zapopan: 1
+Huawei Technologies:
+	Türkiye-Istanbul: 1
+	Canada-Ottawa: 1
+	Canada-Toronto: 1
+Sony AI:
+	United States-New York: 1
+	Switzerland-Zurich: 1
+	United States-Seattle: 1
+Government Post Graduate Jahanzeb College Saidu Sharif:
+	Pakistan-Swat: 1
+	Pakistan-Swat, Khyber Paktunkhwa: 1
+	Pakistan-Khyber Paktunkhwa: 1
+	Pakistan-Pakhtunkhwa: 1
+	Pakistan-Khyber Pakhtunkhwa: 1
+HEP ODS d.o.o.:
+	Croatia-Pula: 1
+	Croatia-Rijeka: 1
+National Electric Coil:
+	United States-Brownsville: 1
+	United States-Columbus: 1
+Graduate University of Science and Technology:
+	Viet Nam-Cau Giay district, Hanoi city: 1
+	Viet Nam-Hanoi: 1
+Wellstar Health System:
+	United States-Atlanta: 1
+	United States-Marietta: 1
+Medizinische Fakultät:
+	Germany-Wurzburg: 1
+	Germany-Erlangen: 1
+	Germany-Koln: 1
+School of Nursing:
+	United States-Minneapolis: 1
+	United States-Storrs: 1
+Independent Scholar:
+	United States-Ypsilanti: 1
+	Denmark-Arhus: 1
+	Sweden-Kristianstad: 1
+	Chile-Santiago: 1
+Oracle Labs:
+	Australia-Brisbane: 1
+	Austria-Vienna: 1
+Bangabandhu Sheikh Mujibur Rahman Science and Technology University:
+	Bangladesh-Gopalganj: 1
+	Bangladesh-Dhaka: 1
+Higher Institute of Engineering and Technology:
+	Egypt-Alexandria: 1
+	Egypt-New Damietta: 1
+	Egypt-Tanta: 1
+	Egypt-Kafr el-Sheikh: 1
+	Egypt-Kalubia: 1
+High Institute for Engineering and Technology:
+	Egypt-Sohag: 1
+	Egypt-Cairo: 1
+Centre for Nano and Material Sciences:
+	India-Bengaluru: 1
+	India-Ramanagaram: 1
+Royal Hospital for Sick Children:
+	United Kingdom-Edinburgh: 1
+	United Kingdom-Glasgow: 1
+General Hospital:
+	Serbia-Sombor: 1
+	France-Seclin: 1
+	Taiwan-Taichung: 1
+Mahamaya Government Degree College:
+	India-Bijnor: 1
+	India-Sherkot Bijnor: 1
+Quang Binh University:
+	Viet Nam-Dong Hoi: 1
+	Viet Nam-Dong Hoi City, Quang Binh Province: 1
+Palbit S.A.:
+	Portugal-Aveiro: 1
+	Portugal-Branca: 1
+Jiangsu Vocational College of Agriculture and Forestry:
+	China-Zhenjiang: 1
+	China-Jurong, Jiangsu: 1
+Mountain Landform Research:
+	United Kingdom-Glasgow: 1
+	United Kingdom-Stirling: 1
+	United Kingdom-Ross-shire: 1
+S.R.O.:
+	Czech Republic-Brno: 1
+	Czech Republic-Ostrava: 1
+Photonic Systems, Inc.:
+	United States-Billerica: 1
+	United States-Burlington: 1
+	United States-Carlisle: 1
+Rutgers University:
+	United States-Ramsey: 1
+	United States-Brunswick: 1
+	United States-Zurich: 1
+	United States-New Jersey: 1
+	United States-Metuchen: 1
+	United States-Middlesex: 1
+	United States-New Lisbon: 1
+Bel Power Solutions:
+	Slovakia-Dubnica Nad Vahom: 1
+	Slovakia-Dubnicanad Váhom: 1
+University of Alabama:
+	United States-Vestavia Hills: 1
+	United States-not available: 1
+	United States-Ala: 1
+	United States-Montgomery: 1
+School of Civil and Environmental Engineering:
+	N/A-N/A: 1
+	Singapore-Singapore City: 1
+	Pakistan-Islamabad: 1
+School of Management:
+	Taiwan-Taoyuan: 1
+	United Kingdom-Swansea: 1
+Council for Agricultural Research and Economics (CREA):
+	Italy-Arezzo: 1
+	Italy-Rome: 1
+	Italy-Roma: 1
+General Command of Mapping:
+	Turkey-Cebeci: 1
+	Turkey-Ankara: 1
+University of Science:
+	North Korea-N/A: 1
+	North Korea-Pyongyang: 1
+	Viet Nam-Hanoi: 1
+	Viet Nam-Ho Chi Minh City: 1
+Danske Bank:
+	Denmark-Arhus: 1
+	Denmark-Horsens: 1
+Office of Naval Research:
+	United States-Arlington: 1
+	United States-St Louis: 1
+Instituto Nacional de Electricidad y Energías Limpias:
+	Mexico-Cuernavaca: 1
+	Mexico-Morelos: 1
+Technology Center:
+	United States-Glenview: 1
+	Denmark-Danfoss: 1
+Government Polytechnic College:
+	India-Thoothukudi: 1
+	India-Valangaiman: 1
+College of Nursing:
+	United States-Chicago: 1
+	United States-Omaha: 1
+Ministry of Health:
+	Greece-Athens: 1
+	Fiji-Suva: 1
+	Israel-Jerusalem: 1
+	Japan-Naha: 1
+	Bahrain-Manama: 1
+	Spain-Madrid: 1
+	Niger-N/A: 1
+	Mauritania-Nouakchott: 1
+	Panama-Herrera: 1
+	Nigeria-Umuahia: 1
+Center for Spintronics Research Network:
+	Japan-Toyonaka: 1
+	Japan-Tokyo: 1
+ORLEN UniCRE a.s.:
+	Czech Republic-Usti nad Labem: 1
+	Czech Republic-Litvinov: 1
+JARA:
+	Germany-Julich: 1
+	Germany-Aachen: 1
+French National Institute for Transport and Safety Research:
+	France-Arcueil: 1
+	France-Bron: 1
+Department of Medicine:
+	United States-La Jolla: 1
+	Singapore-Singapore City: 1
+American University of Iraq:
+	Iraq-Sulaymaniyah: 1
+	Iraq-Kurdistan: 1
+DPP Žilina Ltd.:
+	Slovakia-Žilina: 1
+	Slovakia-Zilina: 1
+Guangdong Provincial Key Laboratory of Novel Security Intelligence Technologies:
+	China-Guangdong: 1
+	China-Shenzhen: 1
+Faculty of Commerce:
+	Egypt-Mansoura: 1
+	Egypt-Asyut: 1
+	Egypt-Shibin El Kom: 1
+	Egypt-Tanta: 1
+Crow Canyon Archaeological Center:
+	United States-Canton: 1
+	United States-Cortez: 1
+World Wildlife Fund:
+	United States-Washington, D.C.: 1
+	Pakistan-Islamabad: 1
+CERPOLEX/Mammuthus:
+	France-Saint-Mande: 1
+	Netherlands-Hoofddorp: 1
+Institut National de Recherches Archéologiques Préventives:
+	France-Tours: 1
+	France-Nice: 1
+	French Guiana-Cayenne: 1
+	France-Nimes: 1
+	France-Paris: 1
+Museo Arqueológico Regional:
+	Spain-Madrid: 1
+	Spain-Alcalá de Henares, Madrid: 1
+State Office for Cultural Heritage Management Baden-Württemberg:
+	Germany-Esslingen: 1
+	Germany-Konstanz: 1
+Service Public de Wallonie:
+	Belgium-Arlon: 1
+	Belgium-Jambes: 1
+Dr. Vijay Kumar Foundation:
+	India-Chennai: 1
+	India-Gurugram: 1
+Ministry of Science and Technology:
+	Taiwan-Taipei: 1
+	China-Shanghai: 1
+European Theoretical Spectroscopy Facility (ETSF):
+	Italy-Rome: 1
+	Belgium-Louvain-la-Neuve: 1
+	France-Grenoble: 1
+CAST Cooperative Research Centre:
+	Australia-N/A: 1
+	Australia-Brisbane: 1
+Naval Academy Research Institute:
+	France-Brest: 1
+	France-Lanvéoc: 1
+Toronto and Region Conservation Authority:
+	Canada-North York: 1
+	Canada-Concord: 1
+ACM:
+	N/A-N/A: 1
+	Switzerland-N/A: 1
+	United States-Monterey: 1
+Girne American University:
+	Cyprus-Kyrenia: 1
+	Turkey-Mersin: 1
+CMR Institute of Technology:
+	India-Bengaluru: 1
+	India-Kandlakoya: 1
+ELKEME Hellenic Research Centre for Metals S.A.:
+	Greece-Oinofyta: 1
+	Greece-Athens: 1
+	Greece-Oinofyta Viotias: 1
+Hanseo University:
+	South Korea-Seosan: 1
+	France-N/A: 1
+Quy Nhon University:
+	Viet Nam-Quy Nhon: 1
+	Viet Nam-Binh Dinh: 1
+Shenzhen Key Laboratory of Quantum Science and Engineering:
+	China-Qingshuihe, Shenzhen: 1
+	China-Shenzhen: 1
+Research and Development Department:
+	United Kingdom-London: 1
+	Slovakia-Turany: 1
+	Brazil-Joinville: 1
+	Spain-Rubi: 1
+	Iran-Tehran: 1
+Materials Science and Engineering:
+	Taiwan-Hsin-chu: 1
+	United States-Piscataway: 1
+Smithsonian Astrophysical Observatory:
+	United Kingdom-Cambridge: 1
+	United States-Cambridge: 1
+Faculty of Health:
+	France-Angers: 1
+	Canada-Toronto: 1
+	Iran-Tabriz: 1
+	United Kingdom-Plymouth: 1
+National Museum of Romanian History:
+	Romania-Bucharest: 1
+	Romania-Bucuresti: 1
+Silent Spring Institute:
+	United States-Newton: 1
+	United States-Newtown: 1
+R&amp;D Center:
+	South Korea-Seongnam: 1
+	Türkiye-Istanbul: 1
+Vocational and Technical College:
+	China-Loudi: 1
+	China-Qinhuangdao: 1
+Institute of Applied Physics:
+	Moldova-Chisinau: 1
+	Switzerland-Bern: 1
+Ignacy Mościcki University of Applied Sciences in Ciechanów:
+	Poland-Mlawa: 1
+	Poland-Ciechanow: 1
+Copper Mountain Technologies:
+	Russian Federation-Tomsk: 1
+	United States-Indianapolis: 1
+CREC:
+	France-Melle: 1
+	France-CHATOU: 1
+Mat-Sim Research LLC:
+	United States-Murray Hill: 1
+	United States-Murray: 1
+Government Post Graduate College:
+	Pakistan-Karak: 1
+	Pakistan-Rawalpindi: 1
+Private JSC “ELAKS”:
+	Ukraine-Kharkiv: 1
+	Ukraine-Kharkov: 1
+Clwyd-Powys Archaeological Trust:
+	United Kingdom-Welshpool: 1
+	United Kingdom-Powys: 1
+American Enka Company:
+	United States-Seattle: 1
+	United States-N/A: 1
+Faculty of Chemistry:
+	Poland-Lublin: 1
+	Poland-Gdansk: 1
+Institute of Economics:
+	Hungary-Budapest: 1
+	Croatia-Zagreb: 1
+National Museum of Denmark:
+	Denmark-Copenhagen: 1
+	Denmark-Lyngby: 1
+Xerox Research Centre Europe:
+	France-Meulan: 1
+	United Kingdom-Cambridge: 1
+Women University Swabi:
+	Pakistan-Pakhtunkhwa: 1
+	Pakistan-Swabi: 1
+	Pakistan-Gulo dehri sawabi: 1
+Hijli College:
+	India-Paschim Medinipur: 1
+	India-Kharagpur: 1
+SSN Research Centre:
+	India-Kanchipuram: 1
+	India-Chennai: 1
+Korea Polar Research Institute:
+	South Korea-Incheon: 1
+	Cuba-Incheon: 1
+WASHINGTON STATE DEPARTMENT OF NATURAL RESOURCES:
+	United States-WASHINGTON: 1
+	United States-Olympia: 1
+Government Degree College Samba:
+	India-Jammu and Kashmir: 1
+	India-Jammu: 1
+University of French Polynesia:
+	France-Faaa: 1
+	French Polynesia-Tahiti: 1
+Changzhou College of Information Technology:
+	China-Changzhou: 1
+	China-City of Changzhou: 1
+Gansu Academy of Sciences:
+	China-Lanzhou: 1
+	China-Lanzhou, Gansu: 1
+King's School:
+	United Kingdom-Sydney: 1
+	United Kingdom-Canterbury: 1
+University of Science and Technology:
+	Egypt-6th October: 1
+	United Arab Emirates-Abu Dhabi: 1
+Regional Technological Institute:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Plzen: 1
+State University of Minas Gerais:
+	Brazil-Divinopolis: 1
+	Brazil-Passos: 1
+	Brazil-João Monlevade: 1
+European Theoretical Spectroscopy Facility:
+	Germany-Jena: 1
+	N/A-N/A: 1
+	United States-N/A: 1
+	Belgium-Liège B-4000: 1
+Daetwyler Graphics AG:
+	Switzerland-N/A: 1
+	Switzerland-Bleienbach: 1
+INRETS:
+	France-Bron: 1
+	France-Arcueil: 1
+Lääketieteellinen Tiedekunta:
+	Finland-Turku: 1
+	Finland-Helsinki: 1
+Hung Yen University of Technology and Education:
+	Viet Nam-Hung Yen: 1
+	Viet Nam-Khoai Chau District: 1
+	Viet Nam-Hung Yen Province: 1
+Science:
+	Thailand-Ayuthaya: 1
+	Thailand-Bangkok: 1
+Equinox Corporation:
+	United States-New York: 1
+	United States-Baltimore: 1
+Faculty of Computer and Information:
+	Egypt-Beni Suef: 1
+	Egypt-Mansoura: 1
+	Egypt-Qena: 1
+Technological Institute of the Philippines:
+	Philippines-Manila: 1
+	Philippines-Quezon City: 1
+FATEC:
+	Brazil-Sertaozinho: 1
+	Brazil-Sao Jose dos Campos: 1
+VZÚ Plzeň:
+	Czech Republic-Pilsen: 1
+	Czech Republic-Plzen: 1
+Molde Hospital:
+	Norway-Oslo: 1
+	Norway-Molde: 1
+Bristol-Myers Squibb:
+	United States-New York: 1
+	United States-Cambridge: 1
+	United States-Redwood City: 1
+National Museum of Natural History:
+	Ukraine-Khmelnitsky: 1
+	Luxembourg-Luxembourg: 1
+Johnson Matthey ECT:
+	United States-Malvern: 1
+	United Kingdom-N/A: 1
+University of Košice:
+	Slovakia-Presov: 1
+	Slovakia-Kosice: 1
+BIOMATCELL VINN Excellence Center of Biomaterials and Cell Therapy:
+	Sweden-Gothenburg: 1
+	Sweden-Goteborg: 1
+American Physical Society:
+	United States-COLLEGE PARK: 1
+	United States-Ridge: 1
+Research and Technology:
+	United States-Naperville: 1
+	Germany-Friedrichshafen: 1
+Department of Biological Systems Engineering:
+	United States-Lincoln: 1
+	United States-Blacksburg: 1
+Atos:
+	Spain-Madrid: 1
+	France-Echirolles: 1
+MIPT:
+	Russian Federation-Dolgoprudny: 1
+	Russian Federation-Moscow: 1
+Acceleron Medical Systems:
+	United States-Wisconsin: 1
+	United States-Arkansaw: 1
+Department of Agricultural and Biological Engineering:
+	United States-Mississippi State: 1
+	United States-University Park: 1
+UPL University of Sustainable Technology:
+	India-Gujarat: 1
+	India-Bharuch: 1
+Dongfang Turbine Co., Ltd.:
+	China-N/A: 1
+	China-Deyang, Sichuan: 1
+Ospedale Civile:
+	Italy-Sulmona: 1
+	Italy-Alessandria: 1
+	Italy-Reggio Calabria: 1
+	Italy-Pescara: 1
+	Italy-Rho: 1
+Clinica Pediatrica Università:
+	Italy-Foggia: 1
+	Italy-Rome: 1
+Clinica Pediatrica:
+	Italy-Trieste: 1
+	Italy-Udine: 1
+	Italy-Novara: 1
+Municipal Hospital:
+	Hungary-Szekesfehervar: 1
+	Poland-Poznan: 1
+	Poland-Sosnowiec: 1
+EPFL:
+	Switzerland-Neuchatel: 1
+	Switzerland-Versoix: 1
+Collegio Carlo Alberto:
+	Italy-Torino: 1
+	Italy-Turin: 1
+American University of the Caribbean School of Medicine:
+	Saint Martin (French Part)-Cupecoy: 1
+	Netherlands-Sint Maarten: 1
+Medizinischen Fakultät:
+	Germany-Essen: 1
+	Switzerland-Basel: 1
+College of Health Sciences:
+	South Africa-Durban: 1
+	Kuwait-Safat: 1
+	United States-Norfolk: 1
+Faculty of Agriculture:
+	Egypt-Alexandria: 1
+	Egypt-New Damietta: 1
+	Egypt-Mansoura: 1
+	Serbia-Belgrade: 1
+	Egypt-Minya: 1
+	Egypt-Giza: 1
+	Egypt-Tuokh: 1
+	India-Mohanpur: 1
+	Egypt-Ismailia: 1
+	Egypt-Cairo: 1
+	Egypt-Zagazig: 1
+	Egypt-Beni Suef: 1
+BlackBerry:
+	Canada-Cambridge (ex Galt): 1
+	Canada-Waterloo: 1
+Beacon Hospital:
+	Ireland-Dublin 18: 1
+	Malaysia-Petaling Jaya: 1
+Faculty of Tourism and Hotels:
+	Egypt-Sadat City: 1
+	Egypt-Alexandria: 1
+	Egypt-Ismailia: 1
+Salale University:
+	Ethiopia-Fitche: 1
+	Ethiopia-Addis Ababa: 1
+IGREX Engineering Service Ltd:
+	Hungary-Igrici: 1
+	Hungary-N/A: 1
+Private Practice:
+	United Kingdom-Maguiresbridge, Enniskillen: 1
+	Australia-Brisbane: 1
+	Portugal-Lisbon: 1
+	Italy-Torino: 1
+	Italy-Campobasso: 1
+	United States-Houston: 1
+	Italy-Borgonovo Val Tidone: 1
+Alferov University:
+	Russian Federation-Saint Petersburg (ex Leningrad): 1
+	Russian Federation-Saint Petersburg: 1
+Babelscape:
+	United States-N/A: 1
+	Italy-N/A: 1
+Finnish Food Authority:
+	Finland-Helsinki: 1
+	Finland-Kuopio: 1
+Troy University:
+	United States-Troy: 1
+	United States-Columbus: 1
+INAIL:
+	Italy-Monte Porzio Catone: 1
+	Italy-Monte Porzio Catone, Rome: 1
+Pixar Animation Studios:
+	United States-Richmond: 1
+	United States-Emeryville: 1
+a. s.:
+	Czech Republic-Zlin: 1
+	Czech Republic-Hulin: 1
+Universidad Internacional Iberoamericana:
+	Puerto Rico-Arecibo: 1
+	Mexico-Campeche: 1
+Government Polytechnic:
+	India-Gonda: 1
+	India-Jhajjar: 1
+	India-New Delhi: 1
+	India-Faizabad: 1
+Southwest Automation Research Institute:
+	China-N/A: 1
+	China-Mianyang: 1
+JD AI Research:
+	N/A-N/A: 1
+	United States-Mountain View: 1
+Southern Marine Science and Engineering Guangdong Laboratory:
+	China-Zhuhai: 1
+	China-Guangzhou: 1
+3D Systems:
+	South Korea-N/A: 1
+	United States-Wilsonville: 1
+CASIA:
+	China-Beijing, Beijing Province: 1
+	China-Beijing: 1
+	France-N/A: 1
+Center for International Blood and Marrow Transplant Research:
+	United States-Minneapolis: 1
+	United States-Milwaukee: 1
+CEETEPS:
+	Brazil-Nelson: 1
+	Brazil-Sorocaba: 1
+Research Center:
+	Czech Republic-Rez: 1
+	Iran-Tehran: 1
+	United States-Johnston: 1
+Department of Biomedical Informatics:
+	United States-Boston: 1
+	United States-Stony Brook: 1
+Parker Institute for Cancer Immunotherapy:
+	United States-New York: 1
+	United States-San Francisco: 1
+Graduate School of Engineering:
+	Japan-Nagoya: 1
+	Japan-Kyoto: 1
+	Japan-Suita: 1
+SSIER:
+	Czech Republic-Brno: 1
+	Czech Republic-Roznov pod Radhosthem: 1
+Washington College:
+	United States-Chestertown: 1
+	United States-Maryland: 1
+Centro Studi e Ricerche Enrico Fermi:
+	Italy-Sesto Fiorentino: 1
+	Italy-Fermi: 1
+iThemba Labs:
+	South Africa-Western Cape: 1
+	South Africa-Johannesburg: 1
+	South Africa-Pretoria: 1
+Santa Maria Hospital:
+	Portugal-Lisbon: 1
+	Italy-Bari: 1
+Ministry of Emergency Management:
+	China-Beijing: 1
+	China-Tianjin: 1
+WorldFish:
+	Malaysia-Bayan Lepas: 1
+	Myanmar-Yangon: 1
+Whirlpool Corporation:
+	India-Pune: 1
+	Italy-N/A: 1
+	United States-Benton Harbor: 1
+EPRI:
+	United States-Knoxville: 1
+	United Kingdom-Egham: 1
+National Forest Office (ONF):
+	France-Quillan: 1
+	France-N/A: 1
+Planetary Science Institute:
+	United States-Tucson: 1
+	India-Mumbai: 1
+KinetX Aerospace:
+	United States-Tempe: 1
+	United States-CA: 1
+Jülich Aachen Research Alliance (JARA):
+	Germany-Julich: 1
+	Germany-Jülich: 1
+Eastman Chemical Company:
+	United States-Kingsport: 1
+	United States-Palo Alto: 1
+Research and Consulting:
+	Germany-Freiburg: 1
+	Germany-Freiburg im Breisgau: 1
+Cellstrom GmbH:
+	Austria-N/A: 1
+	Austria-Wiener Neudorf: 1
+Ostbayerische Technische Hochschule Amberg-Weiden:
+	Germany-Amberg: 1
+	Germany-Weiden: 1
+University of Technology:
+	Pakistan-Nowshera: 1
+	China-Lanzhou: 1
+Nepal Academy of Science and Technology:
+	Nepal-Lalitpur: 1
+	Nepal-Kathmandu: 1
+Institute of Technology:
+	United States-Chicago: 1
+	United States-Atlanta: 1
+	United States-New Jersey: 1
+University of Eswatini:
+	Swaziland-Mbabane: 1
+	Ethiopia-Eswatini: 1
+Institute of Archaeology:
+	Czech Republic-N/A: 1
+	Croatia-Zagreb: 1
+	Viet Nam-Hanoi: 1
+American Mathematical Society:
+	United States-Ann Arbor: 1
+	United States-Providence: 1
+Abteilung Archäologie:
+	Germany-Regensburg: 1
+	Germany-Schwerin: 1
+Faculty of Industrial Education:
+	Egypt-Sohag: 1
+	Egypt-Helwan: 1
+	Egypt-Beni Suef: 1
+Mercer University School of Medicine:
+	United States-Macon: 1
+	Georgia-Macon: 1
+Pan-European University:
+	Czech Republic-Prague: 1
+	Czech Republic-Ostrava: 1
+Renato Archer Information Technology Center:
+	Brazil-Campinas: 1
+	Brazil-Sao Paulo: 1
+CSA Standards:
+	Canada-Ottawa: 1
+	Canada-Mississauga: 1
+Asian Innovation Hub:
+	Slovakia-Kosice: 1
+	Slovakia-Moldava nad Bodvou: 1
+Cataler Corporation:
+	Japan-Ogasa: 1
+	Japan-Kakegawa: 1
+Rabobank International:
+	Bulgaria-London: 1
+	United Kingdom-London: 1
+TE Connectivity:
+	United States-Harrisburg: 1
+	Switzerland-Bevaix: 1
+Faculty of Nursing:
+	Egypt-Port Said: 1
+	Egypt-Zagazig: 1
+	Egypt-Alexandria: 1
+Koya University:
+	Iraq-Koya: 1
+	Iran-N/A: 1
+Museum Nordsjælland:
+	Denmark-Copenhagen: 1
+	Denmark-Hillerod: 1
+Musée National de Préhistoire:
+	France-Les Eyzies-de-Tayac-Sireuil: 1
+	France-Les Eyzies: 1
+Sociedad de Ciencias Aranzadi:
+	Spain-Vizcaya: 1
+	Spain-Donostia-San Sebastian: 1
+Key Laboratory of Kidney Disease Prevention and Control Technology:
+	China-Hangzhou: 1
+	China-Zhejiang Province: 1
+Faculty of Medicine and Health Sciences:
+	Malaysia-Serdang: 1
+	United Kingdom-Keele: 1
+Center for Clinical and Basic Research:
+	Czech Republic-Pardubice: 1
+	Estonia-Tallinn: 1
+Evides Water Company:
+	Netherlands-Rotterdam: 1
+	Netherlands-AL Rotterdam: 1
+Liverpool Hospital:
+	Australia-Liverpool: 1
+	Australia-Sydney: 1
+Convolve, Inc:
+	United States-Armonk: 1
+	United States-New York: 1
+Chaffey College:
+	United States-Riverside: 1
+	United States-Rancho Cucamonga: 1
+Oxford Archaeology East:
+	United Kingdom-Cambridgeshire: 1
+	United Kingdom-Cambridge: 1
+Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart:
+	Germany-Stuttgart: 1
+	Germany-Esslingen: 1
+	Germany-Esslingen am Neckar: 1
+School of Social and Political Sciences:
+	United Kingdom-Glasgow: 1
+	Australia-Melbourne: 1
+Suzhou Nuclear Power Research Institute:
+	China-Suzhou: 1
+	China-Shenzhen: 1
+Huawei Telecommunications:
+	Belgium-N/A: 1
+	Turkey-N/A: 1
+IEM Research:
+	Japan-Ushiku-shi, Ibaraki: 1
+	Japan-Ibaraki: 1
+CNISM:
+	Italy-Napoli: 1
+	Italy-Rome: 1
+Science and Co:
+	Germany-Neuss: 1
+	Germany-Dusseldorf: 1
+Hubei Engineering University:
+	China-Xiaogan: 1
+	China-Wuhan: 1
+Microflow DBMS Inc.:
+	United States-Kailua: 1
+	United States-Sausalito: 1
+Department of Psychiatry:
+	United States-La Jolla: 1
+	United Kingdom-Cambridge: 1
+Next Scan Technology:
+	Netherlands-Silvolde: 1
+	Belgium-Evergem: 1
+School of Chemistry and Chemical Engineering:
+	United Kingdom-Belfast: 1
+	China-Nanjing: 1
+Rainier Clinical Research Center:
+	United States-N/A: 1
+	United States-Renton: 1
+Bodva Industry and Innovation Cluster:
+	Slovakia-Moldava and Bodvou: 1
+	Slovakia-Moldava nad Bodvou: 1
+Faculty of Economics and Management:
+	Czech Republic-Prague: 1
+	Italy-Bolzano: 1
+FAIR:
+	Germany-Darmstadt: 1
+	United States-Meta: 1
+Huangshan College:
+	China-Huangshan 245000: 1
+	China-Huangshan: 1
+Private Practitioner:
+	India-Kolkata: 1
+	Italy-Torino: 1
+Zoological Society of London:
+	United Kingdom-London: 1
+	Cameroon-Yaounde: 1
+Government Arts and Science College:
+	India-Madurai: 1
+	India-Komarapalayam: 1
+Fraunhofer Center for Machine Learning:
+	Germany-Sankt Augustin: 1
+	Germany-Munich: 1
+College of Business:
+	United States-Lincoln: 1
+	Australia-Melbourne: 1
+	United States-Huntsville: 1
+	United States-Corvallis: 1
+Newcastle Business School:
+	Australia-Newcastle: 1
+	United Kingdom-Newcastle: 1
+IDEO Product Development:
+	United Kingdom-London: 1
+	United States-Lexington: 1
+Department of Psychology:
+	United States-La Jolla: 1
+	South Korea-Seoul: 1
+GEC:
+	India-Modasa: 1
+	India-Bharuch: 1
+Murray State University:
+	United States-Murray: 1
+	Australia-N/A: 1
+JARA-Energy:
+	Germany-Julich: 1
+	Germany-Aachen: 1
+Vito Fazzi Hospital:
+	Italy-Bari: 1
+	N/A-N/A: 1
+Institut Universitaire de Technologie:
+	France-Aubiere: 1
+	France-Angers: 1
+COER University:
+	India-Uttarakhand: 1
+	India-Roorkee: 1
+SIGMA Research and Development Institute:
+	Czech Republic-Lutín: 1
+	Czech Republic-Lutin: 1
+Nuclear and Radiation Safety Center:
+	Armenia-Yerevan: 1
+	China-Beijing: 1
+Federal Institute of Technology of Pernambuco:
+	Brazil-Recife: 1
+	Brazil-Itambe de Pernambuco: 1
+Western Australian Institute of Sport:
+	Australia-Mt Claremont: 1
+	Australia-Perth: 1
+IMPS College of Engineering and Technology:
+	India-Malda: 1
+	India-Chandipur: 1
+FILPAL (M) Snd Bhd:
+	Malaysia-Penang: 1
+	Malaysia-Bayan Lapas: 1
+Government First Grade College:
+	India-Kolar: 1
+	India-Devanahalli: 1
+	India-Malur: 1
+Higher Institute for Engineering and Technology at Manzala:
+	Egypt-Al-Manzala: 1
+	Egypt-El Manzala: 1
+Institute for Applied Biotechnology:
+	Sweden-Goteborg: 1
+	Sweden-Molndal: 1
+State Geodetic Administration:
+	Croatia-Varazdin: 1
+	Croatia-Zagreb: 1
+Academic Area Department:
+	Brazil-Trindade: 1
+	Brazil-Taguatinga: 1
+State Grid Gansu Electric Power Company:
+	China-Lanzhou: 1
+	China-Linxia: 1
+Institut National de Recherches Archéologiques Préventives (INRAP):
+	France-Paris: 1
+	France-Strasbourg: 1
+Tangshan Normal University:
+	China-Tangshan: 1
+	China-Hengshui: 1
+Batumi Shota Rustaveli State University:
+	United States-Batumi: 1
+	Georgia-Batumi: 1
+J-N-J Miller Design Services PLLC:
+	United States-Kilgore: 1
+	United States-Longview: 1
+Universal Scientific Education and Research Network (USERN):
+	Iran-Tehran: 1
+	Iran-Tabriz: 1
+Vivoxid Ltd.:
+	Finland-Abo (Turku): 1
+	Finland-Turku: 1
+Hebei Electric Power Research Institute:
+	China-Hebei Province: 1
+	China-Shijiazhuang: 1
+Central Research:
+	United States-Bridgewater: 1
+	China-Qingshuihe, Shenzhen: 1
+FR CNRS 3104:
+	France-Amiens Cedex: 1
+	France-Amiens: 1
+Iona University:
+	United States-New Rochelle: 1
+	United States-New York: 1
+European Theoretical Spectroscopy Facility (ETSF:
+	Italy-N/A: 1
+	France-N/A: 1
+Honeywell Turbo Technologies:
+	France-Thaon-les-Vosges: 1
+	United States-Torrance: 1
+DENSO International America, Inc.:
+	United States-Vista: 1
+	United States-Southfield: 1
+Agence Française pour la Biodiversité:
+	France-Dijon: 1
+	France-Epinal: 1
+Science Valley Academy:
+	Egypt-Kalubia: 1
+	Egypt-Qalyubia: 1
+Central Institute of Petrochemicals Engineering and Technology (CIPET):
+	India-Bhubaneswar: 1
+	India-Bengaluru: 1
+Xeno-canto Foundation:
+	Netherlands-The Hague: 1
+	Netherlands-Amersfoort: 1
+	Netherlands-Leiden: 1
+	Netherlands-Amsterdam: 1
+	Netherlands-Vlieland: 1
+	Netherlands-Breskens: 1
+	Netherlands-Drachten: 1
+Wormpex AI Research:
+	China-Beijing: 1
+	United States-Bellevue: 1
+Systems and Technology Research:
+	United States-Woburn: 1
+	United States-Sacramento: 1
+The Indonesian Railroad Industry (INKA):
+	Indonesia-Madiun: 1
+	Indonesia-Madiun, East Jawa: 1
+Pancasila University:
+	Indonesia-Jakarta: 1
+	Indonesia-South Jakarta: 1
+Research Complex at Harwell:
+	United Kingdom-Oxfordshire: 1
+	United Kingdom-Didcot: 1
+Human Services Research Institute:
+	United States-Cambridge: 1
+	United States-Ratzeburg: 1
+HerpMapper:
+	United States-Champaign: 1
+	United States-Cedar Rapids: 1
+	United States-Saint Paul: 1
+Madras Crocodile Bank Trust:
+	India-Mahabalipuram: 1
+	India-Chennai: 1
+Zhejiang Guangsha Vocational and Technical University of Construction:
+	China-Jinhua: 1
+	China-Dongyang: 1
+Institute for Globally Distributed Open Research and Education (IGDORE):
+	N/A-N/A: 1
+	Indonesia-Sydney: 1
+	Czech Republic-Prague: 1
+Faculty of Physical Education:
+	Egypt-Beni Suef: 1
+	Egypt-Asyut: 1
+Faculty of Health Sciences:
+	Macao-Taipa: 1
+	Canada-Kingston: 1
+	Greece-Thessaloniki: 1
+National Academy of Medicine:
+	United States-Washington, D.C.: 1
+	United States-Washington: 1
+NanoCarbon Research Institute:
+	Japan-Kashiwa: 1
+	Japan-Ueda: 1
+International Technology Center:
+	United States-Raleigh: 1
+	United States-Research Triangle Park: 1
+School of Aeronautics:
+	Spain-Madrid: 1
+	India-Neemrana: 1
+National Lead Company:
+	United States-Sayreville: 1
+	United States-Houston: 1
+International Dental Hygienist College in Okayama:
+	Japan-Okayama: 1
+	Japan-Daiku, Okayama: 1
+BASF Refinery Catalysts:
+	United States-Houston: 1
+	United States-Iselin: 1
+Geospatial Information Agency:
+	Indonesia-Cibinong: 1
+	Indonesia-Jakarta: 1
+Affiliated Hospital of Youjiang Medical University for Nationalities:
+	China-Baise City: 1
+	China-Baise: 1
+ARCADIS:
+	United Kingdom-Leeds: 1
+	United States-Portland: 1
+ToxStrategies, Inc.:
+	United States-Cary: 1
+	United States-Austin: 1
+	United States-Katy: 1
+Vitesco Technologies:
+	Germany-Berlin: 1
+	Germany-Regensburg: 1
+Institute of Public Health:
+	Viet Nam-Ho Chi Minh City: 1
+	Ireland-Dublin: 1
+	Pakistan-Lahore: 1
+International Growth Centre:
+	Sierra Leone-Freetown: 1
+	United Kingdom-London: 1
+Clinical Governance:
+	Australia-Sydney: 1
+	Australia-Gold Coast: 1
+BTR New Energy Materials Inc.:
+	China-Shenzhen: 1
+	China-Qingshuihe, Shenzhen: 1
+ITER International Team:
+	Japan-Naka District: 1
+	Japan-Naka: 1
+State Key Laboratory of Advanced Welding and Joining:
+	China-Harbin: 1
+	China-Shenzhen: 1
+Independent researcher:
+	Estonia-Tallinn: 1
+	United States-Logan: 1
+	Spain-Palma: 1
+	United States-Belmont: 1
+	France-Toulouse: 1
+	United Kingdom-Rugby: 1
+	United Kingdom-Towcester: 1
+Regal Beloit Corporation:
+	Australia-Rowville: 1
+	United States-Fort Wayne: 1
+Evolution Institute:
+	United States-Tampa: 1
+	United States-San Antonio: 1
+Max Planck-Harvard Research Center for the Archaeoscience of the Ancient Mediterranean:
+	Germany-Munich: 1
+	United States-Cambridge: 1
+Soprintendenza Archeologia:
+	Italy-Sassari: 1
+	Italy-Cagliari: 1
+Superintendency of Archaeology:
+	Italy-Sassari: 1
+	Italy-Cagliari: 1
+Generaldirektion Kulturelles Erbe Rheinland-Pfalz:
+	Germany-Trier: 1
+	Germany-Speyer: 1
+University of Tamanghasset:
+	Algeria-Tamanghasset: 1
+	Algeria-Algiers: 1
+Hebei Petroleum University of Technology:
+	China-Chengde: 1
+	China-Hebei: 1
+Universidad del Valle:
+	Colombia-Cali: 1
+	Colombia-Bogota: 1
+Culham Science Centre:
+	United Kingdom-Culham: 1
+	United Kingdom-Abingdon: 1
+St. Luke's Hospital:
+	United States-Duluth: 1
+	Greece-Thessaloniki: 1
+Children's Hospital:
+	United States-Cambridge: 1
+	Germany-Herdecke: 1
+Siemens Energy AB:
+	Sweden-Norrkoping: 1
+	Sweden-Finspang: 1
+MIT:
+	United Kingdom-London: 1
+	N/A-N/A: 1
+Lake-Sumter State College:
+	United States-Leesburg: 1
+	United States-State College: 1
+Navarino Environmental Observatory:
+	Greece-Messenia: 1
+	Greece-Navarino: 1
+ŠKODA JS:
+	Czech Republic-Plzen: 1
+	Czech Republic-Pilsen: 1
+Kyrgyz Society of Cardiology:
+	Kyrgyzstan-Bishkek: 1
+	Kyrgyzstan-N/A: 1
+Bulgarian Society of Cardiology:
+	Bulgaria-N/A: 1
+	Bulgaria-Sofia: 1
+Università di Cassino e del Lazio Meridionale:
+	Italy-Cassino: 1
+	Italy-Terni: 1
+Verkeersakademie:
+	United Kingdom-N/A: 1
+	Netherlands-Tilburg: 1
+El Ranchito Imagen Digital:
+	Spain-Madrid: 1
+	N/A-N/A: 1
+Texas AandM University:
+	United States-Houston: 1
+	United States-Dallas: 1
+Ministry of Interior:
+	Kuwait-Kuwait City: 1
+	Thailand-Bangkok: 1
+	Czech Republic-Prague: 1
+African Institute for Mathematical Sciences in Senegal (AIMS Senegal):
+	Senegal-Mbour: 1
+	Senegal-Route de Joal: 1
+Wysa:
+	India-Bengaluru: 1
+	United Kingdom-London: 1
+Gatorade Sports Science Institute:
+	United States-Barrington: 1
+	United States-Frisco: 1
+EdgeWave GmbH:
+	Germany-Aachen: 1
+	Germany-Wurselen: 1
+Flex Ltd.:
+	United States-N/A: 1
+	United States-Milpitas: 1
+Faculty of Physical Education and Sport Sciences:
+	Iran-N/A: 1
+	Iran-Karaj: 1
+GM Global Research &amp; Development:
+	United States-, Pontiac: 1
+	United States-Warren: 1
+W. Blösch AG:
+	Switzerland-N/A: 1
+	Switzerland-Grenchen: 1
+Inc. of Zhuhai:
+	China-519070: 1
+	China-Zhuhai: 1
+INFN:
+	Italy-Povo: 1
+	Italy-Milan: 1
+Pokhara Zoological Park and Wildlife Rescue Center:
+	Nepal-Kaski: 1
+	Nepal-Pokhara: 1
+Division Forest Office:
+	Nepal-Myagdi: 1
+	Nepal-Pokhara: 1
+Lunan Pharmaceutical Group Co. Ltd.:
+	China-Linyi: 1
+	China-Shandong: 1
+Avantha Centre for Industrial Research and Development:
+	India-Yamunanagar: 1
+	India-Yamuna Nagar 135001: 1
+Wilson College:
+	United States-Chambersburg: 1
+	India-Mumbai: 1
+MC10 Inc.:
+	United States-Lexington: 1
+	United States-Cambridge: 1
+State University of New Jersey:
+	United States-N/A: 1
+	United States-Jersey City: 1
+Public Health Institute:
+	United States-Berkeley: 1
+	Bosnia and Herzegovina-Banja Luka: 1
+AffaldVarme Aarhus:
+	Denmark-Arhus: 1
+	Denmark-Brabrand: 1
+Moroccan Foundation for Advanced Science:
+	Morocco-Rabat: 1
+	Morocco-Agdal Rabat: 1
+Alpha Technologies:
+	United States-Bellingham: 1
+	United States-Hudson: 1
+	Canada-Burnaby: 1
+College of Suqian:
+	China-Suqian: 1
+	China-Jiangsu: 1
+Advanced Materials Research Centre:
+	Malaysia-Kulim: 1
+	Malaysia-Berhad: 1
+Raygun Application Performance:
+	N/A-N/A: 1
+	New Zealand-N/A: 1
+German Center for Lung Research (DZL):
+	Germany-Berlin: 1
+	Germany-Hannover: 1
+China:
+	China-Kunming: 1
+	China-Zhengzhou: 1
+Chandernagore College:
+	India-Chandannagar, Hooghly: 1
+	India-Hooghly: 1
+Terry Fox Research Institute:
+	Canada-Vancouver: 1
+	Canada-Montreal: 1
+Universitas Al Asyariah Mandar:
+	Indonesia-Polewali: 1
+	Indonesia-Polewali Mandar: 1
+Jiangsu National Synergetic Innovation Center for Advanced Materials (SICAM):
+	China-Nanjing: 1
+	China-N/A: 1
+Galen-Orthopaedics:
+	Poland-Bierun: 1
+	Poland-Bieruń: 1
+Federal Ministry of Health:
+	Bosnia and Herzegovina-Sarajevo: 1
+	Lebanon-Beirut: 1
+	Nigeria-Garki: 1
+Perron Institute for Neurological and Translational Science:
+	Australia-Nedlands: 1
+	Australia-Perth: 1
+By email:
+	Iran-Tehran: 1
+	United Kingdom-London: 1
+Science and Commerce:
+	India-Kamptee: 1
+	India-Bengaluru: 1
+ELI Beamlines:
+	Czech Republic-Dolni Brezany: 1
+	Czech Republic-Prague: 1
+Thames Valley Children's Centre:
+	United States-London: 1
+	Canada-London: 1
+Rosswag GmbH:
+	Germany-Pfinztal: 1
+	Germany-Karlsruhe: 1
+School of Health:
+	Iran-Mashhad: 1
+	Iran-Urmia: 1
+Duliajan College:
+	India-Dibrugarh: 1
+	India-Assam: 1
+Department of Chemical Engineering:
+	United States-Syracuse: 1
+	Japan-Kyoto: 1
+Research Institute and Practice for Involutional Diseases:
+	Japan-Nagano: 1
+	Japan-Azumino: 1
+Social Determinants of Health Research Center:
+	Iran-Tabriz: 1
+	Iran-Khorramabad: 1
+Microsoft Azure Speech:
+	N/A-N/A: 1
+	China-Beijing: 1
+Cultural Heritage Agency of the Netherlands:
+	Netherlands-Amsterdam: 1
+	Netherlands-Amersfoort: 1
+USUHS:
+	United States-San Diego: 1
+	United States-Portsmouth: 1
+IREC Catalonia Institute for Energy Research:
+	Spain-Barcelona: 1
+	Spain-Sant Adrià del Besòs: 1
+Purac Biomaterials:
+	Netherlands-Gorinchem: 1
+	United States-Tucker: 1
+American Heart of Poland SA:
+	Poland-Tychy: 1
+	Poland-Katowice: 1
+Guangdong Laboratory for Lingnan Modern Agriculture:
+	China-Guangzhou: 1
+	China-Maoming: 1
+Laboratório de Arqueociências:
+	Portugal-N/A: 1
+	Portugal-Lisbon: 1
+Research and Innovation Unit:
+	Ireland-Sport Ireland: 1
+	Ireland-Dublin: 1
+Institute of Social and Preventive Medicine:
+	Switzerland-Bern: 1
+	Greece-Athens: 1
+Collaborative Innovation Center of Henan Province for Motive Power and Key Materials:
+	China-Xinxiang: 1
+	China-Xinxiang City: 1
+Innovative Prosthetics &amp; Orthotics:
+	United States-Hastings: 1
+	United States-Omaha: 1
+Australian Research Council Centre for Personalised Therapeutics Technologies:
+	Australia-Victoria: 1
+	Australia-Melbourne: 1
+	Australia-Melbourne and Perth: 1
+NMKRV College for Women:
+	India-Jayanagar: 1
+	India-Bengaluru: 1
+Federal State Budgetary Educational Institution of Higher Education “Umar Aliev Karachai-Cherkess State University”:
+	Russian Federation-N/A: 1
+	Russian Federation-Karachaevsk: 1
+Institute for Scientific Research and High Technology Services:
+	Panama-Clayton: 1
+	Panama-Panama City: 1
+Mufti Mehmood Memorial Teaching Hospital:
+	Pakistan-Pakhtunkhwa: 1
+	Pakistan-Dera Ismail Khan: 1
+Institut fuer Astro- und Teilchenphysik:
+	Austria-A-6020 Innsbruck: 1
+	Austria-Innsbruck: 1
+Regional Museum:
+	Czech Republic-Prerov: 1
+	Czech Republic-Litomerice: 1
+Changzhou Institute of Energy Storage Materials and Devices:
+	China-Changzhou: 1
+	China-N/A: 1
+BirdLife International:
+	Senegal-Dakar: 1
+	United Kingdom-Cambridge: 1
+NAR-Nucleus of High Performance in Sport:
+	Brazil-Santo Amaro, Saõ Paulo, SP: 1
+	Brazil-Sao Paulo: 1
+Hospital for Psychiatry:
+	Germany-Werneck: 1
+	Germany-Bayreuth: 1
+	Germany-Eberswalde: 1
+	Germany-Offenburg: 1
+	Germany-Augsburg: 1
+Sustainable Europe Research Institute:
+	Germany-Koln: 1
+	Germany-Overath: 1
+German Center for Infection Research (DZIF):
+	Germany-Munich: 1
+	Germany-Hannover: 1
+PowerWorld Corporation:
+	United States-Champaign: 1
+	United States-Urbana: 1

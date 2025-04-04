@@ -2735,7 +2735,7 @@
                         "affiliation-country": "Russian Federation"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -4400,7 +4400,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "NTIS - New Technologies for the Information Society",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -4545,7 +4545,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             }
@@ -7757,7 +7757,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "NTIS - New Technologies for the Information Society",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -8422,7 +8422,7 @@
                         "affiliation-country": "Poland"
                     },
                     {
-                        "affiliation-city": "Kharkov",
+                        "affiliation-city": "Kharkiv",
                         "affilname": "Science Center for Physics and Technology",
                         "affiliation-country": "Ukraine"
                     }
@@ -11656,7 +11656,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -11806,7 +11806,7 @@
                 "year": "2021",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -11956,7 +11956,7 @@
                 "year": "2018",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -26384,7 +26384,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -29390,7 +29390,7 @@
                 "doi": "10.1109/9.310069",
                 "year": "1994",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }

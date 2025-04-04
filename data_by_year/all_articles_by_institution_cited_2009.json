@@ -4502,7 +4502,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "NTIS - New Technologies for the Information Society",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -4889,7 +4889,7 @@
                         "affiliation-country": "Saudi Arabia"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -10349,9 +10349,9 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": null,
-                        "affilname": "NTIS - New Technologies for the Information Society",
-                        "affiliation-country": "United States"
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
                     }
                 ]
             },
@@ -23501,7 +23501,7 @@
                 "doi": "10.1145/3298987",
                 "year": "2019",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -35425,7 +35425,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -35597,7 +35597,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -43117,7 +43117,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies Research Centre",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -52652,7 +52652,7 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -63236,7 +63236,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -64370,8 +64370,8 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": "Plzen",
-                        "affilname": "New Technologies Research Centre",
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]

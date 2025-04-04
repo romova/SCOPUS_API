@@ -2304,7 +2304,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -2326,7 +2326,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -5012,9 +5012,9 @@
                 "doi": "10.1002/jgt.3190140305",
                 "year": "1990",
                 "affiliation": {
-                    "affiliation-city": null,
-                    "affilname": "Technical University of Plzeň",
-                    "affiliation-country": null
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
                 }
             },
             {
@@ -7552,7 +7552,7 @@
                 "doi": "10.1016/j.jsv.2011.07.042",
                 "year": "2011",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -11181,9 +11181,9 @@
                 "doi": "10.1002/jgt.3190140305",
                 "year": "1990",
                 "affiliation": {
-                    "affiliation-city": null,
-                    "affilname": "Technical University of Plzeň",
-                    "affiliation-country": null
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
+                    "affiliation-country": "Czech Republic"
                 }
             },
             {

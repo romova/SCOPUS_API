@@ -11383,7 +11383,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -11394,7 +11394,7 @@
                 "doi": "10.1109/TIA.2018.2839600",
                 "year": "2018",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -11414,7 +11414,7 @@
                 "doi": "10.1109/ECCE.2017.8096028",
                 "year": "2017",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -11424,7 +11424,7 @@
                 "doi": "10.1109/IEMDC.2017.8002302",
                 "year": "2017",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -11445,7 +11445,7 @@
                         "affiliation-country": "Finland"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -11462,7 +11462,7 @@
                         "affiliation-country": "Finland"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -11489,7 +11489,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -11511,7 +11511,7 @@
                 "year": "2015",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -11528,7 +11528,7 @@
                 "year": "2014",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -15879,7 +15879,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -17234,7 +17234,7 @@
                 "year": "2024",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -18817,9 +18817,9 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": null,
-                        "affilname": "NTIS - New Technologies for the Information Society",
-                        "affiliation-country": "United States"
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
                     }
                 ]
             },
@@ -22478,7 +22478,7 @@
                 "year": "2005",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -22829,7 +22829,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "NTIS - New Technologies for the Information Society",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -25580,7 +25580,7 @@
                         "affiliation-country": "Hungary"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -25996,7 +25996,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -26484,7 +26484,7 @@
                 "doi": "10.1093/nar/8.19.4321",
                 "year": "1980",
                 "affiliation": {
-                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-city": "Washington",
                     "affilname": "Carnegie Institution of Washington",
                     "affiliation-country": "United States"
                 }
@@ -32372,7 +32372,7 @@
                 "doi": "10.1093/nar/8.19.4321",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-city": "Washington",
                     "affilname": "Carnegie Institution of Washington",
                     "affiliation-country": "United States"
                 }
@@ -35599,7 +35599,7 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": "Presov-Lubotice",
+                        "affiliation-city": "Presov",
                         "affilname": "University of Presov in Presov",
                         "affiliation-country": "Slovakia"
                     },
@@ -37848,7 +37848,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "UWB",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -48916,7 +48916,7 @@
                 "doi": "10.1016/j.fusengdes.2020.112013",
                 "year": "2020",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -49319,7 +49319,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -52423,7 +52423,7 @@
                 "year": "2024",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -52433,7 +52433,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -52952,7 +52952,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -74849,7 +74849,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -75087,7 +75087,7 @@
                 "doi": "10.1051/forest:2003027",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Università degli Studi di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -92428,7 +92428,7 @@
                         "affiliation-country": "Japan"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -96193,7 +96193,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -98760,7 +98760,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "Faculty of Applied Sciences",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -99516,7 +99516,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -99588,7 +99588,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "NTIS - New Technologies for the Information Society",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -100696,7 +100696,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -101933,7 +101933,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -104010,7 +104010,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             }
@@ -106110,7 +106110,7 @@
                 "doi": "10.1093/nar/8.19.4321",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-city": "Washington",
                     "affilname": "Carnegie Institution of Washington",
                     "affiliation-country": "United States"
                 }
@@ -111860,7 +111860,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Jiangsu Province",
+                        "affiliation-city": "Suzhou",
                         "affilname": "Jiangsu Nata Opto-Electronic Material Co. Ltd.",
                         "affiliation-country": "China"
                     }
@@ -115650,8 +115650,8 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Pleň",
-                        "affilname": "University of Bohemia",
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -117145,7 +117145,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -117167,7 +117167,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     },
                     {

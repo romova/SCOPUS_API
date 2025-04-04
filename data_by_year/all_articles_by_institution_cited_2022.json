@@ -3304,7 +3304,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino, Scuola di Medicina",
                         "affiliation-country": "Italy"
                     },
@@ -5371,9 +5371,9 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Brandenburg",
-                        "affilname": "Technical University",
-                        "affiliation-country": "Germany"
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
                     }
                 ]
             },
@@ -8748,7 +8748,7 @@
                     {
                         "affiliation-city": "Jinju",
                         "affilname": "Gyeongsang National University",
-                        "affiliation-country": "North Korea"
+                        "affiliation-country": "South Korea"
                     }
                 ]
             },
@@ -9208,7 +9208,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -11151,7 +11151,7 @@
                 "doi": "10.1016/0020-7403(69)90043-5",
                 "year": "1969",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -22894,7 +22894,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -24665,7 +24665,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -25965,7 +25965,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -26628,12 +26628,12 @@
                 "year": "2024",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Ministry of Culture",
                         "affiliation-country": "Italy"
                     }
@@ -32820,7 +32820,7 @@
                 "doi": "10.1007/978-3-319-08648-4_3",
                 "year": "2015",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Università degli Studi di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -45338,7 +45338,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -48118,7 +48118,7 @@
                 "doi": "10.3390/app10093310",
                 "year": "2020",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -49737,7 +49737,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "Faculty of Applied Sciences",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -55613,7 +55613,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Qinghai",
+                        "affiliation-city": "Xining",
                         "affilname": "Qinghai Minzu University",
                         "affiliation-country": "China"
                     }
@@ -77323,7 +77323,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -77357,7 +77357,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -77375,7 +77375,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -78721,7 +78721,7 @@
                         "affiliation-country": "Slovakia"
                     },
                     {
-                        "affiliation-city": "Presov-Lubotice",
+                        "affiliation-city": "Presov",
                         "affilname": "University of Presov in Presov",
                         "affiliation-country": "Slovakia"
                     },
@@ -78790,7 +78790,7 @@
                         "affiliation-country": "Slovakia"
                     },
                     {
-                        "affiliation-city": "Presov-Lubotice",
+                        "affiliation-city": "Presov",
                         "affilname": "University of Presov in Presov",
                         "affiliation-country": "Slovakia"
                     },
@@ -80590,12 +80590,12 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "LINKS Foundation",
                         "affiliation-country": "Italy"
                     }
@@ -80686,7 +80686,7 @@
                 "doi": "10.1080/17474230601079241",
                 "year": "2006",
                 "affiliation": {
-                    "affiliation-city": "Roma",
+                    "affiliation-city": "Rome",
                     "affilname": "Land/natural resources consultant",
                     "affiliation-country": "Italy"
                 }
@@ -88277,7 +88277,7 @@
                 "year": "2015",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -89597,7 +89597,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -92518,7 +92518,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -100337,7 +100337,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Museo Civico di Storia Naturale",
                         "affiliation-country": "Italy"
                     }
@@ -102330,7 +102330,7 @@
                 "doi": "10.1016/j.trc.2017.04.004",
                 "year": "2017",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -111456,7 +111456,7 @@
                 "doi": "10.1089/ast.2009.0360",
                 "year": "2010",
                 "affiliation": {
-                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-city": "Washington",
                     "affilname": "Carnegie Institution of Washington",
                     "affiliation-country": "United States"
                 }
@@ -119678,7 +119678,7 @@
                         "affiliation-country": "Spain"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -124965,7 +124965,7 @@
                         "affiliation-country": "Switzerland"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -125105,7 +125105,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -126775,7 +126775,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -127625,7 +127625,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -131122,7 +131122,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -131927,7 +131927,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -133875,7 +133875,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -134575,7 +134575,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -134988,7 +134988,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -135753,7 +135753,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -138199,7 +138199,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -139197,7 +139197,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -139645,7 +139645,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -140435,7 +140435,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -140873,7 +140873,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -141643,7 +141643,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -142121,7 +142121,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -143041,7 +143041,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -143479,7 +143479,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -144214,7 +144214,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -144701,7 +144701,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -144896,7 +144896,7 @@
                         "affiliation-country": "Spain"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -145984,7 +145984,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -147854,7 +147854,7 @@
                 "year": "2013",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino, Scuola di Medicina",
                         "affiliation-country": "Italy"
                     },
@@ -147882,7 +147882,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -149072,7 +149072,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "NTIS - New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -151705,7 +151705,7 @@
                 "doi": "10.1016/j.segy.2023.100127",
                 "year": "2024",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -160815,7 +160815,7 @@
                 "doi": "10.1016/j.patcog.2014.09.024",
                 "year": "2015",
                 "affiliation": {
-                    "affiliation-city": "Mexico",
+                    "affiliation-city": "Mexico City",
                     "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                     "affiliation-country": "Mexico"
                 }
@@ -171111,7 +171111,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Institute for Scientific Interchange Foundation",
                         "affiliation-country": "Italy"
                     },
@@ -175235,7 +175235,7 @@
                         "affiliation-country": "Taiwan"
                     },
                     {
-                        "affiliation-city": "South Jakarta",
+                        "affiliation-city": "Jakarta",
                         "affilname": "Sampoerna University",
                         "affiliation-country": "Indonesia"
                     },
@@ -177284,7 +177284,7 @@
                 "doi": "10.3390/app9163316",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -177444,7 +177444,7 @@
                 "doi": "10.3390/met11060932",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -177617,7 +177617,7 @@
                         "affiliation-country": "Iran"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -178663,7 +178663,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Dolní Břežany",
+                        "affiliation-city": "Dolni Brezany",
                         "affilname": "The Extreme Light Infrastructure ERIC",
                         "affiliation-country": "Czech Republic"
                     }
@@ -178702,7 +178702,7 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": "Dolní Břežany",
+                        "affiliation-city": "Dolni Brezany",
                         "affilname": "The Extreme Light Infrastructure ERIC",
                         "affiliation-country": "Czech Republic"
                     }
@@ -178719,7 +178719,7 @@
                         "affiliation-country": "Japan"
                     },
                     {
-                        "affiliation-city": "BřeŽany",
+                        "affiliation-city": "Dolni Brezany",
                         "affilname": "The Extreme Light Infrastructure ERIC",
                         "affiliation-country": "Czech Republic"
                     }
@@ -185279,7 +185279,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "NTIS - New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -189821,7 +189821,7 @@
                 "year": "2014",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -189886,7 +189886,7 @@
                 "year": "2014",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -195498,7 +195498,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -196629,7 +196629,7 @@
                         "affiliation-country": "Iran"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -199275,7 +199275,7 @@
                 "doi": "10.1016/j.patcog.2012.09.017",
                 "year": "2013",
                 "affiliation": {
-                    "affiliation-city": "Mexico",
+                    "affiliation-city": "Mexico City",
                     "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                     "affiliation-country": "Mexico"
                 }
@@ -199287,7 +199287,7 @@
                 "year": "2019",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -199310,7 +199310,7 @@
                 "year": "2020",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -199549,7 +199549,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -206548,7 +206548,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -212072,7 +212072,7 @@
                 "doi": "10.1016/j.jasrep.2019.101986",
                 "year": "2019",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Università degli Studi di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -216081,7 +216081,7 @@
                 "doi": "10.3390/ma14082004",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Istituto Elettrotecnico Nazionale Galileo Ferraris, Turin",
                     "affiliation-country": "Italy"
                 }
@@ -230258,8 +230258,8 @@
                 "doi": "10.1016/j.matcom.2009.02.016",
                 "year": "2010",
                 "affiliation": {
-                    "affiliation-city": "Plzen",
-                    "affilname": "New Technologies Research Centre",
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -230331,7 +230331,7 @@
                         "affiliation-country": "Cuba"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -234216,7 +234216,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -236133,7 +236133,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -237826,7 +237826,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -237875,7 +237875,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino, Scuola di Medicina",
                         "affiliation-country": "Italy"
                     },
@@ -242807,7 +242807,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -245922,7 +245922,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -250227,17 +250227,17 @@
                 "year": "2024",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Digital Factory",
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "STELLANTIS EUROPE SPA",
                         "affiliation-country": "Italy"
                     }
@@ -250276,7 +250276,7 @@
                         "affiliation-country": "France"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -250657,7 +250657,7 @@
                 "year": "2003",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -262941,7 +262941,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -263246,7 +263246,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -264519,7 +264519,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Gran Paradiso National Park",
                         "affiliation-country": "Italy"
                     },
@@ -264742,7 +264742,7 @@
                         "affiliation-country": "France"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -269983,7 +269983,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -270038,7 +270038,7 @@
                 "doi": "10.1063/5.0184911",
                 "year": "2024",
                 "affiliation": {
-                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-city": "Washington",
                     "affilname": "Carnegie Institution of Washington",
                     "affiliation-country": "United States"
                 }
@@ -270140,7 +270140,7 @@
                 "year": "2023",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270189,7 +270189,7 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -270211,7 +270211,7 @@
                 "year": "2022",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270292,7 +270292,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -270316,7 +270316,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270361,7 +270361,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270500,7 +270500,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -270656,7 +270656,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270689,7 +270689,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270738,7 +270738,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270817,7 +270817,7 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270927,7 +270927,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -270950,7 +270950,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271126,7 +271126,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271233,7 +271233,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271317,7 +271317,7 @@
                         "affiliation-country": "Japan"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271392,7 +271392,7 @@
                         "affiliation-country": "China"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271509,7 +271509,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -271588,7 +271588,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     }
@@ -271760,7 +271760,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -278540,12 +278540,12 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Sparco S.p.A.",
                         "affiliation-country": "Italy"
                     }
@@ -278568,7 +278568,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -281786,7 +281786,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -294540,7 +294540,7 @@
                 "doi": "10.1115/1.4006920",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -295377,7 +295377,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -296576,7 +296576,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -296650,7 +296650,7 @@
                         "affiliation-country": "Finland"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -296673,7 +296673,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -299988,7 +299988,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -304962,7 +304962,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -305960,7 +305960,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -306010,7 +306010,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -306382,7 +306382,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -315638,7 +315638,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -315655,7 +315655,7 @@
                 "doi": "10.1109/TIA.2007.904399",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -315683,7 +315683,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -315719,7 +315719,7 @@
                         "affiliation-country": "United Kingdom"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -315793,7 +315793,7 @@
                 "doi": "10.1109/TIA.2003.814555",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -320335,7 +320335,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -321024,7 +321024,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -321051,7 +321051,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "NTIS - New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -321757,7 +321757,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -322424,7 +322424,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -322804,7 +322804,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -326193,7 +326193,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Pilsen",
-                    "affilname": "Faculty of Applied Sciences",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -326495,7 +326495,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -326785,7 +326785,7 @@
                         "affiliation-country": "Indonesia"
                     },
                     {
-                        "affiliation-city": "South Jakarta",
+                        "affiliation-city": "Jakarta",
                         "affilname": "Universitas Muhammadiyah Prof. Dr. HAMKA",
                         "affiliation-country": "Indonesia"
                     },
@@ -328816,7 +328816,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Museo Civico di Storia Naturale",
                         "affiliation-country": "Italy"
                     }
@@ -332349,7 +332349,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -332366,7 +332366,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -342782,7 +342782,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -345749,7 +345749,7 @@
                         "affiliation-country": "Finland"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -357650,7 +357650,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -357700,7 +357700,7 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -358270,7 +358270,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -358465,7 +358465,7 @@
                         "affiliation-country": "Spain"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -360167,7 +360167,7 @@
                         "affiliation-country": "Spain"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Collegio Carlo Alberto",
                         "affiliation-country": "Italy"
                     },
@@ -360194,7 +360194,7 @@
                         "affiliation-country": "France"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -360837,7 +360837,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": "Washington, D.C.",
+                        "affiliation-city": "Washington",
                         "affilname": "Carnegie Institution of Washington",
                         "affiliation-country": "United States"
                     },
@@ -363329,7 +363329,7 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -371487,7 +371487,7 @@
                 "year": "2024",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -376270,7 +376270,7 @@
                 "doi": "10.1109/JSTSP.2020.3047471",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -384424,7 +384424,7 @@
                         "affiliation-country": "Romania"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },

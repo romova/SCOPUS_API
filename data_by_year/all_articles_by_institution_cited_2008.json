@@ -1569,7 +1569,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -1591,7 +1591,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "European Centre of Excellence NTIS",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -3139,7 +3139,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -4702,7 +4702,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -26076,7 +26076,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies Research Centre",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -48807,7 +48807,7 @@
                 "doi": "10.1103/PhysRevB.50.18046",
                 "year": "1994",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Università degli Studi di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -56321,7 +56321,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -65263,7 +65263,7 @@
                 "year": "N/A",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },

@@ -31,9 +31,7 @@ def get_affil_info(affil_obj):
         if not country:
             country = "N/A"
         if not institution:
-            institution = "N/A" 
-        if city == "Amazon":
-            print()       
+            institution = "N/A"      
         dict_city[country + "-" + city] = dict_city.get(country + "-" + city, 0) + 1
         dict_country[country] = dict_country.get(country, 0) + 1
         dict_institution[institution] = dict_institution.get(institution, 0) + 1
@@ -67,16 +65,16 @@ for filename in os.listdir("data_by_year"):
             if "citedby_articles" in article and article["citedby_articles"] != "N/A":
                 if isinstance(article["citedby_articles"], list):
                     for cited_article in article["citedby_articles"]:
-                        info = get_affil_info(cited_article)
+                        get_affil_info(cited_article)
                 else:
-                    info = get_affil_info(article["citedby_articles"])
+                    get_affil_info(article["citedby_articles"])
 
             if "references" in article and article["references"] != "N/A":
                 if isinstance(article["references"], list):
                     for ref in article["references"]:
-                        info = get_affil_info(ref) 
+                        get_affil_info(ref) 
                 else:
-                    info = get_affil_info(article["references"])
+                    get_affil_info(article["references"])
 
 
 total = 0
@@ -103,16 +101,16 @@ for filename in os.listdir("data_by_year"):
             if "citedby_articles" in article and article["citedby_articles"] != "N/A":
                 if isinstance(article["citedby_articles"], list):
                     for cited_article in article["citedby_articles"]:
-                        info = correct_countries(cited_article, corrected_countries)
+                        correct_countries(cited_article, corrected_countries)
                 else:
-                    info = correct_countries(article["citedby_articles"], corrected_countries)
+                    correct_countries(article["citedby_articles"], corrected_countries)
 
             if "references" in article and article["references"] != "N/A":
                 if isinstance(article["references"], list):
                     for ref in article["references"]:
-                        info = correct_countries(ref, corrected_countries) 
+                        correct_countries(ref, corrected_countries) 
                 else:
-                    info = correct_countries(article["references"], corrected_countries)
+                    correct_countries(article["references"], corrected_countries)
         with open(os.path.join("data_by_year", filename), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
@@ -128,16 +126,16 @@ for filename in os.listdir("data_by_year"):
             if "citedby_articles" in article and article["citedby_articles"] != "N/A":
                 if isinstance(article["citedby_articles"], list):
                     for cited_article in article["citedby_articles"]:
-                        info = get_affil_info(cited_article)
+                        get_affil_info(cited_article)
                 else:
-                    info = get_affil_info(article["citedby_articles"])
+                    get_affil_info(article["citedby_articles"])
 
             if "references" in article and article["references"] != "N/A":
                 if isinstance(article["references"], list):
                     for ref in article["references"]:
-                        info = get_affil_info(ref) 
+                        get_affil_info(ref) 
                 else:
-                    info = get_affil_info(article["references"])
+                    get_affil_info(article["references"])
 
 
 total = 0
@@ -220,15 +218,15 @@ for filename in os.listdir("data_by_year"):
             if "citedby_articles" in article and article["citedby_articles"] != "N/A":
                 if isinstance(article["citedby_articles"], list):
                     for cited_article in article["citedby_articles"]:
-                        info = correct_cities_countries(cited_article, added_countries_to_cities)
+                        correct_cities_countries(cited_article, added_countries_to_cities)
                 else:
-                    info = correct_cities_countries(article["citedby_articles"], added_countries_to_cities)
+                    correct_cities_countries(article["citedby_articles"], added_countries_to_cities)
 
             if "references" in article and article["references"] != "N/A":
                 if isinstance(article["references"], list):
                     for ref in article["references"]:
-                        info = correct_cities_countries(ref, added_countries_to_cities) 
+                        correct_cities_countries(ref, added_countries_to_cities) 
                 else:
-                    info = correct_cities_countries(article["references"], added_countries_to_cities)
+                    correct_cities_countries(article["references"], added_countries_to_cities)
         with open(os.path.join("data_by_year", filename), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)                        

@@ -232,7 +232,7 @@
                 "year": "2010",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -2849,7 +2849,7 @@
                 "year": "2016",
                 "affiliation": {
                     "affiliation-city": "Plzen",
-                    "affilname": "UWB",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -4384,7 +4384,7 @@
                     },
                     {
                         "affiliation-city": "Pilsen",
-                        "affilname": "New Technologies for the Information Society",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -4708,9 +4708,9 @@
                         "affiliation-country": "Czech Republic"
                     },
                     {
-                        "affiliation-city": null,
-                        "affilname": "NTIS - New Technologies for the Information Society",
-                        "affiliation-country": "United States"
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
+                        "affiliation-country": "Czech Republic"
                     }
                 ]
             },
@@ -12715,8 +12715,8 @@
                 "doi": "10.24132/acm.2018.330",
                 "year": "2018",
                 "affiliation": {
-                    "affiliation-city": "Plzen",
-                    "affilname": "New Technologies Research Centre",
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -12791,7 +12791,7 @@
                         "affiliation-country": "France"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -17541,8 +17541,8 @@
                 "doi": "10.1016/j.matcom.2009.02.016",
                 "year": "2010",
                 "affiliation": {
-                    "affiliation-city": "Plzen",
-                    "affilname": "New Technologies Research Centre",
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -19053,7 +19053,7 @@
                         "affiliation-country": "Italy"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -26984,7 +26984,7 @@
                         "affiliation-country": "Spain"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -27171,8 +27171,8 @@
                 "doi": "10.1016/j.matcom.2009.02.016",
                 "year": "2010",
                 "affiliation": {
-                    "affiliation-city": "Plzen",
-                    "affilname": "New Technologies Research Centre",
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -46729,7 +46729,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "UWB",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -46792,8 +46792,8 @@
                         "affiliation-country": "Slovakia"
                     },
                     {
-                        "affiliation-city": "Plzeo",
-                        "affilname": "UWB",
+                        "affiliation-city": "Pilsen",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -50146,7 +50146,7 @@
                         "affiliation-country": "France"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto per la Protezione Sostenibile delle Piante, Consiglio Nazionale delle Ricerche",
                         "affiliation-country": "Italy"
                     }
@@ -50358,7 +50358,7 @@
                 "year": "2008",
                 "affiliation": [
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Istituto per la Protezione Sostenibile delle Piante, Consiglio Nazionale delle Ricerche",
                         "affiliation-country": "Italy"
                     },

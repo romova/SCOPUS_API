@@ -1174,7 +1174,7 @@
                         "affiliation-country": "Germany"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -1473,7 +1473,7 @@
                         "affiliation-country": "Chile"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Università degli Studi di Torino",
                         "affiliation-country": "Italy"
                     },
@@ -10286,8 +10286,8 @@
                 "doi": "10.1016/j.matcom.2009.02.016",
                 "year": "2010",
                 "affiliation": {
-                    "affiliation-city": "Plzen",
-                    "affilname": "New Technologies Research Centre",
+                    "affiliation-city": "Pilsen",
+                    "affilname": "University of West Bohemia",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -20989,7 +20989,7 @@
                 "year": "2012",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -21031,7 +21031,7 @@
                 "year": "2008",
                 "affiliation": [
                     {
-                        "affiliation-city": "Mexico",
+                        "affiliation-city": "Mexico City",
                         "affilname": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
                         "affiliation-country": "Mexico"
                     },
@@ -27578,7 +27578,7 @@
                 "doi": "10.1016/0022-460X(86)90169-0",
                 "year": "N/A",
                 "affiliation": {
-                    "affiliation-city": "Turin",
+                    "affiliation-city": "Torino",
                     "affilname": "Politecnico di Torino",
                     "affiliation-country": "Italy"
                 }
@@ -32354,7 +32354,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -32464,7 +32464,7 @@
                         "affiliation-country": "Sweden"
                     },
                     {
-                        "affiliation-city": "Trübbach",
+                        "affiliation-city": "Trubbach",
                         "affilname": "Evatec AG",
                         "affiliation-country": "Switzerland"
                     }
@@ -38808,7 +38808,7 @@
                         "affiliation-country": "Saudi Arabia"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -38934,7 +38934,7 @@
                         "affiliation-country": "Saudi Arabia"
                     },
                     {
-                        "affiliation-city": "Turin",
+                        "affiliation-city": "Torino",
                         "affilname": "Politecnico di Torino",
                         "affiliation-country": "Italy"
                     }
@@ -41011,7 +41011,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "UWB",
+                        "affilname": "University of West Bohemia",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
