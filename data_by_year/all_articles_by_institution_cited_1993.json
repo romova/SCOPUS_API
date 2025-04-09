@@ -58,12 +58,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Zielona Gora",
-                        "affilname": "Uniwersytet Zielonogórski",
+                        "affilname": "Uniwersytet Zielonogorski",
                         "affiliation-country": "Poland"
                     },
                     {
                         "affiliation-city": "Gdansk",
-                        "affilname": "Gdańsk University of Technology",
+                        "affilname": "Gdansk University of Technology",
                         "affiliation-country": "Poland"
                     },
                     {
@@ -169,7 +169,7 @@
                 "year": "2004",
                 "affiliation": {
                     "affiliation-city": "Limoges",
-                    "affilname": "Science des Procédés Céramiques et des Traitements de Surface",
+                    "affilname": "Science des Procedes Ceramiques et des Traitements de Surface",
                     "affiliation-country": "France"
                 }
             },
@@ -179,7 +179,7 @@
                 "year": "2002",
                 "affiliation": {
                     "affiliation-city": "Limoges",
-                    "affilname": "Science des Procédés Céramiques et des Traitements de Surface",
+                    "affilname": "Science des Procedes Ceramiques et des Traitements de Surface",
                     "affiliation-country": "France"
                 }
             },
@@ -278,7 +278,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Senlis",
-                        "affilname": "CETIM Centre Technique des Industries Mécaniques",
+                        "affilname": "CETIM Centre Technique des Industries Mecaniques",
                         "affiliation-country": "France"
                     },
                     {
@@ -361,7 +361,7 @@
                 "year": "1999",
                 "affiliation": {
                     "affiliation-city": "Kosice",
-                    "affilname": "Technická Univerzita v Košiciach",
+                    "affilname": "Technicka Univerzita v Kosiciach",
                     "affiliation-country": "Slovakia"
                 }
             },
@@ -371,7 +371,7 @@
                 "year": "1999",
                 "affiliation": {
                     "affiliation-city": "Kosice",
-                    "affilname": "Technická Univerzita v Košiciach",
+                    "affilname": "Technicka Univerzita v Kosiciach",
                     "affiliation-country": "Slovakia"
                 }
             },
@@ -419,7 +419,7 @@
                 "year": "2003",
                 "affiliation": {
                     "affiliation-city": "Dresden",
-                    "affilname": "Leibniz-Institut für Festkörper- und Werkstoffforschung Dresden",
+                    "affilname": "Leibniz-Institut fur Festkorper- und Werkstoffforschung Dresden",
                     "affiliation-country": "Germany"
                 }
             },
@@ -430,7 +430,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Madrid",
-                        "affilname": "Universidad Autónoma de Madrid",
+                        "affilname": "Universidad Autonoma de Madrid",
                         "affiliation-country": "Spain"
                     },
                     {
@@ -486,8 +486,8 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
-                        "affilname": "LECO Instrumente Pheň",
+                        "affiliation-city": "N/A",
+                        "affilname": "LECO Instrumente Phen",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -544,7 +544,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Gif-sur-Yvette",
-                        "affilname": "Université Paris-Saclay",
+                        "affilname": "Universite Paris-Saclay",
                         "affiliation-country": "France"
                     },
                     {
@@ -577,8 +577,8 @@
                 "doi": "10.1002/sia.740070404",
                 "year": "1985",
                 "affiliation": {
-                    "affiliation-city": null,
-                    "affilname": "Institut de Recherches de la Sidérugie Française Irsid",
+                    "affiliation-city": "N/A",
+                    "affilname": "Institut de Recherches de la Siderugie Francaise Irsid",
                     "affiliation-country": "France"
                 }
             },
@@ -656,7 +656,7 @@
                 "year": "1992",
                 "affiliation": {
                     "affiliation-city": "Julich",
-                    "affilname": "Forschungszentrum Jülich GmbH",
+                    "affilname": "Forschungszentrum Julich GmbH",
                     "affiliation-country": "Germany"
                 }
             },
@@ -751,7 +751,7 @@
                 "year": "2022",
                 "affiliation": {
                     "affiliation-city": "Geneva",
-                    "affilname": "Université de Genève",
+                    "affilname": "Universite de Geneve",
                     "affiliation-country": "Switzerland"
                 }
             },
@@ -1085,7 +1085,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Armored Vehicle Development Center",
                         "affiliation-country": "Taiwan"
                     }

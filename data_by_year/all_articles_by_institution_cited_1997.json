@@ -35,7 +35,7 @@
                     },
                     {
                         "affiliation-city": "Ljubljana",
-                        "affilname": "Institut \"Jožef Stefan\"",
+                        "affilname": "Institut \"Jozef Stefan\"",
                         "affiliation-country": "Slovenia"
                     }
                 ]
@@ -81,7 +81,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Madero",
-                        "affilname": "Instituto Tecnológico de Ciudad Madero",
+                        "affilname": "Instituto Tecnologico de Ciudad Madero",
                         "affiliation-country": "Mexico"
                     },
                     {
@@ -91,7 +91,7 @@
                     },
                     {
                         "affiliation-city": "Ciudad Victoria",
-                        "affilname": "Universidad Autónoma de Tamaulipas",
+                        "affilname": "Universidad Autonoma de Tamaulipas",
                         "affiliation-country": "Mexico"
                     },
                     {
@@ -113,12 +113,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Cali",
-                        "affilname": "Universidad Autónoma de Occidente",
+                        "affilname": "Universidad Autonoma de Occidente",
                         "affiliation-country": "Colombia"
                     },
                     {
                         "affiliation-city": "Madero",
-                        "affilname": "Instituto Tecnológico de Ciudad Madero",
+                        "affilname": "Instituto Tecnologico de Ciudad Madero",
                         "affiliation-country": "Mexico"
                     },
                     {
@@ -128,7 +128,7 @@
                     },
                     {
                         "affiliation-city": "Ciudad Victoria",
-                        "affilname": "Universidad Autónoma de Tamaulipas",
+                        "affilname": "Universidad Autonoma de Tamaulipas",
                         "affiliation-country": "Mexico"
                     },
                     {
@@ -197,7 +197,7 @@
                     },
                     {
                         "affiliation-city": "Cali",
-                        "affilname": "Grupo de Investigación en Materiales ASTIN SENA",
+                        "affilname": "Grupo de Investigacion en Materiales ASTIN SENA",
                         "affiliation-country": "Colombia"
                     }
                 ]
@@ -241,7 +241,7 @@
                     },
                     {
                         "affiliation-city": "Cali",
-                        "affilname": "Grupo de Investigación en Materiales ASTIN SENA",
+                        "affilname": "Grupo de Investigacion en Materiales ASTIN SENA",
                         "affiliation-country": "Colombia"
                     },
                     {
@@ -272,7 +272,7 @@
                         "affiliation-country": "Colombia"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Tecno-Academia ASTIN SENA Reginal Valle",
                         "affiliation-country": "Colombia"
                     },
@@ -437,7 +437,7 @@
                     },
                     {
                         "affiliation-city": "Mexico",
-                        "affilname": "Centro de Investigacion y de Estudios Avanzados del Instituto Politécnico Nacional",
+                        "affilname": "Centro de Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional",
                         "affiliation-country": "Mexico"
                     },
                     {
@@ -507,7 +507,7 @@
                 "year": "1995",
                 "affiliation": {
                     "affiliation-city": "Munich",
-                    "affilname": "Technische Universität München",
+                    "affilname": "Technische Universitat Munchen",
                     "affiliation-country": "Germany"
                 }
             },
@@ -571,7 +571,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Palaiseau",
-                        "affilname": "Laboratoire des Solides Irradiés",
+                        "affilname": "Laboratoire des Solides Irradies",
                         "affiliation-country": "France"
                     },
                     {
@@ -599,7 +599,7 @@
                     },
                     {
                         "affiliation-city": "Palaiseau",
-                        "affilname": "École Polytechnique",
+                        "affilname": "Ecole Polytechnique",
                         "affiliation-country": "France"
                     }
                 ]
@@ -622,7 +622,7 @@
                     },
                     {
                         "affiliation-city": "Sao Paulo",
-                        "affilname": "Universidade de São Paulo",
+                        "affilname": "Universidade de Sao Paulo",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -658,7 +658,7 @@
                     },
                     {
                         "affiliation-city": "Linkoping",
-                        "affilname": "Linköpings Universitet",
+                        "affilname": "Linkopings Universitet",
                         "affiliation-country": "Sweden"
                     },
                     {
@@ -675,7 +675,7 @@
                 "year": "1995",
                 "affiliation": {
                     "affiliation-city": "Linkoping",
-                    "affilname": "Linköpings Universitet",
+                    "affilname": "Linkopings Universitet",
                     "affiliation-country": "Sweden"
                 }
             },
@@ -809,7 +809,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Montreal",
-                        "affilname": "Polytechnique Montréal",
+                        "affilname": "Polytechnique Montreal",
                         "affiliation-country": "Canada"
                     },
                     {
@@ -831,7 +831,7 @@
                 "year": "1992",
                 "affiliation": {
                     "affiliation-city": "Montreal",
-                    "affilname": "Polytechnique Montréal",
+                    "affilname": "Polytechnique Montreal",
                     "affiliation-country": "Canada"
                 }
             },
@@ -1063,7 +1063,7 @@
                 "year": "2023",
                 "affiliation": {
                     "affiliation-city": "Cordoba",
-                    "affilname": "Universidad Nacional de Córdoba",
+                    "affilname": "Universidad Nacional de Cordoba",
                     "affiliation-country": "Argentina"
                 }
             },
@@ -1073,7 +1073,7 @@
                 "year": "2020",
                 "affiliation": {
                     "affiliation-city": "Cordoba",
-                    "affilname": "Universidad Nacional de Córdoba",
+                    "affilname": "Universidad Nacional de Cordoba",
                     "affiliation-country": "Argentina"
                 }
             },
@@ -1105,12 +1105,12 @@
                     },
                     {
                         "affiliation-city": "Madrid",
-                        "affilname": "CSIC - Instituto Geológico y Minero de España (IGME)",
+                        "affilname": "CSIC - Instituto Geologico y Minero de Espana (IGME)",
                         "affiliation-country": "Spain"
                     },
                     {
                         "affiliation-city": "Ankara",
-                        "affilname": "Çalık Enerji",
+                        "affilname": "Calık Enerji",
                         "affiliation-country": "Turkey"
                     }
                 ]
@@ -1127,7 +1127,7 @@
                     },
                     {
                         "affiliation-city": "Cordoba",
-                        "affilname": "Universidad Nacional de Córdoba",
+                        "affilname": "Universidad Nacional de Cordoba",
                         "affiliation-country": "Argentina"
                     }
                 ]
@@ -1144,7 +1144,7 @@
                     },
                     {
                         "affiliation-city": "Plzen",
-                        "affilname": "Zapadoccská Univerzita v Plzni",
+                        "affilname": "Zapadoccska Univerzita v Plzni",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -1166,7 +1166,7 @@
                     },
                     {
                         "affiliation-city": "Cordoba",
-                        "affilname": "Universidad Nacional de Córdoba",
+                        "affilname": "Universidad Nacional de Cordoba",
                         "affiliation-country": "Argentina"
                     }
                 ]
@@ -1177,7 +1177,7 @@
                 "year": "2015",
                 "affiliation": {
                     "affiliation-city": "Cordoba",
-                    "affilname": "Universidad Nacional de Córdoba",
+                    "affilname": "Universidad Nacional de Cordoba",
                     "affiliation-country": "Argentina"
                 }
             },
@@ -1187,7 +1187,7 @@
                 "year": "2015",
                 "affiliation": {
                     "affiliation-city": "Cordoba",
-                    "affilname": "Universidad Nacional de Córdoba",
+                    "affilname": "Universidad Nacional de Cordoba",
                     "affiliation-country": "Argentina"
                 }
             },
@@ -1302,12 +1302,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ljubljana",
-                        "affilname": "Institut \"Jožef Stefan\"",
+                        "affilname": "Institut \"Jozef Stefan\"",
                         "affiliation-country": "Slovenia"
                     },
                     {
                         "affiliation-city": "Montreal",
-                        "affilname": "Polytechnique Montréal",
+                        "affilname": "Polytechnique Montreal",
                         "affiliation-country": "Canada"
                     }
                 ]
@@ -1329,12 +1329,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
+                        "affilname": "Leibniz-Institut fur Plasmaforschung und Technologie e.V.",
                         "affiliation-country": "Germany"
                     },
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Universität Greifswald",
+                        "affilname": "Universitat Greifswald",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -1427,7 +1427,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Universität Greifswald",
+                        "affilname": "Universitat Greifswald",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -1442,7 +1442,7 @@
                     },
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -1551,7 +1551,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -1578,7 +1578,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -1655,7 +1655,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Mont-Saint-Aignan",
-                    "affilname": "Université de Rouen Normandie",
+                    "affilname": "Universite de Rouen Normandie",
                     "affiliation-country": "France"
                 }
             },
@@ -1676,7 +1676,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "High Vacuum Corporation",
                         "affiliation-country": "United States"
                     }
@@ -1717,7 +1717,7 @@
                 "year": "1992",
                 "affiliation": {
                     "affiliation-city": "Tubingen",
-                    "affilname": "Eberhard Karls Universität Tübingen",
+                    "affilname": "Eberhard Karls Universitat Tubingen",
                     "affiliation-country": "Germany"
                 }
             },
@@ -1879,7 +1879,7 @@
                     },
                     {
                         "affiliation-city": "Bologna",
-                        "affilname": "Alma Mater Studiorum Università di Bologna",
+                        "affilname": "Alma Mater Studiorum Universita di Bologna",
                         "affiliation-country": "Italy"
                     }
                 ]
@@ -1933,7 +1933,7 @@
                     },
                     {
                         "affiliation-city": "Pau",
-                        "affilname": "Université de Pau et des Pays de l'Adour",
+                        "affilname": "Universite de Pau et des Pays de l'Adour",
                         "affiliation-country": "France"
                     }
                 ]
@@ -1977,12 +1977,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Florence",
-                        "affilname": "Università degli Studi di Firenze",
+                        "affilname": "Universita degli Studi di Firenze",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Perugia",
-                        "affilname": "Università degli Studi di Perugia",
+                        "affilname": "Universita degli Studi di Perugia",
                         "affiliation-country": "Italy"
                     }
                 ]
@@ -2021,17 +2021,17 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Oran",
-                        "affilname": "Université d'Oran 2",
+                        "affilname": "Universite d'Oran 2",
                         "affiliation-country": "Algeria"
                     },
                     {
                         "affiliation-city": "Tlemcen",
-                        "affilname": "École Supérieure de Management de Tlemcen",
+                        "affilname": "Ecole Superieure de Management de Tlemcen",
                         "affiliation-country": "Algeria"
                     },
                     {
                         "affiliation-city": "Tlemcen",
-                        "affilname": "Université Abou Bekr Belkaid Tlemcen",
+                        "affilname": "Universite Abou Bekr Belkaid Tlemcen",
                         "affiliation-country": "Algeria"
                     },
                     {
@@ -2053,7 +2053,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Tlemcen",
-                        "affilname": "École Supérieure de Management de Tlemcen",
+                        "affilname": "Ecole Superieure de Management de Tlemcen",
                         "affiliation-country": "Algeria"
                     },
                     {
@@ -2107,12 +2107,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Tlemcen",
-                        "affilname": "École Supérieure de Management de Tlemcen",
+                        "affilname": "Ecole Superieure de Management de Tlemcen",
                         "affiliation-country": "Algeria"
                     },
                     {
                         "affiliation-city": "Tlemcen",
-                        "affilname": "Université Abou Bekr Belkaid Tlemcen",
+                        "affilname": "Universite Abou Bekr Belkaid Tlemcen",
                         "affiliation-country": "Algeria"
                     },
                     {
@@ -2155,7 +2155,7 @@
                 "year": "2021",
                 "affiliation": {
                     "affiliation-city": "Brasilia",
-                    "affilname": "Universidade de Brasília",
+                    "affilname": "Universidade de Brasilia",
                     "affiliation-country": "Brazil"
                 }
             },
@@ -2176,12 +2176,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Maraba",
-                        "affilname": "Universidade Federal do Sul e Sudeste do Pará",
+                        "affilname": "Universidade Federal do Sul e Sudeste do Para",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Belem",
-                        "affilname": "Universidade Federal do Pará",
+                        "affilname": "Universidade Federal do Para",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -2193,12 +2193,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Florence",
-                        "affilname": "Università degli Studi di Firenze",
+                        "affilname": "Universita degli Studi di Firenze",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Perugia",
-                        "affilname": "Università degli Studi di Perugia",
+                        "affilname": "Universita degli Studi di Perugia",
                         "affiliation-country": "Italy"
                     }
                 ]
@@ -2240,7 +2240,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Rennes",
-                        "affilname": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                        "affilname": "Institut de Recherche en Informatique et Systemes Aleatoires",
                         "affiliation-country": "France"
                     },
                     {
@@ -2381,7 +2381,7 @@
                 "year": "2016",
                 "affiliation": {
                     "affiliation-city": "Ulm",
-                    "affilname": "Universität Ulm",
+                    "affilname": "Universitat Ulm",
                     "affiliation-country": "Germany"
                 }
             },
@@ -2482,7 +2482,7 @@
                 "year": "2009",
                 "affiliation": {
                     "affiliation-city": "Aachen",
-                    "affilname": "Rheinisch-Westfälische Technische Hochschule Aachen",
+                    "affilname": "Rheinisch-Westfalische Technische Hochschule Aachen",
                     "affiliation-country": "Germany"
                 }
             },
@@ -2536,7 +2536,7 @@
                 "year": "2008",
                 "affiliation": {
                     "affiliation-city": "Aachen",
-                    "affilname": "Rheinisch-Westfälische Technische Hochschule Aachen",
+                    "affilname": "Rheinisch-Westfalische Technische Hochschule Aachen",
                     "affiliation-country": "Germany"
                 }
             }
@@ -2620,7 +2620,7 @@
                     },
                     {
                         "affiliation-city": "Budapest",
-                        "affilname": "Alfréd Rényi Institute of Mathematics",
+                        "affilname": "Alfred Renyi Institute of Mathematics",
                         "affiliation-country": "Hungary"
                     }
                 ]
@@ -2688,7 +2688,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Francis Marion College",
                         "affiliation-country": "United States"
                     }
@@ -2983,7 +2983,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Goiania",
-                        "affilname": "Universidade Federal de Goiás",
+                        "affilname": "Universidade Federal de Goias",
                         "affiliation-country": "Brazil"
                     },
                     {
@@ -3116,7 +3116,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Msida",
-                        "affilname": "L-Università ta' Malta",
+                        "affilname": "L-Universita ta' Malta",
                         "affiliation-country": "Malta"
                     },
                     {
@@ -3219,7 +3219,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Sophia Antipolis",
-                        "affilname": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis",
+                        "affilname": "Laboratoire d'Informatique, Signaux et Systemes de Sophia-Antipolis",
                         "affiliation-country": "France"
                     },
                     {
@@ -3235,7 +3235,7 @@
                 "year": "2022",
                 "affiliation": {
                     "affiliation-city": "Linkoping",
-                    "affilname": "Linköpings Universitet",
+                    "affilname": "Linkopings Universitet",
                     "affiliation-country": "Sweden"
                 }
             },
@@ -3447,7 +3447,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Gif-sur-Yvette",
-                        "affilname": "Université Paris-Saclay",
+                        "affilname": "Universite Paris-Saclay",
                         "affiliation-country": "France"
                     },
                     {
@@ -3592,7 +3592,7 @@
                     },
                     {
                         "affiliation-city": "Berlin",
-                        "affilname": "Technische Universität Berlin",
+                        "affilname": "Technische Universitat Berlin",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -3776,7 +3776,7 @@
                     },
                     {
                         "affiliation-city": "Budapest",
-                        "affilname": "Alfréd Rényi Institute of Mathematics",
+                        "affilname": "Alfred Renyi Institute of Mathematics",
                         "affiliation-country": "Hungary"
                     }
                 ]
@@ -3896,7 +3896,7 @@
                     },
                     {
                         "affiliation-city": "Budapest",
-                        "affilname": "Alfréd Rényi Institute of Mathematics",
+                        "affilname": "Alfred Renyi Institute of Mathematics",
                         "affiliation-country": "Hungary"
                     }
                 ]
@@ -4083,7 +4083,7 @@
                 "year": "1993",
                 "affiliation": {
                     "affiliation-city": "Gif-sur-Yvette",
-                    "affilname": "Université Paris-Saclay",
+                    "affilname": "Universite Paris-Saclay",
                     "affiliation-country": "France"
                 }
             },
@@ -4113,7 +4113,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Gif-sur-Yvette",
-                        "affilname": "Université Paris-Saclay",
+                        "affilname": "Universite Paris-Saclay",
                         "affiliation-country": "France"
                     },
                     {
@@ -4123,7 +4123,7 @@
                     },
                     {
                         "affiliation-city": "Berlin",
-                        "affilname": "Technische Universität Berlin",
+                        "affilname": "Technische Universitat Berlin",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -4148,7 +4148,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Orsay",
-                        "affilname": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+                        "affilname": "Laboratoire Interdisciplinaire des Sciences du Numerique",
                         "affiliation-country": "France"
                     },
                     {
@@ -4177,7 +4177,7 @@
                 "year": "1993",
                 "affiliation": {
                     "affiliation-city": "Orsay",
-                    "affilname": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+                    "affilname": "Laboratoire Interdisciplinaire des Sciences du Numerique",
                     "affiliation-country": "France"
                 }
             },
@@ -4188,7 +4188,7 @@
                 "year": "1986",
                 "affiliation": {
                     "affiliation-city": "Orsay",
-                    "affilname": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+                    "affilname": "Laboratoire Interdisciplinaire des Sciences du Numerique",
                     "affiliation-country": "France"
                 }
             },
@@ -4230,7 +4230,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bonn",
-                        "affilname": "Universität Bonn",
+                        "affilname": "Universitat Bonn",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -4328,7 +4328,7 @@
                 "year": "1990",
                 "affiliation": {
                     "affiliation-city": "Paris",
-                    "affilname": "Sorbonne Université",
+                    "affilname": "Sorbonne Universite",
                     "affiliation-country": "France"
                 }
             },
@@ -4340,7 +4340,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Lausanne",
-                        "affilname": "École Polytechnique Fédérale de Lausanne",
+                        "affilname": "Ecole Polytechnique Federale de Lausanne",
                         "affiliation-country": "Switzerland"
                     },
                     {
@@ -4363,7 +4363,7 @@
                     },
                     {
                         "affiliation-city": "Lausanne",
-                        "affilname": "École Polytechnique Fédérale de Lausanne",
+                        "affilname": "Ecole Polytechnique Federale de Lausanne",
                         "affiliation-country": "Switzerland"
                     },
                     {
@@ -4398,7 +4398,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Hamburg",
-                        "affilname": "Universität Hamburg",
+                        "affilname": "Universitat Hamburg",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -4427,12 +4427,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Lausanne",
-                        "affilname": "École Polytechnique Fédérale de Lausanne",
+                        "affilname": "Ecole Polytechnique Federale de Lausanne",
                         "affiliation-country": "Switzerland"
                     },
                     {
                         "affiliation-city": "Montreal",
-                        "affilname": "Polytechnique Montréal",
+                        "affilname": "Polytechnique Montreal",
                         "affiliation-country": "Canada"
                     }
                 ]
@@ -4561,7 +4561,7 @@
                     },
                     {
                         "affiliation-city": "Bonn",
-                        "affilname": "Universität Bonn",
+                        "affilname": "Universitat Bonn",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -4925,7 +4925,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Francis Marion College",
                         "affiliation-country": "United States"
                     }
@@ -5186,7 +5186,7 @@
                 "year": "1991",
                 "affiliation": {
                     "affiliation-city": "Aachen",
-                    "affilname": "Rheinisch-Westfälische Technische Hochschule Aachen",
+                    "affilname": "Rheinisch-Westfalische Technische Hochschule Aachen",
                     "affiliation-country": "Germany"
                 }
             },
@@ -5391,12 +5391,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Goiania",
-                        "affilname": "Universidade Federal de Goiás",
+                        "affilname": "Universidade Federal de Goias",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Cordoba",
-                        "affilname": "Universidad Nacional de Córdoba",
+                        "affilname": "Universidad Nacional de Cordoba",
                         "affiliation-country": "Argentina"
                     }
                 ]
@@ -5457,7 +5457,7 @@
                     },
                     {
                         "affiliation-city": "La Rochelle",
-                        "affilname": "La Rochelle Université",
+                        "affilname": "La Rochelle Universite",
                         "affiliation-country": "France"
                     },
                     {
@@ -5617,7 +5617,7 @@
                     },
                     {
                         "affiliation-city": "Belem",
-                        "affilname": "Universidade Federal do Pará",
+                        "affilname": "Universidade Federal do Para",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -5678,7 +5678,7 @@
                     },
                     {
                         "affiliation-city": "Sao Carlos",
-                        "affilname": "Universidade Federal de São Carlos",
+                        "affilname": "Universidade Federal de Sao Carlos",
                         "affiliation-country": "Brazil"
                     },
                     {
@@ -5730,7 +5730,7 @@
                     },
                     {
                         "affiliation-city": "Perugia",
-                        "affilname": "Università degli Studi di Perugia",
+                        "affilname": "Universita degli Studi di Perugia",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -5757,7 +5757,7 @@
                     },
                     {
                         "affiliation-city": "Perugia",
-                        "affilname": "Università degli Studi di Perugia",
+                        "affilname": "Universita degli Studi di Perugia",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -5784,7 +5784,7 @@
                     },
                     {
                         "affiliation-city": "Perugia",
-                        "affilname": "Università degli Studi di Perugia",
+                        "affilname": "Universita degli Studi di Perugia",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -5872,12 +5872,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Maraba",
-                        "affilname": "Universidade Federal do Sul e Sudeste do Pará",
+                        "affilname": "Universidade Federal do Sul e Sudeste do Para",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Belem",
-                        "affilname": "Universidade Federal do Pará",
+                        "affilname": "Universidade Federal do Para",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -5889,12 +5889,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Valparaiso",
-                        "affilname": "Universidad Técnica Federico Santa María",
+                        "affilname": "Universidad Tecnica Federico Santa Maria",
                         "affiliation-country": "Chile"
                     },
                     {
                         "affiliation-city": "Buenos Aires",
-                        "affilname": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+                        "affilname": "Consejo Nacional de Investigaciones Cientificas y Tecnicas",
                         "affiliation-country": "Argentina"
                     }
                 ]
@@ -6038,7 +6038,7 @@
                 "year": "2016",
                 "affiliation": {
                     "affiliation-city": "Perugia",
-                    "affilname": "Università degli Studi di Perugia",
+                    "affilname": "Universita degli Studi di Perugia",
                     "affiliation-country": "Italy"
                 }
             },
@@ -6081,7 +6081,7 @@
                     },
                     {
                         "affiliation-city": "Vienna",
-                        "affilname": "Universität Wien Institut für Mathematik",
+                        "affilname": "Universitat Wien Institut fur Mathematik",
                         "affiliation-country": "Austria"
                     }
                 ]
@@ -6205,7 +6205,7 @@
                     },
                     {
                         "affiliation-city": "Santiago",
-                        "affilname": "Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile",
+                        "affilname": "Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile",
                         "affiliation-country": "Chile"
                     }
                 ]
@@ -6217,7 +6217,7 @@
                 "year": "1991",
                 "affiliation": {
                     "affiliation-city": "Plzen",
-                    "affilname": "Plzeň",
+                    "affilname": "Plzen",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6351,7 +6351,7 @@
                 "year": "1984",
                 "affiliation": {
                     "affiliation-city": "Bonn",
-                    "affilname": "Universität Bonn",
+                    "affilname": "Universitat Bonn",
                     "affiliation-country": "Germany"
                 }
             },
@@ -6417,7 +6417,7 @@
                 "year": "2018",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6432,7 +6432,7 @@
                 "year": "2016",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6442,7 +6442,7 @@
                 "year": "2015",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6452,7 +6452,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6467,7 +6467,7 @@
                 "year": "2012",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6497,7 +6497,7 @@
                 "year": "2011",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6507,7 +6507,7 @@
                 "year": "2010",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6517,7 +6517,7 @@
                 "year": "2010",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6537,7 +6537,7 @@
                 "year": "2005",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6557,7 +6557,7 @@
                 "year": "2004",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6572,7 +6572,7 @@
                 "year": "2002",
                 "affiliation": {
                     "affiliation-city": "Liberec",
-                    "affilname": "Technická Univerzita v Liberci",
+                    "affilname": "Technicka Univerzita v Liberci",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -6629,7 +6629,7 @@
                     },
                     {
                         "affiliation-city": "Rostock",
-                        "affilname": "Universität Rostock",
+                        "affilname": "Universitat Rostock",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -6655,7 +6655,7 @@
                         "affiliation-country": "Taiwan"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "National Quemoy University",
                         "affiliation-country": "Taiwan"
                     },
@@ -6687,7 +6687,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Louvain-la-Neuve",
-                    "affilname": "Université Catholique de Louvain",
+                    "affilname": "Universite Catholique de Louvain",
                     "affiliation-country": "Belgium"
                 }
             },
@@ -6730,7 +6730,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Santiago de Compostela",
-                        "affilname": "Facultade de Matemáticas",
+                        "affilname": "Facultade de Matematicas",
                         "affiliation-country": "Spain"
                     },
                     {
@@ -6826,7 +6826,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Rostock",
-                        "affilname": "Universität Rostock",
+                        "affilname": "Universitat Rostock",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -6894,7 +6894,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Brasilia",
-                        "affilname": "Universidade de Brasília",
+                        "affilname": "Universidade de Brasilia",
                         "affiliation-country": "Brazil"
                     },
                     {
@@ -6928,12 +6928,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Brasilia",
-                        "affilname": "Universidade de Brasília",
+                        "affilname": "Universidade de Brasilia",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Sao Carlos",
-                        "affilname": "Universidade Federal de São Carlos",
+                        "affilname": "Universidade Federal de Sao Carlos",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -6962,7 +6962,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Beni Mellal",
-                        "affilname": "Université Sultan Moulay Slimane",
+                        "affilname": "Universite Sultan Moulay Slimane",
                         "affiliation-country": "Morocco"
                     },
                     {
@@ -6996,7 +6996,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Tunis",
-                        "affilname": "Université de Tunis El Manar, Faculté des Sciences de Tunis",
+                        "affilname": "Universite de Tunis El Manar, Faculte des Sciences de Tunis",
                         "affiliation-country": "Tunisia"
                     },
                     {
@@ -7006,7 +7006,7 @@
                     },
                     {
                         "affiliation-city": "Bejaia",
-                        "affilname": "Université Abderrahmane Mira - Béjaïa",
+                        "affilname": "Universite Abderrahmane Mira - Bejaia",
                         "affiliation-country": "Algeria"
                     },
                     {
@@ -7032,7 +7032,7 @@
                 "year": "2024",
                 "affiliation": {
                     "affiliation-city": "Beni Mellal",
-                    "affilname": "Université Sultan Moulay Slimane",
+                    "affilname": "Universite Sultan Moulay Slimane",
                     "affiliation-country": "Morocco"
                 }
             },
@@ -7130,7 +7130,7 @@
                 "year": "2024",
                 "affiliation": {
                     "affiliation-city": "Fez",
-                    "affilname": "Analyse Mathématique et Applications, Université Sidi Mohamed Ben Abdellah",
+                    "affilname": "Analyse Mathematique et Applications, Universite Sidi Mohamed Ben Abdellah",
                     "affiliation-country": "Morocco"
                 }
             },
@@ -7156,7 +7156,7 @@
                     },
                     {
                         "affiliation-city": "Tunis",
-                        "affilname": "Université de Tunis El Manar, Faculté des Sciences de Tunis",
+                        "affilname": "Universite de Tunis El Manar, Faculte des Sciences de Tunis",
                         "affiliation-country": "Tunisia"
                     },
                     {
@@ -7195,12 +7195,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Jatai",
-                        "affilname": "Universidade Federal de Jataí",
+                        "affilname": "Universidade Federal de Jatai",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Goiania",
-                        "affilname": "Universidade Federal de Goiás",
+                        "affilname": "Universidade Federal de Goias",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -7212,12 +7212,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Jatai",
-                        "affilname": "Universidade Federal de Jataí",
+                        "affilname": "Universidade Federal de Jatai",
                         "affiliation-country": "Brazil"
                     },
                     {
                         "affiliation-city": "Goiania",
-                        "affilname": "Universidade Federal de Goiás",
+                        "affilname": "Universidade Federal de Goias",
                         "affiliation-country": "Brazil"
                     }
                 ]
@@ -7251,7 +7251,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Gabes",
-                        "affilname": "Université de Gabès",
+                        "affilname": "Universite de Gabes",
                         "affiliation-country": "Tunisia"
                     },
                     {
@@ -7370,7 +7370,7 @@
                 "year": "N/A",
                 "affiliation": {
                     "affiliation-city": "Bonn",
-                    "affilname": "Universität Bonn",
+                    "affilname": "Universitat Bonn",
                     "affiliation-country": "Germany"
                 }
             },
@@ -7433,12 +7433,12 @@
                     },
                     {
                         "affiliation-city": "Brescia",
-                        "affilname": "Università degli Studi di Brescia",
+                        "affilname": "Universita degli Studi di Brescia",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Salerno",
-                        "affilname": "Università degli Studi di Salerno",
+                        "affilname": "Universita degli Studi di Salerno",
                         "affiliation-country": "Italy"
                     }
                 ]
@@ -7486,7 +7486,7 @@
                 "year": "2015",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7513,7 +7513,7 @@
                 "year": "2014",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7523,7 +7523,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7543,7 +7543,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Sao Paulo",
-                    "affilname": "Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+                    "affilname": "Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
                     "affiliation-country": "Brazil"
                 }
             },
@@ -7598,7 +7598,7 @@
                 "year": "2006",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7608,7 +7608,7 @@
                 "year": "2005",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7628,7 +7628,7 @@
                 "year": "2004",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7678,7 +7678,7 @@
                 "year": "2002",
                 "affiliation": {
                     "affiliation-city": "Ostrava-Poruba",
-                    "affilname": "Ústav Geoniky, Akademie Ved Ceské Republiky",
+                    "affilname": "Ustav Geoniky, Akademie Ved Ceske Republiky",
                     "affiliation-country": "Czech Republic"
                 }
             },
@@ -7719,17 +7719,17 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Udine",
-                        "affilname": "Università degli Studi di Udine",
+                        "affilname": "Universita degli Studi di Udine",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Trieste",
-                        "affilname": "Università degli Studi di Trieste",
+                        "affilname": "Universita degli Studi di Trieste",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Bratislava",
-                        "affilname": "Univerzita Komenského v Bratislave",
+                        "affilname": "Univerzita Komenskeho v Bratislave",
                         "affiliation-country": "Slovakia"
                     }
                 ]
@@ -7782,7 +7782,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Karlsruhe",
-                        "affilname": "Karlsruher Institut für Technologie, Campus Süd",
+                        "affilname": "Karlsruher Institut fur Technologie, Campus Sud",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -7828,7 +7828,7 @@
                     },
                     {
                         "affiliation-city": "Rostock",
-                        "affilname": "Universität Rostock",
+                        "affilname": "Universitat Rostock",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -7844,7 +7844,7 @@
                 "year": "2016",
                 "affiliation": {
                     "affiliation-city": "Santiago de Compostela",
-                    "affilname": "Facultade de Matemáticas",
+                    "affilname": "Facultade de Matematicas",
                     "affiliation-country": "Spain"
                 }
             },
@@ -7854,7 +7854,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Louvain-la-Neuve",
-                    "affilname": "Université Catholique de Louvain",
+                    "affilname": "Universite Catholique de Louvain",
                     "affiliation-country": "Belgium"
                 }
             },
@@ -7912,7 +7912,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Santiago",
-                        "affilname": "Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile",
+                        "affilname": "Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile",
                         "affiliation-country": "Chile"
                     },
                     {
@@ -7929,7 +7929,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Rostock",
-                        "affilname": "Universität Rostock",
+                        "affilname": "Universitat Rostock",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -7946,7 +7946,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Santiago",
-                        "affilname": "Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile",
+                        "affilname": "Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile",
                         "affiliation-country": "Chile"
                     },
                     {
@@ -7978,12 +7978,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Santiago",
-                        "affilname": "Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile",
+                        "affilname": "Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile",
                         "affiliation-country": "Chile"
                     },
                     {
                         "affiliation-city": "Santiago",
-                        "affilname": "Pontificia Universidad Católica de Chile",
+                        "affilname": "Pontificia Universidad Catolica de Chile",
                         "affiliation-country": "Chile"
                     }
                 ]
@@ -8063,12 +8063,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ulm",
-                        "affilname": "Universität Ulm",
+                        "affilname": "Universitat Ulm",
                         "affiliation-country": "Germany"
                     },
                     {
                         "affiliation-city": "Freiberg",
-                        "affilname": "Technische Universität Bergakademie Freiberg",
+                        "affilname": "Technische Universitat Bergakademie Freiberg",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -8080,12 +8080,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ilmenau",
-                        "affilname": "Technischen Universität Ilmenau",
+                        "affilname": "Technischen Universitat Ilmenau",
                         "affiliation-country": "Germany"
                     },
                     {
                         "affiliation-city": "Ulm",
-                        "affilname": "Universität Ulm",
+                        "affilname": "Universitat Ulm",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -8214,7 +8214,7 @@
                     },
                     {
                         "affiliation-city": "Ljubljana",
-                        "affilname": "Institut \"Jožef Stefan\"",
+                        "affilname": "Institut \"Jozef Stefan\"",
                         "affiliation-country": "Slovenia"
                     },
                     {
@@ -8240,8 +8240,8 @@
                         "affiliation-country": "Romania"
                     },
                     {
-                        "affiliation-city": "Médéa",
-                        "affilname": "Université Yahia Farès de Médéa",
+                        "affiliation-city": "Medea",
+                        "affilname": "Universite Yahia Fares de Medea",
                         "affiliation-country": "Algeria"
                     },
                     {
@@ -8262,7 +8262,7 @@
                 "year": "2015",
                 "affiliation": {
                     "affiliation-city": "Mexico",
-                    "affilname": "Universidad Nacional Autónoma de México",
+                    "affilname": "Universidad Nacional Autonoma de Mexico",
                     "affiliation-country": "Mexico"
                 }
             },
@@ -8464,7 +8464,7 @@
                 "year": "1995",
                 "affiliation": {
                     "affiliation-city": "Toulouse",
-                    "affilname": "Université Toulouse III - Paul Sabatier",
+                    "affilname": "Universite Toulouse III - Paul Sabatier",
                     "affiliation-country": "France"
                 }
             },
@@ -8576,12 +8576,12 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bari",
-                        "affilname": "Università degli studi di Bari Aldo Moro",
+                        "affilname": "Universita degli studi di Bari Aldo Moro",
                         "affiliation-country": "Italy"
                     },
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Institut für Niedertemperatur-Plasmaphysik",
+                        "affilname": "Institut fur Niedertemperatur-Plasmaphysik",
                         "affiliation-country": "Germany"
                     }
                 ]
@@ -8593,7 +8593,7 @@
                 "year": "1990",
                 "affiliation": {
                     "affiliation-city": "Toulouse",
-                    "affilname": "Université Toulouse III - Paul Sabatier",
+                    "affilname": "Universite Toulouse III - Paul Sabatier",
                     "affiliation-country": "France"
                 }
             },
@@ -8762,7 +8762,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Universität Greifswald",
+                        "affilname": "Universitat Greifswald",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -8777,7 +8777,7 @@
                     },
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     }
                 ]
@@ -8960,7 +8960,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
+                        "affilname": "Leibniz-Institut fur Plasmaforschung und Technologie e.V.",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -8977,7 +8977,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bari",
-                        "affilname": "Università degli studi di Bari Aldo Moro",
+                        "affilname": "Universita degli studi di Bari Aldo Moro",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -8994,7 +8994,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bari",
-                        "affilname": "Università degli studi di Bari Aldo Moro",
+                        "affilname": "Universita degli studi di Bari Aldo Moro",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -9011,7 +9011,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bari",
-                        "affilname": "Università degli studi di Bari Aldo Moro",
+                        "affilname": "Universita degli studi di Bari Aldo Moro",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -9071,7 +9071,7 @@
                 "year": "2001",
                 "affiliation": {
                     "affiliation-city": "Bari",
-                    "affilname": "Università degli studi di Bari Aldo Moro",
+                    "affilname": "Universita degli studi di Bari Aldo Moro",
                     "affiliation-country": "Italy"
                 }
             },
@@ -9119,7 +9119,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -9204,7 +9204,7 @@
                 "year": "1992",
                 "affiliation": {
                     "affiliation-city": "Sherbrooke",
-                    "affilname": "Université de Sherbrooke",
+                    "affilname": "Universite de Sherbrooke",
                     "affiliation-country": "Canada"
                 }
             },
@@ -9443,7 +9443,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Dortmund",
-                        "affilname": "Leibniz-Institut für Analytische Wissenschaften",
+                        "affilname": "Leibniz-Institut fur Analytische Wissenschaften",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -9518,7 +9518,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Bari",
-                        "affilname": "Università degli studi di Bari Aldo Moro",
+                        "affilname": "Universita degli studi di Bari Aldo Moro",
                         "affiliation-country": "Italy"
                     },
                     {
@@ -9552,12 +9552,12 @@
                 "year": "1990",
                 "affiliation": [
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Skoda National Corporation",
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Institute of Mechanical and Electrical Engineering",
                         "affiliation-country": "United States"
                     }
@@ -9648,7 +9648,7 @@
                 "year": "1980",
                 "affiliation": {
                     "affiliation-city": "Riga",
-                    "affilname": "Latvijas Zinātņu akadēmija",
+                    "affilname": "Latvijas Zinatnu akademija",
                     "affiliation-country": "Latvia"
                 }
             },
@@ -9849,7 +9849,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Greifswald",
-                        "affilname": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
+                        "affilname": "Leibniz-Institut fur Plasmaforschung und Technologie e.V.",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -9905,7 +9905,7 @@
                 "year": "2010",
                 "affiliation": {
                     "affiliation-city": "Vilnius",
-                    "affilname": "Teorinės Fizikos ir Astronomijos Institutas",
+                    "affilname": "Teorines Fizikos ir Astronomijos Institutas",
                     "affiliation-country": "Lithuania"
                 }
             },
@@ -9970,7 +9970,7 @@
                 "affiliation": [
                     {
                         "affiliation-city": "Ceske Budejovice",
-                        "affilname": "Jihočeská Univerzita v Českých Budějovicích",
+                        "affilname": "Jihoceska Univerzita v Ceskych Budejovicich",
                         "affiliation-country": "Czech Republic"
                     },
                     {
@@ -10590,7 +10590,7 @@
                 "year": "2013",
                 "affiliation": {
                     "affiliation-city": "Annaba",
-                    "affilname": "Université Badji Mokhtar - Annaba",
+                    "affilname": "Universite Badji Mokhtar - Annaba",
                     "affiliation-country": "Algeria"
                 }
             },
@@ -10632,7 +10632,7 @@
                 "year": "2000",
                 "affiliation": {
                     "affiliation-city": "Halle",
-                    "affilname": "Martin-Luther-Universität Halle-Wittenberg",
+                    "affilname": "Martin-Luther-Universitat Halle-Wittenberg",
                     "affiliation-country": "Germany"
                 }
             },
@@ -10647,7 +10647,7 @@
                 "year": "1999",
                 "affiliation": {
                     "affiliation-city": "Louvain-la-Neuve",
-                    "affilname": "Université Catholique de Louvain",
+                    "affilname": "Universite Catholique de Louvain",
                     "affiliation-country": "Belgium"
                 }
             }
@@ -10722,7 +10722,7 @@
                 "year": "2024",
                 "affiliation": {
                     "affiliation-city": "Vienna",
-                    "affilname": "Technische Universität Wien",
+                    "affilname": "Technische Universitat Wien",
                     "affiliation-country": "Austria"
                 }
             },
@@ -10758,7 +10758,7 @@
                     },
                     {
                         "affiliation-city": "Freiberg",
-                        "affilname": "Technische Universität Bergakademie Freiberg",
+                        "affilname": "Technische Universitat Bergakademie Freiberg",
                         "affiliation-country": "Germany"
                     },
                     {
@@ -10990,7 +10990,7 @@
                 "year": "2022",
                 "affiliation": {
                     "affiliation-city": "Linkoping",
-                    "affilname": "Linköpings Universitet",
+                    "affilname": "Linkopings Universitet",
                     "affiliation-country": "Sweden"
                 }
             },
@@ -11169,7 +11169,7 @@
                         "affiliation-country": "United States"
                     },
                     {
-                        "affiliation-city": null,
+                        "affiliation-city": "N/A",
                         "affilname": "Francis Marion College",
                         "affiliation-country": "United States"
                     }
