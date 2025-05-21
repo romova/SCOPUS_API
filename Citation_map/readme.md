@@ -108,8 +108,7 @@ Data was collected in **April 2025** and filtered to **exclude articles cited by
 ---
 
 ## Screenshot
-
-_Add a screenshot here to provide a quick visual preview._
+![citation_map_whole](https://github.com/user-attachments/assets/fd12dc5f-3c9c-4078-8e39-2166031c31a5)
 
 ---
 
