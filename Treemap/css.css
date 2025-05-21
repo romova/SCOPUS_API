@@ -1,0 +1,319 @@
+::-webkit-scrollbar {
+  width: 13px;
+  background: black;
+}
+
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #EEE;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: white;
+}
+
+*:not(ul, ol) {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  --sm-min: 576px;
+  --md-min: 768px;
+  --lg-min: 992px;
+  --xl-min: 1200px;
+  --primary-color: #FFC30090;
+  --primary-color-darker: #7a5f03d6;
+}
+
+.colored {
+  background: var(--primary-color-darker);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+table {
+  display: table !important;
+}
+
+
+rect {
+  transition: all 1s ease;
+}
+
+rect:not(.bar),
+rect+text:not(#right text),
+rect+text+text:not(#right text) {
+  cursor: pointer;
+}
+
+text {
+  cursor: default;
+}
+
+#right {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 300px;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-left: 5px double var(--primary-color);
+}
+
+#listed_others {
+  height: calc(100vh - 123px);
+  overflow-y: auto;
+}
+
+#menu {
+  font-size: small;
+  padding: 10px 0px;
+  background: var(--primary-color);
+}
+
+#menu i {
+  font-size: 1.5em;
+  color: white;
+  background-color: black;
+  padding: 10px 10px;
+  border-radius: 500px;
+}
+
+#menu div:nth-of-type(1) i {
+  padding: 10px 13px;
+}
+
+
+#menu div.selected {
+  color: white;
+}
+
+#menu div.selected i {
+  background-color: white;
+  color: black;
+}
+
+#menu div {
+  cursor: pointer;
+}
+
+#menu div:not(.selected):hover i {
+  background-color: #333;
+}
+
+.mono {
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+#box_2 .row div {
+  padding: 5px;
+  background-color: #333;
+  text-align: center;
+  border: 5px solid #EEE;
+  cursor: pointer;
+}
+
+#box_2 .row div.selected {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+#listed_others th,
+td {
+  font-size: 0.8em;
+}
+
+#main_settings {
+  padding-top: 5%;
+  margin: 5%;
+  text-align: center;
+}
+
+select {
+  background-color: var(--primary-color-darker);
+  color: white;
+  padding: 12px;
+  width: 350px;
+  border: none;
+  font-size: 19px;
+  border-radius: 10px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+#start {
+  text-align: center;
+  margin-top: 30px;
+  width: 100px;
+  font-size: 18px;
+}
+
+
+#legend {
+  text-align: center;
+}
+
+#legend span {
+  font-size: 0.8em;
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+}
+
+#legend span:nth-of-type(1) {
+  background-color: #4997E3;
+}
+
+#legend span:nth-of-type(2) {
+  background-color: chocolate;
+}
+
+#editing,
+#highlighting {
+  --left: 5px;
+  margin: 2px;
+  padding: var(--left);
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: 0;
+  width: calc(100% - 3px);
+  float: left;
+  height: 40vh;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+#editing,
+#highlighting,
+#highlighting * {
+  font-size: 12pt;
+  font-family: monospace;
+  line-height: 15pt;
+  tab-size: 2;
+}
+
+#editing {
+  z-index: 1;
+  color: transparent;
+  background: transparent;
+  caret-color: gray;
+  resize: none;
+}
+
+#highlighting {
+  z-index: 0;
+}
+
+code {
+  position: absolute;
+  left: var(--left);
+}
+
+textarea:focus {
+  outline: none !important;
+  box-shadow: 0 0 10px gray;
+}
+
+#run {
+  position: absolute;
+  top: calc(40vh + 100px);
+  left: 10%;
+  background: rgb(26, 255, 0);
+  width: 80%;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  color: black;
+}
+
+#query_results {
+  position: absolute;
+  top: calc(40vh + 160px);
+  left: 0;
+  width: 100%;
+  height: calc(60vh - 160px);
+  padding: 5px;
+  overflow: auto;
+}
+
+body {
+  background: black;
+  color: white
+}
+
+#bar-chart text {
+  fill: white;
+}
+
+code[class*=language-] {
+  text-shadow: none;
+  color: #f8f8f2;
+}
+
+pre[class*=language-] {
+  background: transparent;
+  border: 1px solid #333 !important;
+}
+
+.token {
+  background: transparent !important;
+}
+
+table.table {
+  color: white;
+}
+
+#listed_others tr>td {
+  cursor: pointer;
+}
+
+.centralized {
+  padding-left: calc(50% - 400px);
+  padding-top: 100px;
+}
+
+#path {
+  position: absolute;
+  bottom: 0px;
+  background: #7a5f0380;
+  width: calc(100% - 300px);
+}
+
+#path a {
+  color: white;
+  text-decoration: none;
+}
+
+#path i {
+  font-size: 1.5em;
+  padding: 10px 10px;
+}
+
+#more_info {
+  position: absolute;
+  right: 50px;
+  top: 0.7em;
+}

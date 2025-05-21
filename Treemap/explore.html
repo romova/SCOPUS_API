@@ -1,0 +1,807 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Dominik Vladař">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find UWB references.">
+  <!-- Bootstrap import -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+  <!-- CSS Animation io -->
+  <link href="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css" rel="stylesheet">
+  <script defer src="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/letteranimation.min.js"></script>
+  <!--Typed.js-->
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js"></script>
+  <!-- D3JS-->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!--Prism-->
+  <script src="
+    https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js
+    "></script>
+  <link href="
+    https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.min.css
+    " rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css.css">
+
+  <!-- favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <title>UWB Reference Finder</title>
+</head>
+
+<body>
+  <div class="h6 ml-5 mt-1" id="cited-by-header">&nbsp;</div>
+  <div id="cited-by"></div>
+  <div class="text-center" id="detail">
+    <h3>&nbsp;</h3>
+    <div>&nbsp;</div>
+  </div>
+  <div class="h6 ml-5 mt-1" id="references-header">
+    &nbsp;
+  </div>
+  <div id="references"></div>
+  <div id="path"></div>
+
+  <div id="right">
+    <div id="menu" class="row text-center">
+      <div class="col-4 selected" onclick="menu(0)"><i class="fa-solid fa-clipboard-list"></i><br> Summary</div>
+      <div class="col-4" onclick="menu(1)"><i class="fa-solid fa-magnifying-glass"></i><br> Query</div>
+      <div class="col-4" onclick="menu(2)"><i class="fa-solid fa-list"></i><br> Others</div>
+    </div>
+    <div id="box_0">
+      <div id="bar-chart"></div>
+      <div id="ratio" class="text-center mono"></div>
+      <div id="line-chart"></div>
+      <div id="legend">
+        <span>&nbsp;</span> Referenced by <span>&nbsp;</span> Own references
+      </div>
+      <div class="text-center">Data collected: 17. 3. 2025</div>
+    </div>
+    <div id="box_1" style="display: none;">
+      <textarea id="editing" oninput="update(this.value); sync_scroll(this);" onscroll="sync_scroll(this);"
+        onkeydown="check_tab(this, event);" spellcheck="false"></textarea>
+
+      <pre id="highlighting" aria-hidden="true">
+      <code class="language-javascript" id="highlighting-content"></code>
+    </pre>
+
+      <div id="run"><i class="fa-solid fa-play"></i> Run</div>
+      <div id="query_results">
+      </div>
+    </div>
+    <div id="box_2" style="display: none;">
+      <div class="row">
+        <div class="col-6 selected list_btn" onclick="list_others(0)">Referenced by</div>
+        <div class="col-6 list_btn" onclick="list_others(2)">Own references</div>
+      </div>
+      <div id="listed_others"></div>
+    </div>
+  </div>
+  <script>
+
+    /**
+     * Displays a table of "other" entities (e.g. cities or institutions) with their reference counts.
+     * Handles sorting and row click navigation.
+     * @param {number} arr_index - Index of the array to display (0: Referenced by, 2: Own references)
+     */
+    function list_others(arr_index) {
+      if (arr_index == 0) {
+        document.getElementsByClassName("list_btn")[0].classList.add("selected");
+        document.getElementsByClassName("list_btn")[1].classList.remove("selected");
+      } else {
+        document.getElementsByClassName("list_btn")[0].classList.remove("selected");
+        document.getElementsByClassName("list_btn")[1].classList.add("selected");
+      }
+      const others = document.getElementById("listed_others");
+      others.innerHTML = "";
+
+      const table = document.createElement("table");
+      table.className = "table table-striped";
+      table.style.width = "100%";
+      table.style.tableLayout = "fixed"; // Preventing table from exceeding parent width
+
+
+      const thead = document.createElement("thead");
+      const headerRow = document.createElement("tr");
+      ["Name", "Referenced By", "Own References"].forEach((header, index) => {
+        const th = document.createElement("th");
+        th.textContent = header;
+        th.style.cursor = "pointer";
+        th.style.wordWrap = "break-word"; // Ensuring text wraps within the cell
+        th.onclick = () => sortTable(index);
+        headerRow.appendChild(th);
+      });
+      thead.appendChild(headerRow);
+      table.appendChild(thead);
+
+      const tbody = document.createElement("tbody");
+      for (let i = 0; others_arrs.length > arr_index && i < others_arrs[arr_index].length; i++) {
+        const row = document.createElement("tr");
+
+        const nameCell = document.createElement("td");
+        nameCell.textContent = others_arrs[arr_index][i];
+        nameCell.style.wordWrap = "break-word";
+        row.appendChild(nameCell);
+
+        const referencedByCell = document.createElement("td");
+        referencedByCell.textContent = all_data[others_arrs[arr_index][i]][0].reduce((acc, val) => acc + val, 0);
+        referencedByCell.style.wordWrap = "break-word";
+        row.appendChild(referencedByCell);
+
+        const ownReferencesCell = document.createElement("td");
+        ownReferencesCell.textContent = all_data[others_arrs[arr_index][i]][1].reduce((acc, val) => acc + val, 0);
+        ownReferencesCell.style.wordWrap = "break-word";
+        row.appendChild(ownReferencesCell);
+        row.onclick = () => {
+          const name = others_arrs[arr_index][i];
+          const d = all_data[name];
+          if (last_scope) {
+            return;
+          }
+          if (countries_scope)
+            location.href = "explore.html?level=" + level + "&count=" + count + "&country=" + d[2] + "&country_name=" + name;
+          else location.href = "explore.html?level=" + level + "&count=" + count + "&city=" + name + "&country=" + url_params.get("country") + "&country_name=" + current_country;
+        }
+
+        tbody.appendChild(row);
+      }
+      table.appendChild(tbody);
+      others.appendChild(table);
+
+      function sortTable(columnIndex) {
+        /**
+         * Sorting function; can sort table by any column
+         * @param columnIndex index of column
+         */
+        const rows = Array.from(tbody.querySelectorAll("tr"));
+        const isNumeric = columnIndex > 0;
+        const sortedRows = rows.sort((a, b) => {
+          const aText = a.children[columnIndex].textContent;
+          const bText = b.children[columnIndex].textContent;
+          return isNumeric
+            ? parseInt(bText) - parseInt(aText) // Descending for numeric columns
+            : aText.localeCompare(bText); // Ascending for text columns
+        });
+        tbody.innerHTML = "";
+        sortedRows.forEach(row => tbody.appendChild(row));
+      }
+    }
+
+
+    /**
+     * Switches between main menu tabs (Summary, Query, Others).
+     * @param {number} menu_index - Index of the menu to activate
+     */
+    function menu(menu_index) {
+      const menu_items = document.querySelectorAll("#menu div");
+      for (let i = 0; i < menu_items.length; i++) {
+        if (i == menu_index) {
+          menu_items[i].classList.add("selected");
+        } else {
+          menu_items[i].classList.remove("selected");
+        }
+      }
+      for (let i = 0; i < 3; i++) {
+        if (i == menu_index) {
+          document.getElementById("box_" + i).style.display = "block";
+        } else {
+          document.getElementById("box_" + i).style.display = "none";
+        }
+      }
+    }
+
+
+    // Bar chart dimensions
+    const barChartWidth = 200;
+    const barChartHeight = 200;
+    const barMargin = { top: 20, right: 20, bottom: 40, left: 50 };
+
+    setTimeout(() => {
+      const barData = [
+        { label: "Referenced by", value: showing[0] },
+        { label: "Own references", value: showing[1] }
+      ];
+
+      const xScale = d3.scaleBand()
+        .domain(barData.map(d => d.label))
+        .range([0, barChartWidth])
+        .padding(0.2);
+
+      const yScale = d3.scaleLinear()
+        .domain([0, d3.max(barData, d => d.value)])
+        .nice()
+        .range([barChartHeight, 0]);
+
+      const svgBar = d3.select("#bar-chart")
+        .append("svg")
+        .attr("width", barChartWidth + barMargin.left + barMargin.right)
+        .attr("height", barChartHeight + barMargin.top + barMargin.bottom)
+        .append("g")
+        .attr("transform", `translate(${barMargin.left},${barMargin.top})`);
+
+      // Add bars
+      svgBar.selectAll(".bar")
+        .data(barData)
+        .enter()
+        .append("rect")
+        .attr("class", "bar")
+        .attr("x", d => xScale(d.label))
+        .attr("y", d => yScale(d.value))
+        .attr("width", xScale.bandwidth())
+        .attr("height", d => barChartHeight - yScale(d.value))
+        .attr("fill", "#4997E3");
+
+      // Add labels above bars
+      svgBar.selectAll(".bar-label")
+        .data(barData)
+        .enter()
+        .append("text")
+        .attr("class", "bar-label")
+        .attr("x", d => xScale(d.label) + xScale.bandwidth() / 2)
+        .attr("y", d => yScale(d.value) - 5)
+        .attr("text-anchor", "middle")
+        .text(d => d.value);
+
+      // Add x-axis
+      svgBar.append("g")
+        .attr("transform", `translate(0,${barChartHeight})`)
+        .call(d3.axisBottom(xScale));
+
+      if (showing[0] > showing[1]) {
+        ratio = (showing[0] / showing[1]).toFixed(2);
+        document.getElementById("ratio").innerHTML = `referenced by ≈ ${ratio}x own references`;
+      }
+      else {
+        ratio = (showing[1] / showing[0]).toFixed(2);
+        document.getElementById("ratio").innerHTML = `${ratio}x referenced by ≈ own references`;
+      }
+      list_others(0);
+
+      // Line chart dimensions
+      const lineChartWidth = 200;
+      const lineChartHeight = 200;
+      const lineMargin = { top: 20, right: 20, bottom: 40, left: 50 };
+
+
+      const tooltip = d3.select("body")
+        .append("div")
+        .style("position", "absolute")
+        .style("background", "rgba(0, 0, 0, 0.7)")
+        .style("color", "white")
+        .style("padding", "5px 10px")
+        .style("border-radius", "5px")
+        .style("pointer-events", "none")
+        .style("opacity", 0);
+
+      // Create scales
+      const xScaleLine = d3.scaleLinear()
+        .domain([1992, 1992 + sums[0].length - 1])
+        .range([0, lineChartWidth]);
+
+      const yScaleLine = d3.scaleLinear()
+        .domain([0, d3.max([...sums[0], ...sums[1]])])
+        .nice()
+        .range([lineChartHeight, 0]);
+
+      // Create SVG container
+      const svgLine = d3.select("#line-chart")
+        .append("svg")
+        .attr("width", lineChartWidth + lineMargin.left + lineMargin.right)
+        .attr("height", lineChartHeight + lineMargin.top + lineMargin.bottom)
+        .append("g")
+        .attr("transform", `translate(${lineMargin.left},${lineMargin.top})`);
+
+      // Line generator
+      const lineGenerator = d3.line()
+        .x((d, i) => xScaleLine(1992 + i))
+        .y(d => yScaleLine(d));
+
+      // Add line for sums[0]
+      svgLine.append("path")
+        .datum(sums[0])
+        .attr("fill", "none")
+        .attr("stroke", "#4997E3")
+        .attr("stroke-width", 2)
+        .attr("d", lineGenerator);
+
+      // Add line for sums[1]
+      svgLine.append("path")
+        .datum(sums[1])
+        .attr("fill", "none")
+        .attr("stroke", "chocolate")
+        .attr("stroke-width", 2)
+        .attr("d", lineGenerator);
+
+      // Add x-axis
+      svgLine.append("g")
+        .attr("transform", `translate(0,${lineChartHeight})`)
+        .call(d3.axisBottom(xScaleLine).tickFormat(d3.format("d")))
+        .append("text")
+        .attr("x", lineChartWidth / 2)
+        .attr("y", 35)
+        .attr("fill", "white")
+        .attr("text-anchor", "middle")
+        .text("Year");
+
+      // Add y-axis
+      svgLine.append("g")
+        .call(d3.axisLeft(yScaleLine))
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("x", -lineChartHeight / 2)
+        .attr("y", -40)
+        .attr("fill", "white")
+        .attr("text-anchor", "middle")
+        .text("References");
+
+      // Add points for sums[0]
+      svgLine.selectAll(".dot-sums0")
+        .data(sums[0])
+        .enter()
+        .append("circle")
+        .attr("class", "dot-sums0")
+        .attr("cx", (d, i) => xScaleLine(1992 + i))
+        .attr("cy", d => yScaleLine(d))
+        .attr("r", 4)
+        .attr("fill", "#4997E3")
+        .on("mouseover", (event, d) => {
+          year_index = sums[0].indexOf(d);
+          tooltip
+            .style("opacity", 1)
+            .html(`Year: ${1992 + year_index}<br>Referenced by: ${sums[0][year_index]}<br>Own references: ${sums[1][year_index]}`);
+        })
+        .on("mousemove", (event) => {
+          tooltip
+            .style("left", (event.pageX - 180) + "px")
+            .style("top", (event.pageY - 30) + "px");
+        })
+        .on("mouseout", () => {
+          tooltip.style("opacity", 0);
+        });
+
+      // Add points for sums[1]
+      svgLine.selectAll(".dot-sums1")
+        .data(sums[1])
+        .enter()
+        .append("circle")
+        .attr("class", "dot-sums1")
+        .attr("cx", (d, i) => xScaleLine(1992 + i))
+        .attr("cy", d => yScaleLine(d))
+        .attr("r", 4)
+        .attr("fill", "chocolate")
+        .on("mouseover", (event, d) => {
+          year_index = sums[1].indexOf(d);
+          tooltip
+            .style("opacity", 1)
+            .html(`Year: ${1992 + year_index}<br>Referenced by: ${sums[0][year_index]}<br>Own references: ${sums[1][year_index]}`);
+        })
+        .on("mousemove", (event) => {
+          tooltip
+            .style("left", (event.pageX - 180) + "px")
+            .style("top", (event.pageY - 30) + "px");
+        })
+        .on("mouseout", () => {
+          tooltip.style("opacity", 0);
+        });
+    }, 600)
+
+
+    /**
+     * Checks if 2 arrays contain same elements,
+     * while these elements can be differently permutated.
+     * @param {array} a - First array
+     * @param {array} b - Second array
+     * @returns {boolean} True if both arrays contain exactly same elements (missing any element is not allowed), false otherwise.
+    */
+    function areArraysTheSame(a, b) {
+      return a.sort().join(' ') === b.sort().join(' ');
+    }
+
+  </script>
+
+
+  <script>
+    // Getting window size and adjusting treemap size to it
+    //that implifies, that page reload is needed to correctly repaint visualization while resizing window
+    const margin = { top: 5, right: 400, bottom: 5, left: 20 };
+    document.getElementById("detail").setAttribute("style", "margin-left: -" + margin.right + "px;");
+    const width = window.innerWidth - margin.left - margin.right;
+    const height = window.innerHeight * 0.38 - margin.top - margin.bottom;
+
+    const standard_color = "#FFC30090";
+    const hover_color = "#4997E3";
+    const hover_color_partly = "gray";
+    let all_data = null;
+    const show_count = 40;
+    let others_arrs = [];
+    let others_are_same = true;
+    let sums = [[], []];
+
+    const url_params = new URLSearchParams(window.location.search);
+
+    const level = parseInt(url_params.get("level") || "1");
+    const count = parseInt(url_params.get("count") || "1");
+
+
+    const tau = 0.1;
+    const no_penalisation = 18;
+
+    /**
+     * Returns a multiplier for citation counts based on year index.
+     * @param {number} index - Index of the year (0 = oldest)
+     * @returns {number} Multiplier for citation count
+     */
+    function citations_multiplier(index) {
+      return Math.max(Math.exp(tau * (index - no_penalisation)), 1);
+    }
+
+    /**
+     * Modifies the citation counts in the data object by applying a multiplier to each year.
+     * @param {Object} data - Data object with citation arrays to be modified in place
+     */
+    function multiply_citations(data) {
+      for (let d in data) {
+        d = data[d];
+        dd = d[0];
+        for (let i = 0; i < dd.length; i++) {
+          dd[i] = Math.round(dd[i] * citations_multiplier(i));
+        }
+      }
+    }
+
+    /**
+     * Creates a D3 treemap visualization for the given data and appends it to the specified DOM element.
+     * Handles click and hover events for navigation and detail display.
+     * @param {number} index - 0 for "Referenced by", 1 for "Own references"
+     * @param {string} place - CSS selector for the container element
+     * @param {string} [data_path="processed/countries.json"] - Path to the JSON data file
+     * @param {string|null} [selector=null] - Optional selector for nested data
+     */
+    function create_treemap(index, place, data_path = "processed/countries.json", selector = null) {
+      const svg = d3.select(place)
+        .append("svg")
+        .attr("width", width + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+      // Data loading
+      d3.json(data_path).then(data => {
+        if (selector != null) {
+          data = data[selector];
+        }
+        if (count == 2 && all_data == null) {
+          multiply_citations(data);
+        }
+        if (all_data == null) all_data = data;
+        const children = Object.entries(data)
+          .map(([country, values]) => ({
+            name: country,
+            value: values[index].reduce((accumulator, currentValue, index) => {
+              return accumulator + currentValue;
+            }, 0)
+          }))
+          .filter(child => child.value > 0) // Creating treemap node only for element with value > 0
+          .sort((a, b) => b.value - a.value)
+          .map((d, i, arr) => {
+            if (i < show_count) {
+              return d;
+            } else if (i === show_count) {
+              others_arrs.push(arr.slice(show_count).map(item => item.name));
+              return {
+                name: "Others",
+                value: arr.slice(show_count).reduce((acc, curr) => acc + curr.value, 0)
+              };
+            } else {
+              return null;
+            }
+          })
+          .filter(Boolean);
+        if (children.length == 0) {
+          document.querySelector(place).innerHTML = "<h3 class='centralized'>No data available for this selection.</h3>";
+          return;
+        }
+
+        // Hierarchy creation
+        const root = d3.hierarchy({ name: "root", children })
+          .sum(d => d.value);
+
+
+        // Creating layout
+        const treemap = d3.treemap()
+          .size([width, height])
+          .padding(1);
+
+        treemap(root);
+
+        const nodes = svg.selectAll("g")
+          .data(root.leaves())
+          .enter()
+          .append("g")
+          .attr("transform", d => `translate(${d.x0},${d.y0})`)
+          .on("click", (event, d) => {
+            if (d.data.name == "Others") {
+              menu(2);
+              list_others(index * 2);
+              return;
+            }
+            if (last_scope) {
+              return;
+            }
+            if (countries_scope)
+              location.href = "explore.html?level=" + level + "&count=" + count + "&country=" + all_data[d.data.name][2] + "&country_name=" + d.data.name;
+            else location.href = "explore.html?level=" + level + "&count=" + count + "&city=" + d.data.name + "&country=" + url_params.get("country") + "&country_name=" + current_country;
+          })
+          .on("mouseover", function (event, d) {
+            // Changing color on hover
+            let sum_on_second = 0;
+            if (all_data.hasOwnProperty(d.data.name)) {
+              for (let i = countries_scope ? 0 : -1; i < 2; i++) {
+                if (all_data[d.data.name].length == 4 + countries_scope ? 0 : -1 && i == 1) {
+                  try {
+                    d3.select(others_arrs[3 - index * 2]).attr("fill", (others_arrs[3 - index * 2].length == 1 ? hover_color : hover_color_partly));
+                  }
+                  catch (e) {
+                    continue;//second treemap does have 0 occurancies of this
+                  }
+                  continue;
+                }
+                const element = all_data[d.data.name][3 + i];
+                d3.select(element).attr("fill", hover_color);
+              }
+              sum_on_second = all_data[d.data.name][(index + 1) % 2].reduce((accumulator, currentValue) => {
+                return accumulator + currentValue
+              }, 0);
+            } else {
+              //Others
+              d3.select(others_arrs[index * 2 + 1]).attr("fill", hover_color);
+              d3.select(others_arrs[3 - index * 2]).attr("fill", (others_are_same ? hover_color : hover_color_partly));
+              for (let obj of others_arrs[index * 2]) {
+                d3.select(all_data[obj][3 + (countries_scope ? 0 : -1)]).attr("fill", hover_color);
+                sum_on_second += all_data[obj][(index + 1) % 2].reduce((accumulator, currentValue) => {
+                  return accumulator + currentValue
+                }, 0);
+              }
+            }
+            document.getElementById("detail").innerHTML = `<h3>${d.data.name == "Others" ? ("Others (" + ["referenced by", "own references"][index] + ")") : d.data.name} </h3>Referenced by: ${index == 0 ? d.data.value : sum_on_second}, Own references: ${index == 0 ? sum_on_second : d.data.value}`;
+          })
+          .on("mouseout", function (event, d) {
+            if (all_data.hasOwnProperty(d.data.name)) {
+              for (let i = countries_scope ? 0 : -1; i < 2; i++) {
+                const element = all_data[d.data.name][3 + i];
+                d3.select(element).attr("fill", standard_color);
+              }
+              if (all_data[d.data.name].length == 4 + countries_scope ? 0 : -1) {
+                d3.select(others_arrs[3 - index * 2]).attr("fill", standard_color);
+              }
+            }
+            else {
+              //Others
+              for (let i = 1; i < others_arrs.length; i += 2) {
+                const element = others_arrs[i];
+                d3.select(element).attr("fill", standard_color);
+              }
+              for (let obj of others_arrs[index * 2]) {
+                d3.select(all_data[obj][3 + (countries_scope ? 0 : -1)]).attr("fill", standard_color);
+              }
+            }
+            document.getElementById("detail").innerHTML = `<h3>&nbsp;</h3><div>&nbsp;</div>`;
+          });
+
+        nodes.append("rect")
+          .attr("class", "tile")
+          .attr("width", d => d.x1 - d.x0)
+          .attr("height", d => d.y1 - d.y0)
+          .attr("fill", standard_color);
+
+
+
+        nodes.each(function (d) {
+          const g = d3.select(this);
+          const w = d.x1 - d.x0;
+          const h = d.y1 - d.y0;
+          if (all_data.hasOwnProperty(d.data.name))
+            all_data[d.data.name].push(this.getElementsByTagName("rect")[0]);
+          else//Others
+            others_arrs.push(this.getElementsByTagName("rect")[0]);
+
+          if (w > d.data.name.length * 4 && h > 10) {
+            let small = true;
+            if (w > d.data.name.length * 8.5 && h > 22) {
+              small = false;
+            }
+            let num = "" + d.data.value;
+            // Text inside of rectangle
+            g.append("text")
+              .attr("x", w / 2 - (d.data.name.length * (small ? 2 : 4.25)))
+              .attr("y", h / 2 - 3)
+              .attr("font-family", "monospace")
+              .attr("font-size", small ? "7px" : "16px")
+              .text(d.data.name);
+            g.append("text")
+              .attr("x", w / 2 - (("" + d.data.value).length * (small ? 2 : 3.5)))
+              .attr("y", h / 2 + (small ? 5 : 12))
+              .attr("font-size", small ? "7px" : "12px")
+              .attr("font-family", "monospace")
+              .text(num.length > 3 ? num.slice(0, num.length - 3) + "," + num.slice(num.length - 3) : num);
+          }//if text does not fit within rectangle, we will not paint it
+        });
+      });
+    }
+
+    let countries_scope = false;
+    let current_country = null;
+    let last_scope = false;
+
+    let path = `<a href='explore.html?level=${level}&count=${count}'>All Countries</a>`;
+    if (url_params.has("city")) {
+      last_scope = true;
+      const city = decodeURI(url_params.get("city"));
+      const country = url_params.get("country");
+      current_country = url_params.get("country_name");
+      path += `/<a href='explore.html?level=${level}&count=${count}&country=${country}&country_name=${current_country}'>${current_country}</a>/<a href='explore.html?level=${level}&count=${count}&city=${city}&country=${country}&country_name=${current_country}'>${city}</a>`;
+      create_treemap(0, "#cited-by", "processed/by_country/" + country + "/city_institutions.json", city);
+      setTimeout(() => {
+        create_treemap(1, "#references", "processed/by_country/" + country + "/city_institutions.json", city);
+      }, 50);
+
+    }
+    else if (url_params.has("country")) {
+      const country = url_params.get("country");
+      current_country = url_params.get("country_name");
+      path += `/<a href='explore.html?level=${level}&count=${count}&country=${country}&country_name=${current_country}'>${current_country}</a>`;
+      if (level == 1) {
+        create_treemap(0, "#cited-by", "processed/by_country/" + country + "/cities.json");
+        setTimeout(() => {
+          create_treemap(1, "#references", "processed/by_country/" + country + "/cities.json");
+        }, 50);
+      }
+      else {
+
+        create_treemap(0, "#cited-by", "processed/by_country/" + country + "/institutions.json");
+        setTimeout(() => {
+          create_treemap(1, "#references", "processed/by_country/" + country + "/institutions.json");
+        }, 50);
+        last_scope = true;
+      }
+
+    }
+    else {
+      countries_scope = true;
+      create_treemap(0, "#cited-by");
+      setTimeout(() => {
+        create_treemap(1, "#references");
+      }, 50);
+    }
+    document.getElementById("path").innerHTML = `<a href="index.html"><i class="fa-solid fa-house-chimney"></i>Homepage <span class="pl-5 ml-5"></a>Current path: ${path}</span><span id="more_info">${level == 2 ? "Not showing" : "Showing"} cities, ${count == 1 ? "Counting citations strictly" : "Favoring newer publications"}</span>`;
+
+    showing = [0, 0];
+    sums = [[], []];
+    for (let i = 0; i < 34; i++) {
+      sums[0].push(0);
+      sums[1].push(0);
+    }
+    setTimeout(() => {
+      for (let key in all_data) {
+        for (let i = 0; i < 2; i++) {
+          showing[i] += all_data[key][i].reduce((accumulator, currentValue) => {
+            return accumulator + currentValue;
+          }, 0);
+          all_data[key][i].forEach((value, index) => {
+            sums[i][index] += value;
+          });
+        }
+      }
+      document.getElementById("cited-by-header").innerHTML = `Referenced by - showing ${showing[0]}/${count == 1 ? 154057 : 305965} records (${Math.round(showing[0] / (count == 1 ? 154057 : 305965) * 10000) / 100}%)`;
+      document.getElementById("references-header").innerHTML = `Own references - showing ${showing[1]}/361981 records (${Math.round(showing[1] / 361981 * 10000) / 100}%)`;
+      others_are_same = others_arrs.length < 3 || areArraysTheSame(others_arrs[0], others_arrs[2]);
+    }, 300);
+
+    total_scroll = 0;
+
+
+
+    setTimeout(() => {
+      let initial_text =
+        `let first_year = 1992;
+function query(
+name,
+referenced_by, references,
+years_referenced_by,
+years_references        
+){
+/*return array if you want to 
+show the result, else false*/
+return false;
+}`
+      document.getElementById("editing").value = initial_text;
+      update(initial_text);
+    }, 500);
+
+
+    /**
+     * Updates the syntax-highlighted code preview for the query editor.
+     * @param {string} text - The code to highlight
+     */
+    function update(text) {
+      let result_element = document.querySelector("#highlighting-content");
+      if (text[text.length - 1] == "\n") {
+        text += " ";
+      }
+      result_element.innerHTML = text.replace(new RegExp("&", "g"), "&").replace(new RegExp("<", "g"), "<");
+      Prism.highlightElement(result_element);
+    }
+
+    /**
+     * Synchronizes the scroll position of the code editor and the highlighted preview.
+     * @param {HTMLElement} element - The textarea element
+     */
+    function sync_scroll(element) {
+      let result_element = document.querySelector("#highlighting");
+      result_element.scrollTop = element.scrollTop;
+      result_element.scrollLeft = element.scrollLeft;
+    }
+
+    /**
+     * Handles Tab key presses in the code editor, inserting a tab character at the cursor.
+     * @param {HTMLElement} element - The textarea element
+     * @param {KeyboardEvent} event - The keyboard event
+     */
+    function check_tab(element, event) {
+      let code = element.value;
+      if (event.key == "Tab") {
+        event.preventDefault();
+        let before_tab = code.slice(0, element.selectionStart);
+        let after_tab = code.slice(element.selectionEnd, element.value.length);
+        let cursor_pos = element.selectionEnd + 1;
+        element.value = before_tab + "\t" + after_tab;
+        element.selectionStart = cursor_pos;
+        element.selectionEnd = cursor_pos;
+        update(element.value);
+      }
+    }
+
+    document.getElementById("run").onclick = function () {
+      let code = document.getElementById("editing").value;
+      let constructed = "<table class='table table-striped'>";
+      let found = 0;
+      try {
+        eval(code);
+        for (let value in all_data) {
+          let result = query(value,
+            all_data[value][0].reduce((acc, val) => acc + val, 0),
+            all_data[value][1].reduce((acc, val) => acc + val, 0),
+            all_data[value][0],
+            all_data[value][1]);
+          if (result !== false) {
+            found++;
+            constructed += "<tr>";
+            if (Array.isArray(result)) {
+              for (let i = 0; i < result.length; i++) {
+                constructed += "<td>" + result[i] + "</td>";
+              }
+            }
+            else {
+              constructed += "<td>Returned result is not instance of array.</td>";
+            }
+            constructed += "</tr>";
+          }
+        }
+        constructed += "</table>";
+        constructed = "<div class='text-center mb-2'><h6>Found " + found + " records</h6></div>" + constructed;
+        document.getElementById("query_results").innerHTML = constructed;
+      }
+      catch (e) {
+        document.getElementById("query_results").innerHTML = e;
+      }
+    }
+
+
+  </script>
+
+</body>
+
+</html>

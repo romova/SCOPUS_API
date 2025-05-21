@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Dominik Vladař">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Find UWB references.">
+    <!-- Bootstrap import -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <!-- CSS Animation io -->
+    <link href="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css" rel="stylesheet">
+    <script defer src="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/letteranimation.min.js"></script>
+    <!--Typed.js-->
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js"></script>
+
+    <link rel="stylesheet" href="css.css">
+
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>UWB Reference Finder</title>
+</head>
+
+<body class="colored p-5">
+    <h1 class="text-center text-white"></h1>
+    <div id="main_settings" class="d-none">
+        <div class="h4">Treemap levels</div>
+        <select>
+            <option value="1" selected>Countries, Cities, Institutions</option>
+            <option value="2">Countries, Institutions</option>
+        </select>
+
+        <div class="h4">How to count citations</div>
+        <select>
+            <option value="1" selected>Strictly</option>
+            <option value="2">Favor newer publications</option>
+        </select>
+        <br>
+        <button onclick="start()" id="start" class="btn btn-light">Start</button>
+    </div>
+
+    <script>
+        setTimeout(() => {
+            var typed = new Typed('h1', {
+                strings: ['<b class="text-body">University of West Bohemia</b> Reference Finder'],
+                typeSpeed: 30,
+                showCursor: false,
+            });
+        }, 200);
+        setTimeout(() => {
+            document.getElementById("main_settings").setAttribute("class", "cssanimation fadeIn");
+        }, 2500);
+
+        /**
+        * Starts the visualization; that means starting explore.html & passing settings params to URL.
+        */
+        function start() {
+            location.href = "explore.html?level=" + document.querySelector("select").value + "&count=" + document.querySelectorAll("select")[1].value;
+        }
+    </script>
+</body>
+
+</html>
