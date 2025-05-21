@@ -19,7 +19,7 @@ Vizualizovat tzv. citační mapu znázorňující, která cizí pracoviště nej
 https://github.com/romova/SCOPUS_API.git
 
 Obsahuje adresáře:
-- Data - scripty pro zisk a čištění dat a zkompletovaná data
+- Data by year - zkompletovaná data článků a jejich referencí a citací
 - Citation map - vizualizace, transformovaná data a kod pro transformaci
 - Square tree map - vizualizace
 
