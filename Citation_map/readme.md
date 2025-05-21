@@ -6,10 +6,10 @@ This interactive web-based visualization displays a **global map** showing the r
 
 Data was collected in **April 2025** and filtered to **exclude articles cited by fewer than 15 institutions**.
 
-## Soubory
-- data.zip - zmenšená verze dat, před vizualizací je třeba otevřít a vložit do stejného adresáře jako map.html
-- map.html - webová vizualizace, doporučené spuštění níže, nebo v souboru run.txt
-- preprocess.ipynb - metoda pro transformavání dat posbíraných ze SCOPUS API, uložených v adresáři data_by_year
+## Files
+- **data.zip** – a reduced version of the dataset; must be extracted and placed in the same directory as `map.html` before visualization.
+- **map.html** – the web-based visualization; recommended launch instructions are below or in the file `run.txt`.
+- **preprocess.ipynb** – method for transforming data collected from the SCOPUS API, stored in the `data_by_year` directory.
 
 ---
 
