@@ -21,7 +21,7 @@ https://github.com/romova/SCOPUS_API.git
 Obsahuje adresáře:
 - Data by year - zkompletovaná data článků a jejich referencí a citací
 - Citation map - vizualizace, transformovaná data a kod pro transformaci
-- Square tree map - vizualizace
+- Treemap - vizualizace
 
 ---
 # Vypracování
