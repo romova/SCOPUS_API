@@ -1,0 +1,5 @@
+cmd:
+	python -m http.server 8000
+
+prohlížeč:
+	http://localhost:8000/map.html

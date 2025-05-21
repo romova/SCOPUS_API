@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>UWB Citations vs References</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.css" rel="stylesheet" />
+  <style>
+    /* Base styles */
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      overflow-x: auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin: 20px 10px 10px;
+      font-weight: normal;
+      font-size: 1.4em;
+      line-height: 1.3em;
+    }
+
+    svg {
+      width: 100%;
+      height: auto;
+      background: #fff;
+      display: block;
+      margin: 0 auto;
+      max-width: 1400px;
+    }
+
+    .tooltip {
+      position: absolute;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 6px 10px;
+      pointer-events: none;
+      font-size: 13px;
+      border-radius: 4px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .bubble {
+      stroke: black;
+      stroke-width: 0.3px;
+    }
+
+    .controls {
+      max-width: 900px;
+      margin: 10px auto 20px;
+      padding: 10px 20px;
+      background: #fff;
+      border-radius: 6px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+      display: flex;
+      gap: 40px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      font-size: 14px;
+      min-width: 200px;
+      flex: 1 1 250px;
+      position: relative;
+    }
+
+    .control-group label {
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    #slider {
+      margin-bottom: 5px;
+    }
+
+    #authorDropdown {
+      display: none;
+      position: absolute;
+      top: 75px;
+      left: 0;
+      width: 100%;
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      background: #fff;
+      z-index: 10;
+      padding: 6px;
+      border-radius: 4px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    }
+
+    #authorDropdown label {
+      display: block;
+      font-size: 13px;
+      margin: 2px 0;
+    }
+
+    #legend {
+      max-width: 900px;
+      margin: 10px auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      font-family: sans-serif;
+      color: #333;
+      flex-wrap: wrap;
+      font-size: 11px;
+    }
+
+    #legend .legend-section {
+      flex: 1 1 150px;
+      background: #fff;
+      padding: 4px 8px;
+      border-radius: 6px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    #legend .legend-section h3 {
+      margin: 0 0 4px 0;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    /* Responsive styles */
+    @media (max-width: 768px) {
+      .controls {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 10px;
+        gap: 20px;
+      }
+
+      #legend {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+        padding: 10px;
+      }
+
+      svg {
+        width: 100% !important;
+        height: auto !important;
+      }
+    }
+  </style>
+
+</head>
+<body>
+  <h2>
+    <span style="font-weight: bold; font-size: 1.4em; line-height: 1.3em;">
+      Map of Citation to Reference Ratios of University of West Bohemia Articles
+    </span><br>
+    <span style="font-size: 0.85em; font-weight: normal; color: #555;">
+      - Data Collected in April 2025, excluded articles cited by less than 15 institutions.
+    </span>
+  </h2>
+
+  <div class="controls">
+    <div class="control-group" style="flex: 1 1 400px;">
+      <label for="slider"><strong>Filter by Year Range:</strong></label>
+      <div id="slider"></div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-top: 2px;">
+        <span id="yearMin">1992</span>
+        <span id="yearMax">2025</span>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <label><strong>Filter by Authors:</strong></label>
+      <input type="text" id="authorSearch" placeholder="Type author name..." style="padding: 4px; font-size: 13px;">
+      <div id="authorDropdown"></div>
+      <button id="clearAuthors" style="margin-top: 5px;">Unselect All</button>
+    </div>
+  </div>
+
+  <svg viewBox="0 0 1200 1200" preserveAspectRatio="xMidYMid meet"></svg>
+
+  <div id="legend">
+    <div class="legend-section" id="legend-title-section">
+      <h3>Note:</h3>
+      <p style="font-size: 13px;">Bubble size - total citations and references for all institutions in the city.</p>
+      <p style="font-size: 13px;">Color - ration between citations and references:</p>
+      <svg width="120" height="5" style="display: block; margin-top: 20px;">
+
+        <defs>
+          <linearGradient id="color-gradient-legend" x1="0%" x2="100%" y1="0%" y2="0%">
+            <stop offset="0%" stop-color="#d73027" />
+            <stop offset="50%" stop-color="#dadada" />
+            <stop offset="100%" stop-color="#4575b4" />
+          </linearGradient>
+        </defs>
+
+        <rect x="0" y="10" width="400" height="10" fill="url(#color-gradient-legend)"></rect>
+        <text x="0" y="8" font-size="11" fill="#333">Referenced more</text>
+        <text x="400" y="8" font-size="11" fill="#333" text-anchor="end">Cited more</text>
+      </svg>
+    </div>
+    <div class="legend-section" id="legend-size-section">
+      <h3>Bubble size</h3>
+      <svg width="320" height="100"></svg>
+    </div>
+  </div>
+
+  <script>
+    const svg = d3.select("svg");
+    const map = svg.append("g");
+    const tooltip = d3.select("body").append("div").attr("class", "tooltip").style("opacity", 0);
+    let projection, path, bubbles;
+    const colorScale = d3.scaleDiverging().domain([-1, 0, 1]).interpolator(d3.interpolateRdBu);
+
+    const zoom = d3.zoom().scaleExtent([1, 40]).on("zoom", (event) => {
+      const scale = event.transform.k;
+      map.attr("transform", event.transform);
+      map.selectAll("circle.bubble")
+        .attr("r", d => Math.sqrt(Math.log1p(d.total)) * 10 / scale)
+        .attr("opacity", () => Math.min(0.4 + (scale / 40), 1));
+    });
+    svg.call(zoom);
+
+    let selectedAuthors = new Set();
+
+    Promise.all([
+      d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json"),
+      d3.json("data.json")
+    ]).then(([world, data]) => {
+      const countries = topojson.feature(world, world.objects.countries);
+      const allAuthors = new Set();
+      data.forEach(city => {
+        city.years.forEach(year => {
+          year.authors?.forEach(a => allAuthors.add(a.name));
+        });
+      });
+      const sortedAuthors = Array.from(allAuthors).sort();
+
+      function draw(width, height) {
+        const currentTransform = d3.zoomTransform(svg.node());
+        svg.attr("viewBox", `0 0 ${width} ${height + 80}`);
+        projection = d3.geoNaturalEarth1().scale((width / 2.5) / Math.PI).translate([width / 2, height / 1.75]);
+        path = d3.geoPath().projection(projection);
+
+        map.selectAll("path").remove();
+        map.selectAll("circle").remove();
+
+        map.selectAll("path")
+          .data(countries.features)
+          .join("path")
+          .attr("d", path)
+          .attr("fill", "#e0e0e0")
+          .attr("stroke", "#999");
+
+        function updateBubbles(minYear, maxYear) {
+          const cities = data.map(city => {
+            let cited = 0, referenced = 0;
+            for (const y of city.years) {
+              const yNum = parseInt(y.year);
+              if (yNum >= minYear && yNum <= maxYear) {
+                if (selectedAuthors.size > 0) {
+                  const hasAuthor = (y.authors || []).some(a => selectedAuthors.has(a.name));
+                  if (!hasAuthor) continue;
+                }
+                if ((y.cited_UWB || 0) + (y.been_referenced_by_UWB || 0) >= 5) {
+                  cited += y.cited_UWB || 0;
+                  referenced += y.been_referenced_by_UWB || 0;
+                }
+              }
+            }
+            const ratio = referenced > 0 ? cited / referenced : null;
+            const logRatio = ratio ? Math.log10(ratio) : 0;
+            const total = cited + referenced;
+            return {
+              city: city.city,
+              state: city.state,
+              lat: city.latitude,
+              lon: city.longitude,
+              cited,
+              referenced,
+              ratio,
+              logRatio,
+              total,
+              coords: projection([city.longitude, city.latitude])
+            };
+          }).filter(d => d.total > 0);
+
+          map.selectAll("circle").remove();
+          bubbles = map.selectAll("circle")
+            .data(cities)
+            .join("circle")
+            .attr("class", "bubble")
+            .attr("cx", d => d.coords[0])
+            .attr("cy", d => d.coords[1])
+            .attr("r", d => Math.sqrt(Math.log1p(d.total)))
+            .attr("fill", d => d.referenced === 0 ? "#00008B" : colorScale(d.logRatio))
+            .attr("opacity", () => {
+              const scale = d3.zoomTransform(svg.node()).k || 1;
+              return Math.min(0.2 + (scale / 40), 1);
+            })
+            .on("mouseover", (event, d) => {
+              tooltip.transition().duration(200).style("opacity", 1);
+              tooltip.html(`<strong>${d.city}, ${d.state}</strong><br>Cited UWB: ${d.cited}<br>Referenced by UWB: ${d.referenced}`)
+                .style("left", (event.pageX + 10) + "px")
+                .style("top", (event.pageY - 28) + "px");
+            })
+            .on("mouseout", () => tooltip.transition().duration(300).style("opacity", 0));
+        }
+
+        const slider = document.getElementById("slider");
+        const yearMinLabel = document.getElementById("yearMin");
+        const yearMaxLabel = document.getElementById("yearMax");
+
+        slider.noUiSlider.on("update", function (values) {
+          const [min, max] = values.map(v => parseInt(v));
+          yearMinLabel.textContent = min;
+          yearMaxLabel.textContent = max;
+          updateBubbles(min, max);
+          svg.call(zoom.transform, d3.zoomIdentity);
+        });
+
+        const [min, max] = slider.noUiSlider.get().map(v => parseInt(v));
+        updateBubbles(min, max);
+
+        const sizeLegendSvg = d3.select("#legend-size-section svg");
+        sizeLegendSvg.selectAll("*").remove();
+        const sizes = [1000, 10000, 100000];
+        const baseY = 50;
+        const spacing = 110;
+        sizes.forEach((val, i) => {
+          const r = Math.sqrt(Math.log1p(val)) * 10;
+          const cx = i * spacing + r + 10;
+          sizeLegendSvg.append("circle").attr("cx", cx).attr("cy", baseY).attr("r", r).attr("fill", "#ccc").attr("stroke", "#999");
+          sizeLegendSvg.append("text").attr("x", cx).attr("y", baseY + r + 20).attr("text-anchor", "middle").text(val.toLocaleString()).style("font-size", "11px");
+        });
+        svg.call(zoom.transform, d3.zoomIdentity); // Reset zoom on redraw
+      }
+
+      noUiSlider.create(document.getElementById("slider"), {
+        start: [1992, 2025],
+        connect: true,
+        step: 1,
+        range: { min: 1992, max: 2025 },
+        format: {
+          to: v => Math.round(v),
+          from: v => Number(v)
+        }
+      });
+
+      function updateAuthorDropdown(filterText = "") {
+        const dropdown = document.getElementById("authorDropdown");
+        dropdown.innerHTML = "";
+        sortedAuthors.filter(name => name.toLowerCase().includes(filterText.toLowerCase()))
+          .forEach(name => {
+            const label = document.createElement("label");
+            const checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            checkbox.value = name;
+            checkbox.checked = selectedAuthors.has(name);
+            checkbox.addEventListener("change", () => {
+              if (checkbox.checked) selectedAuthors.add(name);
+              else selectedAuthors.delete(name);
+              const [min, max] = slider.noUiSlider.get().map(v => parseInt(v));
+              svg.call(zoom.transform, d3.zoomIdentity); // Reset zoom explicitly
+              draw(window.innerWidth, 600);;
+
+            });
+            label.appendChild(checkbox);
+            label.append(" " + name);
+            dropdown.appendChild(label);
+          });
+      }
+
+      document.getElementById("authorSearch").addEventListener("focus", () => {
+        document.getElementById("authorDropdown").style.display = "block";
+      });
+
+      document.getElementById("authorSearch").addEventListener("input", e => {
+        updateAuthorDropdown(e.target.value);
+      });
+
+      document.getElementById("clearAuthors").addEventListener("click", () => {
+        selectedAuthors.clear();
+        updateAuthorDropdown(document.getElementById("authorSearch").value);
+        const [min, max] = slider.noUiSlider.get().map(v => parseInt(v));
+        svg.call(zoom.transform, d3.zoomIdentity); // Reset zoom explicitly
+        draw(window.innerWidth, 600);
+      });
+
+      document.addEventListener("click", e => {
+        if (!e.target.closest(".control-group")) {
+          document.getElementById("authorDropdown").style.display = "none";
+        }
+      });
+
+      updateAuthorDropdown();
+      svg.call(zoom.transform, d3.zoomIdentity); // Reset zoom explicitly
+      draw(window.innerWidth, 600);;
+      window.addEventListener("resize", () => draw(window.innerWidth, 600));
+    });
+  </script>
+</body>
+</html>
